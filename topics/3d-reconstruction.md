@@ -4,23 +4,23 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-05**|**deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal**|Lorenzo Beltrame et.al.|[2605.03610](https://arxiv.org/abs/2605.03610)|null|
-|**2026-05-05**|**A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant**|Jan Lorenz Svensen et.al.|[2605.03489](https://arxiv.org/abs/2605.03489)|null|
-|**2026-05-05**|**Quantum Resource Estimation for Minimising Energy Grid Losses**|Camille de Valk et.al.|[2605.03467](https://arxiv.org/abs/2605.03467)|null|
-|**2026-05-05**|**First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction**|Remi Chierchia et.al.|[2605.03463](https://arxiv.org/abs/2605.03463)|null|
-|**2026-05-05**|**MK-ResRecon: Multi-Kernel Residual Framework for Texture-Aware 3D MRI Refinement from Sparse 2D Slices**|Prajyot Pyati et.al.|[2605.03432](https://arxiv.org/abs/2605.03432)|null|
-|**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359](https://arxiv.org/abs/2605.03359)|null|
-|**2026-05-05**|**FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles**|Lucas Yunkyu Lee et.al.|[2605.03337](https://arxiv.org/abs/2605.03337)|null|
-|**2026-05-04**|**A study of the kinematic and volumetric co-evolution of Earth-directed CMEs**|Ashutosh Pattnaik et.al.|[2605.02828](https://arxiv.org/abs/2605.02828)|null|
-|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](https://arxiv.org/abs/2605.02784)|null|
-|**2026-05-04**|**Thin-film lithium tantalate for ultraviolet integrated electro-optic modulator**|Chupao Lin et.al.|[2605.02758](https://arxiv.org/abs/2605.02758)|null|
-|**2026-05-04**|**Pareto frontier of portfolio investment under volatility uncertainty and short-sale constraints market**|Jing He et.al.|[2605.02666](https://arxiv.org/abs/2605.02666)|null|
-|**2026-05-04**|**Permutation Routing on Ramanujan Hypergraphs with Applications to Neutral Atom Quantum Architectures**|Joshua M. Courtney et.al.|[2605.02498](https://arxiv.org/abs/2605.02498)|null|
-|**2026-05-04**|**From Diaz's Enriques Product to an $n$ -Fold Cup-Product Bockstein Family of Integral Hodge Counterexamples**|Abdul Rahman et.al.|[2605.02129](https://arxiv.org/abs/2605.02129)|null|
-|**2026-05-03**|**Greed for the Spheres: A Signed Distance Interpolation Method**|Letao Chen et.al.|[2605.01919](https://arxiv.org/abs/2605.01919)|null|
-|**2026-05-03**|**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**|Lilika Makabe et.al.|[2605.01852](https://arxiv.org/abs/2605.01852)|null|
-|**2026-05-03**|**Profile-Specific 3DMM Regression from a Single Lateral Face Image**|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
-|**2026-05-02**|**CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization**|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
+|2026-05-05|deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal|Lorenzo Beltrame et.al.|[2605.03610](https://arxiv.org/abs/2605.03610)|null|
+|2026-05-05|A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant|Jan Lorenz Svensen et.al.|[2605.03489](https://arxiv.org/abs/2605.03489)|null|
+|2026-05-05|Quantum Resource Estimation for Minimising Energy Grid Losses|Camille de Valk et.al.|[2605.03467](https://arxiv.org/abs/2605.03467)|null|
+|2026-05-05|First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction|Remi Chierchia et.al.|[2605.03463](https://arxiv.org/abs/2605.03463)|null|
+|2026-05-05|MK-ResRecon: Multi-Kernel Residual Framework for Texture-Aware 3D MRI Refinement from Sparse 2D Slices|Prajyot Pyati et.al.|[2605.03432](https://arxiv.org/abs/2605.03432)|null|
+|2026-05-05|Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation|Siyou Lin et.al.|[2605.03359](https://arxiv.org/abs/2605.03359)|null|
+|2026-05-05|FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles|Lucas Yunkyu Lee et.al.|[2605.03337](https://arxiv.org/abs/2605.03337)|null|
+|2026-05-04|A study of the kinematic and volumetric co-evolution of Earth-directed CMEs|Ashutosh Pattnaik et.al.|[2605.02828](https://arxiv.org/abs/2605.02828)|null|
+|2026-05-04|HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar|Yeheng Zong et.al.|[2605.02784](https://arxiv.org/abs/2605.02784)|null|
+|2026-05-04|Thin-film lithium tantalate for ultraviolet integrated electro-optic modulator|Chupao Lin et.al.|[2605.02758](https://arxiv.org/abs/2605.02758)|null|
+|2026-05-04|Pareto frontier of portfolio investment under volatility uncertainty and short-sale constraints market|Jing He et.al.|[2605.02666](https://arxiv.org/abs/2605.02666)|null|
+|2026-05-04|Permutation Routing on Ramanujan Hypergraphs with Applications to Neutral Atom Quantum Architectures|Joshua M. Courtney et.al.|[2605.02498](https://arxiv.org/abs/2605.02498)|null|
+|2026-05-04|From Diaz's Enriques Product to an $n$ -Fold Cup-Product Bockstein Family of Integral Hodge Counterexamples|Abdul Rahman et.al.|[2605.02129](https://arxiv.org/abs/2605.02129)|null|
+|2026-05-03|Greed for the Spheres: A Signed Distance Interpolation Method|Letao Chen et.al.|[2605.01919](https://arxiv.org/abs/2605.01919)|null|
+|2026-05-03|DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity|Lilika Makabe et.al.|[2605.01852](https://arxiv.org/abs/2605.01852)|null|
+|2026-05-03|Profile-Specific 3DMM Regression from a Single Lateral Face Image|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
+|2026-05-02|CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
 |2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|null|
 |2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|null|
 |2026-04-30|3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases|Chialoon Cheng et.al.|[2604.28064](https://arxiv.org/abs/2604.28064)|null|
@@ -40,8 +40,8 @@
 |2026-04-22|GeoRect4D: Geometry-Compatible Generative Rectification for Dynamic Sparse-View 3D Reconstruction|Zhenlong Wu et.al.|[2604.20784](https://arxiv.org/abs/2604.20784)|null|
 |2026-04-21|FluSplat: Sparse-View 3D Editing without Test-Time Optimization|Haitao Huang et.al.|[2604.20038](https://arxiv.org/abs/2604.20038)|null|
 |2026-04-21|UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video|Tanuj Sur et.al.|[2604.19923](https://arxiv.org/abs/2604.19923)|null|
-|2026-04-21|AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model|Yutian Chen et.al.|[2604.19747](https://arxiv.org/abs/2604.19747)|null|
-|2026-04-21|Paparazzo: Active Mapping of Moving 3D Objects|Davide Allegro et.al.|[2604.19556](https://arxiv.org/abs/2604.19556)|null|
+|2026-04-21|AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model|Yutian Chen et.al.|[2604.19747](https://arxiv.org/abs/2604.19747)|**[link](https://github.com/OpenImagingLab/AnyRecon)**|
+|2026-04-21|Paparazzo: Active Mapping of Moving 3D Objects|Davide Allegro et.al.|[2604.19556](https://arxiv.org/abs/2604.19556)|**[link](https://github.com/davidea97/paparazzo-page)**|
 |2026-04-21|Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images|Hongyuan Liu et.al.|[2604.19257](https://arxiv.org/abs/2604.19257)|null|
 |2026-04-21|BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination|Michele Grimaldi et.al.|[2604.19133](https://arxiv.org/abs/2604.19133)|null|
 |2026-04-21|RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices|Seok Joon Kim et.al.|[2604.19025](https://arxiv.org/abs/2604.19025)|null|
