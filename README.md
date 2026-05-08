@@ -1,6 +1,6 @@
 # 3D Vision arXiv Daily 🚀
 
-> 🌐 Start here: **[GitHub Pages](https://ea510chan.github.io/3D-Vision-arxiv-daily/)**
+> 🌐 Start here: **[GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)**
 > Updated on 2026.05.06
 > Topics: 9 | Total papers: 1569
 > Usage instructions: [here](./docs/README.md#usage)
@@ -8,8 +8,8 @@
 
 ## Quick Access
 
-- 🌌 Live reading: [GitHub Pages](https://ea510chan.github.io/3D-Vision-arxiv-daily/)
-- 🧑‍💻 Source code: [Repository](https://github.com/Ea510chan/3D-Vision-arxiv-daily)
+- 🌌 Live reading: [GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)
+- 🧑‍💻 Source code: [Repository](https://github.com/yolo079/Vision-arxiv-daily)
 - 📘 Usage: [Setup guide](./docs/README.md#usage)
 
 ## Topics Navigator

@@ -1,13 +1,13 @@
 title: 3D Vision arXiv Daily
 description: Daily radar for 3D vision papers with curated topics and code links.
-show_downloads: false
+show_downloads: true
 
-repo_url: https://github.com/Ea510chan/3D-Vision-arxiv-daily
-pages_url: https://ea510chan.github.io/3D-Vision-arxiv-daily/
+repo_url: https://github.com/yolo079/Vision-arxiv-daily
+pages_url: https://yolo079.github.io/Vision-arxiv-daily/
 
 github:
-  zip_url: https://github.com/Ea510chan/cv-arxiv-daily
-  another_url: https://github.com/Ea510chan/cv-arxiv-daily
+  zip_url: https://github.com/yolo079/cv-arxiv-daily
+  another_url: https://github.com/yolo079/cv-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1

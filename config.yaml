@@ -1,9 +1,9 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "yolo079"
 repo_name: "cv-arxiv-daily"
-repo_url: "https://github.com/Ea510chan/3D-Vision-arxiv-daily"
-pages_url: "https://ea510chan.github.io/3D-Vision-arxiv-daily/"
+repo_url: "https://github.com/yolo079/Vision-arxiv-daily"
+pages_url: "https://yolo079.github.io/Vision-arxiv-daily/"
 show_authors: True
 show_links: True
 show_badge: False

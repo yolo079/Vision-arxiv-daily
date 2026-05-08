@@ -9,7 +9,7 @@ layout: default
     <p class="hero-lede">Track fresh papers across the 3D stack with curated topics, clean summaries, and code links.</p>
     <div class="hero-actions">
       <a class="btn primary" href="#topics">Explore topics</a>
-      <a class="btn ghost" href="https://github.com/Ea510chan/3D-Vision-arxiv-daily">GitHub repo</a>
+      <a class="btn ghost" href="https://github.com/yolo079/Vision-arxiv-daily">GitHub repo</a>
     </div>
   </div>
   <div class="hero-panel">
