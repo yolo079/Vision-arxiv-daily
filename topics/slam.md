@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](https://arxiv.org/abs/2605.06478)|null|
-|**2026-05-07**|**Indoor 60 GHz Radio Channel Dataset Enabling Digital Twin Construction**|Davide Scazzoli et.al.|[2605.05824](https://arxiv.org/abs/2605.05824)|null|
-|**2026-05-06**|**SLAM: Structural Linguistic Activation Marking for Language Models**|Fabrice Harel-Canada et.al.|[2605.05443](https://arxiv.org/abs/2605.05443)|null|
-|**2026-05-06**|**A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps**|Himanshu Paudel et.al.|[2605.05182](https://arxiv.org/abs/2605.05182)|null|
-|**2026-05-06**|**Dr-PoGO: Direct Radar Pose-Graph Optimization**|Cedric Le Gentil et.al.|[2605.04806](https://arxiv.org/abs/2605.04806)|null|
-|**2026-05-07**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](https://arxiv.org/abs/2605.04282)|null|
-|**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](https://arxiv.org/abs/2605.03678)|null|
-|**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](https://arxiv.org/abs/2605.02759)|null|
-|**2026-05-04**|**Multi-User XR Offloading via Massive MIMO: A System-Level Analysis using a Real-Life Dataset**|Love Bárány et.al.|[2605.02631](https://arxiv.org/abs/2605.02631)|null|
-|**2026-05-04**|**Change-Robust Online Spatial-Semantic Topological Mapping**|Jiaming Wang et.al.|[2605.02227](https://arxiv.org/abs/2605.02227)|null|
+|2026-05-07|GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments|Siwei Cai et.al.|[2605.06478](https://arxiv.org/abs/2605.06478)|null|
+|2026-05-07|Indoor 60 GHz Radio Channel Dataset Enabling Digital Twin Construction|Davide Scazzoli et.al.|[2605.05824](https://arxiv.org/abs/2605.05824)|null|
+|2026-05-06|SLAM: Structural Linguistic Activation Marking for Language Models|Fabrice Harel-Canada et.al.|[2605.05443](https://arxiv.org/abs/2605.05443)|null|
+|2026-05-06|A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps|Himanshu Paudel et.al.|[2605.05182](https://arxiv.org/abs/2605.05182)|null|
+|2026-05-06|Dr-PoGO: Direct Radar Pose-Graph Optimization|Cedric Le Gentil et.al.|[2605.04806](https://arxiv.org/abs/2605.04806)|null|
+|2026-05-07|Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices|Francesco Tosini et.al.|[2605.04282](https://arxiv.org/abs/2605.04282)|null|
+|2026-05-05|Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study|Prasoon Kumar et.al.|[2605.03678](https://arxiv.org/abs/2605.03678)|null|
+|2026-05-04|DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation|Danil Tokhchukov et.al.|[2605.02759](https://arxiv.org/abs/2605.02759)|null|
+|2026-05-04|Multi-User XR Offloading via Massive MIMO: A System-Level Analysis using a Real-Life Dataset|Love Bárány et.al.|[2605.02631](https://arxiv.org/abs/2605.02631)|null|
+|2026-05-04|Change-Robust Online Spatial-Semantic Topological Mapping|Jiaming Wang et.al.|[2605.02227](https://arxiv.org/abs/2605.02227)|null|
 |2026-04-30|FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction|Zeyu Jiang et.al.|[2604.28115](https://arxiv.org/abs/2604.28115)|null|
 |2026-04-30|Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps|Nimrod Millenium Ndulue et.al.|[2604.27821](https://arxiv.org/abs/2604.27821)|null|
 |2026-04-28|RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments|Zaid Nasser et.al.|[2604.26067](https://arxiv.org/abs/2604.26067)|null|
@@ -30,7 +30,7 @@
 |2026-04-08|VGGT-SLAM++|Avilasha Mandal et.al.|[2604.06830](https://arxiv.org/abs/2604.06830)|null|
 |2026-04-05|DINO-VO: Learning Where to Focus for Enhanced State Estimation|Qi Chen et.al.|[2604.04055](https://arxiv.org/abs/2604.04055)|null|
 |2026-04-03|ViBA: Implicit Bundle Adjustment with Geometric and Temporal Consistency for Robust Visual Matching|Xiaoji Niu et.al.|[2604.03377](https://arxiv.org/abs/2604.03377)|null|
-|2026-04-02|HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models|Junxiang Pan et.al.|[2604.02107](https://arxiv.org/abs/2604.02107)|null|
+|2026-04-02|HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models|Junxiang Pan et.al.|[2604.02107](https://arxiv.org/abs/2604.02107)|**[link](https://github.com/Geneta2580/HyVGGT-VO)**|
 |2026-03-23|Image-Conditioned Adaptive Parameter Tuning for Visual Odometry Frontends|Simone Nascivera et.al.|[2603.21785](https://arxiv.org/abs/2603.21785)|null|
 |2026-03-19|Benchmarking Visual Feature Representations for LiDAR-Inertial-Visual Odometry Under Challenging Conditions|Eunseon Choi et.al.|[2603.18589](https://arxiv.org/abs/2603.18589)|null|
 |2026-03-18|Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge|Adam Dai et.al.|[2603.17232](https://arxiv.org/abs/2603.17232)|null|
@@ -242,7 +242,7 @@
 |2025-03-20|Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education|Giovanni Adorni et.al.|[2503.16307](http://arxiv.org/abs/2503.16307)|null|
 |2025-03-20|Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |2025-03-19|A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems|Anna Masiero et.al.|[2503.15286](http://arxiv.org/abs/2503.15286)|null|
-|2025-03-19|ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents|Hao Liang et.al.|[2503.14948](http://arxiv.org/abs/2503.14948)|null|
+|2025-03-19|ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents|Hao Liang et.al.|[2503.14948](http://arxiv.org/abs/2503.14948)|**[link](https://github.com/dzp62442/SV-UDIS)**|
 |2025-03-18|3D Densification for Multi-Map Monocular VSLAM in Endoscopy|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |2025-03-18|GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics|Tingyang Xiao et.al.|[2503.14247](http://arxiv.org/abs/2503.14247)|[link](https://github.com/nsn-hello/geoflow-slam)|
 |2025-03-18|A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|[link](https://github.com/ais-lab/a-score)|
