@@ -33,7 +33,7 @@ keywords:
     "Point Cloud Registration":
         filters: ["Point Cloud Registration", "3D Registration", "LiDAR Registration", "Point Cloud Matching", "Multi-View Point Cloud Registration", "Image-to-Point Cloud Registration"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching",
+        filters: ["Image Matching", "Keypoint Matching",  "Keypoint Detection",
                   "Line Segment Detection", "Local Feature Matching"]
     "SLAM":
         filters: ["SLAM", "Visual Odometry"]
@@ -75,6 +75,5 @@ topic_merge:
     "3D Registration": "Point Cloud Registration"
     "SFM": "3D Reconstruction"
 topic_drop:
-    - "Keypoint Detection"
     - "NeRF"
     - "Gaussian Splatting"
