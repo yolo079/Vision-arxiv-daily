@@ -1,9 +1,19 @@
 # Novel View Synthesis
 
-> Updated on 2026.05.11
+> Updated on 2026.05.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**3D Skew-Normal Splatting**|Xiangru Wu et.al.|[2605.15010](https://arxiv.org/abs/2605.15010)|null|
+|**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
+|**2026-05-13**|**PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting**|Adil Qureshi et.al.|[2605.14135](https://arxiv.org/abs/2605.14135)|null|
+|**2026-05-13**|**Fast and Robust Mesh Simplification for Generated and Real-World 3D Assets**|Kunal Bhosikar et.al.|[2605.14029](https://arxiv.org/abs/2605.14029)|null|
+|**2026-05-13**|**Z-Order Transformer for Feed-Forward Gaussian Splatting**|Can Wang et.al.|[2605.13465](https://arxiv.org/abs/2605.13465)|null|
+|**2026-05-13**|**RoSplat: Robust Feed-Forward Pixel-wise Gaussian Splatting for Varying Input Views and High-Resolution Rendering**|Hoang Chuong Nguyen et.al.|[2605.13093](https://arxiv.org/abs/2605.13093)|null|
+|**2026-05-13**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](https://arxiv.org/abs/2605.12919)|null|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](https://arxiv.org/abs/2605.12437)|null|
+|**2026-05-12**|**GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction**|Xiao Cao et.al.|[2605.12399](https://arxiv.org/abs/2605.12399)|null|
+|**2026-05-12**|**UniFixer: A Universal Reference-Guided Fixer for Diffusion-Based View Synthesis**|Sihan Chen et.al.|[2605.12169](https://arxiv.org/abs/2605.12169)|null|
 |2026-05-07|Relit-LiVE: Relight Video by Jointly Learning Environment Video|Weiqing Xiao et.al.|[2605.06658](https://arxiv.org/abs/2605.06658)|null|
 |2026-05-07|Scalable GPU Construction of 3D Voronoi and Power Diagrams|Bernardo Taveira et.al.|[2605.06408](https://arxiv.org/abs/2605.06408)|null|
 |2026-05-07|Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis|Yuhan Xia et.al.|[2605.05897](https://arxiv.org/abs/2605.05897)|null|

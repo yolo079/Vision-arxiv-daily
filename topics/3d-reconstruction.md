@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.05.11
+> Updated on 2026.05.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction**|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
+|**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
+|**2026-05-14**|**Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films**|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|
+|**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](https://arxiv.org/abs/2605.14731)|null|
+|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](https://arxiv.org/abs/2605.14629)|null|
+|**2026-05-14**|**CalibAnyView: Beyond Single-View Camera Calibration in the Wild**|Boying Li et.al.|[2605.14615](https://arxiv.org/abs/2605.14615)|null|
+|**2026-05-14**|**TurboVGGT: Fast Visual Geometry Reconstruction with Adaptive Alternating Attention**|David Huang et.al.|[2605.14315](https://arxiv.org/abs/2605.14315)|null|
+|**2026-05-13**|**Fast and Robust Mesh Simplification for Generated and Real-World 3D Assets**|Kunal Bhosikar et.al.|[2605.14029](https://arxiv.org/abs/2605.14029)|null|
+|**2026-05-13**|**CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI**|Xiaoyue Liu et.al.|[2605.13994](https://arxiv.org/abs/2605.13994)|null|
+|**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](https://arxiv.org/abs/2605.13741)|null|
 |2026-05-07|On Fano effect in IR spectra of hydrogenated nanodiamonds|Andrei A. Shiryaev et.al.|[2605.06539](https://arxiv.org/abs/2605.06539)|null|
 |2026-05-07|Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction|Zecheng Tang et.al.|[2605.06270](https://arxiv.org/abs/2605.06270)|null|
 |2026-05-07|Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers|Pengqi Lu et.al.|[2605.06169](https://arxiv.org/abs/2605.06169)|null|

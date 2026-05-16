@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.05.11
+> Updated on 2026.05.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](https://arxiv.org/abs/2605.15185)|null|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](https://arxiv.org/abs/2605.15182)|null|
+|**2026-05-14**|**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**|Haoyi Zhu et.al.|[2605.15178](https://arxiv.org/abs/2605.15178)|null|
+|**2026-05-14**|**Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation**|Min Zhao et.al.|[2605.15141](https://arxiv.org/abs/2605.15141)|null|
+|**2026-05-14**|**Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations**|Jonathan Spieler et.al.|[2605.14937](https://arxiv.org/abs/2605.14937)|null|
+|**2026-05-14**|**IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification**|Zhigao Huang et.al.|[2605.14851](https://arxiv.org/abs/2605.14851)|null|
+|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|null|
+|**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](https://arxiv.org/abs/2605.14815)|null|
+|**2026-05-14**|**ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface**|Mingyue Li et.al.|[2605.14757](https://arxiv.org/abs/2605.14757)|null|
+|**2026-05-14**|**Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**|Minghao Wu et.al.|[2605.14723](https://arxiv.org/abs/2605.14723)|null|
 |2026-05-07|Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?|Yukiyasu Kamitani et.al.|[2605.06420](https://arxiv.org/abs/2605.06420)|null|
 |2026-05-07|Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models|Nilaksh et.al.|[2605.06388](https://arxiv.org/abs/2605.06388)|null|
 |2026-05-07|Earth-o1: A Grid-free Observation-native Atmospheric World Model|Junchao Gong et.al.|[2605.06337](https://arxiv.org/abs/2605.06337)|null|
