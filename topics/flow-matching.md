@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.05.16
+> Updated on 2026.05.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-14**|**Aligning Latent Geometry for Spherical Flow Matching in Image Generation**|Tuna Han Salih Meral et.al.|[2605.15193](https://arxiv.org/abs/2605.15193)|null|
-|**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](https://arxiv.org/abs/2605.15042)|null|
-|**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](https://arxiv.org/abs/2605.14894)|null|
-|**2026-05-14**|**FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery**|Patrick Kwon et.al.|[2605.14854](https://arxiv.org/abs/2605.14854)|null|
-|**2026-05-14**|**Learning Direct Control Policies with Flow Matching for Autonomous Driving**|Marcello Ceresini et.al.|[2605.14832](https://arxiv.org/abs/2605.14832)|null|
-|**2026-05-14**|**The Velocity Deficit: Initial Energy Injection for Flow Matching**|Linze Li et.al.|[2605.14819](https://arxiv.org/abs/2605.14819)|null|
-|**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696](https://arxiv.org/abs/2605.14696)|null|
-|**2026-05-14**|**TOPOS: High-Fidelity and Efficient Industry-Grade 3D Head Generation**|Bojun Xiong et.al.|[2605.14594](https://arxiv.org/abs/2605.14594)|null|
-|**2026-05-14**|**Language Generation as Optimal Control: Closed-Loop Diffusion in Latent Control Space**|ZiYi Dong et.al.|[2605.14531](https://arxiv.org/abs/2605.14531)|null|
-|**2026-05-14**|**Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement**|Injin Kong et.al.|[2605.14368](https://arxiv.org/abs/2605.14368)|null|
+|2026-05-14|Aligning Latent Geometry for Spherical Flow Matching in Image Generation|Tuna Han Salih Meral et.al.|[2605.15193](https://arxiv.org/abs/2605.15193)|null|
+|2026-05-14|EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration|Wuyang Li et.al.|[2605.15042](https://arxiv.org/abs/2605.15042)|null|
+|2026-05-14|SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer|Zheng Hui et.al.|[2605.14894](https://arxiv.org/abs/2605.14894)|null|
+|2026-05-14|FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery|Patrick Kwon et.al.|[2605.14854](https://arxiv.org/abs/2605.14854)|null|
+|2026-05-14|Learning Direct Control Policies with Flow Matching for Autonomous Driving|Marcello Ceresini et.al.|[2605.14832](https://arxiv.org/abs/2605.14832)|null|
+|2026-05-14|The Velocity Deficit: Initial Energy Injection for Flow Matching|Linze Li et.al.|[2605.14819](https://arxiv.org/abs/2605.14819)|null|
+|2026-05-14|EponaV2: Driving World Model with Comprehensive Future Reasoning|Jiawei Xu et.al.|[2605.14696](https://arxiv.org/abs/2605.14696)|null|
+|2026-05-14|TOPOS: High-Fidelity and Efficient Industry-Grade 3D Head Generation|Bojun Xiong et.al.|[2605.14594](https://arxiv.org/abs/2605.14594)|null|
+|2026-05-14|Language Generation as Optimal Control: Closed-Loop Diffusion in Latent Control Space|ZiYi Dong et.al.|[2605.14531](https://arxiv.org/abs/2605.14531)|null|
+|2026-05-14|Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement|Injin Kong et.al.|[2605.14368](https://arxiv.org/abs/2605.14368)|null|
 |2026-05-07|BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation|Richard Hildebrandt et.al.|[2605.06591](https://arxiv.org/abs/2605.06591)|null|
 |2026-05-07|Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline|Zhengyi Guo et.al.|[2605.06583](https://arxiv.org/abs/2605.06583)|null|
 |2026-05-07|Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance|Gal Vinograd et.al.|[2605.06553](https://arxiv.org/abs/2605.06553)|null|
@@ -87,7 +87,7 @@
 |2026-04-09|Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator|Luozheng Qin et.al.|[2604.08121](https://arxiv.org/abs/2604.08121)|null|
 |2026-04-09|HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation|Shuanghao Bai et.al.|[2604.07993](https://arxiv.org/abs/2604.07993)|null|
 |2026-04-08|Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models|Davood Soleymanzadeh et.al.|[2604.07084](https://arxiv.org/abs/2604.07084)|null|
-|2026-04-08|FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching|Junchao Yi et.al.|[2604.06757](https://arxiv.org/abs/2604.06757)|**[link](https://github.com/CSU-JPG/FlowInOne)**|
+|2026-04-08|FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching|Junchao Yi et.al.|[2604.06757](https://arxiv.org/abs/2604.06757)|[link](https://github.com/CSU-JPG/FlowInOne)|
 |2026-04-07|Discrete Flow Matching Policy Optimization|Maojiang Su et.al.|[2604.06491](https://arxiv.org/abs/2604.06491)|null|
 |2026-04-07|ODE-free Neural Flow Matching for One-Step Generative Modeling|Xiao Shou et.al.|[2604.06413](https://arxiv.org/abs/2604.06413)|null|
 |2026-04-07|Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities|Arthur Stéphanovitch et.al.|[2604.06065](https://arxiv.org/abs/2604.06065)|null|

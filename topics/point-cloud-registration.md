@@ -1,19 +1,19 @@
 # Point Cloud Registration
 
-> Updated on 2026.05.16
+> Updated on 2026.05.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741](https://arxiv.org/abs/2605.07741)|null|
-|**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607](https://arxiv.org/abs/2605.07607)|null|
-|**2026-05-11**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541](https://arxiv.org/abs/2605.04541)|null|
-|**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318](https://arxiv.org/abs/2604.26318)|null|
-|**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
-|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518](https://arxiv.org/abs/2604.22518)|null|
-|**2026-04-25**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](https://arxiv.org/abs/2604.19596)|null|
-|**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721](https://arxiv.org/abs/2604.17721)|null|
-|**2026-04-19**|**Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud**|Eashrat Jahan Muniya et.al.|[2604.17389](https://arxiv.org/abs/2604.17389)|null|
-|**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680](https://arxiv.org/abs/2604.16680)|null|
+|2026-05-08|Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval|Jiahua Ren et.al.|[2605.07741](https://arxiv.org/abs/2605.07741)|null|
+|2026-05-08|FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth|Zhixin Cheng et.al.|[2605.07607](https://arxiv.org/abs/2605.07607)|null|
+|2026-05-11|Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection|Muyao Peng et.al.|[2605.04541](https://arxiv.org/abs/2605.04541)|null|
+|2026-04-29|Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets|Kuo-Liang Chung et.al.|[2604.26318](https://arxiv.org/abs/2604.26318)|null|
+|2026-04-27|Point Cloud Registration for Fusion between SPECT MPI and CTA Images|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
+|2026-04-24|Non-Minimal Sampling and Consensus for Prohibitively Large Datasets|Seong Hun Lee et.al.|[2604.22518](https://arxiv.org/abs/2604.22518)|null|
+|2026-04-25|PC2Model: ISPRS benchmark on 3D point cloud to model registration|Mehdi Maboudi et.al.|[2604.19596](https://arxiv.org/abs/2604.19596)|null|
+|2026-04-20|GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion|Jiayi Tian et.al.|[2604.17721](https://arxiv.org/abs/2604.17721)|null|
+|2026-04-19|Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud|Eashrat Jahan Muniya et.al.|[2604.17389](https://arxiv.org/abs/2604.17389)|null|
+|2026-04-17|C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion|Yuval Haitman et.al.|[2604.16680](https://arxiv.org/abs/2604.16680)|null|
 |2026-04-15|BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps|Patrick Pfreundschuh et.al.|[2604.14421](https://arxiv.org/abs/2604.14421)|null|
 |2026-04-14|Towards Patient-Specific Deformable Registration in Laparoscopic Surgery|Alberto Neri et.al.|[2604.13186](https://arxiv.org/abs/2604.13186)|null|
 |2026-04-08|Exploring 6D Object Pose Estimation with Deformation|Zhiqiang Liu et.al.|[2604.06720](https://arxiv.org/abs/2604.06720)|null|
@@ -105,7 +105,7 @@
 |2025-07-09|Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
 |2025-07-07|Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |2025-07-06|Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
-|2025-07-03|TurboReg: TurboClique for Robust and Efficient Point Cloud Registration|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
+|2025-07-03|TurboReg: TurboClique for Robust and Efficient Point Cloud Registration|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|**[link](https://github.com/Laka-3DV/TurboReg)**|
 |2025-06-26|CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection|Zhixin Cheng et.al.|[2506.21364](http://arxiv.org/abs/2506.21364)|null|
 |2025-06-18|Correspondence-Free Multiview Point Cloud Registration via Depth-Guided Joint Optimisation|Yiran Zhou et.al.|[2506.18922](http://arxiv.org/abs/2506.18922)|null|
 |2025-06-18|BCRNet: Enhancing Landmark Detection in Laparoscopic Liver Surgery via Bezier Curve Refinement|Qian Li et.al.|[2506.15279](http://arxiv.org/abs/2506.15279)|[link](https://github.com/jinlab-imvr/BCRNet)|

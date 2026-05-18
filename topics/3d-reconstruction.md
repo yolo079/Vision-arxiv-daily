@@ -1,19 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.05.16
+> Updated on 2026.05.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-14**|**VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction**|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
-|**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
-|**2026-05-14**|**Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films**|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|
-|**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](https://arxiv.org/abs/2605.14731)|null|
-|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](https://arxiv.org/abs/2605.14629)|null|
-|**2026-05-14**|**CalibAnyView: Beyond Single-View Camera Calibration in the Wild**|Boying Li et.al.|[2605.14615](https://arxiv.org/abs/2605.14615)|null|
-|**2026-05-14**|**TurboVGGT: Fast Visual Geometry Reconstruction with Adaptive Alternating Attention**|David Huang et.al.|[2605.14315](https://arxiv.org/abs/2605.14315)|null|
-|**2026-05-13**|**Fast and Robust Mesh Simplification for Generated and Real-World 3D Assets**|Kunal Bhosikar et.al.|[2605.14029](https://arxiv.org/abs/2605.14029)|null|
-|**2026-05-13**|**CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI**|Xiaoyue Liu et.al.|[2605.13994](https://arxiv.org/abs/2605.13994)|null|
-|**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](https://arxiv.org/abs/2605.13741)|null|
+|2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
+|2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
+|2026-05-14|Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|
+|2026-05-14|UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars|Xiaoyu Zhan et.al.|[2605.14731](https://arxiv.org/abs/2605.14731)|null|
+|2026-05-14|Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors|Julien Zouein et.al.|[2605.14629](https://arxiv.org/abs/2605.14629)|null|
+|2026-05-14|CalibAnyView: Beyond Single-View Camera Calibration in the Wild|Boying Li et.al.|[2605.14615](https://arxiv.org/abs/2605.14615)|null|
+|2026-05-14|TurboVGGT: Fast Visual Geometry Reconstruction with Adaptive Alternating Attention|David Huang et.al.|[2605.14315](https://arxiv.org/abs/2605.14315)|null|
+|2026-05-13|Fast and Robust Mesh Simplification for Generated and Real-World 3D Assets|Kunal Bhosikar et.al.|[2605.14029](https://arxiv.org/abs/2605.14029)|null|
+|2026-05-13|CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI|Xiaoyue Liu et.al.|[2605.13994](https://arxiv.org/abs/2605.13994)|null|
+|2026-05-13|LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction|Christina Kassab et.al.|[2605.13741](https://arxiv.org/abs/2605.13741)|null|
 |2026-05-07|On Fano effect in IR spectra of hydrogenated nanodiamonds|Andrei A. Shiryaev et.al.|[2605.06539](https://arxiv.org/abs/2605.06539)|null|
 |2026-05-07|Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction|Zecheng Tang et.al.|[2605.06270](https://arxiv.org/abs/2605.06270)|null|
 |2026-05-07|Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers|Pengqi Lu et.al.|[2605.06169](https://arxiv.org/abs/2605.06169)|null|
@@ -42,7 +42,7 @@
 |2026-05-03|Profile-Specific 3DMM Regression from a Single Lateral Face Image|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
 |2026-05-02|CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
 |2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|null|
-|2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|null|
+|2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|**[link](https://github.com/phyco-video/phyco-video.github.io)**|
 |2026-04-30|3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases|Chialoon Cheng et.al.|[2604.28064](https://arxiv.org/abs/2604.28064)|null|
 |2026-04-30|Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering|Davide Di Nucci et.al.|[2604.27590](https://arxiv.org/abs/2604.27590)|null|
 |2026-04-29|VBr >10 kV E-Beam/Sputtered Vertical NiOx/(011) β-Ga2O3 HJDs with PFOM >2.3 GW/cm2|Yizheng Liu et.al.|[2604.27262](https://arxiv.org/abs/2604.27262)|null|
@@ -223,10 +223,10 @@
 |2026-01-14|SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings|Yuchen Wu et.al.|[2601.09665](https://arxiv.org/abs/2601.09665)|null|
 |2026-01-14|V-DPM: 4D Video Reconstruction with Dynamic Point Maps|Edgar Sucar et.al.|[2601.09499](https://arxiv.org/abs/2601.09499)|null|
 |2026-01-14|Affostruction: 3D Affordance Grounding with Generative Reconstruction|Chunghyun Park et.al.|[2601.09211](https://arxiv.org/abs/2601.09211)|null|
-|2026-01-15|SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration|Chentian Sun et.al.|[2601.08414](https://arxiv.org/abs/2601.08414)|null|
+|2026-01-15|SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration|Chentian Sun et.al.|[2601.08414](https://arxiv.org/abs/2601.08414)|**[link](https://github.com/vilab-sct/SPARK)**|
 |2026-01-13|Second-order Gaussian directional derivative representations for image high-resolution corner detection|Dongbo Xie et.al.|[2601.08182](https://arxiv.org/abs/2601.08182)|null|
 |2026-01-13|ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving|Farhad G. Zanjani et.al.|[2601.07540](https://arxiv.org/abs/2601.07540)|null|
-|2026-01-12|HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization|Taekbeom Lee et.al.|[2601.07242](https://arxiv.org/abs/2601.07242)|null|
+|2026-01-12|HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization|Taekbeom Lee et.al.|[2601.07242](https://arxiv.org/abs/2601.07242)|**[link](https://github.com/Taekbum/here_planner)**|
 |2026-01-11|PRISM: Color-Stratified Point Cloud Sampling|Hansol Lim et.al.|[2601.06839](https://arxiv.org/abs/2601.06839)|[link](https://github.com/SUNY-MEC-MEIC-Lab/PRISM)|
 |2026-01-11|SARA: Scene-Aware Reconstruction Accelerator|Jee Won Lee et.al.|[2601.06831](https://arxiv.org/abs/2601.06831)|[link](https://github.com/SUNY-MEC-MEIC-Lab/SARA)|
 |2026-01-08|MoE3D: A Mixture-of-Experts Module for 3D Reconstruction|Zichen Wang et.al.|[2601.05208](https://arxiv.org/abs/2601.05208)|null|
@@ -292,7 +292,7 @@
 |2025-11-01|Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|null|
 |2025-10-23|RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
 |2025-10-20|Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
-|2025-10-21|DeepDetect: Learning All-in-One Dense Keypoints|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|**[link](https://github.com/saktx/DeepDetect)**|
+|2025-10-21|DeepDetect: Learning All-in-One Dense Keypoints|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|[link](https://github.com/saktx/DeepDetect)|
 |2025-10-18|LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
 |2025-10-17|MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|null|
 |2025-10-17|CuSfM: CUDA-Accelerated Structure-from-Motion|Jingrui Yu et.al.|[2510.15271](http://arxiv.org/abs/2510.15271)|null|

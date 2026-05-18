@@ -1,25 +1,25 @@
 # Visual Localization
 
-> Updated on 2026.05.16
+> Updated on 2026.05.18
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](https://arxiv.org/abs/2605.12144)|null|
-|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](https://arxiv.org/abs/2605.07351)|null|
-|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](https://arxiv.org/abs/2605.04730)|null|
-|**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562](https://arxiv.org/abs/2605.00562)|null|
-|**2026-05-01**|**MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation**|Xianbo Cai et.al.|[2605.00475](https://arxiv.org/abs/2605.00475)|null|
+|2026-05-12|PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization|Yanan Zhou et.al.|[2605.12144](https://arxiv.org/abs/2605.12144)|null|
+|2026-05-08|Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization|Miso Lee et.al.|[2605.07351](https://arxiv.org/abs/2605.07351)|null|
+|2026-05-06|ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting|Yingdong Gu et.al.|[2605.04730](https://arxiv.org/abs/2605.04730)|null|
+|2026-05-01|Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds|Heejoon Moon et.al.|[2605.00562](https://arxiv.org/abs/2605.00562)|null|
+|2026-05-01|MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation|Xianbo Cai et.al.|[2605.00475](https://arxiv.org/abs/2605.00475)|null|
 |2026-04-29|AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision|Xiaoya Cheng et.al.|[2604.26567](https://arxiv.org/abs/2604.26567)|null|
 |2026-04-29|3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification|William Grolleau et.al.|[2604.26520](https://arxiv.org/abs/2604.26520)|null|
-|**2026-04-28**|**COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization**|Muhammad Shaheer et.al.|[2604.25388](https://arxiv.org/abs/2604.25388)|null|
+|2026-04-28|COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization|Muhammad Shaheer et.al.|[2604.25388](https://arxiv.org/abs/2604.25388)|null|
 |2026-04-27|Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval|Esteban Rodríguez-Betancourt et.al.|[2604.24469](https://arxiv.org/abs/2604.24469)|null|
-|**2026-04-24**|**Region Matters: Efficient and Reliable Region-Aware Visual Place Recognition**|Shunpeng Chen et.al.|[2604.22390](https://arxiv.org/abs/2604.22390)|null|
-|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310](https://arxiv.org/abs/2604.22310)|null|
+|2026-04-24|Region Matters: Efficient and Reliable Region-Aware Visual Place Recognition|Shunpeng Chen et.al.|[2604.22390](https://arxiv.org/abs/2604.22390)|null|
+|2026-04-24|Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization|Jeonggon Kim et.al.|[2604.22310](https://arxiv.org/abs/2604.22310)|null|
 |2026-04-24|TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval|Zixu Li et.al.|[2604.21806](https://arxiv.org/abs/2604.21806)|null|
-|2026-04-22|ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval|Zixu Li et.al.|[2604.20358](https://arxiv.org/abs/2604.20358)|null|
+|2026-04-22|ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval|Zixu Li et.al.|[2604.20358](https://arxiv.org/abs/2604.20358)|**[link](https://github.com/iLearn-Lab/CVPR26-ConeSep)**|
 |2026-04-22|UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval|Haokun Wen et.al.|[2604.20318](https://arxiv.org/abs/2604.20318)|null|
-|**2026-04-21**|**SL(C)AMma: Simultaneous Localisation, (Calibration) and Mapping With a Magnetometer Array**|Thomas Edridge et.al.|[2604.19946](https://arxiv.org/abs/2604.19946)|null|
-|2026-04-22|Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval|Zhiheng Fu et.al.|[2604.19386](https://arxiv.org/abs/2604.19386)|null|
+|2026-04-21|SL(C)AMma: Simultaneous Localisation, (Calibration) and Mapping With a Magnetometer Array|Thomas Edridge et.al.|[2604.19946](https://arxiv.org/abs/2604.19946)|null|
+|2026-04-22|Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval|Zhiheng Fu et.al.|[2604.19386](https://arxiv.org/abs/2604.19386)|**[link](https://github.com/iLearn-Lab/CVPR26-Air-Know)**|
 |2026-04-20|T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability|Savya Khosla et.al.|[2604.18573](https://arxiv.org/abs/2604.18573)|null|
 |2026-04-20|INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval|Zhiwei Chen et.al.|[2604.18051](https://arxiv.org/abs/2604.18051)|null|
 |2026-04-20|HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval|Zixu Li et.al.|[2604.18037](https://arxiv.org/abs/2604.18037)|null|
@@ -28,7 +28,7 @@
 |2026-04-20|Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval|Lin Jiang et.al.|[2604.17782](https://arxiv.org/abs/2604.17782)|null|
 |2026-04-18|mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval|Kyeong Seon Kim et.al.|[2604.17054](https://arxiv.org/abs/2604.17054)|null|
 |2026-04-18|KIRA: Knowledge-Intensive Image Retrieval and Reasoning Architecture for Specialized Visual Domains|Parthaw Goswami et.al.|[2604.16915](https://arxiv.org/abs/2604.16915)|null|
-|**2026-04-17**|**Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization**|Siddhant Bharadwaj et.al.|[2604.16248](https://arxiv.org/abs/2604.16248)|null|
+|2026-04-17|Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization|Siddhant Bharadwaj et.al.|[2604.16248](https://arxiv.org/abs/2604.16248)|null|
 |2026-04-17|Continual Hand-Eye Calibration for Open-world Robotic Manipulation|Fazeng Li et.al.|[2604.15814](https://arxiv.org/abs/2604.15814)|null|
 |2026-04-17|Sketch and Text Synergy: Fusing Structural Contours and Descriptive Attributes for Fine-Grained Image Retrieval|Siyuan Wang et.al.|[2604.15735](https://arxiv.org/abs/2604.15735)|null|
 |2026-04-15|SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation|Songlin Du et.al.|[2604.13941](https://arxiv.org/abs/2604.13941)|null|
@@ -138,7 +138,7 @@
 |2026-01-21|LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval|Chao Gao et.al.|[2601.14706](https://arxiv.org/abs/2601.14706)|null|
 |2026-01-20|XR: Cross-Modal Agents for Composed Image Retrieval|Zhongyu Yang et.al.|[2601.14245](https://arxiv.org/abs/2601.14245)|null|
 |2026-01-20|Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration|Yongcong Ye et.al.|[2601.14060](https://arxiv.org/abs/2601.14060)|null|
-|2026-01-20|Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning|Hongbo Bai et.al.|[2601.13942](https://arxiv.org/abs/2601.13942)|**[link](https://github.com/TOM-ZHOUch/Glance-or-Gaze)**|
+|2026-01-20|Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning|Hongbo Bai et.al.|[2601.13942](https://arxiv.org/abs/2601.13942)|[link](https://github.com/TOM-ZHOUch/Glance-or-Gaze)|
 |2026-01-19|DC-VLAQ: Query-Residual Aggregation for Robust Visual Place Recognition|Hanyu Zhu et.al.|[2601.12729](https://arxiv.org/abs/2601.12729)|null|
 |2026-01-17|SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM|Xulei Shi et.al.|[2601.11930](https://arxiv.org/abs/2601.11930)|null|
 |2026-01-22|Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning|Haomiao Tang et.al.|[2601.11393](https://arxiv.org/abs/2601.11393)|null|
@@ -177,7 +177,7 @@
 |2025-12-16|CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |2025-12-16|Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
 |2025-12-15|Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
-|2025-12-14|Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching|Wonseok Choi et.al.|[2512.12610](http://arxiv.org/abs/2512.12610)|null|
+|2025-12-14|Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching|Wonseok Choi et.al.|[2512.12610](http://arxiv.org/abs/2512.12610)|**[link](https://github.com/kaist-ami/Patchwise-Retrieval)**|
 |2025-12-11|Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |2025-12-10|YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
 |2025-12-09|Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics|Nick Trinh et.al.|[2512.09071](http://arxiv.org/abs/2512.09071)|null|
@@ -190,7 +190,7 @@
 |2025-12-04|Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding|Abhigyan Bhattacharya et.al.|[2512.05039](http://arxiv.org/abs/2512.05039)|null|
 |2025-12-04|Revealing stimulus-dependent dynamics through statistical complexity|Edson V. de Paula et.al.|[2512.05007](http://arxiv.org/abs/2512.05007)|null|
 |2025-12-04|Influence of Object Affordance on Action Language Understanding: Evidence from Dynamic Causal Modeling Analysis|Supriya Bordoloi et.al.|[2512.04989](http://arxiv.org/abs/2512.04989)|null|
-|2025-12-04|LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging|Zhijian Shu et.al.|[2512.04939](http://arxiv.org/abs/2512.04939)|null|
+|2025-12-04|LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging|Zhijian Shu et.al.|[2512.04939](http://arxiv.org/abs/2512.04939)|**[link](https://github.com/GarlicBa/LiteVGGT-repo)**|
 |2025-12-04|Terahertz Fourier Ptychographic Imaging|Pitambar Mukherjee et.al.|[2512.04783](http://arxiv.org/abs/2512.04783)|null|
 |2025-12-04|TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
 |2025-12-04|MemLoRA: Distilling Expert Adapters for On-Device Memory Systems|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
@@ -391,7 +391,7 @@
 |2025-05-06|Seeing the Abstract: Translating the Abstract Language for Vision Language Models|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|[link](https://github.com/davidetalon/fashionact)|
 |2025-05-13|SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |2025-05-02|NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
-|2025-05-01|GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|2025-05-01|GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|**[link](https://github.com/jongwonjlee/gsfeatloc)**|
 |2025-04-25|From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |2025-04-24|A Guide to Structureless Visual Localization|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |2025-04-23|Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
