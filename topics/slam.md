@@ -1,9 +1,19 @@
 # SLAM
 
-> Updated on 2026.05.18
+> Updated on 2026.05.21
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
+|**2026-05-19**|**Multi-Session Ground Texture SLAM in Low-Dynamic Environments**|Kyle M. Hart et.al.|[2605.19701](https://arxiv.org/abs/2605.19701)|**[link](https://github.com/Navy-RISE-Lab/multi-session-ground-texture-slam)**|
+|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556](https://arxiv.org/abs/2605.19556)|null|
+|**2026-05-19**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](https://arxiv.org/abs/2605.19257)|null|
+|**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](https://arxiv.org/abs/2605.19213)|null|
+|**2026-05-18**|**Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments**|Halim Djerroud et.al.|[2605.18385](https://arxiv.org/abs/2605.18385)|null|
+|**2026-05-18**|**FUSE: A Framework for Unified State Estimation in Robotic SLAM Systems**|Wei Wu et.al.|[2605.18047](https://arxiv.org/abs/2605.18047)|null|
+|**2026-05-17**|**Mono-Hydra++: Real-Time Monocular Scene Graph Construction with Multi-Task Learning for 3D Indoor Mapping**|U. V. B. L. Udugama et.al.|[2605.17661](https://arxiv.org/abs/2605.17661)|null|
+|**2026-05-17**|**Stretch-ICP: A Continuous-Trajectory Registration and Deskewing Algorithm in Scenarios of Aggressive Motions**|Simon-Pierre Deschênes et.al.|[2605.17264](https://arxiv.org/abs/2605.17264)|null|
+|**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981](https://arxiv.org/abs/2605.16981)|null|
 |2026-05-13|LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction|Christina Kassab et.al.|[2605.13741](https://arxiv.org/abs/2605.13741)|null|
 |2026-05-12|WildPose: A Unified Framework for Robust Pose Estimation in the Wild|Jianhao Zheng et.al.|[2605.12774](https://arxiv.org/abs/2605.12774)|null|
 |2026-05-11|MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction|Zhihao Cao et.al.|[2605.10760](https://arxiv.org/abs/2605.10760)|null|

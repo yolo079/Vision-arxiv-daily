@@ -1,8 +1,8 @@
 # 3D Vision arXiv Daily 🚀
 
 > 🌐 Start here: **[GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)**
-> Updated on 2026.05.18
-> Topics: 9 | Total papers: 1669
+> Updated on 2026.05.21
+> Topics: 9 | Total papers: 1679
 > Usage instructions: [here](./docs/README.md#usage)
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 🧭 | Point Cloud Registration | 2026-05-11 | 145 | [Point Cloud Registration](topics/point-cloud-registration.md) |
 | 🧩 | Image Matching | 2026-05-11 | 174 | [Image Matching](topics/image-matching.md) |
-| 🛰️ | SLAM | 2026-05-13 | 262 | [SLAM](topics/slam.md) |
+| 🛰️ | SLAM | 2026-05-19 | 272 | [SLAM](topics/slam.md) |
 | 🧱 | 3D Reconstruction | 2026-05-14 | 412 | [3D Reconstruction](topics/3d-reconstruction.md) |
 | 🎥 | Novel View Synthesis | 2026-05-14 | 30 | [Novel View Synthesis](topics/novel-view-synthesis.md) |
 | 🗺️ | Visual Localization | 2026-05-12 | 450 | [Visual Localization](topics/visual-localization.md) |

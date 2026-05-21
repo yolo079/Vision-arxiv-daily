@@ -18,7 +18,7 @@ title: 3D Reconstruction
     <div class="sidebar-title">Topics</div>
     <a class="sidebar-link" href="point-cloud-registration.html">Point Cloud Registration <span class="sidebar-count">145</span></a>
     <a class="sidebar-link" href="image-matching.html">Image Matching <span class="sidebar-count">174</span></a>
-    <a class="sidebar-link" href="slam.html">SLAM <span class="sidebar-count">262</span></a>
+    <a class="sidebar-link" href="slam.html">SLAM <span class="sidebar-count">272</span></a>
     <a class="sidebar-link active" href="3d-reconstruction.html">3D Reconstruction <span class="sidebar-count">412</span></a>
     <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">30</span></a>
     <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">450</span></a>
