@@ -1,6 +1,6 @@
 # Point Cloud Registration
 
-> Updated on 2026.05.21
+> Updated on 2026.05.25
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -42,8 +42,8 @@
 |2025-12-02|TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction|Fengyi Zhang et.al.|[2512.02341](http://arxiv.org/abs/2512.02341)|null|
 |2025-12-01|Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching|Yue Pan et.al.|[2512.01850](https://arxiv.org/abs/2512.01850)|null|
 |2025-11-30|LAHNet: Local Attentive Hashing Network for Point Cloud Registration|Wentao Qu et.al.|[2512.00927](https://arxiv.org/abs/2512.00927)|null|
-|2025-12-02|PointCNN++: Performant Convolution on Native Points|Lihan Li et.al.|[2511.23227](https://arxiv.org/abs/2511.23227)|null|
-|2025-11-28|ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance|Congjia Chen et.al.|[2511.22908](https://arxiv.org/abs/2511.22908)|null|
+|2025-12-02|PointCNN++: Performant Convolution on Native Points|Lihan Li et.al.|[2511.23227](https://arxiv.org/abs/2511.23227)|**[link](https://github.com/Lihhan/PointCNNpp)**|
+|2025-11-28|ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance|Congjia Chen et.al.|[2511.22908](https://arxiv.org/abs/2511.22908)|**[link](https://github.com/ccjccjccj/ViGG)**|
 |2025-11-27|Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR|Yuyang Zou et.al.|[2511.22267](http://arxiv.org/abs/2511.22267)|null|
 |2025-11-26|Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss|Chou Mo et.al.|[2511.21575](http://arxiv.org/abs/2511.21575)|null|
 |2025-11-26|E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework|Adeela Islam et.al.|[2511.21422](http://arxiv.org/abs/2511.21422)|null|
@@ -105,7 +105,7 @@
 |2025-07-09|Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
 |2025-07-07|Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |2025-07-06|Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
-|2025-07-03|TurboReg: TurboClique for Robust and Efficient Point Cloud Registration|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|**[link](https://github.com/Laka-3DV/TurboReg)**|
+|2025-07-03|TurboReg: TurboClique for Robust and Efficient Point Cloud Registration|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|[link](https://github.com/Laka-3DV/TurboReg)|
 |2025-06-26|CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection|Zhixin Cheng et.al.|[2506.21364](http://arxiv.org/abs/2506.21364)|null|
 |2025-06-18|Correspondence-Free Multiview Point Cloud Registration via Depth-Guided Joint Optimisation|Yiran Zhou et.al.|[2506.18922](http://arxiv.org/abs/2506.18922)|null|
 |2025-06-18|BCRNet: Enhancing Landmark Detection in Laparoscopic Liver Surgery via Bezier Curve Refinement|Qian Li et.al.|[2506.15279](http://arxiv.org/abs/2506.15279)|[link](https://github.com/jinlab-imvr/BCRNet)|

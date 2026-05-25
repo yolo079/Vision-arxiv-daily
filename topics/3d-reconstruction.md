@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.05.21
+> Updated on 2026.05.25
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -42,7 +42,7 @@
 |2026-05-03|Profile-Specific 3DMM Regression from a Single Lateral Face Image|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
 |2026-05-02|CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
 |2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|null|
-|2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|**[link](https://github.com/phyco-video/phyco-video.github.io)**|
+|2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|[link](https://github.com/phyco-video/phyco-video.github.io)|
 |2026-04-30|3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases|Chialoon Cheng et.al.|[2604.28064](https://arxiv.org/abs/2604.28064)|null|
 |2026-04-30|Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering|Davide Di Nucci et.al.|[2604.27590](https://arxiv.org/abs/2604.27590)|null|
 |2026-04-29|VBr >10 kV E-Beam/Sputtered Vertical NiOx/(011) β-Ga2O3 HJDs with PFOM >2.3 GW/cm2|Yizheng Liu et.al.|[2604.27262](https://arxiv.org/abs/2604.27262)|null|
@@ -223,10 +223,10 @@
 |2026-01-14|SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings|Yuchen Wu et.al.|[2601.09665](https://arxiv.org/abs/2601.09665)|null|
 |2026-01-14|V-DPM: 4D Video Reconstruction with Dynamic Point Maps|Edgar Sucar et.al.|[2601.09499](https://arxiv.org/abs/2601.09499)|null|
 |2026-01-14|Affostruction: 3D Affordance Grounding with Generative Reconstruction|Chunghyun Park et.al.|[2601.09211](https://arxiv.org/abs/2601.09211)|null|
-|2026-01-15|SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration|Chentian Sun et.al.|[2601.08414](https://arxiv.org/abs/2601.08414)|**[link](https://github.com/vilab-sct/SPARK)**|
+|2026-01-15|SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration|Chentian Sun et.al.|[2601.08414](https://arxiv.org/abs/2601.08414)|[link](https://github.com/vilab-sct/SPARK)|
 |2026-01-13|Second-order Gaussian directional derivative representations for image high-resolution corner detection|Dongbo Xie et.al.|[2601.08182](https://arxiv.org/abs/2601.08182)|null|
 |2026-01-13|ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving|Farhad G. Zanjani et.al.|[2601.07540](https://arxiv.org/abs/2601.07540)|null|
-|2026-01-12|HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization|Taekbeom Lee et.al.|[2601.07242](https://arxiv.org/abs/2601.07242)|**[link](https://github.com/Taekbum/here_planner)**|
+|2026-01-12|HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization|Taekbeom Lee et.al.|[2601.07242](https://arxiv.org/abs/2601.07242)|[link](https://github.com/Taekbum/here_planner)|
 |2026-01-11|PRISM: Color-Stratified Point Cloud Sampling|Hansol Lim et.al.|[2601.06839](https://arxiv.org/abs/2601.06839)|[link](https://github.com/SUNY-MEC-MEIC-Lab/PRISM)|
 |2026-01-11|SARA: Scene-Aware Reconstruction Accelerator|Jee Won Lee et.al.|[2601.06831](https://arxiv.org/abs/2601.06831)|[link](https://github.com/SUNY-MEC-MEIC-Lab/SARA)|
 |2026-01-08|MoE3D: A Mixture-of-Experts Module for 3D Reconstruction|Zichen Wang et.al.|[2601.05208](https://arxiv.org/abs/2601.05208)|null|

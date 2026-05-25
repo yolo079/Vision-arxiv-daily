@@ -1,6 +1,6 @@
 # Image Matching
 
-> Updated on 2026.05.21
+> Updated on 2026.05.25
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -48,9 +48,9 @@
 |2026-01-09|Stationaere Kurven auf endlichdimensionalen Mannigfaltigkeiten|Tobias Starke et.al.|[2601.05695](https://arxiv.org/abs/2601.05695)|null|
 |2026-01-05|Exact Clique Number Manipulation via Edge Interdiction|Yi Zhou et.al.|[2601.01869](https://arxiv.org/abs/2601.01869)|null|
 |2025-12-31|Quantum Visual Word Sense Disambiguation: Unraveling Ambiguities Through Quantum Inference Model|Wenbo Qiao et.al.|[2512.24687](https://arxiv.org/abs/2512.24687)|null|
-|2025-12-24|VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs|Brigitta Malagurski Törtei et.al.|[2512.21194](https://arxiv.org/abs/2512.21194)|**[link](https://github.com/visres-bench/visres-bench)**|
+|2025-12-24|VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs|Brigitta Malagurski Törtei et.al.|[2512.21194](https://arxiv.org/abs/2512.21194)|[link](https://github.com/visres-bench/visres-bench)|
 |2025-12-20|Analog Quantum Image Representation with Qubit-Frugal Encoding|Vikrant Sharma et.al.|[2512.18451](https://arxiv.org/abs/2512.18451)|null|
-|2025-12-17|The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs|Tejas Anvekar et.al.|[2512.15949](https://arxiv.org/abs/2512.15949)|**[link](https://github.com/CoRAL-ASU/PerceptualObservatory)**|
+|2025-12-17|The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs|Tejas Anvekar et.al.|[2512.15949](https://arxiv.org/abs/2512.15949)|[link](https://github.com/CoRAL-ASU/PerceptualObservatory)|
 |2025-12-11|Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching|Alberto Rota et.al.|[2512.10379](https://arxiv.org/abs/2512.10379)|null|
 |2025-12-14|MotionEdit: Benchmarking and Learning Motion-Centric Image Editing|Yixin Wan et.al.|[2512.10284](https://arxiv.org/abs/2512.10284)|null|
 |2025-12-04|Value Gradient Guidance for Flow Matching Alignment|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|[link](https://github.com/lzzcd001/vggflow)|
@@ -103,7 +103,7 @@
 |2025-11-04|Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
 |2025-10-27|The MDW Hα Sky Survey: Data Release 1|Noor Aftab et.al.|[2510.22900](http://arxiv.org/abs/2510.22900)|null|
 |2025-10-26|FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|null|
-|2025-10-08|Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|**[link](https://github.com/event-driven-robotics/RT-EvLDT)**|
+|2025-10-08|Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|[link](https://github.com/event-driven-robotics/RT-EvLDT)|
 |2025-10-08|StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|[link](https://github.com/naver-ai/StyleKeeper)|
 |2025-10-08|Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|null|
 |2025-10-24|SegMASt3R: Geometry Grounded Segment Matching|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|[link](https://github.com/SegMASt3R/segmast3r)|
