@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.05.25
+> Updated on 2026.05.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers**|Shuhong Zheng et.al.|[2605.23892](https://arxiv.org/abs/2605.23892)|null|
+|**2026-05-22**|**HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction**|Chong Cheng et.al.|[2605.23889](https://arxiv.org/abs/2605.23889)|null|
+|**2026-05-22**|**GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction**|Katharina Schmid et.al.|[2605.23888](https://arxiv.org/abs/2605.23888)|null|
+|**2026-05-22**|**Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca $_2$CoNbO$_6$**|Svetlana A. Artiukova et.al.|[2605.23558](https://arxiv.org/abs/2605.23558)|null|
+|**2026-05-22**|**OptiQU: Coordinated Multi-Level Voltage and Reactive Power Control for Enhanced Voltage Quality and Secure Grid Operation**|Irene Hammermeister et.al.|[2605.23505](https://arxiv.org/abs/2605.23505)|null|
+|**2026-05-22**|**Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences**|Simon Bultmann et.al.|[2605.23397](https://arxiv.org/abs/2605.23397)|null|
+|**2026-05-22**|**Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4**|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|null|
+|**2026-05-22**|**LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images**|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
+|**2026-05-21**|**Scene Reconstruction as Mapping Priors for 3D Detection**|Yang Fu et.al.|[2605.22997](https://arxiv.org/abs/2605.22997)|null|
+|**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|null|
 |2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
 |2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
 |2026-05-14|Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|

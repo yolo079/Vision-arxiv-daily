@@ -1,8 +1,8 @@
 # 3D Vision arXiv Daily 🚀
 
 > 🌐 Start here: **[GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)**
-> Updated on 2026.05.25
-> Topics: 9 | Total papers: 1679
+> Updated on 2026.05.26
+> Topics: 9 | Total papers: 1734
 > Usage instructions: [here](./docs/README.md#usage)
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
 
@@ -16,15 +16,15 @@
 
 | | Topic | Latest Update | Papers | Link |
 |---|---|---|---|---|
-| 🧭 | Point Cloud Registration | 2026-05-11 | 145 | [Point Cloud Registration](topics/point-cloud-registration.md) |
-| 🧩 | Image Matching | 2026-05-11 | 174 | [Image Matching](topics/image-matching.md) |
-| 🛰️ | SLAM | 2026-05-19 | 272 | [SLAM](topics/slam.md) |
-| 🧱 | 3D Reconstruction | 2026-05-14 | 412 | [3D Reconstruction](topics/3d-reconstruction.md) |
-| 🎥 | Novel View Synthesis | 2026-05-14 | 30 | [Novel View Synthesis](topics/novel-view-synthesis.md) |
-| 🗺️ | Visual Localization | 2026-05-12 | 450 | [Visual Localization](topics/visual-localization.md) |
-| 📍 | 3D Localization | 2026-05-13 | 14 | [3D Localization](topics/3d-localization.md) |
-| 🌍 | World Model | 2026-05-14 | 90 | [World Model](topics/world-model.md) |
-| 🌊 | Flow Matching | 2026-05-14 | 92 | [Flow Matching](topics/flow-matching.md) |
+| 🧭 | Point Cloud Registration | 2026-05-19 | 147 | [Point Cloud Registration](topics/point-cloud-registration.md) |
+| 🧩 | Image Matching | 2026-05-16 | 175 | [Image Matching](topics/image-matching.md) |
+| 🛰️ | SLAM | 2026-05-21 | 276 | [SLAM](topics/slam.md) |
+| 🧱 | 3D Reconstruction | 2026-05-22 | 422 | [3D Reconstruction](topics/3d-reconstruction.md) |
+| 🎥 | Novel View Synthesis | 2026-05-22 | 40 | [Novel View Synthesis](topics/novel-view-synthesis.md) |
+| 🗺️ | Visual Localization | 2026-05-20 | 457 | [Visual Localization](topics/visual-localization.md) |
+| 📍 | 3D Localization | 2026-05-19 | 15 | [3D Localization](topics/3d-localization.md) |
+| 🌍 | World Model | 2026-05-22 | 100 | [World Model](topics/world-model.md) |
+| 🌊 | Flow Matching | 2026-05-22 | 102 | [Flow Matching](topics/flow-matching.md) |
 
 ## How It Works
 

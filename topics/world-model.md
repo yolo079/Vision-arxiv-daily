@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.05.25
+> Updated on 2026.05.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation**|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
+|**2026-05-22**|**Learning a Particle Dynamics Model with Real-world Videos**|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|null|
+|**2026-05-22**|**CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models**|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|null|
+|**2026-05-22**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345](https://arxiv.org/abs/2605.23345)|null|
+|**2026-05-22**|**WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents**|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
+|**2026-05-21**|**Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics**|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
+|**2026-05-21**|**World Machine: Towards Generative World Modeling for Time-Series**|Elton Cardoso do Nascimento et.al.|[2605.23025](https://arxiv.org/abs/2605.23025)|null|
+|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|null|
+|**2026-05-21**|**Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning**|Anjie Qiu et.al.|[2605.22456](https://arxiv.org/abs/2605.22456)|null|
+|**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446](https://arxiv.org/abs/2605.22446)|null|
 |2026-05-14|Quantitative Video World Model Evaluation for Geometric-Consistency|Jiaxin Wu et.al.|[2605.15185](https://arxiv.org/abs/2605.15185)|null|
 |2026-05-14|Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video|Yifan Wang et.al.|[2605.15182](https://arxiv.org/abs/2605.15182)|null|
 |2026-05-14|SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer|Haoyi Zhu et.al.|[2605.15178](https://arxiv.org/abs/2605.15178)|null|
