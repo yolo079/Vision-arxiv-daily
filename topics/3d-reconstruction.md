@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.05.26
+> Updated on 2026.05.31
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](https://arxiv.org/abs/2605.30328)|null|
+|**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](https://arxiv.org/abs/2605.30310)|null|
+|**2026-05-28**|**SAM3D-Phys: Towards Multi-Object Interactive Simulation in Real World**|Xin Dong et.al.|[2605.30239](https://arxiv.org/abs/2605.30239)|null|
+|**2026-05-28**|**Déjà View: Looping Transformers for Multi-View 3D Reconstruction**|Alessandro Burzio et.al.|[2605.30215](https://arxiv.org/abs/2605.30215)|**[link](https://github.com/nv-tlabs/dvlt)**|
+|**2026-05-28**|**FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views**|Yihang Tao et.al.|[2605.29997](https://arxiv.org/abs/2605.29997)|null|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](https://arxiv.org/abs/2605.29879)|null|
+|**2026-05-28**|**Comparative evaluation of photogrammetric reconstruction methods and 3D Gaussian Splatting for road surface roughness analysis**|Marouane Elmegdar et.al.|[2605.29452](https://arxiv.org/abs/2605.29452)|null|
+|**2026-05-28**|**ParCo-SDF: Learning Prior-Free Partial-to-Complete Signed Distance Fields of Deformable Objects**|Deokmin Hwang et.al.|[2605.29417](https://arxiv.org/abs/2605.29417)|null|
+|**2026-05-28**|**Sub-luminous Type IIP SN 2024abfl as a result of a significantly low energy Fe-core collapse**|Rishabh Singh Teja et.al.|[2605.29363](https://arxiv.org/abs/2605.29363)|null|
+|**2026-05-28**|**Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming**|Jianshen Zhu et.al.|[2605.29329](https://arxiv.org/abs/2605.29329)|null|
 |**2026-05-22**|**Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers**|Shuhong Zheng et.al.|[2605.23892](https://arxiv.org/abs/2605.23892)|null|
 |**2026-05-22**|**HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction**|Chong Cheng et.al.|[2605.23889](https://arxiv.org/abs/2605.23889)|null|
 |**2026-05-22**|**GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction**|Katharina Schmid et.al.|[2605.23888](https://arxiv.org/abs/2605.23888)|null|

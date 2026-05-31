@@ -1,9 +1,10 @@
 # 3D Localization
 
-> Updated on 2026.05.26
+> Updated on 2026.05.31
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data**|Dario Pisanti et.al.|[2605.29647](https://arxiv.org/abs/2605.29647)|null|
 |**2026-05-19**|**Towards Camera-Robust 3D Localization: Equation-Anchored Tool-Use for MLLMs**|Xueying Jiang et.al.|[2605.19528](https://arxiv.org/abs/2605.19528)|null|
 |**2026-05-13**|**Uncertainty-Aware 3D Position Refinement for Multi-UAV Systems**|Hosam Alamleh et.al.|[2605.13500](https://arxiv.org/abs/2605.13500)|**[link](https://github.com/hosam37r/Uncertainty-Aware-3D-Position-Refinement-for-Multi-UAV-Systems)**|
 |**2026-05-12**|**3D RL-DWA: A Hybrid Reinforcement Learning and Dynamic Window Approach for Goal-Directed Local Navigation in Multi-DoF Robots**|Chiara Castellani et.al.|[2605.12689](https://arxiv.org/abs/2605.12689)|null|

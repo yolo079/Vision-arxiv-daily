@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.05.26
+> Updated on 2026.05.31
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**GPIC: A Giant Permissive Image Corpus for Visual Generation**|Keshigeyan Chandrasegaran et.al.|[2605.30341](https://arxiv.org/abs/2605.30341)|null|
+|**2026-05-28**|**UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering**|Yingdong Shi et.al.|[2605.30076](https://arxiv.org/abs/2605.30076)|null|
+|**2026-05-28**|**Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations**|Renu Singh et.al.|[2605.29976](https://arxiv.org/abs/2605.29976)|null|
+|**2026-05-28**|**Midpoint Generative Models**|Daniil Shlenskii et.al.|[2605.29920](https://arxiv.org/abs/2605.29920)|null|
+|**2026-05-27**|**Moment Matching Q-Learning**| Yiyan et.al.|[2605.29033](https://arxiv.org/abs/2605.29033)|null|
+|**2026-05-27**|**Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment**|Yurong Gao et.al.|[2605.28962](https://arxiv.org/abs/2605.28962)|null|
+|**2026-05-27**|**Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields**|Julien Lalanne et.al.|[2605.28625](https://arxiv.org/abs/2605.28625)|null|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](https://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**Universal Time Series Generation with Neural Controlled Differential Equations**|Torben Berndt et.al.|[2605.28507](https://arxiv.org/abs/2605.28507)|null|
+|**2026-05-27**|**ProgVLA: Progress-Aware Robot Manipulation Skill Learning**|Seungsu Kim et.al.|[2605.28231](https://arxiv.org/abs/2605.28231)|null|
 |**2026-05-22**|**Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models**|Jade Zou et.al.|[2605.23522](https://arxiv.org/abs/2605.23522)|null|
 |**2026-05-22**|**Learning Individual Dynamics from Sparse Cross-Sectional Snapshots**|Christian Lagemann et.al.|[2605.23470](https://arxiv.org/abs/2605.23470)|null|
 |**2026-05-22**|**VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation**|Junwen Tan et.al.|[2605.23381](https://arxiv.org/abs/2605.23381)|null|

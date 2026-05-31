@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.05.26
+> Updated on 2026.05.31
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**NeuROK: Generative 4D Neural Object Kinematics**|Chen Geng et.al.|[2605.30347](https://arxiv.org/abs/2605.30347)|null|
+|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](https://arxiv.org/abs/2605.30346)|null|
+|**2026-05-28**|**minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models**|Min Zhao et.al.|[2605.30263](https://arxiv.org/abs/2605.30263)|null|
+|**2026-05-28**|**Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences**|Benjamin Walker et.al.|[2605.30100](https://arxiv.org/abs/2605.30100)|null|
+|**2026-05-28**|**Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment**|Toru Takahashi et.al.|[2605.29930](https://arxiv.org/abs/2605.29930)|null|
+|**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault et.al.|[2605.29585](https://arxiv.org/abs/2605.29585)|null|
+|**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|
+|**2026-05-28**|**PassNet: Scaling Large Language Models for Graph Compiler Pass Generation**|Yiqun Liu et.al.|[2605.29357](https://arxiv.org/abs/2605.29357)|null|
+|**2026-05-27**|**Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning**|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
+|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
 |**2026-05-22**|**LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation**|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
 |**2026-05-22**|**Learning a Particle Dynamics Model with Real-world Videos**|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|null|
 |**2026-05-22**|**CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models**|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|null|
