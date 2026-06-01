@@ -4,17 +4,17 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
-|**2026-05-20**|**MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue**|Anna Deichler et.al.|[2605.21796](https://arxiv.org/abs/2605.21796)|null|
-|**2026-05-19**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551](https://arxiv.org/abs/2605.20551)|null|
-|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
-|**2026-05-19**|**KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision**|Maya Yanko et.al.|[2605.19435](https://arxiv.org/abs/2605.19435)|null|
-|**2026-05-18**|**Imaging Hidden Objects with Consumer LiDAR via Motion Induced Sampling**|Siddharth Somasundaram et.al.|[2605.17865](https://arxiv.org/abs/2605.17865)|null|
-|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777](https://arxiv.org/abs/2605.17777)|null|
-|**2026-05-15**|**SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability**|Amin Karimi Monsefi et.al.|[2605.16515](https://arxiv.org/abs/2605.16515)|null|
-|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](https://arxiv.org/abs/2605.12144)|null|
-|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](https://arxiv.org/abs/2605.07351)|null|
-|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](https://arxiv.org/abs/2605.04730)|null|
+|2026-05-27|SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
+|2026-05-20|MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue|Anna Deichler et.al.|[2605.21796](https://arxiv.org/abs/2605.21796)|null|
+|2026-05-19|Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning|Zichao Zeng et.al.|[2605.20551](https://arxiv.org/abs/2605.20551)|null|
+|2026-05-19|Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
+|2026-05-19|KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision|Maya Yanko et.al.|[2605.19435](https://arxiv.org/abs/2605.19435)|null|
+|2026-05-18|Imaging Hidden Objects with Consumer LiDAR via Motion Induced Sampling|Siddharth Somasundaram et.al.|[2605.17865](https://arxiv.org/abs/2605.17865)|null|
+|2026-05-18|Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation|Zizhuo Li et.al.|[2605.17777](https://arxiv.org/abs/2605.17777)|null|
+|2026-05-15|SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability|Amin Karimi Monsefi et.al.|[2605.16515](https://arxiv.org/abs/2605.16515)|null|
+|2026-05-12|PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization|Yanan Zhou et.al.|[2605.12144](https://arxiv.org/abs/2605.12144)|null|
+|2026-05-08|Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization|Miso Lee et.al.|[2605.07351](https://arxiv.org/abs/2605.07351)|null|
+|2026-05-06|ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting|Yingdong Gu et.al.|[2605.04730](https://arxiv.org/abs/2605.04730)|null|
 |2026-05-01|Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds|Heejoon Moon et.al.|[2605.00562](https://arxiv.org/abs/2605.00562)|null|
 |2026-05-01|MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation|Xianbo Cai et.al.|[2605.00475](https://arxiv.org/abs/2605.00475)|null|
 |2026-04-29|AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision|Xiaoya Cheng et.al.|[2604.26567](https://arxiv.org/abs/2604.26567)|null|
@@ -63,12 +63,12 @@
 |2026-03-29|RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization|Junwei Zheng et.al.|[2603.27758](https://arxiv.org/abs/2603.27758)|null|
 |2026-03-29|NeedleDB: A Generative-AI Based System for Accurate and Efficient Image Retrieval using Complex Natural Language Queries|Mahdi Erfanian et.al.|[2603.27464](https://arxiv.org/abs/2603.27464)|null|
 |2026-03-27|Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones|Moritz Nottebaum et.al.|[2603.26551](https://arxiv.org/abs/2603.26551)|null|
-|2026-03-27|HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network|Mingyu Zhang et.al.|[2603.26341](https://arxiv.org/abs/2603.26341)|null|
+|2026-03-27|HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network|Mingyu Zhang et.al.|[2603.26341](https://arxiv.org/abs/2603.26341)|**[link](https://github.com/iLearn-Lab/ICASSP26-HINT)**|
 |2026-03-27|4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation|Ningyuan Huang et.al.|[2603.26206](https://arxiv.org/abs/2603.26206)|null|
 |2026-03-26|Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods|Ofer Idan et.al.|[2603.25891](https://arxiv.org/abs/2603.25891)|null|
-|2026-03-26|Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming|Yunus Talha Erzurumlu et.al.|[2603.25686](https://arxiv.org/abs/2603.25686)|null|
+|2026-03-26|Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming|Yunus Talha Erzurumlu et.al.|[2603.25686](https://arxiv.org/abs/2603.25686)|**[link](https://github.com/OSUPCVLab/just-zoom-in)**|
 |2026-03-26|On-Demand Instructional Material Providing Agent Based on MLLM for Tutoring Support|Takumi Kato et.al.|[2603.25195](https://arxiv.org/abs/2603.25195)|null|
-|2026-03-28|TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval|David G. Shatwell et.al.|[2603.24749](https://arxiv.org/abs/2603.24749)|null|
+|2026-03-28|TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval|David G. Shatwell et.al.|[2603.24749](https://arxiv.org/abs/2603.24749)|**[link](https://github.com/dshatwell23/tiger.github.io)**|
 |2026-03-24|Sparse Autoencoders for Interpretable Medical Image Representation Learning|Philipp Wesp et.al.|[2603.23794](https://arxiv.org/abs/2603.23794)|[link](https://github.com/pwesp/sail)|
 |2026-03-24|ARGENT: Adaptive Hierarchical Image-Text Representations|Chuong Huynh et.al.|[2603.23311](https://arxiv.org/abs/2603.23311)|[link](https://github.com/Ufere/Assingment_1)|
 |2026-03-24|Retrieval-Guided Photovoltaic Inventory Estimation from Satellite Imagery for Distribution Grid Planning|Muhao Guo et.al.|[2603.22856](https://arxiv.org/abs/2603.22856)|null|
@@ -436,7 +436,7 @@
 |2025-03-27|Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
 |2025-03-25|CoLLM: A Large Language Model for Composed Image Retrieval|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|[link](https://github.com/hmchuong/CoLLM)|
 |2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
-|2025-03-25|From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|**[link](https://github.com/zju3dv/STDLoc)**|
+|2025-03-25|From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|[link](https://github.com/zju3dv/STDLoc)|
 |2025-03-25|Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|[link](https://github.com/ZiChao111/FTI4CIR)|
 |2025-03-23|LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |2025-03-23|Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|[link](https://github.com/ShineFox/CorrMamba)|

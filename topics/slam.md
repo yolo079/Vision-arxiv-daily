@@ -4,25 +4,25 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172](https://arxiv.org/abs/2605.28172)|null|
-|**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
-|**2026-05-27**|**Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry**|Haolan Zhang et.al.|[2605.27952](https://arxiv.org/abs/2605.27952)|null|
-|**2026-05-26**|**Trinity: Unifying Class-Agnostic Terrain and Semantic Segmentation for Unstructured Outdoor Environments by Leveraging Synthetic Data**|Marcus G Müller et.al.|[2605.27644](https://arxiv.org/abs/2605.27644)|null|
-|**2026-05-26**|**Gaussian Process-Based Extended Object Estimation for 6G ISAC at Millimeter-Wave Frequencies**|M. Ertug Pihtili et.al.|[2605.26915](https://arxiv.org/abs/2605.26915)|null|
-|**2026-05-25**|**G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation**|Dongzhihan Wang et.al.|[2605.25646](https://arxiv.org/abs/2605.25646)|null|
-|**2026-05-24**|**FusionCore: A 23-State Unscented Kalman Filter for IMU, Wheel Encoder, GPS, and Visual SLAM Fusion in ROS 2**|Manan Kharwar et.al.|[2605.25239](https://arxiv.org/abs/2605.25239)|null|
-|**2026-05-24**|**A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization**|Baoshan Song et.al.|[2605.25051](https://arxiv.org/abs/2605.25051)|null|
-|**2026-05-23**|**LC-Flow: Learning Local Continuous Optical Flow and Confidence from events**|Gunwoo Jeon et.al.|[2605.24604](https://arxiv.org/abs/2605.24604)|null|
-|**2026-05-21**|**Extending Deep Event Visual Odometry with Sparse Point-Cloud Export**|Alireza Safdari et.al.|[2605.22890](https://arxiv.org/abs/2605.22890)|null|
-|**2026-05-21**|**FRED: A Multi-Modal Autonomous Driving Dataset for Flooded Road Environments**|Connor Malone et.al.|[2605.22018](https://arxiv.org/abs/2605.22018)|null|
-|**2026-05-20**|**SubTGraph: Large-Scale Subterranean Environment Synthesis with Controllable Topological Variability for Robotic Autonomy Validation**|F. Labra Caso et.al.|[2605.20917](https://arxiv.org/abs/2605.20917)|null|
-|**2026-05-19**|**Enhancing Graph-Based SLAM in GNSS-Denied environments by leveraging leg odometry**|Léon Perruchot-Triboulet et.al.|[2605.20484](https://arxiv.org/abs/2605.20484)|null|
-|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
-|**2026-05-19**|**Multi-Session Ground Texture SLAM in Low-Dynamic Environments**|Kyle M. Hart et.al.|[2605.19701](https://arxiv.org/abs/2605.19701)|null|
-|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556](https://arxiv.org/abs/2605.19556)|null|
-|**2026-05-19**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](https://arxiv.org/abs/2605.19257)|null|
-|**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](https://arxiv.org/abs/2605.19213)|null|
-|**2026-05-18**|**Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments**|Halim Djerroud et.al.|[2605.18385](https://arxiv.org/abs/2605.18385)|null|
+|2026-05-27|Provably Guaranteed Polytopic Uncertainty Quantification for SLAM|Guangyang Zeng et.al.|[2605.28172](https://arxiv.org/abs/2605.28172)|null|
+|2026-05-27|SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
+|2026-05-27|Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry|Haolan Zhang et.al.|[2605.27952](https://arxiv.org/abs/2605.27952)|null|
+|2026-05-26|Trinity: Unifying Class-Agnostic Terrain and Semantic Segmentation for Unstructured Outdoor Environments by Leveraging Synthetic Data|Marcus G Müller et.al.|[2605.27644](https://arxiv.org/abs/2605.27644)|null|
+|2026-05-26|Gaussian Process-Based Extended Object Estimation for 6G ISAC at Millimeter-Wave Frequencies|M. Ertug Pihtili et.al.|[2605.26915](https://arxiv.org/abs/2605.26915)|null|
+|2026-05-25|G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation|Dongzhihan Wang et.al.|[2605.25646](https://arxiv.org/abs/2605.25646)|null|
+|2026-05-24|FusionCore: A 23-State Unscented Kalman Filter for IMU, Wheel Encoder, GPS, and Visual SLAM Fusion in ROS 2|Manan Kharwar et.al.|[2605.25239](https://arxiv.org/abs/2605.25239)|null|
+|2026-05-24|A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization|Baoshan Song et.al.|[2605.25051](https://arxiv.org/abs/2605.25051)|null|
+|2026-05-23|LC-Flow: Learning Local Continuous Optical Flow and Confidence from events|Gunwoo Jeon et.al.|[2605.24604](https://arxiv.org/abs/2605.24604)|null|
+|2026-05-21|Extending Deep Event Visual Odometry with Sparse Point-Cloud Export|Alireza Safdari et.al.|[2605.22890](https://arxiv.org/abs/2605.22890)|null|
+|2026-05-21|FRED: A Multi-Modal Autonomous Driving Dataset for Flooded Road Environments|Connor Malone et.al.|[2605.22018](https://arxiv.org/abs/2605.22018)|null|
+|2026-05-20|SubTGraph: Large-Scale Subterranean Environment Synthesis with Controllable Topological Variability for Robotic Autonomy Validation|F. Labra Caso et.al.|[2605.20917](https://arxiv.org/abs/2605.20917)|null|
+|2026-05-19|Enhancing Graph-Based SLAM in GNSS-Denied environments by leveraging leg odometry|Léon Perruchot-Triboulet et.al.|[2605.20484](https://arxiv.org/abs/2605.20484)|null|
+|2026-05-19|Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
+|2026-05-19|Multi-Session Ground Texture SLAM in Low-Dynamic Environments|Kyle M. Hart et.al.|[2605.19701](https://arxiv.org/abs/2605.19701)|null|
+|2026-05-19|EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry|Prateeth Rao et.al.|[2605.19556](https://arxiv.org/abs/2605.19556)|null|
+|2026-05-19|PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM|Eunsoo Im et.al.|[2605.19257](https://arxiv.org/abs/2605.19257)|null|
+|2026-05-19|Smartphone-based Circular Plot Sampling for Forest Inventory|Su Sun et.al.|[2605.19213](https://arxiv.org/abs/2605.19213)|null|
+|2026-05-18|Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments|Halim Djerroud et.al.|[2605.18385](https://arxiv.org/abs/2605.18385)|null|
 |2026-05-18|FUSE: A Framework for Unified State Estimation in Robotic SLAM Systems|Wei Wu et.al.|[2605.18047](https://arxiv.org/abs/2605.18047)|null|
 |2026-05-17|Mono-Hydra++: Real-Time Monocular Scene Graph Construction with Multi-Task Learning for 3D Indoor Mapping|U. V. B. L. Udugama et.al.|[2605.17661](https://arxiv.org/abs/2605.17661)|null|
 |2026-05-17|Stretch-ICP: A Continuous-Trajectory Registration and Deskewing Algorithm in Scenarios of Aggressive Motions|Simon-Pierre Deschênes et.al.|[2605.17264](https://arxiv.org/abs/2605.17264)|null|

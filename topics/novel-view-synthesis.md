@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](https://arxiv.org/abs/2605.30328)|null|
-|**2026-05-28**|**DVSM: Decoder-only View Synthesis Model Done Right**|Cheng Sun et.al.|[2605.29891](https://arxiv.org/abs/2605.29891)|null|
-|**2026-05-28**|**Learning Representations from 3D Gaussian Splats**|Julia Farganus et.al.|[2605.29549](https://arxiv.org/abs/2605.29549)|null|
-|**2026-05-26**|**GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting**|Pedro Martin et.al.|[2605.26880](https://arxiv.org/abs/2605.26880)|null|
-|**2026-05-26**|**DelowlightSplat: Feed-Forward Gaussian Splatting for Lowlight 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2605.26629](https://arxiv.org/abs/2605.26629)|null|
-|**2026-05-26**|**Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction**|Zhenhua Du et.al.|[2605.26616](https://arxiv.org/abs/2605.26616)|null|
-|**2026-05-26**|**Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting**|Jiangbei Hu et.al.|[2605.26447](https://arxiv.org/abs/2605.26447)|null|
-|**2026-05-25**|**RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields**|Chuhan Chen et.al.|[2605.26328](https://arxiv.org/abs/2605.26328)|null|
-|**2026-05-28**|**F-RNG: Feed-Forward Relightable Neural Gaussians**|Guangming Fu et.al.|[2605.25975](https://arxiv.org/abs/2605.25975)|null|
-|**2026-05-25**|**Learning View-Dependent Splatting Kernels**|Huakeng Ding et.al.|[2605.25426](https://arxiv.org/abs/2605.25426)|null|
-|**2026-05-22**|**RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video**|Chenyu Wu et.al.|[2605.23672](https://arxiv.org/abs/2605.23672)|null|
-|**2026-05-22**|**LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images**|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
-|**2026-05-22**|**StereoGenBench: A Synthetic Multi-Camera Benchmark for Stereo Generation under Controlled Baseline Regimes**|Yangzhi Cui et.al.|[2605.23237](https://arxiv.org/abs/2605.23237)|null|
-|**2026-05-21**|**Diffusion-guided Generalizable Enhancer for Urban Scene Reconstruction**|Henry Che et.al.|[2605.22420](https://arxiv.org/abs/2605.22420)|null|
-|**2026-05-21**|**TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting**|Hyeseong Kim et.al.|[2605.22069](https://arxiv.org/abs/2605.22069)|null|
-|**2026-05-20**|**Latent Dynamics for Full Body Avatar Animation**|Shichong Peng et.al.|[2605.21478](https://arxiv.org/abs/2605.21478)|null|
-|**2026-05-20**|**Towards Physically Consistent 4D Scene Reconstruction for Closed-loop Autonomous Driving Simulation**|Bowyn Tan et.al.|[2605.21032](https://arxiv.org/abs/2605.21032)|null|
-|**2026-05-19**|**Feed-Forward Gaussian Splatting from Sparse Aerial Views**|Dongli Wu et.al.|[2605.19949](https://arxiv.org/abs/2605.19949)|null|
-|**2026-05-19**|**Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images**|Matias Turkulainen et.al.|[2605.19656](https://arxiv.org/abs/2605.19656)|null|
-|**2026-05-18**|**PIXLRelight: Controllable Relighting via Intrinsic Conditioning**|Miguel Farinha et.al.|[2605.18735](https://arxiv.org/abs/2605.18735)|null|
+|2026-05-28|Supercharging Thermal Gaussian Splatting with Depth Estimation|Manoj Biswanath et.al.|[2605.30328](https://arxiv.org/abs/2605.30328)|null|
+|2026-05-28|DVSM: Decoder-only View Synthesis Model Done Right|Cheng Sun et.al.|[2605.29891](https://arxiv.org/abs/2605.29891)|null|
+|2026-05-28|Learning Representations from 3D Gaussian Splats|Julia Farganus et.al.|[2605.29549](https://arxiv.org/abs/2605.29549)|null|
+|2026-05-26|GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting|Pedro Martin et.al.|[2605.26880](https://arxiv.org/abs/2605.26880)|null|
+|2026-05-26|DelowlightSplat: Feed-Forward Gaussian Splatting for Lowlight 3D Scene Reconstruction|Fuzhen Jiang et.al.|[2605.26629](https://arxiv.org/abs/2605.26629)|null|
+|2026-05-26|Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction|Zhenhua Du et.al.|[2605.26616](https://arxiv.org/abs/2605.26616)|null|
+|2026-05-26|Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting|Jiangbei Hu et.al.|[2605.26447](https://arxiv.org/abs/2605.26447)|null|
+|2026-05-25|RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields|Chuhan Chen et.al.|[2605.26328](https://arxiv.org/abs/2605.26328)|null|
+|2026-05-28|F-RNG: Feed-Forward Relightable Neural Gaussians|Guangming Fu et.al.|[2605.25975](https://arxiv.org/abs/2605.25975)|null|
+|2026-05-25|Learning View-Dependent Splatting Kernels|Huakeng Ding et.al.|[2605.25426](https://arxiv.org/abs/2605.25426)|null|
+|2026-05-22|RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video|Chenyu Wu et.al.|[2605.23672](https://arxiv.org/abs/2605.23672)|null|
+|2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
+|2026-05-22|StereoGenBench: A Synthetic Multi-Camera Benchmark for Stereo Generation under Controlled Baseline Regimes|Yangzhi Cui et.al.|[2605.23237](https://arxiv.org/abs/2605.23237)|null|
+|2026-05-21|Diffusion-guided Generalizable Enhancer for Urban Scene Reconstruction|Henry Che et.al.|[2605.22420](https://arxiv.org/abs/2605.22420)|null|
+|2026-05-21|TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting|Hyeseong Kim et.al.|[2605.22069](https://arxiv.org/abs/2605.22069)|null|
+|2026-05-20|Latent Dynamics for Full Body Avatar Animation|Shichong Peng et.al.|[2605.21478](https://arxiv.org/abs/2605.21478)|null|
+|2026-05-20|Towards Physically Consistent 4D Scene Reconstruction for Closed-loop Autonomous Driving Simulation|Bowyn Tan et.al.|[2605.21032](https://arxiv.org/abs/2605.21032)|null|
+|2026-05-19|Feed-Forward Gaussian Splatting from Sparse Aerial Views|Dongli Wu et.al.|[2605.19949](https://arxiv.org/abs/2605.19949)|null|
+|2026-05-19|Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images|Matias Turkulainen et.al.|[2605.19656](https://arxiv.org/abs/2605.19656)|null|
+|2026-05-18|PIXLRelight: Controllable Relighting via Intrinsic Conditioning|Miguel Farinha et.al.|[2605.18735](https://arxiv.org/abs/2605.18735)|null|
 |2026-05-14|3D Skew-Normal Splatting|Xiangru Wu et.al.|[2605.15010](https://arxiv.org/abs/2605.15010)|null|
 |2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
 |2026-05-13|PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting|Adil Qureshi et.al.|[2605.14135](https://arxiv.org/abs/2605.14135)|null|

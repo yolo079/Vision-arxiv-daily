@@ -4,19 +4,19 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704](https://arxiv.org/abs/2605.29704)|null|
-|**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216](https://arxiv.org/abs/2605.25216)|null|
-|**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395](https://arxiv.org/abs/2605.24395)|**[link](https://github.com/yq-leo/AvAtar-ICML26)**|
-|**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274](https://arxiv.org/abs/2605.20274)|null|
-|**2026-05-15**|**Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion**|Xiongjun Guan et.al.|[2605.15796](https://arxiv.org/abs/2605.15796)|null|
-|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741](https://arxiv.org/abs/2605.07741)|null|
-|**2026-05-25**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607](https://arxiv.org/abs/2605.07607)|null|
-|**2026-05-11**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541](https://arxiv.org/abs/2605.04541)|null|
-|**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318](https://arxiv.org/abs/2604.26318)|null|
-|**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
-|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518](https://arxiv.org/abs/2604.22518)|null|
-|**2026-04-25**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](https://arxiv.org/abs/2604.19596)|null|
-|**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721](https://arxiv.org/abs/2604.17721)|null|
+|2026-05-28|FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration|Yuan Zhou et.al.|[2605.29704](https://arxiv.org/abs/2605.29704)|null|
+|2026-05-24|InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking|Pengfei Ye et.al.|[2605.25216](https://arxiv.org/abs/2605.25216)|null|
+|2026-05-23|AvAtar: Learning to Align via Active Optimal Transport|Qi Yu et.al.|[2605.24395](https://arxiv.org/abs/2605.24395)|[link](https://github.com/yq-leo/AvAtar-ICML26)|
+|2026-05-19|PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation|Lu He et.al.|[2605.20274](https://arxiv.org/abs/2605.20274)|null|
+|2026-05-15|Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion|Xiongjun Guan et.al.|[2605.15796](https://arxiv.org/abs/2605.15796)|null|
+|2026-05-08|Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval|Jiahua Ren et.al.|[2605.07741](https://arxiv.org/abs/2605.07741)|null|
+|2026-05-25|FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth|Zhixin Cheng et.al.|[2605.07607](https://arxiv.org/abs/2605.07607)|null|
+|2026-05-11|Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection|Muyao Peng et.al.|[2605.04541](https://arxiv.org/abs/2605.04541)|null|
+|2026-04-29|Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets|Kuo-Liang Chung et.al.|[2604.26318](https://arxiv.org/abs/2604.26318)|null|
+|2026-04-27|Point Cloud Registration for Fusion between SPECT MPI and CTA Images|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
+|2026-04-24|Non-Minimal Sampling and Consensus for Prohibitively Large Datasets|Seong Hun Lee et.al.|[2604.22518](https://arxiv.org/abs/2604.22518)|null|
+|2026-04-25|PC2Model: ISPRS benchmark on 3D point cloud to model registration|Mehdi Maboudi et.al.|[2604.19596](https://arxiv.org/abs/2604.19596)|null|
+|2026-04-20|GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion|Jiayi Tian et.al.|[2604.17721](https://arxiv.org/abs/2604.17721)|null|
 |2026-04-19|Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud|Eashrat Jahan Muniya et.al.|[2604.17389](https://arxiv.org/abs/2604.17389)|null|
 |2026-04-17|C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion|Yuval Haitman et.al.|[2604.16680](https://arxiv.org/abs/2604.16680)|null|
 |2026-04-15|BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps|Patrick Pfreundschuh et.al.|[2604.14421](https://arxiv.org/abs/2604.14421)|null|
@@ -47,8 +47,8 @@
 |2025-12-02|TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction|Fengyi Zhang et.al.|[2512.02341](http://arxiv.org/abs/2512.02341)|null|
 |2025-12-01|Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching|Yue Pan et.al.|[2512.01850](https://arxiv.org/abs/2512.01850)|null|
 |2025-11-30|LAHNet: Local Attentive Hashing Network for Point Cloud Registration|Wentao Qu et.al.|[2512.00927](https://arxiv.org/abs/2512.00927)|null|
-|2025-12-02|PointCNN++: Performant Convolution on Native Points|Lihan Li et.al.|[2511.23227](https://arxiv.org/abs/2511.23227)|**[link](https://github.com/Lihhan/PointCNNpp)**|
-|2025-11-28|ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance|Congjia Chen et.al.|[2511.22908](https://arxiv.org/abs/2511.22908)|**[link](https://github.com/ccjccjccj/ViGG)**|
+|2025-12-02|PointCNN++: Performant Convolution on Native Points|Lihan Li et.al.|[2511.23227](https://arxiv.org/abs/2511.23227)|[link](https://github.com/Lihhan/PointCNNpp)|
+|2025-11-28|ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance|Congjia Chen et.al.|[2511.22908](https://arxiv.org/abs/2511.22908)|[link](https://github.com/ccjccjccj/ViGG)|
 |2025-11-27|Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR|Yuyang Zou et.al.|[2511.22267](http://arxiv.org/abs/2511.22267)|null|
 |2025-11-26|Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss|Chou Mo et.al.|[2511.21575](http://arxiv.org/abs/2511.21575)|null|
 |2025-11-26|E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework|Adeela Islam et.al.|[2511.21422](http://arxiv.org/abs/2511.21422)|null|

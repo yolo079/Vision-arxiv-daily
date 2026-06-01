@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-28**|**NeuROK: Generative 4D Neural Object Kinematics**|Chen Geng et.al.|[2605.30347](https://arxiv.org/abs/2605.30347)|null|
-|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](https://arxiv.org/abs/2605.30346)|null|
-|**2026-05-28**|**minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models**|Min Zhao et.al.|[2605.30263](https://arxiv.org/abs/2605.30263)|null|
-|**2026-05-28**|**Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences**|Benjamin Walker et.al.|[2605.30100](https://arxiv.org/abs/2605.30100)|null|
-|**2026-05-28**|**Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment**|Toru Takahashi et.al.|[2605.29930](https://arxiv.org/abs/2605.29930)|null|
-|**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault et.al.|[2605.29585](https://arxiv.org/abs/2605.29585)|null|
-|**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|
-|**2026-05-28**|**PassNet: Scaling Large Language Models for Graph Compiler Pass Generation**|Yiqun Liu et.al.|[2605.29357](https://arxiv.org/abs/2605.29357)|null|
-|**2026-05-27**|**Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning**|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
-|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
-|**2026-05-22**|**LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation**|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
-|**2026-05-22**|**Learning a Particle Dynamics Model with Real-world Videos**|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|null|
-|**2026-05-22**|**CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models**|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|null|
-|**2026-05-22**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345](https://arxiv.org/abs/2605.23345)|null|
-|**2026-05-22**|**WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents**|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
-|**2026-05-21**|**Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics**|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
-|**2026-05-21**|**World Machine: Towards Generative World Modeling for Time-Series**|Elton Cardoso do Nascimento et.al.|[2605.23025](https://arxiv.org/abs/2605.23025)|null|
-|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|null|
-|**2026-05-21**|**Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning**|Anjie Qiu et.al.|[2605.22456](https://arxiv.org/abs/2605.22456)|null|
-|**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446](https://arxiv.org/abs/2605.22446)|null|
+|2026-05-28|NeuROK: Generative 4D Neural Object Kinematics|Chen Geng et.al.|[2605.30347](https://arxiv.org/abs/2605.30347)|null|
+|2026-05-28|YoCausal: How Far is Video Generation from World Model? A Causality Perspective|You-Zhe Xie et.al.|[2605.30346](https://arxiv.org/abs/2605.30346)|null|
+|2026-05-28|minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models|Min Zhao et.al.|[2605.30263](https://arxiv.org/abs/2605.30263)|null|
+|2026-05-28|Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences|Benjamin Walker et.al.|[2605.30100](https://arxiv.org/abs/2605.30100)|null|
+|2026-05-28|Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment|Toru Takahashi et.al.|[2605.29930](https://arxiv.org/abs/2605.29930)|null|
+|2026-05-28|World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models|Emmanuelle Bourigault et.al.|[2605.29585](https://arxiv.org/abs/2605.29585)|null|
+|2026-05-28|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|
+|2026-05-28|PassNet: Scaling Large Language Models for Graph Compiler Pass Generation|Yiqun Liu et.al.|[2605.29357](https://arxiv.org/abs/2605.29357)|null|
+|2026-05-27|Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
+|2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
+|2026-05-22|LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
+|2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|null|
+|2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|null|
+|2026-05-22|SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models|Zizhao Tong et.al.|[2605.23345](https://arxiv.org/abs/2605.23345)|null|
+|2026-05-22|WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
+|2026-05-21|Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
+|2026-05-21|World Machine: Towards Generative World Modeling for Time-Series|Elton Cardoso do Nascimento et.al.|[2605.23025](https://arxiv.org/abs/2605.23025)|null|
+|2026-05-21|MotiMotion: Motion-Controlled Video Generation with Visual Reasoning|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|null|
+|2026-05-21|Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning|Anjie Qiu et.al.|[2605.22456](https://arxiv.org/abs/2605.22456)|null|
+|2026-05-21|Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts|Zhen Sun et.al.|[2605.22446](https://arxiv.org/abs/2605.22446)|null|
 |2026-05-14|Quantitative Video World Model Evaluation for Geometric-Consistency|Jiaxin Wu et.al.|[2605.15185](https://arxiv.org/abs/2605.15185)|null|
 |2026-05-14|Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video|Yifan Wang et.al.|[2605.15182](https://arxiv.org/abs/2605.15182)|null|
 |2026-05-14|SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer|Haoyi Zhu et.al.|[2605.15178](https://arxiv.org/abs/2605.15178)|null|
@@ -33,7 +33,7 @@
 |2026-05-14|MechVerse: Evaluating Physical Motion Consistency in Video Generation Models|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|null|
 |2026-05-14|Probing into Camera Control of Video Models|Chen Hou et.al.|[2605.14815](https://arxiv.org/abs/2605.14815)|null|
 |2026-05-14|ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface|Mingyue Li et.al.|[2605.14757](https://arxiv.org/abs/2605.14757)|null|
-|2026-05-14|Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model|Minghao Wu et.al.|[2605.14723](https://arxiv.org/abs/2605.14723)|**[link](https://github.com/FreedomIntelligence/SepsisAgent)**|
+|2026-05-14|Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model|Minghao Wu et.al.|[2605.14723](https://arxiv.org/abs/2605.14723)|[link](https://github.com/FreedomIntelligence/SepsisAgent)|
 |2026-05-07|Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?|Yukiyasu Kamitani et.al.|[2605.06420](https://arxiv.org/abs/2605.06420)|null|
 |2026-05-07|Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models|Nilaksh et.al.|[2605.06388](https://arxiv.org/abs/2605.06388)|null|
 |2026-05-07|Earth-o1: A Grid-free Observation-native Atmospheric World Model|Junchao Gong et.al.|[2605.06337](https://arxiv.org/abs/2605.06337)|null|
