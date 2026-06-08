@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.06.06
+> Updated on 2026.06.08
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
-|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
-|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
-|**2026-06-01**|**FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds**|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
-|**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
-|**2026-05-29**|**iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning**|Chang-Bin Zhang et.al.|[2605.31096](https://arxiv.org/abs/2605.31096)|null|
-|**2026-05-29**|**DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2605.30769](https://arxiv.org/abs/2605.30769)|null|
-|**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
-|**2026-05-20**|**MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue**|Anna Deichler et.al.|[2605.21796](https://arxiv.org/abs/2605.21796)|null|
-|**2026-05-19**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551](https://arxiv.org/abs/2605.20551)|null|
+|2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
+|2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
+|2026-06-01|Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
+|2026-06-01|FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
+|2026-05-31|One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
+|2026-05-29|iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning|Chang-Bin Zhang et.al.|[2605.31096](https://arxiv.org/abs/2605.31096)|null|
+|2026-05-29|DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition|Dhyey Manish Rajani et.al.|[2605.30769](https://arxiv.org/abs/2605.30769)|null|
+|2026-05-27|SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
+|2026-05-20|MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue|Anna Deichler et.al.|[2605.21796](https://arxiv.org/abs/2605.21796)|null|
+|2026-05-19|Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning|Zichao Zeng et.al.|[2605.20551](https://arxiv.org/abs/2605.20551)|null|
 |2026-05-19|Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth|Viktor Kocur et.al.|[2605.19797](https://arxiv.org/abs/2605.19797)|null|
 |2026-05-19|KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision|Maya Yanko et.al.|[2605.19435](https://arxiv.org/abs/2605.19435)|null|
 |2026-05-18|Imaging Hidden Objects with Consumer LiDAR via Motion Induced Sampling|Siddharth Somasundaram et.al.|[2605.17865](https://arxiv.org/abs/2605.17865)|null|
@@ -40,7 +40,7 @@
 |2026-04-20|HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval|Zixu Li et.al.|[2604.18037](https://arxiv.org/abs/2604.18037)|null|
 |2026-04-20|Brain-Inspired Capture: Evidence-Driven Neuromimetic Perceptual Simulation for Visual Decoding|Feixue Shao et.al.|[2604.17927](https://arxiv.org/abs/2604.17927)|null|
 |2026-04-20|ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval|Zixu Li et.al.|[2604.17898](https://arxiv.org/abs/2604.17898)|null|
-|2026-04-20|Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval|Lin Jiang et.al.|[2604.17782](https://arxiv.org/abs/2604.17782)|null|
+|2026-04-20|Subject-Aware Multi-Granularity Alignment for Zero-Shot EEG-to-Image Retrieval|Lin Jiang et.al.|[2604.17782](https://arxiv.org/abs/2604.17782)|**[link](https://github.com/LinJiang8/SAMGA)**|
 |2026-04-18|mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval|Kyeong Seon Kim et.al.|[2604.17054](https://arxiv.org/abs/2604.17054)|null|
 |2026-04-18|KIRA: Knowledge-Intensive Image Retrieval and Reasoning Architecture for Specialized Visual Domains|Parthaw Goswami et.al.|[2604.16915](https://arxiv.org/abs/2604.16915)|null|
 |2026-04-17|Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization|Siddhant Bharadwaj et.al.|[2604.16248](https://arxiv.org/abs/2604.16248)|null|
@@ -70,12 +70,12 @@
 |2026-03-29|RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization|Junwei Zheng et.al.|[2603.27758](https://arxiv.org/abs/2603.27758)|null|
 |2026-03-29|NeedleDB: A Generative-AI Based System for Accurate and Efficient Image Retrieval using Complex Natural Language Queries|Mahdi Erfanian et.al.|[2603.27464](https://arxiv.org/abs/2603.27464)|null|
 |2026-03-27|Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones|Moritz Nottebaum et.al.|[2603.26551](https://arxiv.org/abs/2603.26551)|null|
-|2026-03-27|HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network|Mingyu Zhang et.al.|[2603.26341](https://arxiv.org/abs/2603.26341)|**[link](https://github.com/iLearn-Lab/ICASSP26-HINT)**|
+|2026-03-27|HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network|Mingyu Zhang et.al.|[2603.26341](https://arxiv.org/abs/2603.26341)|[link](https://github.com/iLearn-Lab/ICASSP26-HINT)|
 |2026-03-27|4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation|Ningyuan Huang et.al.|[2603.26206](https://arxiv.org/abs/2603.26206)|null|
 |2026-03-26|Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods|Ofer Idan et.al.|[2603.25891](https://arxiv.org/abs/2603.25891)|null|
-|2026-03-26|Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming|Yunus Talha Erzurumlu et.al.|[2603.25686](https://arxiv.org/abs/2603.25686)|**[link](https://github.com/OSUPCVLab/just-zoom-in)**|
+|2026-03-26|Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming|Yunus Talha Erzurumlu et.al.|[2603.25686](https://arxiv.org/abs/2603.25686)|[link](https://github.com/OSUPCVLab/just-zoom-in)|
 |2026-03-26|On-Demand Instructional Material Providing Agent Based on MLLM for Tutoring Support|Takumi Kato et.al.|[2603.25195](https://arxiv.org/abs/2603.25195)|null|
-|2026-03-28|TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval|David G. Shatwell et.al.|[2603.24749](https://arxiv.org/abs/2603.24749)|**[link](https://github.com/dshatwell23/tiger.github.io)**|
+|2026-03-28|TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval|David G. Shatwell et.al.|[2603.24749](https://arxiv.org/abs/2603.24749)|[link](https://github.com/dshatwell23/tiger.github.io)|
 |2026-03-24|Sparse Autoencoders for Interpretable Medical Image Representation Learning|Philipp Wesp et.al.|[2603.23794](https://arxiv.org/abs/2603.23794)|[link](https://github.com/pwesp/sail)|
 |2026-03-24|ARGENT: Adaptive Hierarchical Image-Text Representations|Chuong Huynh et.al.|[2603.23311](https://arxiv.org/abs/2603.23311)|[link](https://github.com/Ufere/Assingment_1)|
 |2026-03-24|Retrieval-Guided Photovoltaic Inventory Estimation from Satellite Imagery for Distribution Grid Planning|Muhao Guo et.al.|[2603.22856](https://arxiv.org/abs/2603.22856)|null|
@@ -163,7 +163,7 @@
 |2026-01-14|Hybrid guided variational autoencoder for visual place recognition|Ni Wang et.al.|[2601.09248](https://arxiv.org/abs/2601.09248)|null|
 |2026-01-13|Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps|Krzysztof Zielinski et.al.|[2601.08520](https://arxiv.org/abs/2601.08520)|null|
 |2026-01-13|Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation|Kang Fu et.al.|[2601.08311](https://arxiv.org/abs/2601.08311)|null|
-|2026-01-13|Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization|Miao Pan et.al.|[2601.06224](https://arxiv.org/abs/2601.06224)|null|
+|2026-01-13|Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization|Miao Pan et.al.|[2601.06224](https://arxiv.org/abs/2601.06224)|**[link](https://github.com/ZJU-OmniAI/OMNEX-VL)**|
 |2026-01-08|Multi-task Cross-modal Learning for Chest X-ray Image Retrieval|Zhaohui Liang et.al.|[2601.05399](https://arxiv.org/abs/2601.05399)|null|
 |2026-01-07|ImLoc: Revisiting Visual Localization with Image-based Representation|Xudong Jiang et.al.|[2601.04185](https://arxiv.org/abs/2601.04185)|null|
 |2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|null|
@@ -278,7 +278,7 @@
 |2025-10-10|Hierarchical Scheduling for Multi-Vector Image Retrieval|Maoliang Li et.al.|[2510.08976](http://arxiv.org/abs/2510.08976)|null|
 |2025-10-09|DarkHash: A Data-Free Backdoor Attack Against Deep Hashing|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|null|
 |2025-10-09|CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning|Weihuang Lin et.al.|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
-|2025-10-09|Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|null|
+|2025-10-09|Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|**[link](https://github.com/mxx0723/MLH)**|
 |2025-10-08|Multi-hop Deep Joint Source-Channel Coding with Deep Hash Distillation for Semantically Aligned Image Retrieval|Didrik Bergström et.al.|[2510.06868](http://arxiv.org/abs/2510.06868)|null|
 |2025-10-07|CalibCLIP: Contextual Calibration of Dominant Semantics for Text-Driven Image Retrieval|Bin Kang et.al.|[2510.05586](http://arxiv.org/abs/2510.05586)|null|
 |2025-10-06|Personalizing Retrieval using Joint Embeddings or "the Return of Fluffy"|Bruno Korbar et.al.|[2510.05411](http://arxiv.org/abs/2510.05411)|null|

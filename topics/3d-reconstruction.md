@@ -1,19 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.06
+> Updated on 2026.06.08
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](https://arxiv.org/abs/2606.06039)|null|
-|**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](https://arxiv.org/abs/2606.05998)|null|
-|**2026-06-04**|**Robust and sparse support vector machine via hybrid truncated loss for supervised classification**|Yuliang Yang et.al.|[2606.05814](https://arxiv.org/abs/2606.05814)|null|
-|**2026-06-04**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](https://arxiv.org/abs/2606.05774)|null|
-|**2026-06-03**|**Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers**|Jean Cordonnier et.al.|[2606.05491](https://arxiv.org/abs/2606.05491)|null|
-|**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](https://arxiv.org/abs/2606.05035)|null|
-|**2026-06-03**|**Hierarchical Space Partition for Surface Reconstruction**|Minjie Tang et.al.|[2606.04891](https://arxiv.org/abs/2606.04891)|null|
-|**2026-06-03**|**Recent Advances and Trends in Learning-based 3D Representations**|Adrien Schockaert et.al.|[2606.04871](https://arxiv.org/abs/2606.04871)|null|
-|**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
-|**2026-06-03**|**Cone-Compatible Monge Geometry for High-Dimensional Ordered Optimal Transport**|Lei Luo et.al.|[2606.04695](https://arxiv.org/abs/2606.04695)|null|
+|2026-06-04|Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction|Genyuan Zhang et.al.|[2606.06039](https://arxiv.org/abs/2606.06039)|null|
+|2026-06-04|Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images|Jihun Cho et.al.|[2606.05998](https://arxiv.org/abs/2606.05998)|null|
+|2026-06-04|Robust and sparse support vector machine via hybrid truncated loss for supervised classification|Yuliang Yang et.al.|[2606.05814](https://arxiv.org/abs/2606.05814)|null|
+|2026-06-04|LiAuto-GeoX: Efficient Grounded Driving Transformer|Jiawei Lian et.al.|[2606.05774](https://arxiv.org/abs/2606.05774)|null|
+|2026-06-03|Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers|Jean Cordonnier et.al.|[2606.05491](https://arxiv.org/abs/2606.05491)|null|
+|2026-06-03|Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping|Peilin Tao et.al.|[2606.05035](https://arxiv.org/abs/2606.05035)|null|
+|2026-06-03|Hierarchical Space Partition for Surface Reconstruction|Minjie Tang et.al.|[2606.04891](https://arxiv.org/abs/2606.04891)|null|
+|2026-06-03|Recent Advances and Trends in Learning-based 3D Representations|Adrien Schockaert et.al.|[2606.04871](https://arxiv.org/abs/2606.04871)|null|
+|2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
+|2026-06-03|Cone-Compatible Monge Geometry for High-Dimensional Ordered Optimal Transport|Lei Luo et.al.|[2606.04695](https://arxiv.org/abs/2606.04695)|null|
 |2026-05-28|Supercharging Thermal Gaussian Splatting with Depth Estimation|Manoj Biswanath et.al.|[2605.30328](https://arxiv.org/abs/2605.30328)|null|
 |2026-05-28|City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images|Sayan Paul et.al.|[2605.30310](https://arxiv.org/abs/2605.30310)|null|
 |2026-05-28|SAM3D-Phys: Towards Multi-Object Interactive Simulation in Real World|Xin Dong et.al.|[2605.30239](https://arxiv.org/abs/2605.30239)|null|
