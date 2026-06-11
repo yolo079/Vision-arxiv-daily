@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.06.08
+> Updated on 2026.06.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models**|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|null|
+|**2026-06-09**|**Exploring the Design Space of Reward Backpropagation for Flow Matching**|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|null|
+|**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](https://arxiv.org/abs/2606.11025)|null|
+|**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](https://arxiv.org/abs/2606.10613)|null|
+|**2026-06-09**|**Flexible Flows for Biological Sequence Design**|Yogesh Verma et.al.|[2606.10543](https://arxiv.org/abs/2606.10543)|null|
+|**2026-06-09**|**LAFP: Preserving Latent Action Structure in Latent Policy Learning via Flow Matching**|Jiexi Lyu et.al.|[2606.10517](https://arxiv.org/abs/2606.10517)|null|
+|**2026-06-09**|**Few-step Generative Models as Lossy Compression**|Fuma Kimishima et.al.|[2606.10450](https://arxiv.org/abs/2606.10450)|null|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](https://arxiv.org/abs/2606.10371)|null|
+|**2026-06-09**|**Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems**|Shaoqian Zhou et.al.|[2606.10370](https://arxiv.org/abs/2606.10370)|null|
+|**2026-06-09**|**Speech Meets ELF: Audio Conditional Continuous-Target Diffusion for Speech Recognition and Translation**|Xuanchen Li et.al.|[2606.10368](https://arxiv.org/abs/2606.10368)|null|
 |2026-06-04|Flow-based Policy Adaptation without Policy Updates|Luzhe Sun et.al.|[2606.06461](https://arxiv.org/abs/2606.06461)|null|
 |2026-06-04|Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss|Thomas T. Zhang et.al.|[2606.06418](https://arxiv.org/abs/2606.06418)|null|
 |2026-06-04|PAMF: Prior-Aware Multimodal Fusion for Incomplete Time Series Data|Ziwen Kan et.al.|[2606.06328](https://arxiv.org/abs/2606.06328)|null|

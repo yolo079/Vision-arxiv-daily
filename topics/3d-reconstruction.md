@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.08
+> Updated on 2026.06.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**MV-Actor: Aligning Multi-View Semantics and Spatial Awareness for Bimanual Manipulation**|Yinchen Tian et.al.|[2606.10899](https://arxiv.org/abs/2606.10899)|null|
+|**2026-06-09**|**3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis**|Yuhao Wang et.al.|[2606.10478](https://arxiv.org/abs/2606.10478)|null|
+|**2026-06-09**|**Superheating field of clean superconductors near the type-I--type-II boundary: the low-temperature Meissner stability limit of niobium**|Takayuki Kubo et.al.|[2606.10420](https://arxiv.org/abs/2606.10420)|null|
+|**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](https://arxiv.org/abs/2606.10350)|null|
+|**2026-06-08**|**ABot-Earth 0.5: Generative 3D Earth Model**|Ming Qian et.al.|[2606.09967](https://arxiv.org/abs/2606.09967)|null|
+|**2026-06-08**|**Beyond Spherical Harmonics: Rethinking Appearance Models for Radiance Reconstruction**|Ewa Miazga et.al.|[2606.09794](https://arxiv.org/abs/2606.09794)|null|
+|**2026-06-08**|**Pseudocompact Topological \(MV\)-Algebras**|Li-Hong Xie et.al.|[2606.09259](https://arxiv.org/abs/2606.09259)|null|
+|**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](https://arxiv.org/abs/2606.09218)|null|
+|**2026-06-08**|**Static Electric Fields as a Model for Hydrogen-Bond-Induced Dissociation of HF and HCl**|Megan Grace et.al.|[2606.09011](https://arxiv.org/abs/2606.09011)|null|
+|**2026-06-08**|**Valley Engineering in Bilayer WSe $_2$ Gate-All-Around Transistors**|Katsunori Wakabayashi et.al.|[2606.08955](https://arxiv.org/abs/2606.08955)|null|
 |2026-06-04|Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction|Genyuan Zhang et.al.|[2606.06039](https://arxiv.org/abs/2606.06039)|null|
 |2026-06-04|Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images|Jihun Cho et.al.|[2606.05998](https://arxiv.org/abs/2606.05998)|null|
 |2026-06-04|Robust and sparse support vector machine via hybrid truncated loss for supervised classification|Yuliang Yang et.al.|[2606.05814](https://arxiv.org/abs/2606.05814)|null|
