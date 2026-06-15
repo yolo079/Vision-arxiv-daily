@@ -1,25 +1,25 @@
 # World Model
 
-> Updated on 2026.06.11
+> Updated on 2026.06.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](https://arxiv.org/abs/2606.11187)|null|
-|**2026-06-09**|**TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation**|Yujie Zang et.al.|[2606.11184](https://arxiv.org/abs/2606.11184)|null|
-|**2026-06-09**|**WorldOlympiad: Can Your World Model Survive a Triathlon?**|Yuke Zhao et.al.|[2606.11129](https://arxiv.org/abs/2606.11129)|null|
-|**2026-06-09**|**Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football**|Andrew Kang et.al.|[2606.11120](https://arxiv.org/abs/2606.11120)|null|
-|**2026-06-09**|**AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects**|Yiming Zhao et.al.|[2606.10988](https://arxiv.org/abs/2606.10988)|null|
-|**2026-06-09**|**WorldKernel: A World Model is the Coupling Kernel of Admissible Possible Worlds**|Fabio Rovai et.al.|[2606.10934](https://arxiv.org/abs/2606.10934)|null|
-|**2026-06-09**|**MODIP: Efficient Model-Based Optimization for Diffusion Policies**|Zakariae El Asri et.al.|[2606.10825](https://arxiv.org/abs/2606.10825)|null|
-|**2026-06-09**|**Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency**|Xinrui Wu et.al.|[2606.10620](https://arxiv.org/abs/2606.10620)|null|
-|**2026-06-09**|**ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience**|Jia Luo et.al.|[2606.10359](https://arxiv.org/abs/2606.10359)|null|
-|**2026-06-08**|**BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression**|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
+|2026-06-09|Next Forcing: Causal World Modeling with Multi-Chunk Prediction|Gangwei Xu et.al.|[2606.11187](https://arxiv.org/abs/2606.11187)|null|
+|2026-06-09|TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation|Yujie Zang et.al.|[2606.11184](https://arxiv.org/abs/2606.11184)|null|
+|2026-06-09|WorldOlympiad: Can Your World Model Survive a Triathlon?|Yuke Zhao et.al.|[2606.11129](https://arxiv.org/abs/2606.11129)|null|
+|2026-06-09|Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football|Andrew Kang et.al.|[2606.11120](https://arxiv.org/abs/2606.11120)|null|
+|2026-06-09|AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects|Yiming Zhao et.al.|[2606.10988](https://arxiv.org/abs/2606.10988)|null|
+|2026-06-09|WorldKernel: A World Model is the Coupling Kernel of Admissible Possible Worlds|Fabio Rovai et.al.|[2606.10934](https://arxiv.org/abs/2606.10934)|null|
+|2026-06-09|MODIP: Efficient Model-Based Optimization for Diffusion Policies|Zakariae El Asri et.al.|[2606.10825](https://arxiv.org/abs/2606.10825)|null|
+|2026-06-09|Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency|Xinrui Wu et.al.|[2606.10620](https://arxiv.org/abs/2606.10620)|null|
+|2026-06-09|ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience|Jia Luo et.al.|[2606.10359](https://arxiv.org/abs/2606.10359)|null|
+|2026-06-08|BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
 |2026-06-04|Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators|Chenming Zhu et.al.|[2606.06476](https://arxiv.org/abs/2606.06476)|null|
 |2026-06-04|RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling|Chensheng Dai et.al.|[2606.06309](https://arxiv.org/abs/2606.06309)|null|
 |2026-06-04|MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action|Boyang Zhang et.al.|[2606.06245](https://arxiv.org/abs/2606.06245)|null|
 |2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng et.al.|[2606.06147](https://arxiv.org/abs/2606.06147)|null|
 |2026-06-04|PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models|Xiaoyun Qiu et.al.|[2606.06014](https://arxiv.org/abs/2606.06014)|null|
-|2026-06-04|World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis|Yi Yang et.al.|[2606.05979](https://arxiv.org/abs/2606.05979)|**[link](https://github.com/SJTU-DENG-Lab/WLA)**|
+|2026-06-04|World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis|Yi Yang et.al.|[2606.05979](https://arxiv.org/abs/2606.05979)|[link](https://github.com/SJTU-DENG-Lab/WLA)|
 |2026-06-04|Towards a Data Flywheel for Embodied Intelligence in Logistics|Anlan Yu et.al.|[2606.05960](https://arxiv.org/abs/2606.05960)|null|
 |2026-06-04|Towards World Models in Biomedical Research|Guangyu Wang et.al.|[2606.05925](https://arxiv.org/abs/2606.05925)|null|
 |2026-06-04|PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation|Chong Ma et.al.|[2606.05773](https://arxiv.org/abs/2606.05773)|null|
@@ -132,6 +132,6 @@
 |2026-04-08|The Rhetoric of Machine Learning|Robert C. Williamson et.al.|[2604.06754](https://arxiv.org/abs/2604.06754)|[link](https://github.com/epolyzos/populism_scores)|
 |2026-04-08|Controllable Generative Video Compression|Ding Ding et.al.|[2604.06655](https://arxiv.org/abs/2604.06655)|null|
 |2026-04-07|Neural Computers|Mingchen Zhuge et.al.|[2604.06425](https://arxiv.org/abs/2604.06425)|[link](https://github.com/google-deepmind/dnc)|
-|2026-04-07|Evolution of Video Generative Foundations|Teng Hu et.al.|[2604.06339](https://arxiv.org/abs/2604.06339)|**[link](https://github.com/sjtuplayer/Awesome-Video-Foundations)**|
+|2026-04-07|Evolution of Video Generative Foundations|Teng Hu et.al.|[2604.06339](https://arxiv.org/abs/2604.06339)|[link](https://github.com/sjtuplayer/Awesome-Video-Foundations)|
 |2026-04-07|Action Images: End-to-End Policy Learning via Multiview Video Generation|Haoyu Zhen et.al.|[2604.06168](https://arxiv.org/abs/2604.06168)|null|
 
