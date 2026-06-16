@@ -16,15 +16,15 @@ title: SLAM
   </header>
   <nav class="reader-sidebar">
     <div class="sidebar-title">Topics</div>
-    <a class="sidebar-link" href="point-cloud-registration.html">Point Cloud Registration <span class="sidebar-count">151</span></a>
-    <a class="sidebar-link" href="image-matching.html">Image Matching <span class="sidebar-count">181</span></a>
+    <a class="sidebar-link" href="point-cloud-registration.html">Point Cloud Registration <span class="sidebar-count">154</span></a>
+    <a class="sidebar-link" href="image-matching.html">Image Matching <span class="sidebar-count">182</span></a>
     <a class="sidebar-link active" href="slam.html">SLAM <span class="sidebar-count">299</span></a>
-    <a class="sidebar-link" href="3d-reconstruction.html">3D Reconstruction <span class="sidebar-count">452</span></a>
-    <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">66</span></a>
-    <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">467</span></a>
+    <a class="sidebar-link" href="3d-reconstruction.html">3D Reconstruction <span class="sidebar-count">462</span></a>
+    <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">70</span></a>
+    <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">470</span></a>
     <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">17</span></a>
-    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">130</span></a>
-    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">132</span></a>
+    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">140</span></a>
+    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">142</span></a>
   </nav>
   <section class="reader-list">
     <div class="list-header"><h2>SLAM</h2><span>299 papers</span></div>

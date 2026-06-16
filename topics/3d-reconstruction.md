@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.15
+> Updated on 2026.06.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](https://arxiv.org/abs/2606.14562)|null|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](https://arxiv.org/abs/2606.14534)|null|
+|**2026-06-12**|**Dynamical tidal response of neutron stars via scattering amplitudes**|M. V. S. Saketh et.al.|[2606.14405](https://arxiv.org/abs/2606.14405)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](https://arxiv.org/abs/2606.14389)|null|
+|**2026-06-12**|**More with LESS -- Local Scene Representations for Tactile Imaging**|Zohar Rimon et.al.|[2606.14344](https://arxiv.org/abs/2606.14344)|null|
+|**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](https://arxiv.org/abs/2606.14307)|null|
+|**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](https://arxiv.org/abs/2606.14162)|null|
+|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](https://arxiv.org/abs/2606.13652)|null|
+|**2026-06-11**|**JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space**|Xinnan Zhu et.al.|[2606.13345](https://arxiv.org/abs/2606.13345)|null|
+|**2026-06-11**|**Transformer-Guided Graph Attention for Direct Cardiac Mesh Reconstruction: A Structural Digital Twin Framework**|Abhishek H S et.al.|[2606.13188](https://arxiv.org/abs/2606.13188)|null|
 |2026-06-09|MV-Actor: Aligning Multi-View Semantics and Spatial Awareness for Bimanual Manipulation|Yinchen Tian et.al.|[2606.10899](https://arxiv.org/abs/2606.10899)|null|
 |2026-06-09|3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis|Yuhao Wang et.al.|[2606.10478](https://arxiv.org/abs/2606.10478)|null|
 |2026-06-09|Superheating field of clean superconductors near the type-I--type-II boundary: the low-temperature Meissner stability limit of niobium|Takayuki Kubo et.al.|[2606.10420](https://arxiv.org/abs/2606.10420)|null|

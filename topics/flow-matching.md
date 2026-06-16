@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.06.15
+> Updated on 2026.06.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](https://arxiv.org/abs/2606.13989)|null|
+|**2026-06-11**|**Avatar V: Scaling Video-Reference Avatar Video Generation**|Benjamin Liang et.al.|[2606.13872](https://arxiv.org/abs/2606.13872)|null|
+|**2026-06-12**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](https://arxiv.org/abs/2606.13675)|null|
+|**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672](https://arxiv.org/abs/2606.13672)|null|
+|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](https://arxiv.org/abs/2606.13652)|null|
+|**2026-06-11**|**Surflo: Consistent 3D Surface Flow Model with Global State**|Antoine Guédon et.al.|[2606.13644](https://arxiv.org/abs/2606.13644)|null|
+|**2026-06-11**|**LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories**|Baochang Ren et.al.|[2606.13578](https://arxiv.org/abs/2606.13578)|null|
+|**2026-06-11**|**PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update**|Jianming Ma et.al.|[2606.13400](https://arxiv.org/abs/2606.13400)|null|
+|**2026-06-11**|**Real-Time Execution with Autoregressive Policies**|Sangkyu Lee et.al.|[2606.13355](https://arxiv.org/abs/2606.13355)|null|
+|**2026-06-11**|**ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance**|Salaheldin Mohamed et.al.|[2606.13304](https://arxiv.org/abs/2606.13304)|null|
 |2026-06-09|Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|null|
 |2026-06-09|Exploring the Design Space of Reward Backpropagation for Flow Matching|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|null|
 |2026-06-09|Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models|Bowen Ping et.al.|[2606.11025](https://arxiv.org/abs/2606.11025)|null|
