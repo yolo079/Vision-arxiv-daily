@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.16
+> Updated on 2026.06.21
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
+|**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
+|**2026-06-18**|**Gaussian Process Prior Variational Autoencoder for Endoscopic Videos**|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
+|**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](https://arxiv.org/abs/2606.19874)|null|
+|**2026-06-17**|**NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field**|Chong Bao et.al.|[2606.19316](https://arxiv.org/abs/2606.19316)|null|
+|**2026-06-18**|**Direct large-area observation of subsurface plastic activity in conditioned copper electrodes**|Yinon Ashkenazy et.al.|[2606.19192](https://arxiv.org/abs/2606.19192)|null|
+|**2026-06-17**|**GCNGrasp-VP: Affordance-Guided View Planning for Efficient Task-Oriented Grasping**|Zanjia Tong et.al.|[2606.19091](https://arxiv.org/abs/2606.19091)|null|
+|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](https://arxiv.org/abs/2606.19019)|null|
+|**2026-06-17**|**Solution gate control of shallow silicon vacancy charge states in diamond**|Charlie Pattinson et.al.|[2606.18819](https://arxiv.org/abs/2606.18819)|null|
+|**2026-06-17**|**Learned Radius Estimation for UDF-Based Point Cloud Reconstruction**|Eito Ogawa et.al.|[2606.18787](https://arxiv.org/abs/2606.18787)|null|
 |**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](https://arxiv.org/abs/2606.14562)|null|
 |**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](https://arxiv.org/abs/2606.14534)|null|
 |**2026-06-12**|**Dynamical tidal response of neutron stars via scattering amplitudes**|M. V. S. Saketh et.al.|[2606.14405](https://arxiv.org/abs/2606.14405)|null|
