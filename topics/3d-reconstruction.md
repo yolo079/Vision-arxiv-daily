@@ -1,29 +1,29 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.21
+> Updated on 2026.06.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
-|**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
-|**2026-06-18**|**Gaussian Process Prior Variational Autoencoder for Endoscopic Videos**|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
-|**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](https://arxiv.org/abs/2606.19874)|null|
-|**2026-06-17**|**NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field**|Chong Bao et.al.|[2606.19316](https://arxiv.org/abs/2606.19316)|null|
-|**2026-06-18**|**Direct large-area observation of subsurface plastic activity in conditioned copper electrodes**|Yinon Ashkenazy et.al.|[2606.19192](https://arxiv.org/abs/2606.19192)|null|
-|**2026-06-17**|**GCNGrasp-VP: Affordance-Guided View Planning for Efficient Task-Oriented Grasping**|Zanjia Tong et.al.|[2606.19091](https://arxiv.org/abs/2606.19091)|null|
-|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](https://arxiv.org/abs/2606.19019)|null|
-|**2026-06-17**|**Solution gate control of shallow silicon vacancy charge states in diamond**|Charlie Pattinson et.al.|[2606.18819](https://arxiv.org/abs/2606.18819)|null|
-|**2026-06-17**|**Learned Radius Estimation for UDF-Based Point Cloud Reconstruction**|Eito Ogawa et.al.|[2606.18787](https://arxiv.org/abs/2606.18787)|null|
-|**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](https://arxiv.org/abs/2606.14562)|null|
-|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](https://arxiv.org/abs/2606.14534)|null|
-|**2026-06-12**|**Dynamical tidal response of neutron stars via scattering amplitudes**|M. V. S. Saketh et.al.|[2606.14405](https://arxiv.org/abs/2606.14405)|null|
-|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](https://arxiv.org/abs/2606.14389)|null|
-|**2026-06-12**|**More with LESS -- Local Scene Representations for Tactile Imaging**|Zohar Rimon et.al.|[2606.14344](https://arxiv.org/abs/2606.14344)|null|
-|**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](https://arxiv.org/abs/2606.14307)|null|
-|**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](https://arxiv.org/abs/2606.14162)|null|
-|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](https://arxiv.org/abs/2606.13652)|null|
-|**2026-06-11**|**JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space**|Xinnan Zhu et.al.|[2606.13345](https://arxiv.org/abs/2606.13345)|null|
-|**2026-06-11**|**Transformer-Guided Graph Attention for Direct Cardiac Mesh Reconstruction: A Structural Digital Twin Framework**|Abhishek H S et.al.|[2606.13188](https://arxiv.org/abs/2606.13188)|null|
+|2026-06-18|Towards 3D karst underwater scene reconstruction from rotating sonar data|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
+|2026-06-18|SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
+|2026-06-18|Gaussian Process Prior Variational Autoencoder for Endoscopic Videos|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
+|2026-06-18|MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM|Fan Zhu et.al.|[2606.19874](https://arxiv.org/abs/2606.19874)|null|
+|2026-06-17|NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field|Chong Bao et.al.|[2606.19316](https://arxiv.org/abs/2606.19316)|null|
+|2026-06-18|Direct large-area observation of subsurface plastic activity in conditioned copper electrodes|Yinon Ashkenazy et.al.|[2606.19192](https://arxiv.org/abs/2606.19192)|null|
+|2026-06-17|GCNGrasp-VP: Affordance-Guided View Planning for Efficient Task-Oriented Grasping|Zanjia Tong et.al.|[2606.19091](https://arxiv.org/abs/2606.19091)|null|
+|2026-06-17|FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity|Yuchen Rao et.al.|[2606.19019](https://arxiv.org/abs/2606.19019)|null|
+|2026-06-17|Solution gate control of shallow silicon vacancy charge states in diamond|Charlie Pattinson et.al.|[2606.18819](https://arxiv.org/abs/2606.18819)|null|
+|2026-06-17|Learned Radius Estimation for UDF-Based Point Cloud Reconstruction|Eito Ogawa et.al.|[2606.18787](https://arxiv.org/abs/2606.18787)|null|
+|2026-06-12|NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests|Constanza A. Molina Catricheo et.al.|[2606.14562](https://arxiv.org/abs/2606.14562)|null|
+|2026-06-12|A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens|Anna Bicchi et.al.|[2606.14534](https://arxiv.org/abs/2606.14534)|null|
+|2026-06-12|Dynamical tidal response of neutron stars via scattering amplitudes|M. V. S. Saketh et.al.|[2606.14405](https://arxiv.org/abs/2606.14405)|null|
+|2026-06-12|MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances|Robert Langendörfer et.al.|[2606.14389](https://arxiv.org/abs/2606.14389)|null|
+|2026-06-12|More with LESS -- Local Scene Representations for Tactile Imaging|Zohar Rimon et.al.|[2606.14344](https://arxiv.org/abs/2606.14344)|null|
+|2026-06-12|Pano3D: Unified 3D Reconstruction and Panoptic Segmentation|Victor Barberteguy et.al.|[2606.14307](https://arxiv.org/abs/2606.14307)|null|
+|2026-06-12|VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling|Xunzhi Xiang et.al.|[2606.14162](https://arxiv.org/abs/2606.14162)|null|
+|2026-06-11|World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible|Hao Zhang et.al.|[2606.13652](https://arxiv.org/abs/2606.13652)|null|
+|2026-06-11|JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space|Xinnan Zhu et.al.|[2606.13345](https://arxiv.org/abs/2606.13345)|null|
+|2026-06-11|Transformer-Guided Graph Attention for Direct Cardiac Mesh Reconstruction: A Structural Digital Twin Framework|Abhishek H S et.al.|[2606.13188](https://arxiv.org/abs/2606.13188)|null|
 |2026-06-09|MV-Actor: Aligning Multi-View Semantics and Spatial Awareness for Bimanual Manipulation|Yinchen Tian et.al.|[2606.10899](https://arxiv.org/abs/2606.10899)|null|
 |2026-06-09|3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis|Yuhao Wang et.al.|[2606.10478](https://arxiv.org/abs/2606.10478)|null|
 |2026-06-09|Superheating field of clean superconductors near the type-I--type-II boundary: the low-temperature Meissner stability limit of niobium|Takayuki Kubo et.al.|[2606.10420](https://arxiv.org/abs/2606.10420)|null|
@@ -63,7 +63,7 @@
 |2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|null|
 |2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
 |2026-05-21|Scene Reconstruction as Mapping Priors for 3D Detection|Yang Fu et.al.|[2605.22997](https://arxiv.org/abs/2605.22997)|null|
-|2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|null|
+|2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|**[link](https://github.com/recuriosity/recuriosity)**|
 |2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
 |2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
 |2026-05-14|Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|
@@ -317,9 +317,9 @@
 |2025-12-03|Emergent Outlier View Rejection in Visual Geometry Grounded Transformers|Jisang Han et.al.|[2512.04012](http://arxiv.org/abs/2512.04012)|[link](https://github.com/cvlab-kaist/RobustVGGT)|
 |2025-12-03|DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|[link](https://github.com/frakw/DirectDrag)|
 |2025-11-28|GLOW: Global Illumination-Aware Inverse Rendering of Indoor Scenes Captured with Dynamic Co-Located Light & Camera|Jiaye Wu et.al.|[2511.22857](http://arxiv.org/abs/2511.22857)|null|
-|2025-11-26|TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|2025-11-26|TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|**[link](https://github.com/jayLEE0301/TraceGen)**|
 |2025-11-26|UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes|Kang Du et.al.|[2511.21565](http://arxiv.org/abs/2511.21565)|null|
-|2025-11-26|From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|null|
+|2025-11-26|From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|**[link](https://github.com/jiajiezhang7/LAPS)**|
 |2025-11-26|DeepRFTv2: Kernel-level Learning for Image Deblurring|Xintian Mao et.al.|[2511.21132](http://arxiv.org/abs/2511.21132)|null|
 |2025-11-25|Hund-projected Kanamori model: an effective description of Hund's metals near the Mott insulating regime|Johan Carlström et.al.|[2511.20788](http://arxiv.org/abs/2511.20788)|null|
 |2025-11-25|From Observations to Simulations: A Neural-Network Approach to Intracluster Medium Kinematics|E. Gatuzz et.al.|[2511.20755](http://arxiv.org/abs/2511.20755)|null|

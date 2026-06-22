@@ -1,29 +1,29 @@
 # World Model
 
-> Updated on 2026.06.21
+> Updated on 2026.06.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-18**|**Current World Models Lack a Persistent State Core**|Jinpeng Lu et.al.|[2606.20545](https://arxiv.org/abs/2606.20545)|null|
-|**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](https://arxiv.org/abs/2606.20388)|null|
-|**2026-06-18**|**Sensorimotor World Models: Perception for Action via Inverse Dynamics**|Petr Ivashkov et.al.|[2606.20104](https://arxiv.org/abs/2606.20104)|null|
-|**2026-06-18**|**Holo-World: Unified Camera, Object and Weather Control for Video World Model**|Xiangchen Yin et.al.|[2606.20083](https://arxiv.org/abs/2606.20083)|null|
-|**2026-06-18**|**Reward as An Agent for Embodied World Models**|Pu Li et.al.|[2606.19990](https://arxiv.org/abs/2606.19990)|null|
-|**2026-06-18**|**SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour**|Kaixin Lan et.al.|[2606.19928](https://arxiv.org/abs/2606.19928)|null|
-|**2026-06-18**|**SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics**|Wentao Pan et.al.|[2606.19889](https://arxiv.org/abs/2606.19889)|null|
-|**2026-06-17**|**ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?**|Yuyang Zhang et.al.|[2606.19531](https://arxiv.org/abs/2606.19531)|null|
-|**2026-06-17**|**LooseControlVideo: Directorial Video Control using Spatial Blocking**|Shariq Farooq Bhat et.al.|[2606.19495](https://arxiv.org/abs/2606.19495)|null|
-|**2026-06-17**|**Can In-Context Learning Support Intrinsic Curiosity?**|Eric Elmoznino et.al.|[2606.19476](https://arxiv.org/abs/2606.19476)|null|
-|**2026-06-12**|**SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model**|Xiaoxin Lu et.al.|[2606.14574](https://arxiv.org/abs/2606.14574)|null|
-|**2026-06-12**|**Causal Object-Centric Models for Planning with Monte Carlo Tree Search**|Rodion Vakhitov et.al.|[2606.14418](https://arxiv.org/abs/2606.14418)|null|
-|**2026-06-12**|**ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving**|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|null|
-|**2026-06-11**|**ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation**|Zhiyuan Zhang et.al.|[2606.13877](https://arxiv.org/abs/2606.13877)|null|
-|**2026-06-11**|**Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models**|Senkang Hu et.al.|[2606.13840](https://arxiv.org/abs/2606.13840)|null|
-|**2026-06-11**|**FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift**|Yitao Jiang et.al.|[2606.13817](https://arxiv.org/abs/2606.13817)|null|
-|**2026-06-11**|**$μ_0$ : A Scalable 3D Interaction-Trace World Model**|Seungjae Lee et.al.|[2606.13769](https://arxiv.org/abs/2606.13769)|null|
-|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](https://arxiv.org/abs/2606.13674)|null|
-|**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672](https://arxiv.org/abs/2606.13672)|null|
-|**2026-06-11**|**Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning**|Zach Studdiford et.al.|[2606.13607](https://arxiv.org/abs/2606.13607)|null|
+|2026-06-18|Current World Models Lack a Persistent State Core|Jinpeng Lu et.al.|[2606.20545](https://arxiv.org/abs/2606.20545)|null|
+|2026-06-18|DataMagic: Transforming Tabular Data into Data Insight Video|Yupeng Xie et.al.|[2606.20388](https://arxiv.org/abs/2606.20388)|null|
+|2026-06-18|Sensorimotor World Models: Perception for Action via Inverse Dynamics|Petr Ivashkov et.al.|[2606.20104](https://arxiv.org/abs/2606.20104)|null|
+|2026-06-18|Holo-World: Unified Camera, Object and Weather Control for Video World Model|Xiangchen Yin et.al.|[2606.20083](https://arxiv.org/abs/2606.20083)|null|
+|2026-06-18|Reward as An Agent for Embodied World Models|Pu Li et.al.|[2606.19990](https://arxiv.org/abs/2606.19990)|null|
+|2026-06-18|SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour|Kaixin Lan et.al.|[2606.19928](https://arxiv.org/abs/2606.19928)|null|
+|2026-06-18|SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics|Wentao Pan et.al.|[2606.19889](https://arxiv.org/abs/2606.19889)|null|
+|2026-06-17|ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?|Yuyang Zhang et.al.|[2606.19531](https://arxiv.org/abs/2606.19531)|null|
+|2026-06-17|LooseControlVideo: Directorial Video Control using Spatial Blocking|Shariq Farooq Bhat et.al.|[2606.19495](https://arxiv.org/abs/2606.19495)|null|
+|2026-06-17|Can In-Context Learning Support Intrinsic Curiosity?|Eric Elmoznino et.al.|[2606.19476](https://arxiv.org/abs/2606.19476)|null|
+|2026-06-12|SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|Xiaoxin Lu et.al.|[2606.14574](https://arxiv.org/abs/2606.14574)|null|
+|2026-06-12|Causal Object-Centric Models for Planning with Monte Carlo Tree Search|Rodion Vakhitov et.al.|[2606.14418](https://arxiv.org/abs/2606.14418)|null|
+|2026-06-12|ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|null|
+|2026-06-11|ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation|Zhiyuan Zhang et.al.|[2606.13877](https://arxiv.org/abs/2606.13877)|null|
+|2026-06-11|Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models|Senkang Hu et.al.|[2606.13840](https://arxiv.org/abs/2606.13840)|null|
+|2026-06-11|FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift|Yitao Jiang et.al.|[2606.13817](https://arxiv.org/abs/2606.13817)|null|
+|2026-06-11| $μ_0$ : A Scalable 3D Interaction-Trace World Model|Seungjae Lee et.al.|[2606.13769](https://arxiv.org/abs/2606.13769)|null|
+|2026-06-11|RepWAM: World Action Modeling with Representation Visual-Action Tokenizers|Junke Wang et.al.|[2606.13674](https://arxiv.org/abs/2606.13674)|null|
+|2026-06-11| $\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation|Arnav Kumar Jain et.al.|[2606.13672](https://arxiv.org/abs/2606.13672)|null|
+|2026-06-11|Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning|Zach Studdiford et.al.|[2606.13607](https://arxiv.org/abs/2606.13607)|null|
 |2026-06-09|Next Forcing: Causal World Modeling with Multi-Chunk Prediction|Gangwei Xu et.al.|[2606.11187](https://arxiv.org/abs/2606.11187)|null|
 |2026-06-09|TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation|Yujie Zang et.al.|[2606.11184](https://arxiv.org/abs/2606.11184)|null|
 |2026-06-09|WorldOlympiad: Can Your World Model Survive a Triathlon?|Yuke Zhao et.al.|[2606.11129](https://arxiv.org/abs/2606.11129)|null|
@@ -104,7 +104,7 @@
 |2026-04-30|Simulating clinical interventions with a generative multimodal model of human physiology|Guy Lutsker et.al.|[2604.27899](https://arxiv.org/abs/2604.27899)|null|
 |2026-04-30|Graph World Models: Concepts, Taxonomy, and Future Directions|Jiawei Liu et.al.|[2604.27895](https://arxiv.org/abs/2604.27895)|null|
 |2026-04-30|MotuBrain: An Advanced World Action Model for Robot Control|MotuBrain Team et.al.|[2604.27792](https://arxiv.org/abs/2604.27792)|null|
-|2026-04-23|Seeing Fast and Slow: Learning the Flow of Time in Videos|Yen-Siang Wu et.al.|[2604.21931](https://arxiv.org/abs/2604.21931)|null|
+|2026-04-23|Seeing Fast and Slow: Learning the Flow of Time in Videos|Yen-Siang Wu et.al.|[2604.21931](https://arxiv.org/abs/2604.21931)|**[link](https://github.com/regerah/Seeing-Fast-And-Slow-Learning)**|
 |2026-04-23|Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions|Jiseon Kim et.al.|[2604.21871](https://arxiv.org/abs/2604.21871)|null|
 |2026-04-23|Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training|Yaxuan Li et.al.|[2604.21741](https://arxiv.org/abs/2604.21741)|null|
 |2026-04-22|Building a Precise Video Language with Human-AI Oversight|Zhiqiu Lin et.al.|[2604.21718](https://arxiv.org/abs/2604.21718)|null|

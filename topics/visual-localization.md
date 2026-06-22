@@ -1,22 +1,22 @@
 # Visual Localization
 
-> Updated on 2026.06.21
+> Updated on 2026.06.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-02**|**A Fixed Representation Probe Reveals Morphology-Space Organization in Non-Gaussian Elastic Transients**|Jose Sanchez-Andreu et.al.|[2606.17061](https://arxiv.org/abs/2606.17061)|null|
-|**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](https://arxiv.org/abs/2606.15898)|null|
-|**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
-|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
-|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
-|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|null|
-|**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
-|**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
-|**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
-|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
-|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
-|**2026-06-01**|**FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds**|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
-|**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
+|2026-06-02|A Fixed Representation Probe Reveals Morphology-Space Organization in Non-Gaussian Elastic Transients|Jose Sanchez-Andreu et.al.|[2606.17061](https://arxiv.org/abs/2606.17061)|null|
+|2026-06-14|VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI|Zinan Liu et.al.|[2606.15898](https://arxiv.org/abs/2606.15898)|null|
+|2026-06-13|FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
+|2026-06-11|Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
+|2026-06-11|Visual Place Recognition in Forests with Depth-Aware Distillation|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
+|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|null|
+|2026-06-06|Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
+|2026-06-04|Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
+|2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
+|2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
+|2026-06-01|Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
+|2026-06-01|FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
+|2026-05-31|One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
 |2026-05-29|iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning|Chang-Bin Zhang et.al.|[2605.31096](https://arxiv.org/abs/2605.31096)|null|
 |2026-05-29|DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition|Dhyey Manish Rajani et.al.|[2605.30769](https://arxiv.org/abs/2605.30769)|null|
 |2026-05-27|SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
@@ -191,7 +191,7 @@
 |2025-12-23|Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints|Youjin Jung et.al.|[2512.20781](https://arxiv.org/abs/2512.20781)|[link](https://github.com/jjungyujin/SoFT)|
 |2025-12-23|Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |2025-12-22|Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
-|2025-12-22|Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|null|
+|2025-12-22|Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|**[link](https://github.com/OSU-MLB/Finer-Personalization-Rank)**|
 |2025-12-21|Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|null|
 |2025-12-20|Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval|Dimitrios Georgoulopoulos et.al.|[2512.18407](http://arxiv.org/abs/2512.18407)|null|
 |2025-12-19|Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|

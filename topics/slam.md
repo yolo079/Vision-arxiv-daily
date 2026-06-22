@@ -1,29 +1,29 @@
 # SLAM
 
-> Updated on 2026.06.21
+> Updated on 2026.06.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
-|**2026-06-18**|**Gaussian Process Prior Variational Autoencoder for Endoscopic Videos**|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
-|**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](https://arxiv.org/abs/2606.19874)|null|
-|**2026-06-17**|**FAST-LIVGO: A Degeneracy-Robust LiDAR-Inertial-Visual-GNSS Fusion Odometry**|Zhiyu Chen et.al.|[2606.19190](https://arxiv.org/abs/2606.19190)|null|
-|**2026-06-17**|**Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots**|Roberto Corlito et.al.|[2606.19067](https://arxiv.org/abs/2606.19067)|null|
-|**2026-06-18**|**A High-accuracy Event-based Underwater SLAM System**|Yifan Peng et.al.|[2606.18951](https://arxiv.org/abs/2606.18951)|null|
-|**2026-06-17**|**C-ARC: Continuous-Adaptive Range Clustering for Non-Repetitive LiDAR Sensors**|Nick B. Schroeder et.al.|[2606.18948](https://arxiv.org/abs/2606.18948)|null|
-|**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534](https://arxiv.org/abs/2606.17534)|null|
-|**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](https://arxiv.org/abs/2606.16935)|null|
-|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](https://arxiv.org/abs/2606.16881)|null|
-|**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](https://arxiv.org/abs/2606.10442)|null|
-|**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](https://arxiv.org/abs/2606.09477)|null|
-|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284](https://arxiv.org/abs/2606.08284)|null|
-|**2026-06-06**|**X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting**|Jen-Wei Wang et.al.|[2606.07934](https://arxiv.org/abs/2606.07934)|null|
-|**2026-06-04**|**RadiusFPS: Efficient Farthest Point Sampling on CPUs and GPUs via Spherical Voxel Pruning**|Ziyang Yu et.al.|[2606.06255](https://arxiv.org/abs/2606.06255)|null|
-|**2026-06-04**|**Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM**|Davide Ceriola et.al.|[2606.06250](https://arxiv.org/abs/2606.06250)|null|
-|**2026-06-04**|**Towards Realistic 3D Sonar Simulation**|Youssef Attia et.al.|[2606.06130](https://arxiv.org/abs/2606.06130)|null|
-|**2026-06-03**|**Teaching Robots to Say 'I Don't Know' : SENTINEL for Uncertainty-Aware SLAM**|Abhishek S et.al.|[2606.04853](https://arxiv.org/abs/2606.04853)|null|
-|**2026-06-03**|**BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM**|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|null|
-|**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](https://arxiv.org/abs/2606.03989)|null|
+|2026-06-18|Towards 3D karst underwater scene reconstruction from rotating sonar data|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
+|2026-06-18|Gaussian Process Prior Variational Autoencoder for Endoscopic Videos|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
+|2026-06-18|MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM|Fan Zhu et.al.|[2606.19874](https://arxiv.org/abs/2606.19874)|null|
+|2026-06-17|FAST-LIVGO: A Degeneracy-Robust LiDAR-Inertial-Visual-GNSS Fusion Odometry|Zhiyu Chen et.al.|[2606.19190](https://arxiv.org/abs/2606.19190)|null|
+|2026-06-17|Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots|Roberto Corlito et.al.|[2606.19067](https://arxiv.org/abs/2606.19067)|null|
+|2026-06-18|A High-accuracy Event-based Underwater SLAM System|Yifan Peng et.al.|[2606.18951](https://arxiv.org/abs/2606.18951)|null|
+|2026-06-17|C-ARC: Continuous-Adaptive Range Clustering for Non-Repetitive LiDAR Sensors|Nick B. Schroeder et.al.|[2606.18948](https://arxiv.org/abs/2606.18948)|null|
+|2026-06-16|RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping|Bingbing Zhang et.al.|[2606.17534](https://arxiv.org/abs/2606.17534)|null|
+|2026-06-15|CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation|Jan-Niklas Klein et.al.|[2606.16935](https://arxiv.org/abs/2606.16935)|null|
+|2026-06-15|SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM|Yewei Huang et.al.|[2606.16881](https://arxiv.org/abs/2606.16881)|null|
+|2026-06-09|Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining|Zhuhua Bai et.al.|[2606.10442](https://arxiv.org/abs/2606.10442)|null|
+|2026-06-08|Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems|Tao Li et.al.|[2606.09477](https://arxiv.org/abs/2606.09477)|null|
+|2026-06-06|G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation|Yufei Wei et.al.|[2606.08284](https://arxiv.org/abs/2606.08284)|**[link](https://github.com/WeiYuFei0217/G2G)**|
+|2026-06-06|X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting|Jen-Wei Wang et.al.|[2606.07934](https://arxiv.org/abs/2606.07934)|null|
+|2026-06-04|RadiusFPS: Efficient Farthest Point Sampling on CPUs and GPUs via Spherical Voxel Pruning|Ziyang Yu et.al.|[2606.06255](https://arxiv.org/abs/2606.06255)|null|
+|2026-06-04|Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM|Davide Ceriola et.al.|[2606.06250](https://arxiv.org/abs/2606.06250)|null|
+|2026-06-04|Towards Realistic 3D Sonar Simulation|Youssef Attia et.al.|[2606.06130](https://arxiv.org/abs/2606.06130)|null|
+|2026-06-03|Teaching Robots to Say 'I Don't Know' : SENTINEL for Uncertainty-Aware SLAM|Abhishek S et.al.|[2606.04853](https://arxiv.org/abs/2606.04853)|null|
+|2026-06-03|BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|null|
+|2026-06-02|PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation|Shinjeong Kim et.al.|[2606.03989](https://arxiv.org/abs/2606.03989)|null|
 |2026-06-02|Autonomous Navigation System for Library Service Robot Based on Unitree Go2 Edu|Aoduo Li et.al.|[2606.03340](https://arxiv.org/abs/2606.03340)|null|
 |2026-06-01|Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control|Dawei Zhang et.al.|[2606.01605](https://arxiv.org/abs/2606.01605)|null|
 |2026-05-31|One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
@@ -243,7 +243,7 @@
 |2025-04-27|Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
 |2025-04-27|NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM|Tianyi Zhang et.al.|[2504.19195](http://arxiv.org/abs/2504.19195)|null|
 |2025-04-27|MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction|Yulun Tian et.al.|[2504.19104](http://arxiv.org/abs/2504.19104)|[link](https://github.com/muhnatha/reproduce_MISO)|
-|2025-04-25|Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift|Devansh R. Agrawal et.al.|[2504.18713](http://arxiv.org/abs/2504.18713)|null|
+|2025-04-25|Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift|Devansh R. Agrawal et.al.|[2504.18713](http://arxiv.org/abs/2504.18713)|**[link](https://github.com/dasc-lab/certifiably-correct-mapping)**|
 |2025-04-25|Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU|Takumi Nakao et.al.|[2504.18056](http://arxiv.org/abs/2504.18056)|null|
 |2025-04-24|Autonomous Navigation Of Quadrupeds Using Coverage Path Planning|Alexander James Becoy et.al.|[2504.17880](http://arxiv.org/abs/2504.17880)|null|
 |2025-04-24|BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring|Asier Bikandi et.al.|[2504.17693](http://arxiv.org/abs/2504.17693)|null|
