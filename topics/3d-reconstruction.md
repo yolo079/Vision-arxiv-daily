@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.22
+> Updated on 2026.06.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects**|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](https://arxiv.org/abs/2606.25829)|null|
+|**2026-06-24**|**Quotient homomorphisms of Topological MV-Algebras and Applications**|Li-Hong Xie et.al.|[2606.25676](https://arxiv.org/abs/2606.25676)|null|
+|**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](https://arxiv.org/abs/2606.25430)|null|
+|**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284](https://arxiv.org/abs/2606.25284)|null|
+|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](https://arxiv.org/abs/2606.24829)|null|
+|**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](https://arxiv.org/abs/2606.24799)|null|
+|**2026-06-23**|**Design criteria for a beam-driven resonant passive transverse deflector for longitudinal beam diagnostics**|D. Bazyl et.al.|[2606.24594](https://arxiv.org/abs/2606.24594)|null|
+|**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](https://arxiv.org/abs/2606.24282)|null|
+|**2026-06-23**|**3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis**|Hongli Xiao et.al.|[2606.24257](https://arxiv.org/abs/2606.24257)|null|
+|**2026-06-23**|**FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image**|Kim Youwang et.al.|[2606.24232](https://arxiv.org/abs/2606.24232)|null|
 |2026-06-18|Towards 3D karst underwater scene reconstruction from rotating sonar data|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
 |2026-06-18|SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
 |2026-06-18|Gaussian Process Prior Variational Autoencoder for Endoscopic Videos|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|

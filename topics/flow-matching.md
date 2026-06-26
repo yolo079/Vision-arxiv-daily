@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.06.22
+> Updated on 2026.06.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](https://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction**|Abdelrahman Elabd et.al.|[2606.26089](https://arxiv.org/abs/2606.26089)|null|
+|**2026-06-24**|**Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models**|Tiecheng Guo et.al.|[2606.25985](https://arxiv.org/abs/2606.25985)|null|
+|**2026-06-24**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672](https://arxiv.org/abs/2606.25672)|null|
+|**2026-06-23**|**Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching**|Peiyan Hu et.al.|[2606.24824](https://arxiv.org/abs/2606.24824)|null|
+|**2026-06-23**|**Beyond U-Net: A Latent-Representation-Aligned Skip-Free Backbone for Flow-Matching Speech Enhancement**|Wangyi Pu et.al.|[2606.24745](https://arxiv.org/abs/2606.24745)|null|
+|**2026-06-23**|**What Do Flow-Based Inverse Solvers Approximate? A Posterior-Transport View**|Jian Xu et.al.|[2606.24516](https://arxiv.org/abs/2606.24516)|null|
+|**2026-06-23**|**MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching**|Kamil Kwarciak et.al.|[2606.24433](https://arxiv.org/abs/2606.24433)|null|
+|**2026-06-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al.|[2606.24375](https://arxiv.org/abs/2606.24375)|null|
+|**2026-06-24**|**Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation**|Sijie Wang et.al.|[2606.24369](https://arxiv.org/abs/2606.24369)|null|
 |2026-06-18|The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation|Nicolas Dufour et.al.|[2606.20536](https://arxiv.org/abs/2606.20536)|null|
 |2026-06-18|FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS|Harshit Singh et.al.|[2606.20518](https://arxiv.org/abs/2606.20518)|null|
 |2026-06-18|Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning|SooHwan Eom et.al.|[2606.20266](https://arxiv.org/abs/2606.20266)|null|

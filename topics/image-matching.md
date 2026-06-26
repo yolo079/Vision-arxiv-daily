@@ -1,17 +1,19 @@
 # Image Matching
 
-> Updated on 2026.06.22
+> Updated on 2026.06.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|2026-06-18|Evaluation of Image Matching for Art Skills Assessment|Asaad Alghamdi et.al.|[2606.20199](https://arxiv.org/abs/2606.20199)|null|
-|2026-06-16|SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints|Dominic Ebner et.al.|[2606.17936](https://arxiv.org/abs/2606.17936)|null|
-|2026-06-10|SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images|Xiaoxiao Sun et.al.|[2606.12671](https://arxiv.org/abs/2606.12671)|null|
-|2026-06-04|Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation|Ariel Herrera et.al.|[2606.06292](https://arxiv.org/abs/2606.06292)|null|
-|2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
-|2026-05-30|BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation|Mohit Singh et.al.|[2606.00709](https://arxiv.org/abs/2606.00709)|null|
-|2026-06-01|SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models|Olaf Dünkel et.al.|[2605.31597](https://arxiv.org/abs/2605.31597)|null|
-|2026-05-28|Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball|Li Yin et.al.|[2605.29953](https://arxiv.org/abs/2605.29953)|null|
+|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](https://arxiv.org/abs/2606.23006)|null|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](https://arxiv.org/abs/2606.22856)|null|
+|**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](https://arxiv.org/abs/2606.20199)|null|
+|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936](https://arxiv.org/abs/2606.17936)|null|
+|**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](https://arxiv.org/abs/2606.12671)|null|
+|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292](https://arxiv.org/abs/2606.06292)|null|
+|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
+|**2026-05-30**|**BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation**|Mohit Singh et.al.|[2606.00709](https://arxiv.org/abs/2606.00709)|null|
+|**2026-06-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](https://arxiv.org/abs/2605.31597)|null|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](https://arxiv.org/abs/2605.29953)|null|
 |2026-05-22|MASt3R-Nav: WayPixel Navigation in Relative 3D Maps|Vansh Garg et.al.|[2605.24111](https://arxiv.org/abs/2605.24111)|null|
 |2026-05-16|Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants|Divya Joshi et.al.|[2605.17120](https://arxiv.org/abs/2605.17120)|null|
 |2026-05-11|3DReflecNet: A Large-Scale Dataset for 3D Reconstruction of Reflective, Transparent, and Low-Texture Objects|Zhicheng Liang et.al.|[2605.10204](https://arxiv.org/abs/2605.10204)|null|
