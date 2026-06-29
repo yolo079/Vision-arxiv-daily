@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.06.26
+> Updated on 2026.06.29
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-24**|**The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems**|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
-|**2026-06-24**|**In-Context World Modeling for Robotic Control**|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
-|**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|
-|**2026-06-24**|**Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors**|Guozheng Ma et.al.|[2606.25527](https://arxiv.org/abs/2606.25527)|null|
-|**2026-06-24**|**Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models**|Kaiwen Zheng et.al.|[2606.25473](https://arxiv.org/abs/2606.25473)|null|
-|**2026-06-24**|**Beyond Next-Observation Prediction: Agent-Authored World Modeling for Sequential Decision Making**|Guangfeng Cai et.al.|[2606.25421](https://arxiv.org/abs/2606.25421)|null|
-|**2026-06-24**|**Hypergraph Normal World Models for Logical Visual Anomaly Detection**|Weizhi Nie et.al.|[2606.25368](https://arxiv.org/abs/2606.25368)|null|
-|**2026-06-24**|**Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation**|Atin Pothiraj et.al.|[2606.25306](https://arxiv.org/abs/2606.25306)|null|
-|**2026-06-23**|**World Models in Pieces: Structural Certification for General Agents**|Yikai Lu et.al.|[2606.24842](https://arxiv.org/abs/2606.24842)|null|
-|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742](https://arxiv.org/abs/2606.24742)|null|
+|2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
+|2026-06-24|In-Context World Modeling for Robotic Control|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
+|2026-06-24|USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|
+|2026-06-24|Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors|Guozheng Ma et.al.|[2606.25527](https://arxiv.org/abs/2606.25527)|null|
+|2026-06-24|Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models|Kaiwen Zheng et.al.|[2606.25473](https://arxiv.org/abs/2606.25473)|null|
+|2026-06-24|Beyond Next-Observation Prediction: Agent-Authored World Modeling for Sequential Decision Making|Guangfeng Cai et.al.|[2606.25421](https://arxiv.org/abs/2606.25421)|null|
+|2026-06-24|Hypergraph Normal World Models for Logical Visual Anomaly Detection|Weizhi Nie et.al.|[2606.25368](https://arxiv.org/abs/2606.25368)|null|
+|2026-06-24|Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation|Atin Pothiraj et.al.|[2606.25306](https://arxiv.org/abs/2606.25306)|null|
+|2026-06-23|World Models in Pieces: Structural Certification for General Agents|Yikai Lu et.al.|[2606.24842](https://arxiv.org/abs/2606.24842)|null|
+|2026-06-23|World Value Models for Robotic Manipulation|Zhihao Wang et.al.|[2606.24742](https://arxiv.org/abs/2606.24742)|null|
 |2026-06-18|Current World Models Lack a Persistent State Core|Jinpeng Lu et.al.|[2606.20545](https://arxiv.org/abs/2606.20545)|null|
 |2026-06-18|DataMagic: Transforming Tabular Data into Data Insight Video|Yupeng Xie et.al.|[2606.20388](https://arxiv.org/abs/2606.20388)|null|
 |2026-06-18|Sensorimotor World Models: Perception for Action via Inverse Dynamics|Petr Ivashkov et.al.|[2606.20104](https://arxiv.org/abs/2606.20104)|null|
@@ -114,7 +114,7 @@
 |2026-04-30|Simulating clinical interventions with a generative multimodal model of human physiology|Guy Lutsker et.al.|[2604.27899](https://arxiv.org/abs/2604.27899)|null|
 |2026-04-30|Graph World Models: Concepts, Taxonomy, and Future Directions|Jiawei Liu et.al.|[2604.27895](https://arxiv.org/abs/2604.27895)|null|
 |2026-04-30|MotuBrain: An Advanced World Action Model for Robot Control|MotuBrain Team et.al.|[2604.27792](https://arxiv.org/abs/2604.27792)|null|
-|2026-04-23|Seeing Fast and Slow: Learning the Flow of Time in Videos|Yen-Siang Wu et.al.|[2604.21931](https://arxiv.org/abs/2604.21931)|**[link](https://github.com/regerah/Seeing-Fast-And-Slow-Learning)**|
+|2026-04-23|Seeing Fast and Slow: Learning the Flow of Time in Videos|Yen-Siang Wu et.al.|[2604.21931](https://arxiv.org/abs/2604.21931)|[link](https://github.com/regerah/Seeing-Fast-And-Slow-Learning)|
 |2026-04-23|Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions|Jiseon Kim et.al.|[2604.21871](https://arxiv.org/abs/2604.21871)|null|
 |2026-04-23|Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training|Yaxuan Li et.al.|[2604.21741](https://arxiv.org/abs/2604.21741)|null|
 |2026-04-22|Building a Precise Video Language with Human-AI Oversight|Zhiqiu Lin et.al.|[2604.21718](https://arxiv.org/abs/2604.21718)|null|

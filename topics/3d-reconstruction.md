@@ -1,19 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.26
+> Updated on 2026.06.29
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-24**|**Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects**|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](https://arxiv.org/abs/2606.25829)|null|
-|**2026-06-24**|**Quotient homomorphisms of Topological MV-Algebras and Applications**|Li-Hong Xie et.al.|[2606.25676](https://arxiv.org/abs/2606.25676)|null|
-|**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](https://arxiv.org/abs/2606.25430)|null|
-|**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284](https://arxiv.org/abs/2606.25284)|null|
-|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](https://arxiv.org/abs/2606.24829)|null|
-|**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](https://arxiv.org/abs/2606.24799)|null|
-|**2026-06-23**|**Design criteria for a beam-driven resonant passive transverse deflector for longitudinal beam diagnostics**|D. Bazyl et.al.|[2606.24594](https://arxiv.org/abs/2606.24594)|null|
-|**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](https://arxiv.org/abs/2606.24282)|null|
-|**2026-06-23**|**3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis**|Hongli Xiao et.al.|[2606.24257](https://arxiv.org/abs/2606.24257)|null|
-|**2026-06-23**|**FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image**|Kim Youwang et.al.|[2606.24232](https://arxiv.org/abs/2606.24232)|null|
+|2026-06-24|Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](https://arxiv.org/abs/2606.25829)|null|
+|2026-06-24|Quotient homomorphisms of Topological MV-Algebras and Applications|Li-Hong Xie et.al.|[2606.25676](https://arxiv.org/abs/2606.25676)|null|
+|2026-06-24|PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling|Zhijie Zheng et.al.|[2606.25430](https://arxiv.org/abs/2606.25430)|null|
+|2026-06-24|Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring|Amirhossein Dadashzadeh et.al.|[2606.25284](https://arxiv.org/abs/2606.25284)|null|
+|2026-06-23|GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction|Chenrui Fan et.al.|[2606.24829](https://arxiv.org/abs/2606.24829)|null|
+|2026-06-23|OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis|Chenrui Fan et.al.|[2606.24799](https://arxiv.org/abs/2606.24799)|null|
+|2026-06-23|Design criteria for a beam-driven resonant passive transverse deflector for longitudinal beam diagnostics|D. Bazyl et.al.|[2606.24594](https://arxiv.org/abs/2606.24594)|null|
+|2026-06-23|UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance|Yinuo Zhang et.al.|[2606.24282](https://arxiv.org/abs/2606.24282)|null|
+|2026-06-23|3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis|Hongli Xiao et.al.|[2606.24257](https://arxiv.org/abs/2606.24257)|null|
+|2026-06-23|FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image|Kim Youwang et.al.|[2606.24232](https://arxiv.org/abs/2606.24232)|null|
 |2026-06-18|Towards 3D karst underwater scene reconstruction from rotating sonar data|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
 |2026-06-18|SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
 |2026-06-18|Gaussian Process Prior Variational Autoencoder for Endoscopic Videos|Ivan De Boi et.al.|[2606.19908](https://arxiv.org/abs/2606.19908)|null|
@@ -73,7 +73,7 @@
 |2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|null|
 |2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
 |2026-05-21|Scene Reconstruction as Mapping Priors for 3D Detection|Yang Fu et.al.|[2605.22997](https://arxiv.org/abs/2605.22997)|null|
-|2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|**[link](https://github.com/recuriosity/recuriosity)**|
+|2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|[link](https://github.com/recuriosity/recuriosity)|
 |2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
 |2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
 |2026-05-14|Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films|Xinxin Wang et.al.|[2605.14806](https://arxiv.org/abs/2605.14806)|null|
@@ -327,9 +327,9 @@
 |2025-12-03|Emergent Outlier View Rejection in Visual Geometry Grounded Transformers|Jisang Han et.al.|[2512.04012](http://arxiv.org/abs/2512.04012)|[link](https://github.com/cvlab-kaist/RobustVGGT)|
 |2025-12-03|DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|[link](https://github.com/frakw/DirectDrag)|
 |2025-11-28|GLOW: Global Illumination-Aware Inverse Rendering of Indoor Scenes Captured with Dynamic Co-Located Light & Camera|Jiaye Wu et.al.|[2511.22857](http://arxiv.org/abs/2511.22857)|null|
-|2025-11-26|TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|**[link](https://github.com/jayLEE0301/TraceGen)**|
+|2025-11-26|TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|[link](https://github.com/jayLEE0301/TraceGen)|
 |2025-11-26|UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes|Kang Du et.al.|[2511.21565](http://arxiv.org/abs/2511.21565)|null|
-|2025-11-26|From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|**[link](https://github.com/jiajiezhang7/LAPS)**|
+|2025-11-26|From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|[link](https://github.com/jiajiezhang7/LAPS)|
 |2025-11-26|DeepRFTv2: Kernel-level Learning for Image Deblurring|Xintian Mao et.al.|[2511.21132](http://arxiv.org/abs/2511.21132)|null|
 |2025-11-25|Hund-projected Kanamori model: an effective description of Hund's metals near the Mott insulating regime|Johan Carlström et.al.|[2511.20788](http://arxiv.org/abs/2511.20788)|null|
 |2025-11-25|From Observations to Simulations: A Neural-Network Approach to Intracluster Medium Kinematics|E. Gatuzz et.al.|[2511.20755](http://arxiv.org/abs/2511.20755)|null|
