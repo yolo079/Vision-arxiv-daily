@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.06.29
+> Updated on 2026.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Self-Evolving World Models for LLM Agent Planning**|Xuan Zhang et.al.|[2606.30639](https://arxiv.org/abs/2606.30639)|null|
+|**2026-06-29**|**Towards World Model-Empowered Integrated Sensing, Communication, and Decision for Complex Unmanned Systems**|Xue Han et.al.|[2606.30568](https://arxiv.org/abs/2606.30568)|null|
+|**2026-06-29**|**OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model**|Junjie Cheng et.al.|[2606.30421](https://arxiv.org/abs/2606.30421)|null|
+|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](https://arxiv.org/abs/2606.30308)|null|
+|**2026-06-29**|**DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model**|Daniyel Ayupov et.al.|[2606.30292](https://arxiv.org/abs/2606.30292)|null|
+|**2026-06-29**|**Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation**|Hong Chen et.al.|[2606.29908](https://arxiv.org/abs/2606.29908)|null|
+|**2026-06-29**|**LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving**|Chen Yang et.al.|[2606.29879](https://arxiv.org/abs/2606.29879)|null|
+|**2026-06-29**|**The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models**|Rafael Kaufmann et.al.|[2606.29799](https://arxiv.org/abs/2606.29799)|null|
+|**2026-06-29**|**HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data**|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|null|
+|**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|null|
 |2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
 |2026-06-24|In-Context World Modeling for Robotic Control|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
 |2026-06-24|USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|

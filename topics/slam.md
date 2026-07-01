@@ -1,9 +1,19 @@
 # SLAM
 
-> Updated on 2026.06.29
+> Updated on 2026.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](https://arxiv.org/abs/2606.30436)|null|
+|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**| Ambrosio-Cestero et.al.|[2606.30293](https://arxiv.org/abs/2606.30293)|null|
+|**2026-06-29**|**Self-supervised Geometry Reasoning for LiDAR Simultaneous Localization and Mapping**|Jiwoo Kim et.al.|[2606.30166](https://arxiv.org/abs/2606.30166)|null|
+|**2026-06-29**|**MSFA-Net: An Advanced Deep Learning Model for Identifying Blue Horizontal-Branch Stars from LAMOST DR12**|Mingyuan Wang et.al.|[2606.29918](https://arxiv.org/abs/2606.29918)|null|
+|**2026-06-29**|**TACO: A Test and Check Framework for Robust Pose Graph Optimization**|Emilio Olivastri et.al.|[2606.29851](https://arxiv.org/abs/2606.29851)|null|
+|**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](https://arxiv.org/abs/2606.29738)|null|
+|**2026-06-28**|**VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM**|Raman Jha et.al.|[2606.29494](https://arxiv.org/abs/2606.29494)|null|
+|**2026-06-28**|**PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping**|Jiawei Xia et.al.|[2606.29259](https://arxiv.org/abs/2606.29259)|null|
+|**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](https://arxiv.org/abs/2606.29237)|null|
+|**2026-06-27**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](https://arxiv.org/abs/2606.29031)|null|
 |2026-06-24|RoboAtlas: Contextual Active SLAM|Alexander Schperberg et.al.|[2606.26046](https://arxiv.org/abs/2606.26046)|null|
 |2026-06-24|DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild|Ahmad Kourani et.al.|[2606.25953](https://arxiv.org/abs/2606.25953)|null|
 |2026-06-24|SA-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Subspace-Aware Degeneracy Handling|Yinong Cao et.al.|[2606.25699](https://arxiv.org/abs/2606.25699)|null|

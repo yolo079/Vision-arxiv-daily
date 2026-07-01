@@ -1,9 +1,19 @@
 # Novel View Synthesis
 
-> Updated on 2026.06.29
+> Updated on 2026.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](https://arxiv.org/abs/2606.30545)|null|
+|**2026-06-29**|**RenderFormer++: Scalable and Physically Grounded Feed-Forward Neural Rendering**|Huangsheng Du et.al.|[2606.30380](https://arxiv.org/abs/2606.30380)|null|
+|**2026-06-29**|**Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting**|Xiaobiao Du et.al.|[2606.30017](https://arxiv.org/abs/2606.30017)|null|
+|**2026-06-29**|**Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction**|Yuan Yang et.al.|[2606.30014](https://arxiv.org/abs/2606.30014)|null|
+|**2026-06-29**|**Learning Efficient 4D Gaussian Representations from Monocular Videos with Flow Splatting**|Shengjun Zhang et.al.|[2606.29976](https://arxiv.org/abs/2606.29976)|null|
+|**2026-06-28**|**Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views**|Mijin Yoo et.al.|[2606.29513](https://arxiv.org/abs/2606.29513)|null|
+|**2026-06-28**|**Rectifying Mask via Entropy for Distractor-Free 3DGS in Ambiguous Scenarios**|Wongi Park et.al.|[2606.29496](https://arxiv.org/abs/2606.29496)|null|
+|**2026-06-28**|**Occlusion-Robust Multi-Object Decoupling for Physics-Based Interaction**|Xin Dong et.al.|[2606.29303](https://arxiv.org/abs/2606.29303)|null|
+|**2026-06-27**|**Ground4D: Consistency-Aware 4D Reconstruction from Monocular Video**|Qing Zhao et.al.|[2606.28828](https://arxiv.org/abs/2606.28828)|null|
+|**2026-06-27**|**RefGlass-GS: A UAV-Enabled Fusion Framework for Photorealistic, Semantic and Interactive Digitization of Reflective Glass Facades via Gaussian Splatting**|Zhenyu Liang et.al.|[2606.28826](https://arxiv.org/abs/2606.28826)|null|
 |2026-06-24|SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity|Tianchen Guo et.al.|[2606.25634](https://arxiv.org/abs/2606.25634)|null|
 |2026-06-24|Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation|Masaki Minai et.al.|[2606.25427](https://arxiv.org/abs/2606.25427)|null|
 |2026-06-23|Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation|Tianyu Zhu et.al.|[2606.24464](https://arxiv.org/abs/2606.24464)|null|

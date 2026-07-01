@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.06.29
+> Updated on 2026.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**MeloDISinger: Melody-Aware & Duration-Preserving Singing Voice Editing with Audio Infilling**|Yoonjeong Park et.al.|[2606.30580](https://arxiv.org/abs/2606.30580)|null|
+|**2026-06-29**|**The Fundamental Limits of Valid Transport Map Estimation**|Sivaraman Balakrishnan et.al.|[2606.30574](https://arxiv.org/abs/2606.30574)|null|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552](https://arxiv.org/abs/2606.30552)|null|
+|**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](https://arxiv.org/abs/2606.30145)|null|
+|**2026-06-29**|**Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge**|Titouan Vayer et.al.|[2606.30053](https://arxiv.org/abs/2606.30053)|null|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936](https://arxiv.org/abs/2606.29936)|null|
+|**2026-06-29**|**Dual-Flow Reinforcement Learning with State-Aware Exploration**|Qijun Li et.al.|[2606.29820](https://arxiv.org/abs/2606.29820)|null|
+|**2026-06-29**|**GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures**|Shixi Qin et.al.|[2606.29759](https://arxiv.org/abs/2606.29759)|null|
+|**2026-06-29**|**Simplifying Flow Matching Transformations with Low-Rank Mixture Models**|Liam A. Kruse et.al.|[2606.29724](https://arxiv.org/abs/2606.29724)|null|
+|**2026-06-28**|**VeRe-Flow: Guiding Flow Matching toward Clean Speech via Velocity Contrastive Regularization and Representation Alignment for Noise-Robust Bandwidth Expansion**|Sujin Koo et.al.|[2606.29450](https://arxiv.org/abs/2606.29450)|null|
 |2026-06-24|Learning Action Priors for Cross-embodiment Robot Manipulation|Dong Jing et.al.|[2606.26095](https://arxiv.org/abs/2606.26095)|null|
 |2026-06-24|Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction|Abdelrahman Elabd et.al.|[2606.26089](https://arxiv.org/abs/2606.26089)|null|
 |2026-06-24|Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models|Tiecheng Guo et.al.|[2606.25985](https://arxiv.org/abs/2606.25985)|null|

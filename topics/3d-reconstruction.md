@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.06.29
+> Updated on 2026.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638](https://arxiv.org/abs/2606.30638)|null|
+|**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](https://arxiv.org/abs/2606.30436)|null|
+|**2026-06-29**|**SN 2019vxm: A luminous and long-lived Type IIn supernova with early flash-ionisation features**|Y. -Z. Cai et.al.|[2606.30390](https://arxiv.org/abs/2606.30390)|null|
+|**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](https://arxiv.org/abs/2606.30352)|null|
+|**2026-06-29**|**Binary Signal Recovery in Undersampling: Iterative SDP with Majority Voting and Successive Interference Cancellation**|Ece Abay et.al.|[2606.30100](https://arxiv.org/abs/2606.30100)|null|
+|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058](https://arxiv.org/abs/2606.30058)|null|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](https://arxiv.org/abs/2606.30047)|null|
+|**2026-06-29**|**Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction**|Yuan Yang et.al.|[2606.30014](https://arxiv.org/abs/2606.30014)|null|
+|**2026-06-29**|**Variance Reduction on the Camera Axis: Multi-View Score Distillation for 3D**|Marian Lupascu et.al.|[2606.29964](https://arxiv.org/abs/2606.29964)|null|
+|**2026-06-29**|**Atomically Thin Amorphous Carbon with an Ultralow Dielectric Constant**|Chee-Tat Toh et.al.|[2606.29729](https://arxiv.org/abs/2606.29729)|null|
 |2026-06-24|Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](https://arxiv.org/abs/2606.25829)|null|
 |2026-06-24|Quotient homomorphisms of Topological MV-Algebras and Applications|Li-Hong Xie et.al.|[2606.25676](https://arxiv.org/abs/2606.25676)|null|
 |2026-06-24|PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling|Zhijie Zheng et.al.|[2606.25430](https://arxiv.org/abs/2606.25430)|null|
