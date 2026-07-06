@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](https://arxiv.org/abs/2607.02486)|null|
-|**2026-06-30**|**Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition**|Zhiyao Shu et.al.|[2607.00090](https://arxiv.org/abs/2607.00090)|null|
-|**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|null|
-|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](https://arxiv.org/abs/2606.31077)|null|
-|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](https://arxiv.org/abs/2606.28637)|null|
-|**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](https://arxiv.org/abs/2606.24234)|null|
+|2026-07-02|GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training|Yejun Zhang et.al.|[2607.02486](https://arxiv.org/abs/2607.02486)|null|
+|2026-06-30|Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition|Zhiyao Shu et.al.|[2607.00090](https://arxiv.org/abs/2607.00090)|null|
+|2026-06-30|Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|null|
+|2026-07-01|AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images|Meng Yang et.al.|[2606.31077](https://arxiv.org/abs/2606.31077)|null|
+|2026-06-26|PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM|Yanlong Ma et.al.|[2606.28637](https://arxiv.org/abs/2606.28637)|null|
+|2026-06-23|From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection|Zexi Chena et.al.|[2606.24234](https://arxiv.org/abs/2606.24234)|null|
 |2026-06-02|A Fixed Representation Probe Reveals Morphology-Space Organization in Non-Gaussian Elastic Transients|Jose Sanchez-Andreu et.al.|[2606.17061](https://arxiv.org/abs/2606.17061)|null|
-|**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](https://arxiv.org/abs/2606.15898)|null|
-|**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
-|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
-|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
-|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|null|
-|**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
-|**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
-|**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
+|2026-06-14|VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI|Zinan Liu et.al.|[2606.15898](https://arxiv.org/abs/2606.15898)|null|
+|2026-06-13|FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
+|2026-06-11|Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
+|2026-06-11|Visual Place Recognition in Forests with Depth-Aware Distillation|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
+|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|null|
+|2026-06-06|Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
+|2026-06-04|Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
+|2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
 |2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
 |2026-06-01|Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
 |2026-06-01|FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
 |2026-05-31|One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
-|2026-05-29|iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning|Chang-Bin Zhang et.al.|[2605.31096](https://arxiv.org/abs/2605.31096)|null|
+|2026-05-29|iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning|Chang-Bin Zhang et.al.|[2605.31096](https://arxiv.org/abs/2605.31096)|**[link](https://github.com/Visual-AI/iVGR)**|
 |2026-05-29|DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition|Dhyey Manish Rajani et.al.|[2605.30769](https://arxiv.org/abs/2605.30769)|null|
 |2026-05-27|SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition|Ha Sier et.al.|[2605.28048](https://arxiv.org/abs/2605.28048)|null|
 |2026-05-20|MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue|Anna Deichler et.al.|[2605.21796](https://arxiv.org/abs/2605.21796)|null|
@@ -456,7 +456,7 @@
 |2025-03-27|FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|[link](https://github.com/sdu-l/finecir)|
 |2025-03-27|Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
 |2025-03-25|CoLLM: A Large Language Model for Composed Image Retrieval|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|[link](https://github.com/hmchuong/CoLLM)|
-|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|**[link](https://github.com/JunweiZheng93/SPR)**|
+|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|[link](https://github.com/JunweiZheng93/SPR)|
 |2025-03-25|From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|[link](https://github.com/zju3dv/STDLoc)|
 |2025-03-25|Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|[link](https://github.com/ZiChao111/FTI4CIR)|
 |2025-03-23|LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|

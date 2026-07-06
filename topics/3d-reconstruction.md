@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](https://arxiv.org/abs/2607.02515)|null|
-|**2026-07-02**|**InvSplat: Inverse Feed-Forward Scene Splatting**|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
-|**2026-07-02**|**Gamma-ray production cross sections in proton interactions with natMg, natSi and 56Fe targets: measurement over the energy range of $E_p = 66$ -125 MeV, data analysis, results and discussion. Astrophysical implications**|M. Debabi et.al.|[2607.02202](https://arxiv.org/abs/2607.02202)|null|
-|**2026-07-02**|**Personalized 4D Whole-Heart Mesh Reconstruction from Cine MRI via Multi-Scale Temporal Modeling and Differentiable Contour Rendering**|Xiaoyue Liu et.al.|[2607.01952](https://arxiv.org/abs/2607.01952)|null|
-|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885](https://arxiv.org/abs/2607.01885)|null|
-|**2026-07-02**|**Geometric Foundation Model Distillation for Efficient Lunar 3D Reconstruction**|Clémentine Grethen et.al.|[2607.01851](https://arxiv.org/abs/2607.01851)|null|
-|**2026-07-02**|**The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond**|Hanyue Jia et.al.|[2607.01753](https://arxiv.org/abs/2607.01753)|null|
-|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](https://arxiv.org/abs/2607.01698)|null|
-|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](https://arxiv.org/abs/2607.01578)|null|
-|**2026-07-01**|**SE(2) Navigation Mesh**|Shuyang Shi et.al.|[2607.01454](https://arxiv.org/abs/2607.01454)|null|
-|**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638](https://arxiv.org/abs/2606.30638)|null|
-|**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](https://arxiv.org/abs/2606.30436)|null|
-|**2026-06-29**|**SN 2019vxm: A luminous and long-lived Type IIn supernova with early flash-ionisation features**|Y. -Z. Cai et.al.|[2606.30390](https://arxiv.org/abs/2606.30390)|null|
-|**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](https://arxiv.org/abs/2606.30352)|null|
-|**2026-06-29**|**Binary Signal Recovery in Undersampling: Iterative SDP with Majority Voting and Successive Interference Cancellation**|Ece Abay et.al.|[2606.30100](https://arxiv.org/abs/2606.30100)|null|
-|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058](https://arxiv.org/abs/2606.30058)|null|
-|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](https://arxiv.org/abs/2606.30047)|null|
-|**2026-06-29**|**Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction**|Yuan Yang et.al.|[2606.30014](https://arxiv.org/abs/2606.30014)|null|
-|**2026-06-29**|**Variance Reduction on the Camera Axis: Multi-View Score Distillation for 3D**|Marian Lupascu et.al.|[2606.29964](https://arxiv.org/abs/2606.29964)|null|
-|**2026-06-29**|**Atomically Thin Amorphous Carbon with an Ultralow Dielectric Constant**|Chee-Tat Toh et.al.|[2606.29729](https://arxiv.org/abs/2606.29729)|null|
+|2026-07-02|PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation|Haofei Xu et.al.|[2607.02515](https://arxiv.org/abs/2607.02515)|null|
+|2026-07-02|InvSplat: Inverse Feed-Forward Scene Splatting|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
+|2026-07-02|Gamma-ray production cross sections in proton interactions with natMg, natSi and 56Fe targets: measurement over the energy range of $E_p = 66$ -125 MeV, data analysis, results and discussion. Astrophysical implications|M. Debabi et.al.|[2607.02202](https://arxiv.org/abs/2607.02202)|null|
+|2026-07-02|Personalized 4D Whole-Heart Mesh Reconstruction from Cine MRI via Multi-Scale Temporal Modeling and Differentiable Contour Rendering|Xiaoyue Liu et.al.|[2607.01952](https://arxiv.org/abs/2607.01952)|null|
+|2026-07-02|Diversity-aware View Partitioning for Scalable VGGT|Jinsoo Park et.al.|[2607.01885](https://arxiv.org/abs/2607.01885)|null|
+|2026-07-02|Geometric Foundation Model Distillation for Efficient Lunar 3D Reconstruction|Clémentine Grethen et.al.|[2607.01851](https://arxiv.org/abs/2607.01851)|null|
+|2026-07-02|The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond|Hanyue Jia et.al.|[2607.01753](https://arxiv.org/abs/2607.01753)|null|
+|2026-07-02|Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction|Weiyi Xue et.al.|[2607.01698](https://arxiv.org/abs/2607.01698)|null|
+|2026-07-02|MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting|Jianwei Hu et.al.|[2607.01578](https://arxiv.org/abs/2607.01578)|null|
+|2026-07-01|SE(2) Navigation Mesh|Shuyang Shi et.al.|[2607.01454](https://arxiv.org/abs/2607.01454)|null|
+|2026-06-29|Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors|Jameel Hassan et.al.|[2606.30638](https://arxiv.org/abs/2606.30638)|null|
+|2026-06-29|Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes|Sicheng Yu et.al.|[2606.30436](https://arxiv.org/abs/2606.30436)|null|
+|2026-06-29|SN 2019vxm: A luminous and long-lived Type IIn supernova with early flash-ionisation features|Y. -Z. Cai et.al.|[2606.30390](https://arxiv.org/abs/2606.30390)|null|
+|2026-06-29|FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image|Jianqiang Li et.al.|[2606.30352](https://arxiv.org/abs/2606.30352)|null|
+|2026-06-29|Binary Signal Recovery in Undersampling: Iterative SDP with Majority Voting and Successive Interference Cancellation|Ece Abay et.al.|[2606.30100](https://arxiv.org/abs/2606.30100)|null|
+|2026-06-29|Emergence of a Shared Canonical Object Frame from In-the-Wild Videos|Tom Fischer et.al.|[2606.30058](https://arxiv.org/abs/2606.30058)|null|
+|2026-06-29|Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes|Xi Li et.al.|[2606.30047](https://arxiv.org/abs/2606.30047)|null|
+|2026-06-29|Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction|Yuan Yang et.al.|[2606.30014](https://arxiv.org/abs/2606.30014)|null|
+|2026-06-29|Variance Reduction on the Camera Axis: Multi-View Score Distillation for 3D|Marian Lupascu et.al.|[2606.29964](https://arxiv.org/abs/2606.29964)|null|
+|2026-06-29|Atomically Thin Amorphous Carbon with an Ultralow Dielectric Constant|Chee-Tat Toh et.al.|[2606.29729](https://arxiv.org/abs/2606.29729)|null|
 |2026-06-24|Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](https://arxiv.org/abs/2606.25829)|null|
 |2026-06-24|Quotient homomorphisms of Topological MV-Algebras and Applications|Li-Hong Xie et.al.|[2606.25676](https://arxiv.org/abs/2606.25676)|null|
 |2026-06-24|PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling|Zhijie Zheng et.al.|[2606.25430](https://arxiv.org/abs/2606.25430)|null|
@@ -187,7 +187,7 @@
 |2026-04-07|SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration|Xueming Fu et.al.|[2604.05301](https://arxiv.org/abs/2604.05301)|null|
 |2026-04-06|Coverage Optimization for Camera View Selection|Timothy Chen et.al.|[2604.05259](https://arxiv.org/abs/2604.05259)|null|
 |2026-04-06|LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows|Zhengqin Li et.al.|[2604.05182](https://arxiv.org/abs/2604.05182)|null|
-|2026-04-06|LoMa: Local Feature Matching Revisited|David Nordström et.al.|[2604.04931](https://arxiv.org/abs/2604.04931)|null|
+|2026-04-06|LoMa: Local Feature Matching Revisited|David Nordström et.al.|[2604.04931](https://arxiv.org/abs/2604.04931)|**[link](https://github.com/davnords/LoMa)**|
 |2026-04-06|3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction|Beiyuan Zhang et.al.|[2604.04693](https://arxiv.org/abs/2604.04693)|null|
 |2026-03-30|TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K|Mattia D'Urso et.al.|[2603.28287](https://arxiv.org/abs/2603.28287)|null|
 |2026-03-29|MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction|Jongmin Lee et.al.|[2603.27542](https://arxiv.org/abs/2603.27542)|null|

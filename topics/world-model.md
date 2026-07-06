@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](https://arxiv.org/abs/2607.02517)|null|
-|**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Yuquan Xue et.al.|[2607.02431](https://arxiv.org/abs/2607.02431)|null|
-|**2026-07-02**|**ACID: Action Consistency via Inverse Dynamics for Planning with World Models**|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
-|**2026-07-02**|**DecompRL: Solving Harder Problems by Learning Modular Code Generation**|Juliette Decugis et.al.|[2607.02390](https://arxiv.org/abs/2607.02390)|null|
-|**2026-07-02**|**Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems**|Uwe M. Borghoff et.al.|[2607.02376](https://arxiv.org/abs/2607.02376)|null|
-|**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|null|
-|**2026-07-02**|**Path-Measure Dynamics of Attention-Driven World Models: A Nonlocal Onsager--Machlup Approach**|Gunn Kim et.al.|[2607.02154](https://arxiv.org/abs/2607.02154)|null|
-|**2026-07-02**|**PWM-ArtGen: Part World Model for Articulated Object Generation**|Wentao Zheng et.al.|[2607.02045](https://arxiv.org/abs/2607.02045)|null|
-|**2026-07-02**|**Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling**|Weizhi Nie et.al.|[2607.01986](https://arxiv.org/abs/2607.01986)|null|
-|**2026-07-02**|**PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation**|Peng Yun et.al.|[2607.01938](https://arxiv.org/abs/2607.01938)|null|
-|**2026-06-29**|**Self-Evolving World Models for LLM Agent Planning**|Xuan Zhang et.al.|[2606.30639](https://arxiv.org/abs/2606.30639)|null|
-|**2026-06-29**|**Towards World Model-Empowered Integrated Sensing, Communication, and Decision for Complex Unmanned Systems**|Xue Han et.al.|[2606.30568](https://arxiv.org/abs/2606.30568)|null|
-|**2026-06-29**|**OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model**|Junjie Cheng et.al.|[2606.30421](https://arxiv.org/abs/2606.30421)|null|
-|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](https://arxiv.org/abs/2606.30308)|null|
-|**2026-06-29**|**DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model**|Daniyel Ayupov et.al.|[2606.30292](https://arxiv.org/abs/2606.30292)|null|
-|**2026-06-29**|**Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation**|Hong Chen et.al.|[2606.29908](https://arxiv.org/abs/2606.29908)|null|
-|**2026-06-29**|**LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving**|Chen Yang et.al.|[2606.29879](https://arxiv.org/abs/2606.29879)|null|
-|**2026-06-29**|**The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models**|Rafael Kaufmann et.al.|[2606.29799](https://arxiv.org/abs/2606.29799)|null|
-|**2026-06-29**|**HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data**|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|null|
-|**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|null|
+|2026-07-02|WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory|Hanlin Wang et.al.|[2607.02517](https://arxiv.org/abs/2607.02517)|null|
+|2026-07-02|WorldSample: Closed-loop Real-robot RL with World Modelling|Yuquan Xue et.al.|[2607.02431](https://arxiv.org/abs/2607.02431)|null|
+|2026-07-02|ACID: Action Consistency via Inverse Dynamics for Planning with World Models|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
+|2026-07-02|DecompRL: Solving Harder Problems by Learning Modular Code Generation|Juliette Decugis et.al.|[2607.02390](https://arxiv.org/abs/2607.02390)|null|
+|2026-07-02|Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems|Uwe M. Borghoff et.al.|[2607.02376](https://arxiv.org/abs/2607.02376)|null|
+|2026-07-02|Bridge-WA: Predicting Where and How the World Changes for Robotic Action|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|null|
+|2026-07-02|Path-Measure Dynamics of Attention-Driven World Models: A Nonlocal Onsager--Machlup Approach|Gunn Kim et.al.|[2607.02154](https://arxiv.org/abs/2607.02154)|null|
+|2026-07-02|PWM-ArtGen: Part World Model for Articulated Object Generation|Wentao Zheng et.al.|[2607.02045](https://arxiv.org/abs/2607.02045)|null|
+|2026-07-02|Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling|Weizhi Nie et.al.|[2607.01986](https://arxiv.org/abs/2607.01986)|null|
+|2026-07-02|PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation|Peng Yun et.al.|[2607.01938](https://arxiv.org/abs/2607.01938)|null|
+|2026-06-29|Self-Evolving World Models for LLM Agent Planning|Xuan Zhang et.al.|[2606.30639](https://arxiv.org/abs/2606.30639)|null|
+|2026-06-29|Towards World Model-Empowered Integrated Sensing, Communication, and Decision for Complex Unmanned Systems|Xue Han et.al.|[2606.30568](https://arxiv.org/abs/2606.30568)|null|
+|2026-06-29|OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model|Junjie Cheng et.al.|[2606.30421](https://arxiv.org/abs/2606.30421)|null|
+|2026-06-29|The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction|Yuxi Wang et.al.|[2606.30308](https://arxiv.org/abs/2606.30308)|null|
+|2026-06-29|DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model|Daniyel Ayupov et.al.|[2606.30292](https://arxiv.org/abs/2606.30292)|null|
+|2026-06-29|Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation|Hong Chen et.al.|[2606.29908](https://arxiv.org/abs/2606.29908)|null|
+|2026-06-29|LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving|Chen Yang et.al.|[2606.29879](https://arxiv.org/abs/2606.29879)|null|
+|2026-06-29|The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models|Rafael Kaufmann et.al.|[2606.29799](https://arxiv.org/abs/2606.29799)|null|
+|2026-06-29|HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|null|
+|2026-06-28|Learning Transferable Dynamics Priors from Action to World Modeling|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|null|
 |2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
 |2026-06-24|In-Context World Modeling for Robotic Control|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
 |2026-06-24|USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|
@@ -85,8 +85,8 @@
 |2026-05-27|Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
 |2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
 |2026-05-22|LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
-|2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|null|
-|2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|null|
+|2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|**[link](https://github.com/chkim403/gs-particle-dynamics)**|
+|2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|**[link](https://github.com/GenIntel/CRONOS-benchmark)**|
 |2026-05-22|SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models|Zizhao Tong et.al.|[2605.23345](https://arxiv.org/abs/2605.23345)|null|
 |2026-05-22|WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
 |2026-05-21|Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
@@ -100,7 +100,7 @@
 |2026-05-14|Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation|Min Zhao et.al.|[2605.15141](https://arxiv.org/abs/2605.15141)|null|
 |2026-05-14|Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations|Jonathan Spieler et.al.|[2605.14937](https://arxiv.org/abs/2605.14937)|null|
 |2026-05-14|IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification|Zhigao Huang et.al.|[2605.14851](https://arxiv.org/abs/2605.14851)|null|
-|2026-05-14|MechVerse: Evaluating Physical Motion Consistency in Video Generation Models|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|null|
+|2026-05-14|MechVerse: Evaluating Physical Motion Consistency in Video Generation Models|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|**[link](https://github.com/Ufere/Assingment_1)**|
 |2026-05-14|Probing into Camera Control of Video Models|Chen Hou et.al.|[2605.14815](https://arxiv.org/abs/2605.14815)|null|
 |2026-05-14|ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface|Mingyue Li et.al.|[2605.14757](https://arxiv.org/abs/2605.14757)|null|
 |2026-05-14|Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model|Minghao Wu et.al.|[2605.14723](https://arxiv.org/abs/2605.14723)|[link](https://github.com/FreedomIntelligence/SepsisAgent)|
