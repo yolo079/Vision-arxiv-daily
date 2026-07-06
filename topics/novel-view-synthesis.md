@@ -1,9 +1,19 @@
 # Novel View Synthesis
 
-> Updated on 2026.07.01
+> Updated on 2026.07.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Learning Spectral and Polarimetric Clues for One-to-Multimodal Novel View Synthesis**|Federico Lincetto et.al.|[2607.02372](https://arxiv.org/abs/2607.02372)|null|
+|**2026-07-02**|**InvSplat: Inverse Feed-Forward Scene Splatting**|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
+|**2026-07-02**|**NeoMap: Training-free Novel-View Synthesis from Single Images and Videos**|Jinxi Li et.al.|[2607.01962](https://arxiv.org/abs/2607.01962)|null|
+|**2026-07-02**|**The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond**|Hanyue Jia et.al.|[2607.01753](https://arxiv.org/abs/2607.01753)|null|
+|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](https://arxiv.org/abs/2607.01698)|null|
+|**2026-07-02**|**Bridging 3D Gaussians and Semantic Occupancy for Comprehensive Open-Vocabulary Scene Understanding from Unposed Images**|Hu Zhu et.al.|[2607.01633](https://arxiv.org/abs/2607.01633)|null|
+|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](https://arxiv.org/abs/2607.01578)|null|
+|**2026-07-01**|**World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video**|Liyuan Zhu et.al.|[2607.01202](https://arxiv.org/abs/2607.01202)|null|
+|**2026-07-01**|**Efficient Compression of Structured and Unstructured Volumes via Learned 3D Gaussian Representation**|Landon Dyken et.al.|[2607.01164](https://arxiv.org/abs/2607.01164)|null|
+|**2026-07-01**|**Improving Sparse-View 3DGS Generalization via Flat Minima Optimization**|Kangmin Seo et.al.|[2607.00885](https://arxiv.org/abs/2607.00885)|null|
 |**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](https://arxiv.org/abs/2606.30545)|null|
 |**2026-06-29**|**RenderFormer++: Scalable and Physically Grounded Feed-Forward Neural Rendering**|Huangsheng Du et.al.|[2606.30380](https://arxiv.org/abs/2606.30380)|null|
 |**2026-06-29**|**Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting**|Xiaobiao Du et.al.|[2606.30017](https://arxiv.org/abs/2606.30017)|null|

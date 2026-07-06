@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.07.01
+> Updated on 2026.07.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](https://arxiv.org/abs/2607.02515)|null|
+|**2026-07-02**|**InvSplat: Inverse Feed-Forward Scene Splatting**|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
+|**2026-07-02**|**Gamma-ray production cross sections in proton interactions with natMg, natSi and 56Fe targets: measurement over the energy range of $E_p = 66$ -125 MeV, data analysis, results and discussion. Astrophysical implications**|M. Debabi et.al.|[2607.02202](https://arxiv.org/abs/2607.02202)|null|
+|**2026-07-02**|**Personalized 4D Whole-Heart Mesh Reconstruction from Cine MRI via Multi-Scale Temporal Modeling and Differentiable Contour Rendering**|Xiaoyue Liu et.al.|[2607.01952](https://arxiv.org/abs/2607.01952)|null|
+|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885](https://arxiv.org/abs/2607.01885)|null|
+|**2026-07-02**|**Geometric Foundation Model Distillation for Efficient Lunar 3D Reconstruction**|Clémentine Grethen et.al.|[2607.01851](https://arxiv.org/abs/2607.01851)|null|
+|**2026-07-02**|**The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond**|Hanyue Jia et.al.|[2607.01753](https://arxiv.org/abs/2607.01753)|null|
+|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](https://arxiv.org/abs/2607.01698)|null|
+|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](https://arxiv.org/abs/2607.01578)|null|
+|**2026-07-01**|**SE(2) Navigation Mesh**|Shuyang Shi et.al.|[2607.01454](https://arxiv.org/abs/2607.01454)|null|
 |**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638](https://arxiv.org/abs/2606.30638)|null|
 |**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](https://arxiv.org/abs/2606.30436)|null|
 |**2026-06-29**|**SN 2019vxm: A luminous and long-lived Type IIn supernova with early flash-ionisation features**|Y. -Z. Cai et.al.|[2606.30390](https://arxiv.org/abs/2606.30390)|null|

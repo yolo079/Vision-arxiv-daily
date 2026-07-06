@@ -1,13 +1,14 @@
 # Point Cloud Registration
 
-> Updated on 2026.07.01
+> Updated on 2026.07.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**PiLoT v2: Pixel-to-Orthogonal Map Alignment for Free-view UAV Geo-localization**|Xinyi Liu et.al.|[2606.31098](https://arxiv.org/abs/2606.31098)|null|
 |**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](https://arxiv.org/abs/2606.28637)|null|
-|**2026-06-26**|**Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy**|Rixon Crane et.al.|[2606.27818](https://arxiv.org/abs/2606.27818)|**[link](https://github.com/csiro-robotics/mmd-reg)**|
-|**2026-06-17**|**DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration**|Luoyao Kang et.al.|[2606.18825](https://arxiv.org/abs/2606.18825)|**[link](https://github.com/kangluoyao/DreamReg)**|
-|**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672](https://arxiv.org/abs/2606.16672)|**[link](https://github.com/Theigrams/SinkhornCPD)**|
+|**2026-06-26**|**Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy**|Rixon Crane et.al.|[2606.27818](https://arxiv.org/abs/2606.27818)|null|
+|**2026-06-17**|**DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration**|Luoyao Kang et.al.|[2606.18825](https://arxiv.org/abs/2606.18825)|null|
+|**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672](https://arxiv.org/abs/2606.16672)|null|
 |**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](https://arxiv.org/abs/2606.14534)|null|
 |**2026-06-11**|**Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery**|Siyu Zhou et.al.|[2606.13488](https://arxiv.org/abs/2606.13488)|null|
 |**2026-06-10**|**Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps**|Tiancheng Lai et.al.|[2606.11708](https://arxiv.org/abs/2606.11708)|null|
