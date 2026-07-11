@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.07.06
+> Updated on 2026.07.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](https://arxiv.org/abs/2607.08772)|**[link](https://github.com/LSXI7/Wat3R)**|
+|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](https://arxiv.org/abs/2607.08769)|null|
+|**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](https://arxiv.org/abs/2607.08749)|null|
+|**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](https://arxiv.org/abs/2607.08711)|null|
+|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|**[link](https://github.com/styufo/Track2Map)**|
+|**2026-07-09**|**HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations**|YaQiao Dai et.al.|[2607.08398](https://arxiv.org/abs/2607.08398)|null|
+|**2026-07-09**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](https://arxiv.org/abs/2607.08250)|null|
+|**2026-07-08**|**Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations**|Chenghao Xu et.al.|[2607.07962](https://arxiv.org/abs/2607.07962)|null|
+|**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](https://arxiv.org/abs/2607.07905)|null|
+|**2026-07-09**|**Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks**|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
 |2026-07-02|PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation|Haofei Xu et.al.|[2607.02515](https://arxiv.org/abs/2607.02515)|null|
 |2026-07-02|InvSplat: Inverse Feed-Forward Scene Splatting|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
 |2026-07-02|Gamma-ray production cross sections in proton interactions with natMg, natSi and 56Fe targets: measurement over the energy range of $E_p = 66$ -125 MeV, data analysis, results and discussion. Astrophysical implications|M. Debabi et.al.|[2607.02202](https://arxiv.org/abs/2607.02202)|null|

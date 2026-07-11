@@ -1,9 +1,19 @@
 # Novel View Synthesis
 
-> Updated on 2026.07.06
+> Updated on 2026.07.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](https://arxiv.org/abs/2607.08250)|**[link](https://github.com/cvsp-lab/MoDE)**|
+|**2026-07-09**|**LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting**|Zixin Guo et.al.|[2607.08016](https://arxiv.org/abs/2607.08016)|null|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](https://arxiv.org/abs/2607.07452)|null|
+|**2026-07-08**|**SoccerNet 2026 Challenges Results**|Anthony Cioppa et.al.|[2607.07320](https://arxiv.org/abs/2607.07320)|null|
+|**2026-07-06**|**SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting**|Kristof Overdulve et.al.|[2607.05598](https://arxiv.org/abs/2607.05598)|null|
+|**2026-07-06**|**Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control**|Gaoxiang Jia et.al.|[2607.05522](https://arxiv.org/abs/2607.05522)|null|
+|**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](https://arxiv.org/abs/2607.05376)|null|
+|**2026-07-06**|**WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images**|Xiyu Zhang et.al.|[2607.05347](https://arxiv.org/abs/2607.05347)|null|
+|**2026-07-06**|**GUSH3R: Everyone Everywhere All at Once as Gaussians**|Keito Abe et.al.|[2607.05243](https://arxiv.org/abs/2607.05243)|null|
+|**2026-07-04**|**MACRO: Training-free Multi-plane Attention for Closeup Render Optimization**|Nitzan Hodos et.al.|[2607.03875](https://arxiv.org/abs/2607.03875)|null|
 |2026-07-02|Learning Spectral and Polarimetric Clues for One-to-Multimodal Novel View Synthesis|Federico Lincetto et.al.|[2607.02372](https://arxiv.org/abs/2607.02372)|null|
 |2026-07-02|InvSplat: Inverse Feed-Forward Scene Splatting|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
 |2026-07-02|NeoMap: Training-free Novel-View Synthesis from Single Images and Videos|Jinxi Li et.al.|[2607.01962](https://arxiv.org/abs/2607.01962)|null|

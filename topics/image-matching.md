@@ -1,16 +1,19 @@
 # Image Matching
 
-> Updated on 2026.07.06
+> Updated on 2026.07.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|2026-07-01|GKDT: General Keypoint Detection Transformer|Changsheng Lu et.al.|[2607.00752](https://arxiv.org/abs/2607.00752)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|
-|2026-07-01|AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images|Meng Yang et.al.|[2606.31077](https://arxiv.org/abs/2606.31077)|null|
-|2026-06-29|MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs|Juanqin Liu et.al.|[2606.29697](https://arxiv.org/abs/2606.29697)|null|
-|2026-06-26|KM-Speaker: Keypoint-Based Style Control for High-Quality Speech-Driven 3D Facial Animation and Dialogue Localization|Arthur Josi et.al.|[2606.28568](https://arxiv.org/abs/2606.28568)|null|
-|2026-06-22|ISOPoT: Imaging Sonar Odometry by Point Tracking|Jaša Samec et.al.|[2606.23006](https://arxiv.org/abs/2606.23006)|null|
-|2026-06-22|G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM|Toshiki Watanabe et.al.|[2606.22856](https://arxiv.org/abs/2606.22856)|null|
-|2026-06-18|Evaluation of Image Matching for Art Skills Assessment|Asaad Alghamdi et.al.|[2606.20199](https://arxiv.org/abs/2606.20199)|null|
+|**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](https://arxiv.org/abs/2607.06600)|null|
+|**2026-07-06**|**Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles**|Soren Antebi et.al.|[2607.04811](https://arxiv.org/abs/2607.04811)|null|
+|**2026-07-03**|**A Vision Based System for Guided and Collaborative Reconstruction of Fragmented Documents**|Oliver Krumpek et.al.|[2607.03621](https://arxiv.org/abs/2607.03621)|null|
+|**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752](https://arxiv.org/abs/2607.00752)|**[link](https://github.com/AlanLuSun/General-Keypoint-Detection)**|
+|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](https://arxiv.org/abs/2606.31077)|null|
+|**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697](https://arxiv.org/abs/2606.29697)|null|
+|**2026-06-26**|**KM-Speaker: Keypoint-Based Style Control for High-Quality Speech-Driven 3D Facial Animation and Dialogue Localization**|Arthur Josi et.al.|[2606.28568](https://arxiv.org/abs/2606.28568)|null|
+|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](https://arxiv.org/abs/2606.23006)|null|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](https://arxiv.org/abs/2606.22856)|null|
+|**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](https://arxiv.org/abs/2606.20199)|null|
 |2026-06-25|SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints|Dominic Ebner et.al.|[2606.17936](https://arxiv.org/abs/2606.17936)|null|
 |2026-06-10|SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images|Xiaoxiao Sun et.al.|[2606.12671](https://arxiv.org/abs/2606.12671)|null|
 |2026-06-04|Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation|Ariel Herrera et.al.|[2606.06292](https://arxiv.org/abs/2606.06292)|null|
