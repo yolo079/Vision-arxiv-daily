@@ -1,19 +1,19 @@
 # SLAM
 
-> Updated on 2026.07.11
+> Updated on 2026.07.13
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|**[link](https://github.com/styufo/Track2Map)**|
-|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115](https://arxiv.org/abs/2607.08115)|null|
-|**2026-07-08**|**STEMbot: A Compliant Robot for Under-Canopy Plant Navigation**|Zachary Charlick et.al.|[2607.07873](https://arxiv.org/abs/2607.07873)|null|
-|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](https://arxiv.org/abs/2607.07452)|null|
-|**2026-07-08**|**PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments**|Seunghun Lee et.al.|[2607.07374](https://arxiv.org/abs/2607.07374)|null|
-|**2026-07-08**|**Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model**|Yilong Chen et.al.|[2607.06896](https://arxiv.org/abs/2607.06896)|null|
-|**2026-07-07**|**CILC: Cryptographically-secure Inter-agent Loop Closure Candidate Detection for Multi-Agent Collaborative SLAM**|Andrew Fishberg et.al.|[2607.06700](https://arxiv.org/abs/2607.06700)|null|
-|**2026-07-07**|**Hilti-Trimble-Oxford Dataset: 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization**|Samuele Centanni et.al.|[2607.06464](https://arxiv.org/abs/2607.06464)|null|
-|**2026-07-07**|**APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment**|Hanwen Zhang et.al.|[2607.06222](https://arxiv.org/abs/2607.06222)|null|
-|**2026-07-07**|**Why does Deep Learning Improve Visual SLAM?**|Giovanni Cioffi et.al.|[2607.06023](https://arxiv.org/abs/2607.06023)|null|
+|2026-07-09|Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|[link](https://github.com/styufo/Track2Map)|
+|2026-07-09|RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios|Hogyun Kim et.al.|[2607.08115](https://arxiv.org/abs/2607.08115)|null|
+|2026-07-08|STEMbot: A Compliant Robot for Under-Canopy Plant Navigation|Zachary Charlick et.al.|[2607.07873](https://arxiv.org/abs/2607.07873)|null|
+|2026-07-08|GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM|Lipu Zhou et.al.|[2607.07452](https://arxiv.org/abs/2607.07452)|null|
+|2026-07-08|PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments|Seunghun Lee et.al.|[2607.07374](https://arxiv.org/abs/2607.07374)|null|
+|2026-07-08|Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model|Yilong Chen et.al.|[2607.06896](https://arxiv.org/abs/2607.06896)|null|
+|2026-07-07|CILC: Cryptographically-secure Inter-agent Loop Closure Candidate Detection for Multi-Agent Collaborative SLAM|Andrew Fishberg et.al.|[2607.06700](https://arxiv.org/abs/2607.06700)|null|
+|2026-07-07|Hilti-Trimble-Oxford Dataset: 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization|Samuele Centanni et.al.|[2607.06464](https://arxiv.org/abs/2607.06464)|null|
+|2026-07-07|APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment|Hanwen Zhang et.al.|[2607.06222](https://arxiv.org/abs/2607.06222)|null|
+|2026-07-07|Why does Deep Learning Improve Visual SLAM?|Giovanni Cioffi et.al.|[2607.06023](https://arxiv.org/abs/2607.06023)|null|
 |2026-07-02|A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity|Sujan Kumar Dhali et.al.|[2607.02005](https://arxiv.org/abs/2607.02005)|null|
 |2026-07-02|DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability|Ziheng Xu et.al.|[2607.01860](https://arxiv.org/abs/2607.01860)|null|
 |2026-07-02|DL-VINS-Factory: A Modular Framework for Learned Visual Front-Ends in Visual-Inertial SLAM|Shoon Kit Lim et.al.|[2607.01757](https://arxiv.org/abs/2607.01757)|null|
@@ -35,7 +35,7 @@
 |2026-06-24|SA-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Subspace-Aware Degeneracy Handling|Yinong Cao et.al.|[2606.25699](https://arxiv.org/abs/2606.25699)|null|
 |2026-06-24|OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos|Oussema Dhaouadi et.al.|[2606.25245](https://arxiv.org/abs/2606.25245)|null|
 |2026-06-23|Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics|Marvin Rüdt et.al.|[2606.24814](https://arxiv.org/abs/2606.24814)|null|
-|2026-06-23|Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM|Leshu Li et.al.|[2606.24796](https://arxiv.org/abs/2606.24796)|**[link](https://github.com/UMN-ZhaoLab/Pocket-SLAM)**|
+|2026-06-23|Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM|Leshu Li et.al.|[2606.24796](https://arxiv.org/abs/2606.24796)|[link](https://github.com/UMN-ZhaoLab/Pocket-SLAM)|
 |2026-06-23|Decentralized Pose Graph Riemannian Optimization for Object-based Multi-Robot SLAM|Yixian Zhao et.al.|[2606.24489](https://arxiv.org/abs/2606.24489)|null|
 |2026-06-22|Offline Reinforcement Learning for Warehouse SLAM Throughput Control|Tina Dongxu Li et.al.|[2606.23978](https://arxiv.org/abs/2606.23978)|null|
 |2026-06-22|HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration|Sandilya Sai Garimella et.al.|[2606.22756](https://arxiv.org/abs/2606.22756)|null|

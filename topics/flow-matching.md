@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.07.11
+> Updated on 2026.07.13
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-09**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575](https://arxiv.org/abs/2607.08575)|null|
-|**2026-07-09**|**Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings**|Zhiyi Li et.al.|[2607.08392](https://arxiv.org/abs/2607.08392)|null|
-|**2026-07-09**|**Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data**|Haruto Kitagawa et.al.|[2607.08384](https://arxiv.org/abs/2607.08384)|null|
-|**2026-07-09**|**TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning**|Yushen Liang et.al.|[2607.08283](https://arxiv.org/abs/2607.08283)|**[link](https://github.com/Mirage415/TFP-Temporally-conditioned-Memory-Fusion-Policies-for-Visuomotor-Learning)**|
-|**2026-07-09**|**RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization**|Xiucheng Wang et.al.|[2607.08045](https://arxiv.org/abs/2607.08045)|**[link](https://github.com/UNIC-Lab/RadioDiff-v2)**|
-|**2026-07-08**|**Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance**|Shiheng Zhang et.al.|[2607.07665](https://arxiv.org/abs/2607.07665)|null|
-|**2026-07-08**|**Stability of Flow Models for Graph Signals**|Martin Schmidt et.al.|[2607.07510](https://arxiv.org/abs/2607.07510)|null|
-|**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](https://arxiv.org/abs/2607.07370)|null|
-|**2026-07-08**|**Flow-PIN: A Two-Stage Power-Flow-Guided Method for System-Wide Multivariate Profile Inpainting in Distribution Networks**|Zhenghao Zhou et.al.|[2607.07250](https://arxiv.org/abs/2607.07250)|null|
-|**2026-07-08**|**ColorFM: An Optimization-to-Learning Framework for Color Transfer via Flow Matching**|Yuhang He et.al.|[2607.07119](https://arxiv.org/abs/2607.07119)|null|
+|2026-07-09|FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation|Shiyuan Yang et.al.|[2607.08575](https://arxiv.org/abs/2607.08575)|null|
+|2026-07-09|Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings|Zhiyi Li et.al.|[2607.08392](https://arxiv.org/abs/2607.08392)|null|
+|2026-07-09|Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data|Haruto Kitagawa et.al.|[2607.08384](https://arxiv.org/abs/2607.08384)|null|
+|2026-07-09|TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning|Yushen Liang et.al.|[2607.08283](https://arxiv.org/abs/2607.08283)|[link](https://github.com/Mirage415/TFP-Temporally-conditioned-Memory-Fusion-Policies-for-Visuomotor-Learning)|
+|2026-07-09|RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization|Xiucheng Wang et.al.|[2607.08045](https://arxiv.org/abs/2607.08045)|[link](https://github.com/UNIC-Lab/RadioDiff-v2)|
+|2026-07-08|Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance|Shiheng Zhang et.al.|[2607.07665](https://arxiv.org/abs/2607.07665)|null|
+|2026-07-08|Stability of Flow Models for Graph Signals|Martin Schmidt et.al.|[2607.07510](https://arxiv.org/abs/2607.07510)|null|
+|2026-07-09|Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report|Xufeng Zhao et.al.|[2607.07370](https://arxiv.org/abs/2607.07370)|null|
+|2026-07-08|Flow-PIN: A Two-Stage Power-Flow-Guided Method for System-Wide Multivariate Profile Inpainting in Distribution Networks|Zhenghao Zhou et.al.|[2607.07250](https://arxiv.org/abs/2607.07250)|null|
+|2026-07-08|ColorFM: An Optimization-to-Learning Framework for Color Transfer via Flow Matching|Yuhang He et.al.|[2607.07119](https://arxiv.org/abs/2607.07119)|null|
 |2026-07-02|VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation|Shuai Tian et.al.|[2607.02503](https://arxiv.org/abs/2607.02503)|null|
 |2026-07-02|Controllable Sim Agents with Behavior Latents|Juanwu Lu et.al.|[2607.02496](https://arxiv.org/abs/2607.02496)|null|
 |2026-07-02|LIME: Learning Intent-aware Camera Motion from Egocentric Video|Boyang Sun et.al.|[2607.02417](https://arxiv.org/abs/2607.02417)|null|
@@ -139,7 +139,7 @@
 |2026-05-02|Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events|Keyan Chen et.al.|[2605.01226](https://arxiv.org/abs/2605.01226)|null|
 |2026-05-02|TAIL-Safe: Task-Agnostic Safety Monitoring for Imitation Learning Policies|Riad Ahmed et.al.|[2605.01195](https://arxiv.org/abs/2605.01195)|null|
 |2026-05-01|Posterior Augmented Flow Matching|George Stoica et.al.|[2605.00825](https://arxiv.org/abs/2605.00825)|null|
-|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|null|
+|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
 |2026-04-30|GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment|Ziang Guo et.al.|[2604.28111](https://arxiv.org/abs/2604.28111)|null|
 |2026-04-30|Martingale Posteriors for Discretely Observed Diffusions|Jingning Yao et.al.|[2604.27603](https://arxiv.org/abs/2604.27603)|null|
 |2026-04-30|ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space|Gabe Guo et.al.|[2604.27443](https://arxiv.org/abs/2604.27443)|null|
@@ -158,7 +158,7 @@
 |2026-04-22|Tokenised Flow Matching for Hierarchical Simulation Based Inference|Giovanni Charles et.al.|[2604.20723](https://arxiv.org/abs/2604.20723)|null|
 |2026-04-22|Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation|Jiahao Xu et.al.|[2604.20336](https://arxiv.org/abs/2604.20336)|null|
 |2026-04-22|Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging|Peiming Luo et.al.|[2604.20128](https://arxiv.org/abs/2604.20128)|null|
-|2026-04-21|Annealed Langevin Monte Carlo for Flow ODE Sampling|Hanwen Huang et.al.|[2604.20052](https://arxiv.org/abs/2604.20052)|null|
+|2026-04-21|Annealed Langevin Monte Carlo for Flow ODE Sampling|Hanwen Huang et.al.|[2604.20052](https://arxiv.org/abs/2604.20052)|**[link](https://github.com/hanwenhuanghep/Flow-ODE-Sampling)**|
 |2026-04-20|Complex normalizing flows can be information Kähler-Ricci flows|Andrew Gracyk et.al.|[2604.17954](https://arxiv.org/abs/2604.17954)|null|
 |2026-04-20|Fisher Decorator: Refining Flow Policy via A Local Transport Map|Xiaoyuan Cheng et.al.|[2604.17919](https://arxiv.org/abs/2604.17919)|null|
 |2026-04-20|OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation|Kuanning Wang et.al.|[2604.17876](https://arxiv.org/abs/2604.17876)|null|

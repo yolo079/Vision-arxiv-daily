@@ -1,19 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.07.11
+> Updated on 2026.07.13
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](https://arxiv.org/abs/2607.08772)|**[link](https://github.com/LSXI7/Wat3R)**|
-|**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](https://arxiv.org/abs/2607.08769)|null|
-|**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](https://arxiv.org/abs/2607.08749)|null|
-|**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](https://arxiv.org/abs/2607.08711)|null|
-|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|**[link](https://github.com/styufo/Track2Map)**|
-|**2026-07-09**|**HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations**|YaQiao Dai et.al.|[2607.08398](https://arxiv.org/abs/2607.08398)|null|
-|**2026-07-09**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](https://arxiv.org/abs/2607.08250)|null|
-|**2026-07-08**|**Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations**|Chenghao Xu et.al.|[2607.07962](https://arxiv.org/abs/2607.07962)|null|
-|**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](https://arxiv.org/abs/2607.07905)|null|
-|**2026-07-09**|**Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks**|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
+|2026-07-09|Wat3R: Underwater 3D Geometry Learning without Annotations|Jiangwei Ren et.al.|[2607.08772](https://arxiv.org/abs/2607.08772)|[link](https://github.com/LSXI7/Wat3R)|
+|2026-07-09|Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction|Weijian Chen et.al.|[2607.08769](https://arxiv.org/abs/2607.08769)|null|
+|2026-07-09|Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe|Rebecca L. Larson et.al.|[2607.08749](https://arxiv.org/abs/2607.08749)|null|
+|2026-07-09|LTM: Large-scale Terrain Model for Wildfire-prone Landscapes|Xiao Fu et.al.|[2607.08711](https://arxiv.org/abs/2607.08711)|null|
+|2026-07-09|Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|[link](https://github.com/styufo/Track2Map)|
+|2026-07-09|HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations|YaQiao Dai et.al.|[2607.08398](https://arxiv.org/abs/2607.08398)|null|
+|2026-07-09|On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting|In-Hwan Jin et.al.|[2607.08250](https://arxiv.org/abs/2607.08250)|null|
+|2026-07-08|Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations|Chenghao Xu et.al.|[2607.07962](https://arxiv.org/abs/2607.07962)|null|
+|2026-07-08|3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies|Stephan Nebiker et.al.|[2607.07905](https://arxiv.org/abs/2607.07905)|null|
+|2026-07-09|Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
 |2026-07-02|PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation|Haofei Xu et.al.|[2607.02515](https://arxiv.org/abs/2607.02515)|null|
 |2026-07-02|InvSplat: Inverse Feed-Forward Scene Splatting|Polina Karpikova et.al.|[2607.02301](https://arxiv.org/abs/2607.02301)|null|
 |2026-07-02|Gamma-ray production cross sections in proton interactions with natMg, natSi and 56Fe targets: measurement over the energy range of $E_p = 66$ -125 MeV, data analysis, results and discussion. Astrophysical implications|M. Debabi et.al.|[2607.02202](https://arxiv.org/abs/2607.02202)|null|
@@ -197,7 +197,7 @@
 |2026-04-07|SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration|Xueming Fu et.al.|[2604.05301](https://arxiv.org/abs/2604.05301)|null|
 |2026-04-06|Coverage Optimization for Camera View Selection|Timothy Chen et.al.|[2604.05259](https://arxiv.org/abs/2604.05259)|null|
 |2026-04-06|LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows|Zhengqin Li et.al.|[2604.05182](https://arxiv.org/abs/2604.05182)|null|
-|2026-04-06|LoMa: Local Feature Matching Revisited|David Nordström et.al.|[2604.04931](https://arxiv.org/abs/2604.04931)|**[link](https://github.com/davnords/LoMa)**|
+|2026-04-06|LoMa: Local Feature Matching Revisited|David Nordström et.al.|[2604.04931](https://arxiv.org/abs/2604.04931)|[link](https://github.com/davnords/LoMa)|
 |2026-04-06|3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction|Beiyuan Zhang et.al.|[2604.04693](https://arxiv.org/abs/2604.04693)|null|
 |2026-03-30|TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K|Mattia D'Urso et.al.|[2603.28287](https://arxiv.org/abs/2603.28287)|null|
 |2026-03-29|MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction|Jongmin Lee et.al.|[2603.27542](https://arxiv.org/abs/2603.27542)|null|
@@ -391,7 +391,7 @@
 |2025-11-04|Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization|Shaohan Li et.al.|[2511.02329](http://arxiv.org/abs/2511.02329)|null|
 |2025-11-01|Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|null|
 |2025-10-23|RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
-|2025-10-20|Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
+|2025-10-20|Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|**[link](https://github.com/zss171999645/ItG-GS)**|
 |2025-10-21|DeepDetect: Learning All-in-One Dense Keypoints|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|[link](https://github.com/saktx/DeepDetect)|
 |2025-10-18|LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
 |2025-10-17|MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|null|

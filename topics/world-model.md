@@ -1,6 +1,6 @@
 # World Model
 
-> Updated on 2026.07.11
+> Updated on 2026.07.13
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -85,13 +85,13 @@
 |2026-05-27|Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
 |2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
 |2026-05-22|LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
-|2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|**[link](https://github.com/chkim403/gs-particle-dynamics)**|
-|2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|**[link](https://github.com/GenIntel/CRONOS-benchmark)**|
+|2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|[link](https://github.com/chkim403/gs-particle-dynamics)|
+|2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|[link](https://github.com/GenIntel/CRONOS-benchmark)|
 |2026-05-22|SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models|Zizhao Tong et.al.|[2605.23345](https://arxiv.org/abs/2605.23345)|null|
 |2026-05-22|WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
 |2026-05-21|Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
 |2026-05-21|World Machine: Towards Generative World Modeling for Time-Series|Elton Cardoso do Nascimento et.al.|[2605.23025](https://arxiv.org/abs/2605.23025)|null|
-|2026-05-21|MotiMotion: Motion-Controlled Video Generation with Visual Reasoning|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|null|
+|2026-05-21|MotiMotion: Motion-Controlled Video Generation with Visual Reasoning|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|**[link](https://github.com/motimotion/motimotion)**|
 |2026-05-21|Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning|Anjie Qiu et.al.|[2605.22456](https://arxiv.org/abs/2605.22456)|null|
 |2026-05-21|Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts|Zhen Sun et.al.|[2605.22446](https://arxiv.org/abs/2605.22446)|null|
 |2026-05-14|Quantitative Video World Model Evaluation for Geometric-Consistency|Jiaxin Wu et.al.|[2605.15185](https://arxiv.org/abs/2605.15185)|null|
@@ -100,7 +100,7 @@
 |2026-05-14|Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation|Min Zhao et.al.|[2605.15141](https://arxiv.org/abs/2605.15141)|null|
 |2026-05-14|Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations|Jonathan Spieler et.al.|[2605.14937](https://arxiv.org/abs/2605.14937)|null|
 |2026-05-14|IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification|Zhigao Huang et.al.|[2605.14851](https://arxiv.org/abs/2605.14851)|null|
-|2026-05-14|MechVerse: Evaluating Physical Motion Consistency in Video Generation Models|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|**[link](https://github.com/Ufere/Assingment_1)**|
+|2026-05-14|MechVerse: Evaluating Physical Motion Consistency in Video Generation Models|Rahul Jain et.al.|[2605.14843](https://arxiv.org/abs/2605.14843)|[link](https://github.com/Ufere/Assingment_1)|
 |2026-05-14|Probing into Camera Control of Video Models|Chen Hou et.al.|[2605.14815](https://arxiv.org/abs/2605.14815)|null|
 |2026-05-14|ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface|Mingyue Li et.al.|[2605.14757](https://arxiv.org/abs/2605.14757)|null|
 |2026-05-14|Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model|Minghao Wu et.al.|[2605.14723](https://arxiv.org/abs/2605.14723)|[link](https://github.com/FreedomIntelligence/SepsisAgent)|
