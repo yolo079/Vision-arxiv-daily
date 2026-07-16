@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.07.13
+> Updated on 2026.07.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Heavy-Tailed Flow Matching via Random Clocks**|Zhouhao Yang et.al.|[2607.13841](https://arxiv.org/abs/2607.13841)|null|
+|**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](https://arxiv.org/abs/2607.13685)|null|
+|**2026-07-15**|**DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation**|Eungjune Shim et.al.|[2607.13365](https://arxiv.org/abs/2607.13365)|null|
+|**2026-07-14**|**AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow**|Salah Eddine Bekhouche et.al.|[2607.13250](https://arxiv.org/abs/2607.13250)|null|
+|**2026-07-14**|**A Generative Model-Free Form Deformation Approach for the Generation of Mesh Motions with Applications to PDE**|Gugliemo Padula et.al.|[2607.13202](https://arxiv.org/abs/2607.13202)|null|
+|**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](https://arxiv.org/abs/2607.13193)|null|
+|**2026-07-14**|**A Shortcut to Statistically Steady-State Turbulence with Flow Matching**|Gianluca Galletti et.al.|[2607.13022](https://arxiv.org/abs/2607.13022)|null|
+|**2026-07-14**|**RFMSR: Residual Flow Matching for Image Super-Resolution**|Shuwei Huang et.al.|[2607.12753](https://arxiv.org/abs/2607.12753)|null|
+|**2026-07-14**|**The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models**|Shuchan Wang et.al.|[2607.12616](https://arxiv.org/abs/2607.12616)|null|
+|**2026-07-14**|**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models**|Francesco Taioli et.al.|[2607.12539](https://arxiv.org/abs/2607.12539)|null|
 |2026-07-09|FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation|Shiyuan Yang et.al.|[2607.08575](https://arxiv.org/abs/2607.08575)|null|
 |2026-07-09|Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings|Zhiyi Li et.al.|[2607.08392](https://arxiv.org/abs/2607.08392)|null|
 |2026-07-09|Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data|Haruto Kitagawa et.al.|[2607.08384](https://arxiv.org/abs/2607.08384)|null|

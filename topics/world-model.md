@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.07.13
+> Updated on 2026.07.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](https://arxiv.org/abs/2607.14088)|**[link](https://github.com/zhxie0117/VideoRAE)**|
+|**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](https://arxiv.org/abs/2607.14076)|null|
+|**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](https://arxiv.org/abs/2607.14005)|null|
+|**2026-07-15**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**| GigaWorld Team et.al.|[2607.13960](https://arxiv.org/abs/2607.13960)|null|
+|**2026-07-15**|**Towards Spatial Supersensing in the Wild**|Tianjun Gu et.al.|[2607.13681](https://arxiv.org/abs/2607.13681)|**[link](https://github.com/THUSI-Lab/VSI-Super-Wild)**|
+|**2026-07-15**|**Equilibrium Information Aggregation under Machine Learning**|Andrew Ellis et.al.|[2607.13670](https://arxiv.org/abs/2607.13670)|null|
+|**2026-07-15**|**From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring**|Mohanad Albughdadi et.al.|[2607.13651](https://arxiv.org/abs/2607.13651)|null|
+|**2026-07-15**|**The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models**|Fabio Arnez et.al.|[2607.13612](https://arxiv.org/abs/2607.13612)|null|
+|**2026-07-15**|**Grounded world models in biological organisms and future embodied AI**|Giovanni Pezzulo et.al.|[2607.13560](https://arxiv.org/abs/2607.13560)|null|
+|**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](https://arxiv.org/abs/2607.13527)|null|
 |2026-07-02|WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory|Hanlin Wang et.al.|[2607.02517](https://arxiv.org/abs/2607.02517)|null|
 |2026-07-02|WorldSample: Closed-loop Real-robot RL with World Modelling|Yuquan Xue et.al.|[2607.02431](https://arxiv.org/abs/2607.02431)|null|
 |2026-07-02|ACID: Action Consistency via Inverse Dynamics for Planning with World Models|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
