@@ -1,7 +1,7 @@
 # 3D Vision arXiv Daily 🚀
 
 > 🌐 Start here: **[GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)**
-> Updated on 2026.07.16
+> Updated on 2026.07.20
 > Topics: 9 | Total papers: 2226
 > Usage instructions: [here](./docs/README.md#usage)
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)

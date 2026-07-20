@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.07.16
+> Updated on 2026.07.20
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -200,7 +200,7 @@
 |2026-04-06|LoMa: Local Feature Matching Revisited|David Nordström et.al.|[2604.04931](https://arxiv.org/abs/2604.04931)|[link](https://github.com/davnords/LoMa)|
 |2026-04-06|3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction|Beiyuan Zhang et.al.|[2604.04693](https://arxiv.org/abs/2604.04693)|null|
 |2026-03-30|TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K|Mattia D'Urso et.al.|[2603.28287](https://arxiv.org/abs/2603.28287)|null|
-|2026-03-29|MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction|Jongmin Lee et.al.|[2603.27542](https://arxiv.org/abs/2603.27542)|null|
+|2026-03-29|MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction|Jongmin Lee et.al.|[2603.27542](https://arxiv.org/abs/2603.27542)|**[link](https://github.com/IceTea-CV/MV-RoMa)**|
 |2026-03-29|From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis|Ranran Huang et.al.|[2603.27455](https://arxiv.org/abs/2603.27455)|[link](https://github.com/ranrhuang/NAS3R)|
 |2026-03-28|HD-VGGT: High-Resolution Visual Geometry Transformer|Tianrun Chen et.al.|[2603.27222](https://arxiv.org/abs/2603.27222)|null|
 |2026-03-28|SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views|Zijian He et.al.|[2603.27084](https://arxiv.org/abs/2603.27084)|null|
@@ -322,7 +322,7 @@
 |2026-01-14|Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering|Jieying Chen et.al.|[2601.09697](https://arxiv.org/abs/2601.09697)|null|
 |2026-01-14|SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings|Yuchen Wu et.al.|[2601.09665](https://arxiv.org/abs/2601.09665)|null|
 |2026-01-14|V-DPM: 4D Video Reconstruction with Dynamic Point Maps|Edgar Sucar et.al.|[2601.09499](https://arxiv.org/abs/2601.09499)|null|
-|2026-01-14|Affostruction: 3D Affordance Grounding with Generative Reconstruction|Chunghyun Park et.al.|[2601.09211](https://arxiv.org/abs/2601.09211)|null|
+|2026-01-14|Affostruction: 3D Affordance Grounding with Generative Reconstruction|Chunghyun Park et.al.|[2601.09211](https://arxiv.org/abs/2601.09211)|**[link](https://github.com/chrockey/Affostruction)**|
 |2026-01-15|SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration|Chentian Sun et.al.|[2601.08414](https://arxiv.org/abs/2601.08414)|[link](https://github.com/vilab-sct/SPARK)|
 |2026-01-13|Second-order Gaussian directional derivative representations for image high-resolution corner detection|Dongbo Xie et.al.|[2601.08182](https://arxiv.org/abs/2601.08182)|null|
 |2026-01-13|ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving|Farhad G. Zanjani et.al.|[2601.07540](https://arxiv.org/abs/2601.07540)|null|
@@ -391,7 +391,7 @@
 |2025-11-04|Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization|Shaohan Li et.al.|[2511.02329](http://arxiv.org/abs/2511.02329)|null|
 |2025-11-01|Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|null|
 |2025-10-23|RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
-|2025-10-20|Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|**[link](https://github.com/zss171999645/ItG-GS)**|
+|2025-10-20|Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|[link](https://github.com/zss171999645/ItG-GS)|
 |2025-10-21|DeepDetect: Learning All-in-One Dense Keypoints|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|[link](https://github.com/saktx/DeepDetect)|
 |2025-10-18|LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
 |2025-10-17|MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|null|

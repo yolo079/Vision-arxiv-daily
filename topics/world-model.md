@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.07.16
+> Updated on 2026.07.20
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](https://arxiv.org/abs/2607.14088)|**[link](https://github.com/zhxie0117/VideoRAE)**|
-|**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](https://arxiv.org/abs/2607.14076)|null|
-|**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](https://arxiv.org/abs/2607.14005)|null|
-|**2026-07-15**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**| GigaWorld Team et.al.|[2607.13960](https://arxiv.org/abs/2607.13960)|null|
-|**2026-07-15**|**Towards Spatial Supersensing in the Wild**|Tianjun Gu et.al.|[2607.13681](https://arxiv.org/abs/2607.13681)|**[link](https://github.com/THUSI-Lab/VSI-Super-Wild)**|
-|**2026-07-15**|**Equilibrium Information Aggregation under Machine Learning**|Andrew Ellis et.al.|[2607.13670](https://arxiv.org/abs/2607.13670)|null|
-|**2026-07-15**|**From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring**|Mohanad Albughdadi et.al.|[2607.13651](https://arxiv.org/abs/2607.13651)|null|
-|**2026-07-15**|**The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models**|Fabio Arnez et.al.|[2607.13612](https://arxiv.org/abs/2607.13612)|null|
-|**2026-07-15**|**Grounded world models in biological organisms and future embodied AI**|Giovanni Pezzulo et.al.|[2607.13560](https://arxiv.org/abs/2607.13560)|null|
-|**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](https://arxiv.org/abs/2607.13527)|null|
+|2026-07-15|VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders|Zhihao Xie et.al.|[2607.14088](https://arxiv.org/abs/2607.14088)|[link](https://github.com/zhxie0117/VideoRAE)|
+|2026-07-15|From Pixels to States: Rethinking Interactive World Models as Game Engines|Zhen Li et.al.|[2607.14076](https://arxiv.org/abs/2607.14076)|null|
+|2026-07-15|M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming|Ke Cheng et.al.|[2607.14005](https://arxiv.org/abs/2607.14005)|null|
+|2026-07-15|GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch|GigaWorld Team et.al.|[2607.13960](https://arxiv.org/abs/2607.13960)|null|
+|2026-07-15|Towards Spatial Supersensing in the Wild|Tianjun Gu et.al.|[2607.13681](https://arxiv.org/abs/2607.13681)|[link](https://github.com/THUSI-Lab/VSI-Super-Wild)|
+|2026-07-15|Equilibrium Information Aggregation under Machine Learning|Andrew Ellis et.al.|[2607.13670](https://arxiv.org/abs/2607.13670)|null|
+|2026-07-15|From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring|Mohanad Albughdadi et.al.|[2607.13651](https://arxiv.org/abs/2607.13651)|null|
+|2026-07-15|The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models|Fabio Arnez et.al.|[2607.13612](https://arxiv.org/abs/2607.13612)|null|
+|2026-07-15|Grounded world models in biological organisms and future embodied AI|Giovanni Pezzulo et.al.|[2607.13560](https://arxiv.org/abs/2607.13560)|null|
+|2026-07-15|VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation|Songyu Xu et.al.|[2607.13527](https://arxiv.org/abs/2607.13527)|null|
 |2026-07-02|WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory|Hanlin Wang et.al.|[2607.02517](https://arxiv.org/abs/2607.02517)|null|
 |2026-07-02|WorldSample: Closed-loop Real-robot RL with World Modelling|Yuquan Xue et.al.|[2607.02431](https://arxiv.org/abs/2607.02431)|null|
 |2026-07-02|ACID: Action Consistency via Inverse Dynamics for Planning with World Models|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
@@ -74,8 +74,8 @@
 |2026-06-09|Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency|Xinrui Wu et.al.|[2606.10620](https://arxiv.org/abs/2606.10620)|null|
 |2026-06-09|ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience|Jia Luo et.al.|[2606.10359](https://arxiv.org/abs/2606.10359)|null|
 |2026-06-08|BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
-|2026-06-04|Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators|Chenming Zhu et.al.|[2606.06476](https://arxiv.org/abs/2606.06476)|null|
-|2026-06-04|RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling|Chensheng Dai et.al.|[2606.06309](https://arxiv.org/abs/2606.06309)|null|
+|2026-06-04|Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators|Chenming Zhu et.al.|[2606.06476](https://arxiv.org/abs/2606.06476)|**[link](https://github.com/ZCMax/Thinking-With-Imagination)**|
+|2026-06-04|RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling|Chensheng Dai et.al.|[2606.06309](https://arxiv.org/abs/2606.06309)|**[link](https://github.com/Simon-Dcs/RhymeFlow)**|
 |2026-06-04|MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action|Boyang Zhang et.al.|[2606.06245](https://arxiv.org/abs/2606.06245)|null|
 |2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng et.al.|[2606.06147](https://arxiv.org/abs/2606.06147)|null|
 |2026-06-04|PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models|Xiaoyun Qiu et.al.|[2606.06014](https://arxiv.org/abs/2606.06014)|null|
@@ -93,7 +93,7 @@
 |2026-05-28|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|
 |2026-05-28|PassNet: Scaling Large Language Models for Graph Compiler Pass Generation|Yiqun Liu et.al.|[2605.29357](https://arxiv.org/abs/2605.29357)|null|
 |2026-05-27|Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
-|2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|null|
+|2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|**[link](https://github.com/nv-tlabs/Gamma-World)**|
 |2026-05-22|LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
 |2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|[link](https://github.com/chkim403/gs-particle-dynamics)|
 |2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|[link](https://github.com/GenIntel/CRONOS-benchmark)|
@@ -101,7 +101,7 @@
 |2026-05-22|WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents|Zhixiang Guo et.al.|[2605.23220](https://arxiv.org/abs/2605.23220)|null|
 |2026-05-21|Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics|Romil V. Sonigra et.al.|[2605.23089](https://arxiv.org/abs/2605.23089)|null|
 |2026-05-21|World Machine: Towards Generative World Modeling for Time-Series|Elton Cardoso do Nascimento et.al.|[2605.23025](https://arxiv.org/abs/2605.23025)|null|
-|2026-05-21|MotiMotion: Motion-Controlled Video Generation with Visual Reasoning|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|**[link](https://github.com/motimotion/motimotion)**|
+|2026-05-21|MotiMotion: Motion-Controlled Video Generation with Visual Reasoning|Lee Hsin-Ying et.al.|[2605.22818](https://arxiv.org/abs/2605.22818)|[link](https://github.com/motimotion/motimotion)|
 |2026-05-21|Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning|Anjie Qiu et.al.|[2605.22456](https://arxiv.org/abs/2605.22456)|null|
 |2026-05-21|Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts|Zhen Sun et.al.|[2605.22446](https://arxiv.org/abs/2605.22446)|null|
 |2026-05-14|Quantitative Video World Model Evaluation for Geometric-Consistency|Jiaxin Wu et.al.|[2605.15185](https://arxiv.org/abs/2605.15185)|null|

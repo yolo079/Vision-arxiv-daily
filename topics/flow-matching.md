@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.07.16
+> Updated on 2026.07.20
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-15**|**Heavy-Tailed Flow Matching via Random Clocks**|Zhouhao Yang et.al.|[2607.13841](https://arxiv.org/abs/2607.13841)|null|
-|**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](https://arxiv.org/abs/2607.13685)|null|
-|**2026-07-15**|**DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation**|Eungjune Shim et.al.|[2607.13365](https://arxiv.org/abs/2607.13365)|null|
-|**2026-07-14**|**AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow**|Salah Eddine Bekhouche et.al.|[2607.13250](https://arxiv.org/abs/2607.13250)|null|
-|**2026-07-14**|**A Generative Model-Free Form Deformation Approach for the Generation of Mesh Motions with Applications to PDE**|Gugliemo Padula et.al.|[2607.13202](https://arxiv.org/abs/2607.13202)|null|
-|**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](https://arxiv.org/abs/2607.13193)|null|
-|**2026-07-14**|**A Shortcut to Statistically Steady-State Turbulence with Flow Matching**|Gianluca Galletti et.al.|[2607.13022](https://arxiv.org/abs/2607.13022)|null|
-|**2026-07-14**|**RFMSR: Residual Flow Matching for Image Super-Resolution**|Shuwei Huang et.al.|[2607.12753](https://arxiv.org/abs/2607.12753)|null|
-|**2026-07-14**|**The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models**|Shuchan Wang et.al.|[2607.12616](https://arxiv.org/abs/2607.12616)|null|
-|**2026-07-14**|**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models**|Francesco Taioli et.al.|[2607.12539](https://arxiv.org/abs/2607.12539)|null|
+|2026-07-15|Heavy-Tailed Flow Matching via Random Clocks|Zhouhao Yang et.al.|[2607.13841](https://arxiv.org/abs/2607.13841)|null|
+|2026-07-15|DNA: Dual-stage Native Attribution for Generated Image Source Tracing|Chao Wang et.al.|[2607.13685](https://arxiv.org/abs/2607.13685)|null|
+|2026-07-15|DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation|Eungjune Shim et.al.|[2607.13365](https://arxiv.org/abs/2607.13365)|null|
+|2026-07-14|AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow|Salah Eddine Bekhouche et.al.|[2607.13250](https://arxiv.org/abs/2607.13250)|**[link](https://github.com/Bekhouche/AffectFlow-DINO)**|
+|2026-07-14|A Generative Model-Free Form Deformation Approach for the Generation of Mesh Motions with Applications to PDE|Gugliemo Padula et.al.|[2607.13202](https://arxiv.org/abs/2607.13202)|null|
+|2026-07-14|Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model|Amrit Tarur et.al.|[2607.13193](https://arxiv.org/abs/2607.13193)|null|
+|2026-07-14|A Shortcut to Statistically Steady-State Turbulence with Flow Matching|Gianluca Galletti et.al.|[2607.13022](https://arxiv.org/abs/2607.13022)|null|
+|2026-07-14|RFMSR: Residual Flow Matching for Image Super-Resolution|Shuwei Huang et.al.|[2607.12753](https://arxiv.org/abs/2607.12753)|null|
+|2026-07-14|The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models|Shuchan Wang et.al.|[2607.12616](https://arxiv.org/abs/2607.12616)|null|
+|2026-07-14|DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models|Francesco Taioli et.al.|[2607.12539](https://arxiv.org/abs/2607.12539)|null|
 |2026-07-09|FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation|Shiyuan Yang et.al.|[2607.08575](https://arxiv.org/abs/2607.08575)|null|
 |2026-07-09|Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings|Zhiyi Li et.al.|[2607.08392](https://arxiv.org/abs/2607.08392)|null|
 |2026-07-09|Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data|Haruto Kitagawa et.al.|[2607.08384](https://arxiv.org/abs/2607.08384)|null|
@@ -149,7 +149,7 @@
 |2026-05-02|Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events|Keyan Chen et.al.|[2605.01226](https://arxiv.org/abs/2605.01226)|null|
 |2026-05-02|TAIL-Safe: Task-Agnostic Safety Monitoring for Imitation Learning Policies|Riad Ahmed et.al.|[2605.01195](https://arxiv.org/abs/2605.01195)|null|
 |2026-05-01|Posterior Augmented Flow Matching|George Stoica et.al.|[2605.00825](https://arxiv.org/abs/2605.00825)|null|
-|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
+|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)|
 |2026-04-30|GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment|Ziang Guo et.al.|[2604.28111](https://arxiv.org/abs/2604.28111)|null|
 |2026-04-30|Martingale Posteriors for Discretely Observed Diffusions|Jingning Yao et.al.|[2604.27603](https://arxiv.org/abs/2604.27603)|null|
 |2026-04-30|ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space|Gabe Guo et.al.|[2604.27443](https://arxiv.org/abs/2604.27443)|null|
@@ -168,7 +168,7 @@
 |2026-04-22|Tokenised Flow Matching for Hierarchical Simulation Based Inference|Giovanni Charles et.al.|[2604.20723](https://arxiv.org/abs/2604.20723)|null|
 |2026-04-22|Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation|Jiahao Xu et.al.|[2604.20336](https://arxiv.org/abs/2604.20336)|null|
 |2026-04-22|Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging|Peiming Luo et.al.|[2604.20128](https://arxiv.org/abs/2604.20128)|null|
-|2026-04-21|Annealed Langevin Monte Carlo for Flow ODE Sampling|Hanwen Huang et.al.|[2604.20052](https://arxiv.org/abs/2604.20052)|**[link](https://github.com/hanwenhuanghep/Flow-ODE-Sampling)**|
+|2026-04-21|Annealed Langevin Monte Carlo for Flow ODE Sampling|Hanwen Huang et.al.|[2604.20052](https://arxiv.org/abs/2604.20052)|[link](https://github.com/hanwenhuanghep/Flow-ODE-Sampling)|
 |2026-04-20|Complex normalizing flows can be information Kähler-Ricci flows|Andrew Gracyk et.al.|[2604.17954](https://arxiv.org/abs/2604.17954)|null|
 |2026-04-20|Fisher Decorator: Refining Flow Policy via A Local Transport Map|Xiaoyuan Cheng et.al.|[2604.17919](https://arxiv.org/abs/2604.17919)|null|
 |2026-04-20|OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation|Kuanning Wang et.al.|[2604.17876](https://arxiv.org/abs/2604.17876)|null|

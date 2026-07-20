@@ -1,6 +1,6 @@
 # Visual Localization
 
-> Updated on 2026.07.16
+> Updated on 2026.07.20
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -185,7 +185,7 @@
 |2026-01-13|Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization|Miao Pan et.al.|[2601.06224](https://arxiv.org/abs/2601.06224)|[link](https://github.com/ZJU-OmniAI/OMNEX-VL)|
 |2026-01-08|Multi-task Cross-modal Learning for Chest X-ray Image Retrieval|Zhaohui Liang et.al.|[2601.05399](https://arxiv.org/abs/2601.05399)|null|
 |2026-01-07|ImLoc: Revisiting Visual Localization with Image-based Representation|Xudong Jiang et.al.|[2601.04185](https://arxiv.org/abs/2601.04185)|null|
-|2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|null|
+|2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|**[link](https://github.com/qzp2018/CSMCIR)**|
 |2026-01-07|BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion|Qingyao Tian et.al.|[2601.03713](https://arxiv.org/abs/2601.03713)|null|
 |2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|null|
 |2026-01-06|Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM|Wenzheng Zhang et.al.|[2601.02723](https://arxiv.org/abs/2601.02723)|null|
@@ -193,7 +193,7 @@
 |2026-01-05|Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach|Biao Wu et.al.|[2601.00388](https://arxiv.org/abs/2601.00388)|null|
 |2025-12-31|OCP-LS: An Efficient Algorithm for Visual Localization|Jindi Zhong et.al.|[2512.24552](https://arxiv.org/abs/2512.24552)|null|
 |2025-12-30|Geometric Multi-Session Map Merging with Learned Local Descriptors|Yanlong Ma et.al.|[2512.24384](https://arxiv.org/abs/2512.24384)|null|
-|2025-12-29|Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation|Guo Ye et.al.|[2512.23864](https://arxiv.org/abs/2512.23864)|null|
+|2025-12-29|Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation|Guo Ye et.al.|[2512.23864](https://arxiv.org/abs/2512.23864)|**[link](https://github.com/michaelyeah7/learning-to-feel-the-future)**|
 |2025-12-29|MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning|Jiawei Chen et.al.|[2512.23412](https://arxiv.org/abs/2512.23412)|[link](https://github.com/TIMMY-CHAN/MindWatcher)|
 |2025-12-29|Anomaly Detection by Effectively Leveraging Synthetic Images|Sungho Kang et.al.|[2512.23227](https://arxiv.org/abs/2512.23227)|null|
 |2025-12-26|Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer|Tianchen Deng et.al.|[2512.21883](https://arxiv.org/abs/2512.21883)|null|
