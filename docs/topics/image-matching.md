@@ -22,9 +22,9 @@ title: Image Matching
     <a class="sidebar-link" href="3d-reconstruction.html">3D Reconstruction <span class="sidebar-count">512</span></a>
     <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">116</span></a>
     <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">484</span></a>
-    <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">25</span></a>
-    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">190</span></a>
-    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">202</span></a>
+    <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">29</span></a>
+    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">200</span></a>
+    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">212</span></a>
   </nav>
   <section class="reader-list">
     <div class="list-header"><h2>Image Matching</h2><span>193 papers</span></div>

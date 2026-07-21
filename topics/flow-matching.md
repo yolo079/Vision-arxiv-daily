@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.07.20
+> Updated on 2026.07.21
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**A machine-learned probability distribution in the phase space of turbulent channel flow for synthetic turbulence and flow reconstruction**|Frederik Aerts et.al.|[2607.18058](https://arxiv.org/abs/2607.18058)|null|
+|**2026-07-20**|**Consistent Feature Transport for Image Relighting**|Bohan Zhang et.al.|[2607.17833](https://arxiv.org/abs/2607.17833)|**[link](https://github.com/Dixin-Lab/CFT)**|
+|**2026-07-20**|**AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](https://arxiv.org/abs/2607.17572)|null|
+|**2026-07-20**|**FlowSonic: Stable Zero-Shot Music Editing via High-Order Trajectory Integration**|Ali Boudaghi et.al.|[2607.17526](https://arxiv.org/abs/2607.17526)|null|
+|**2026-07-20**|**DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition**|Zhihan Ren et.al.|[2607.17504](https://arxiv.org/abs/2607.17504)|null|
+|**2026-07-18**|**TVGL-CFM:Generating and Forecasting Time-Varying Trajectories of Dynamic Networks with Conditional Flow Matching**|Om Roy et.al.|[2607.16894](https://arxiv.org/abs/2607.16894)|null|
+|**2026-07-18**|**Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation**|Tianshuai Hu et.al.|[2607.16806](https://arxiv.org/abs/2607.16806)|null|
+|**2026-07-18**|**Semi-Supervised Conditional Generative Learning through Stochastic Interpolation and Sufficient Representations**|Changyu Liu et.al.|[2607.16725](https://arxiv.org/abs/2607.16725)|null|
+|**2026-07-18**|**DRIFT: Difficulty-aware Rectified Flows for Through-plane MRI Super-Resolution**|Yoonseok Choi et.al.|[2607.16649](https://arxiv.org/abs/2607.16649)|null|
+|**2026-07-17**|**Learning Standard Model structure from LHC data with Riemannian flow matching**|Midori Kato et.al.|[2607.16144](https://arxiv.org/abs/2607.16144)|null|
 |2026-07-15|Heavy-Tailed Flow Matching via Random Clocks|Zhouhao Yang et.al.|[2607.13841](https://arxiv.org/abs/2607.13841)|null|
 |2026-07-15|DNA: Dual-stage Native Attribution for Generated Image Source Tracing|Chao Wang et.al.|[2607.13685](https://arxiv.org/abs/2607.13685)|null|
 |2026-07-15|DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation|Eungjune Shim et.al.|[2607.13365](https://arxiv.org/abs/2607.13365)|null|
