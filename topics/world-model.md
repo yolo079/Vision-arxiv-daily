@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.07.26
+> Updated on 2026.07.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](https://arxiv.org/abs/2607.18171)|null|
-|**2026-07-20**|**SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning**|Letian Cheng et.al.|[2607.17973](https://arxiv.org/abs/2607.17973)|null|
-|**2026-07-20**|**Mobile Network Control with a World Model**|Maxime Bouton et.al.|[2607.17747](https://arxiv.org/abs/2607.17747)|null|
-|**2026-07-20**|**Planning with Transformers: Chain of Computation and Structured Context Windows**|Ehsan Futuhi et.al.|[2607.17710](https://arxiv.org/abs/2607.17710)|null|
-|**2026-07-20**|**ShotPlan: Cinematic Video Generation with Learnable Planning Token**|Su Guo et.al.|[2607.17675](https://arxiv.org/abs/2607.17675)|null|
-|**2026-07-20**|**Attention from Above: A Multimodal Model for Drone-Based Object Localization**|Hyun-Ki Jung et.al.|[2607.17669](https://arxiv.org/abs/2607.17669)|null|
-|**2026-07-20**|**Reinforcement Learning: From Algorithms To Foundation Models**|Zihan Ding et.al.|[2607.17560](https://arxiv.org/abs/2607.17560)|null|
-|**2026-07-20**|**Thinking in Video: Can Video Generators Really Reason About the Real World?**|Yongheng Zhang et.al.|[2607.17523](https://arxiv.org/abs/2607.17523)|null|
-|**2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Songyan Zhang et.al.|[2607.17521](https://arxiv.org/abs/2607.17521)|null|
-|**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](https://arxiv.org/abs/2607.17279)|null|
+|2026-07-20|FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications|Krish Agarwal et.al.|[2607.18171](https://arxiv.org/abs/2607.18171)|null|
+|2026-07-20|SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning|Letian Cheng et.al.|[2607.17973](https://arxiv.org/abs/2607.17973)|null|
+|2026-07-20|Mobile Network Control with a World Model|Maxime Bouton et.al.|[2607.17747](https://arxiv.org/abs/2607.17747)|null|
+|2026-07-20|Planning with Transformers: Chain of Computation and Structured Context Windows|Ehsan Futuhi et.al.|[2607.17710](https://arxiv.org/abs/2607.17710)|null|
+|2026-07-20|ShotPlan: Cinematic Video Generation with Learnable Planning Token|Su Guo et.al.|[2607.17675](https://arxiv.org/abs/2607.17675)|null|
+|2026-07-20|Attention from Above: A Multimodal Model for Drone-Based Object Localization|Hyun-Ki Jung et.al.|[2607.17669](https://arxiv.org/abs/2607.17669)|null|
+|2026-07-20|Reinforcement Learning: From Algorithms To Foundation Models|Zihan Ding et.al.|[2607.17560](https://arxiv.org/abs/2607.17560)|null|
+|2026-07-20|Thinking in Video: Can Video Generators Really Reason About the Real World?|Yongheng Zhang et.al.|[2607.17523](https://arxiv.org/abs/2607.17523)|null|
+|2026-07-20|GeoWorldAD: Geometry World Action Model for Autonomous Driving|Songyan Zhang et.al.|[2607.17521](https://arxiv.org/abs/2607.17521)|null|
+|2026-07-19|Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models|Xingkai Peng et.al.|[2607.17279](https://arxiv.org/abs/2607.17279)|null|
 |2026-07-15|VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders|Zhihao Xie et.al.|[2607.14088](https://arxiv.org/abs/2607.14088)|[link](https://github.com/zhxie0117/VideoRAE)|
 |2026-07-15|From Pixels to States: Rethinking Interactive World Models as Game Engines|Zhen Li et.al.|[2607.14076](https://arxiv.org/abs/2607.14076)|null|
 |2026-07-15|M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming|Ke Cheng et.al.|[2607.14005](https://arxiv.org/abs/2607.14005)|null|
@@ -84,8 +84,8 @@
 |2026-06-09|Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency|Xinrui Wu et.al.|[2606.10620](https://arxiv.org/abs/2606.10620)|null|
 |2026-06-09|ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience|Jia Luo et.al.|[2606.10359](https://arxiv.org/abs/2606.10359)|null|
 |2026-06-08|BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
-|2026-06-04|Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators|Chenming Zhu et.al.|[2606.06476](https://arxiv.org/abs/2606.06476)|**[link](https://github.com/ZCMax/Thinking-With-Imagination)**|
-|2026-06-04|RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling|Chensheng Dai et.al.|[2606.06309](https://arxiv.org/abs/2606.06309)|**[link](https://github.com/Simon-Dcs/RhymeFlow)**|
+|2026-06-04|Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators|Chenming Zhu et.al.|[2606.06476](https://arxiv.org/abs/2606.06476)|[link](https://github.com/ZCMax/Thinking-With-Imagination)|
+|2026-06-04|RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling|Chensheng Dai et.al.|[2606.06309](https://arxiv.org/abs/2606.06309)|[link](https://github.com/Simon-Dcs/RhymeFlow)|
 |2026-06-04|MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action|Boyang Zhang et.al.|[2606.06245](https://arxiv.org/abs/2606.06245)|null|
 |2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng et.al.|[2606.06147](https://arxiv.org/abs/2606.06147)|null|
 |2026-06-04|PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models|Xiaoyun Qiu et.al.|[2606.06014](https://arxiv.org/abs/2606.06014)|null|
@@ -103,7 +103,7 @@
 |2026-05-28|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|
 |2026-05-28|PassNet: Scaling Large Language Models for Graph Compiler Pass Generation|Yiqun Liu et.al.|[2605.29357](https://arxiv.org/abs/2605.29357)|null|
 |2026-05-27|Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning|Christoph Dann et.al.|[2605.29032](https://arxiv.org/abs/2605.29032)|null|
-|2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|**[link](https://github.com/nv-tlabs/Gamma-World)**|
+|2026-05-27|Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players|Fangfu Liu et.al.|[2605.28816](https://arxiv.org/abs/2605.28816)|[link](https://github.com/nv-tlabs/Gamma-World)|
 |2026-05-22|LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation|Bo Jiang et.al.|[2605.23878](https://arxiv.org/abs/2605.23878)|null|
 |2026-05-22|Learning a Particle Dynamics Model with Real-world Videos|Chanho Kim et.al.|[2605.23845](https://arxiv.org/abs/2605.23845)|[link](https://github.com/chkim403/gs-particle-dynamics)|
 |2026-05-22|CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models|León Begiristain et.al.|[2605.23699](https://arxiv.org/abs/2605.23699)|[link](https://github.com/GenIntel/CRONOS-benchmark)|

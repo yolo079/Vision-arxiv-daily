@@ -1,6 +1,6 @@
 # Novel View Synthesis
 
-> Updated on 2026.07.26
+> Updated on 2026.07.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -88,8 +88,8 @@
 |2026-05-20|Latent Dynamics for Full Body Avatar Animation|Shichong Peng et.al.|[2605.21478](https://arxiv.org/abs/2605.21478)|null|
 |2026-05-20|Towards Physically Consistent 4D Scene Reconstruction for Closed-loop Autonomous Driving Simulation|Bowyn Tan et.al.|[2605.21032](https://arxiv.org/abs/2605.21032)|null|
 |2026-05-19|Feed-Forward Gaussian Splatting from Sparse Aerial Views|Dongli Wu et.al.|[2605.19949](https://arxiv.org/abs/2605.19949)|null|
-|2026-05-19|Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images|Matias Turkulainen et.al.|[2605.19656](https://arxiv.org/abs/2605.19656)|**[link](https://github.com/nianticspatial/cross-view-splatter)**|
-|2026-05-18|PIXLRelight: Controllable Relighting via Intrinsic Conditioning|Miguel Farinha et.al.|[2605.18735](https://arxiv.org/abs/2605.18735)|**[link](https://github.com/mlfarinha/pixlrelight)**|
+|2026-05-19|Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images|Matias Turkulainen et.al.|[2605.19656](https://arxiv.org/abs/2605.19656)|[link](https://github.com/nianticspatial/cross-view-splatter)|
+|2026-05-18|PIXLRelight: Controllable Relighting via Intrinsic Conditioning|Miguel Farinha et.al.|[2605.18735](https://arxiv.org/abs/2605.18735)|[link](https://github.com/mlfarinha/pixlrelight)|
 |2026-05-14|3D Skew-Normal Splatting|Xiangru Wu et.al.|[2605.15010](https://arxiv.org/abs/2605.15010)|null|
 |2026-05-14|Denoising-GS: Gaussian Splatting with Spatial-aware Denoising|Qingyuan Zhou et.al.|[2605.14880](https://arxiv.org/abs/2605.14880)|null|
 |2026-05-13|PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting|Adil Qureshi et.al.|[2605.14135](https://arxiv.org/abs/2605.14135)|null|

@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.07.26
+> Updated on 2026.07.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](https://arxiv.org/abs/2607.21138)|null|
-|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](https://arxiv.org/abs/2607.20116)|null|
-|**2026-07-21**|**TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering**|Zhong Ji et.al.|[2607.18917](https://arxiv.org/abs/2607.18917)|null|
-|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](https://arxiv.org/abs/2607.15563)|null|
-|**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yuhao Zhou et.al.|[2607.15448](https://arxiv.org/abs/2607.15448)|null|
-|**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](https://arxiv.org/abs/2607.15265)|null|
-|**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](https://arxiv.org/abs/2607.14897)|null|
-|**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](https://arxiv.org/abs/2607.14481)|null|
-|**2026-07-15**|**Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning**|Altzi Tsanko et.al.|[2607.13584](https://arxiv.org/abs/2607.13584)|null|
-|**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](https://arxiv.org/abs/2607.12818)|null|
+|2026-07-23|DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests|Xin Zhao et.al.|[2607.21138](https://arxiv.org/abs/2607.21138)|null|
+|2026-07-22|RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs|Xin Li et.al.|[2607.20116](https://arxiv.org/abs/2607.20116)|null|
+|2026-07-21|TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering|Zhong Ji et.al.|[2607.18917](https://arxiv.org/abs/2607.18917)|null|
+|2026-07-17|Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference|Tong Jin et.al.|[2607.15563](https://arxiv.org/abs/2607.15563)|null|
+|2026-07-16|VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation|Yuhao Zhou et.al.|[2607.15448](https://arxiv.org/abs/2607.15448)|null|
+|2026-07-16|SceneBind: Binding What and Where Across Vision, Audio and Language|Mingfei Chen et.al.|[2607.15265](https://arxiv.org/abs/2607.15265)|null|
+|2026-07-16|Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition|Tong Jin et.al.|[2607.14897](https://arxiv.org/abs/2607.14897)|null|
+|2026-07-16|Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency|Andreas Meuleman et.al.|[2607.14481](https://arxiv.org/abs/2607.14481)|null|
+|2026-07-15|Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning|Altzi Tsanko et.al.|[2607.13584](https://arxiv.org/abs/2607.13584)|null|
+|2026-07-15|Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning|Sania Waheed et.al.|[2607.12818](https://arxiv.org/abs/2607.12818)|null|
 |2026-07-07|Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards|Nicholas Bermingham et.al.|[2607.05710](https://arxiv.org/abs/2607.05710)|null|
 |2026-07-06|SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR|Kenta Tsukahara et.al.|[2607.04764](https://arxiv.org/abs/2607.04764)|null|
 |2026-07-06|Trajectory-Anchor Optimization for Overconfident Thermal Visual Place Recognition: Zero-Leakage OOD Auditing and Kidnapped-Robot Recovery|Zhiyuan Lu et.al.|[2607.04745](https://arxiv.org/abs/2607.04745)|null|
@@ -195,7 +195,7 @@
 |2026-01-13|Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization|Miao Pan et.al.|[2601.06224](https://arxiv.org/abs/2601.06224)|[link](https://github.com/ZJU-OmniAI/OMNEX-VL)|
 |2026-01-08|Multi-task Cross-modal Learning for Chest X-ray Image Retrieval|Zhaohui Liang et.al.|[2601.05399](https://arxiv.org/abs/2601.05399)|null|
 |2026-01-07|ImLoc: Revisiting Visual Localization with Image-based Representation|Xudong Jiang et.al.|[2601.04185](https://arxiv.org/abs/2601.04185)|null|
-|2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|**[link](https://github.com/qzp2018/CSMCIR)**|
+|2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|[link](https://github.com/qzp2018/CSMCIR)|
 |2026-01-07|BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion|Qingyao Tian et.al.|[2601.03713](https://arxiv.org/abs/2601.03713)|null|
 |2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|null|
 |2026-01-06|Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM|Wenzheng Zhang et.al.|[2601.02723](https://arxiv.org/abs/2601.02723)|null|
@@ -203,7 +203,7 @@
 |2026-01-05|Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach|Biao Wu et.al.|[2601.00388](https://arxiv.org/abs/2601.00388)|null|
 |2025-12-31|OCP-LS: An Efficient Algorithm for Visual Localization|Jindi Zhong et.al.|[2512.24552](https://arxiv.org/abs/2512.24552)|null|
 |2025-12-30|Geometric Multi-Session Map Merging with Learned Local Descriptors|Yanlong Ma et.al.|[2512.24384](https://arxiv.org/abs/2512.24384)|null|
-|2025-12-29|Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation|Guo Ye et.al.|[2512.23864](https://arxiv.org/abs/2512.23864)|**[link](https://github.com/michaelyeah7/learning-to-feel-the-future)**|
+|2025-12-29|Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation|Guo Ye et.al.|[2512.23864](https://arxiv.org/abs/2512.23864)|[link](https://github.com/michaelyeah7/learning-to-feel-the-future)|
 |2025-12-29|MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning|Jiawei Chen et.al.|[2512.23412](https://arxiv.org/abs/2512.23412)|[link](https://github.com/TIMMY-CHAN/MindWatcher)|
 |2025-12-29|Anomaly Detection by Effectively Leveraging Synthetic Images|Sungho Kang et.al.|[2512.23227](https://arxiv.org/abs/2512.23227)|null|
 |2025-12-26|Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer|Tianchen Deng et.al.|[2512.21883](https://arxiv.org/abs/2512.21883)|null|
@@ -493,7 +493,7 @@
 |2025-03-11|CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition|Dongyue Li et.al.|[2503.08170](http://arxiv.org/abs/2503.08170)|null|
 |2025-03-10|Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization|Michael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
 |2025-03-10|Zero-Shot Hashing Based on Reconstruction With Part Alignment|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
-|2025-03-10|Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
+|2025-03-10|Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|**[link](https://github.com/QVPR/vpr-smr-predictor)**|
 |2025-03-09|RoboDesign1M: A Large-scale Dataset for Robot Design Understanding|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
 |2025-03-09|StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|[link](https://github.com/syqlyx/StructVPR)|
 |2025-03-09|TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|[link](https://github.com/hqitao/textinplace)|

@@ -1,19 +1,19 @@
 # 3D Localization
 
-> Updated on 2026.07.26
+> Updated on 2026.07.27
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-25**|**RoboNav-Arm: Agentic AI-Driven Navigation and Obstacle Avoidance for Robotic Manipulator in Cluttered Environments**|Aachal Sharma et.al.|[2607.09716](https://arxiv.org/abs/2607.09716)|null|
-|**2026-07-07**|**Delay-Aware Active Triangulation with Uncertainty-Driven Multi-Agent Reinforcement Learning for Counter-UAS**|Seungwook Lee et.al.|[2607.05957](https://arxiv.org/abs/2607.05957)|null|
-|**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](https://arxiv.org/abs/2607.04722)|**[link](https://github.com/SNU-DLLAB/ric_loc)**|
-|**2026-07-03**|**HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion**|Dongyeun Lee et.al.|[2607.03012](https://arxiv.org/abs/2607.03012)|**[link](https://github.com/LeeDongYeun/HyperVAttention)**|
-|**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al.|[2607.02074](https://arxiv.org/abs/2607.02074)|null|
-|**2026-07-01**|**Plenoptic imaging of particle interactions in scintillation detectors**|Xiang Dai et.al.|[2607.01123](https://arxiv.org/abs/2607.01123)|null|
-|**2026-07-10**|**Iterated Invariant EKF for 3D Landmark-Aided Inertial Navigation**|Hilton Marques Souza Santana et.al.|[2607.00145](https://arxiv.org/abs/2607.00145)|null|
-|**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|null|
-|**2026-06-26**|**Learning 1-Bit LiDAR-based Localization with Auxiliary Objective**|Kaijie Yin et.al.|[2606.27729](https://arxiv.org/abs/2606.27729)|null|
-|**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](https://arxiv.org/abs/2606.22091)|null|
+|2026-06-25|RoboNav-Arm: Agentic AI-Driven Navigation and Obstacle Avoidance for Robotic Manipulator in Cluttered Environments|Aachal Sharma et.al.|[2607.09716](https://arxiv.org/abs/2607.09716)|null|
+|2026-07-07|Delay-Aware Active Triangulation with Uncertainty-Driven Multi-Agent Reinforcement Learning for Counter-UAS|Seungwook Lee et.al.|[2607.05957](https://arxiv.org/abs/2607.05957)|null|
+|2026-07-06|Reference-Induced Consensus for Selective Posed-Reference Visual Localization|Wonseok Kang et.al.|[2607.04722](https://arxiv.org/abs/2607.04722)|[link](https://github.com/SNU-DLLAB/ric_loc)|
+|2026-07-03|HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion|Dongyeun Lee et.al.|[2607.03012](https://arxiv.org/abs/2607.03012)|[link](https://github.com/LeeDongYeun/HyperVAttention)|
+|2026-07-02|Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving|Adwait Chandorkar et.al.|[2607.02074](https://arxiv.org/abs/2607.02074)|null|
+|2026-07-01|Plenoptic imaging of particle interactions in scintillation detectors|Xiang Dai et.al.|[2607.01123](https://arxiv.org/abs/2607.01123)|null|
+|2026-07-10|Iterated Invariant EKF for 3D Landmark-Aided Inertial Navigation|Hilton Marques Souza Santana et.al.|[2607.00145](https://arxiv.org/abs/2607.00145)|null|
+|2026-06-30|Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|null|
+|2026-06-26|Learning 1-Bit LiDAR-based Localization with Auxiliary Objective|Kaijie Yin et.al.|[2606.27729](https://arxiv.org/abs/2606.27729)|null|
+|2026-06-20|ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only|Mingkai Liu et.al.|[2606.22091](https://arxiv.org/abs/2606.22091)|null|
 |2026-06-16|Reinforcing Dual-Path Reasoning in Spatial Vision Language Models|Yatai Ji et.al.|[2606.17539](https://arxiv.org/abs/2606.17539)|null|
 |2026-06-12|Multi-HMR 2: Multi-Person Camera-Centric Human Detection, Mesh Recovery and Tracking|Guénolé Fiche et.al.|[2606.14841](https://arxiv.org/abs/2606.14841)|null|
 |2026-06-10|MB-Loc: Multi-planar Bird's-eye-view Localization in outdoor LiDAR scenes|Ayaan Choudhury et.al.|[2606.08744](https://arxiv.org/abs/2606.08744)|null|
