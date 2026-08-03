@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.08.01
+> Updated on 2026.08.03
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-30**|**APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems**|Shentong Mo et.al.|[2607.28553](https://arxiv.org/abs/2607.28553)|null|
-|**2026-07-30**|**Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework**|Tianen Shen et.al.|[2607.28035](https://arxiv.org/abs/2607.28035)|null|
-|**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|null|
-|**2026-07-30**|**RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy**|Zhengyang Yan et.al.|[2607.27782](https://arxiv.org/abs/2607.27782)|null|
-|**2026-07-30**|**RIPPLE: Generating Multi-Channel Phase, Not Recovering It**|Jaehyuk Lee et.al.|[2607.27775](https://arxiv.org/abs/2607.27775)|null|
-|**2026-07-30**|**ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction**|Dexuan Ding et.al.|[2607.27537](https://arxiv.org/abs/2607.27537)|null|
-|**2026-07-29**|**Latent-Kernel Discrete Flow Maps for Few-Step Generation**|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|null|
-|**2026-07-29**|**Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling**|Zhefeng Huang et.al.|[2607.27511](https://arxiv.org/abs/2607.27511)|null|
-|**2026-07-29**|**SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups**|Yikun Bai et.al.|[2607.27431](https://arxiv.org/abs/2607.27431)|null|
-|**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138](https://arxiv.org/abs/2607.27138)|null|
+|2026-07-30|APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems|Shentong Mo et.al.|[2607.28553](https://arxiv.org/abs/2607.28553)|null|
+|2026-07-30|Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework|Tianen Shen et.al.|[2607.28035](https://arxiv.org/abs/2607.28035)|null|
+|2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|null|
+|2026-07-30|RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy|Zhengyang Yan et.al.|[2607.27782](https://arxiv.org/abs/2607.27782)|null|
+|2026-07-30|RIPPLE: Generating Multi-Channel Phase, Not Recovering It|Jaehyuk Lee et.al.|[2607.27775](https://arxiv.org/abs/2607.27775)|null|
+|2026-07-30|ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction|Dexuan Ding et.al.|[2607.27537](https://arxiv.org/abs/2607.27537)|null|
+|2026-07-29|Latent-Kernel Discrete Flow Maps for Few-Step Generation|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|null|
+|2026-07-29|Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling|Zhefeng Huang et.al.|[2607.27511](https://arxiv.org/abs/2607.27511)|null|
+|2026-07-29|SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups|Yikun Bai et.al.|[2607.27431](https://arxiv.org/abs/2607.27431)|null|
+|2026-07-29|DLAM: Distributional Latent Actions with Temporal Constraints|Zuojin Tang et.al.|[2607.27138](https://arxiv.org/abs/2607.27138)|null|
 |2026-07-23|Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning|Rogerio Guimaraes et.al.|[2607.21591](https://arxiv.org/abs/2607.21591)|[link](https://github.com/rogerioagjr/PSP)|
 |2026-07-23|Expanding Flow Maps|Sophia Tang et.al.|[2607.21585](https://arxiv.org/abs/2607.21585)|[link](https://github.com/klonnet23/helloy-word)|
 |2026-07-23|Flow-based Phase-space Tomography of Continuous-variable Quantum States|Owen Dugan et.al.|[2607.21584](https://arxiv.org/abs/2607.21584)|null|
@@ -104,8 +104,8 @@
 |2026-06-11|PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update|Jianming Ma et.al.|[2606.13400](https://arxiv.org/abs/2606.13400)|null|
 |2026-06-11|Real-Time Execution with Autoregressive Policies|Sangkyu Lee et.al.|[2606.13355](https://arxiv.org/abs/2606.13355)|null|
 |2026-06-11|ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance|Salaheldin Mohamed et.al.|[2606.13304](https://arxiv.org/abs/2606.13304)|null|
-|2026-06-09|Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|null|
-|2026-06-09|Exploring the Design Space of Reward Backpropagation for Flow Matching|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|null|
+|2026-06-09|Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|**[link](https://github.com/happyw1nd/MFD)**|
+|2026-06-09|Exploring the Design Space of Reward Backpropagation for Flow Matching|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|**[link](https://github.com/RuoyuWang-2077/FlowBP)**|
 |2026-06-09|Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models|Bowen Ping et.al.|[2606.11025](https://arxiv.org/abs/2606.11025)|null|
 |2026-06-09|Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning|Thanh Nguyen et.al.|[2606.10613](https://arxiv.org/abs/2606.10613)|null|
 |2026-06-09|Flexible Flows for Biological Sequence Design|Yogesh Verma et.al.|[2606.10543](https://arxiv.org/abs/2606.10543)|null|
@@ -120,7 +120,7 @@
 |2026-06-04|Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events|Rishal Aggarwal et.al.|[2606.06295](https://arxiv.org/abs/2606.06295)|null|
 |2026-06-04|Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation|Rickmer Krohn et.al.|[2606.06281](https://arxiv.org/abs/2606.06281)|null|
 |2026-06-04|Geodesic Flow Matching on a Riemannian Degradation Manifold for Blind Image Restoration|Akshay Janardan Bankar et.al.|[2606.06278](https://arxiv.org/abs/2606.06278)|null|
-|2026-06-04|SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing|Haowang Cui et.al.|[2606.06228](https://arxiv.org/abs/2606.06228)|null|
+|2026-06-04|SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing|Haowang Cui et.al.|[2606.06228](https://arxiv.org/abs/2606.06228)|**[link](https://github.com/chwbob/Sam-Flow)**|
 |2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng et.al.|[2606.06147](https://arxiv.org/abs/2606.06147)|null|
 |2026-06-04|Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing|Yuxiao Ye et.al.|[2606.05950](https://arxiv.org/abs/2606.05950)|null|
 |2026-06-04|UniVoice: A Unified Model for Speech and Singing Voice Generation|Junjie Zheng et.al.|[2606.05852](https://arxiv.org/abs/2606.05852)|null|
@@ -183,7 +183,7 @@
 |2026-04-30|GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment|Ziang Guo et.al.|[2604.28111](https://arxiv.org/abs/2604.28111)|null|
 |2026-04-30|Martingale Posteriors for Discretely Observed Diffusions|Jingning Yao et.al.|[2604.27603](https://arxiv.org/abs/2604.27603)|null|
 |2026-04-30|ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space|Gabe Guo et.al.|[2604.27443](https://arxiv.org/abs/2604.27443)|null|
-|2026-04-29|AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation|Zijie Wu et.al.|[2604.26917](https://arxiv.org/abs/2604.26917)|**[link](https://github.com/JarrentWu1031/AnimateAnyMesh-pp)**|
+|2026-04-29|AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation|Zijie Wu et.al.|[2604.26917](https://arxiv.org/abs/2604.26917)|[link](https://github.com/JarrentWu1031/AnimateAnyMesh-pp)|
 |2026-04-28|FlowS: One-Step Motion Prediction via Local Transport Conditioning|Leandro Di Bella et.al.|[2604.26065](https://arxiv.org/abs/2604.26065)|null|
 |2026-04-28|PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching|Kaikwan Lau et.al.|[2604.25371](https://arxiv.org/abs/2604.25371)|null|
 |2026-04-28|Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds|Liuzhuozheng Li et.al.|[2604.25289](https://arxiv.org/abs/2604.25289)|null|
