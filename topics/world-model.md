@@ -1,6 +1,6 @@
 # World Model
 
-> Updated on 2026.08.06
+> Updated on 2026.08.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -39,7 +39,7 @@
 |2026-07-02|ACID: Action Consistency via Inverse Dynamics for Planning with World Models|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
 |2026-07-02|DecompRL: Solving Harder Problems by Learning Modular Code Generation|Juliette Decugis et.al.|[2607.02390](https://arxiv.org/abs/2607.02390)|null|
 |2026-07-02|Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems|Uwe M. Borghoff et.al.|[2607.02376](https://arxiv.org/abs/2607.02376)|null|
-|2026-07-02|Bridge-WA: Predicting Where and How the World Changes for Robotic Action|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|null|
+|2026-07-02|Bridge-WA: Predicting Where and How the World Changes for Robotic Action|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|**[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)**|
 |2026-07-02|Path-Measure Dynamics of Attention-Driven World Models: A Nonlocal Onsager--Machlup Approach|Gunn Kim et.al.|[2607.02154](https://arxiv.org/abs/2607.02154)|null|
 |2026-07-02|PWM-ArtGen: Part World Model for Articulated Object Generation|Wentao Zheng et.al.|[2607.02045](https://arxiv.org/abs/2607.02045)|null|
 |2026-07-02|Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling|Weizhi Nie et.al.|[2607.01986](https://arxiv.org/abs/2607.01986)|null|

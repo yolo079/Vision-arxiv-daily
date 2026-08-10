@@ -1,6 +1,6 @@
 # Flow Matching
 
-> Updated on 2026.08.06
+> Updated on 2026.08.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -99,13 +99,13 @@
 |2026-06-12|Improving Robotic Generalist Policies via Flow Reversal Steering|Andy Tang et.al.|[2606.13675](https://arxiv.org/abs/2606.13675)|null|
 |2026-06-11| $\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation|Arnav Kumar Jain et.al.|[2606.13672](https://arxiv.org/abs/2606.13672)|null|
 |2026-06-11|World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible|Hao Zhang et.al.|[2606.13652](https://arxiv.org/abs/2606.13652)|null|
-|2026-06-11|Surflo: Consistent 3D Surface Flow Model with Global State|Antoine Guédon et.al.|[2606.13644](https://arxiv.org/abs/2606.13644)|null|
-|2026-06-11|LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories|Baochang Ren et.al.|[2606.13578](https://arxiv.org/abs/2606.13578)|null|
+|2026-06-11|Surflo: Consistent 3D Surface Flow Model with Global State|Antoine Guédon et.al.|[2606.13644](https://arxiv.org/abs/2606.13644)|**[link](https://github.com/Anttwo/Surflo)**|
+|2026-06-11|LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories|Baochang Ren et.al.|[2606.13578](https://arxiv.org/abs/2606.13578)|**[link](https://github.com/zjunlp/LabVLA)**|
 |2026-06-11|PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update|Jianming Ma et.al.|[2606.13400](https://arxiv.org/abs/2606.13400)|null|
 |2026-06-11|Real-Time Execution with Autoregressive Policies|Sangkyu Lee et.al.|[2606.13355](https://arxiv.org/abs/2606.13355)|null|
 |2026-06-11|ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance|Salaheldin Mohamed et.al.|[2606.13304](https://arxiv.org/abs/2606.13304)|null|
-|2026-06-09|Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|**[link](https://github.com/happyw1nd/MFD)**|
-|2026-06-09|Exploring the Design Space of Reward Backpropagation for Flow Matching|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|**[link](https://github.com/RuoyuWang-2077/FlowBP)**|
+|2026-06-09|Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models|An Zhao et.al.|[2606.11155](https://arxiv.org/abs/2606.11155)|[link](https://github.com/happyw1nd/MFD)|
+|2026-06-09|Exploring the Design Space of Reward Backpropagation for Flow Matching|Ruoyu Wang et.al.|[2606.11075](https://arxiv.org/abs/2606.11075)|[link](https://github.com/RuoyuWang-2077/FlowBP)|
 |2026-06-09|Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models|Bowen Ping et.al.|[2606.11025](https://arxiv.org/abs/2606.11025)|null|
 |2026-06-09|Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning|Thanh Nguyen et.al.|[2606.10613](https://arxiv.org/abs/2606.10613)|null|
 |2026-06-09|Flexible Flows for Biological Sequence Design|Yogesh Verma et.al.|[2606.10543](https://arxiv.org/abs/2606.10543)|null|
@@ -120,7 +120,7 @@
 |2026-06-04|Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events|Rishal Aggarwal et.al.|[2606.06295](https://arxiv.org/abs/2606.06295)|null|
 |2026-06-04|Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation|Rickmer Krohn et.al.|[2606.06281](https://arxiv.org/abs/2606.06281)|null|
 |2026-06-04|Geodesic Flow Matching on a Riemannian Degradation Manifold for Blind Image Restoration|Akshay Janardan Bankar et.al.|[2606.06278](https://arxiv.org/abs/2606.06278)|null|
-|2026-06-04|SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing|Haowang Cui et.al.|[2606.06228](https://arxiv.org/abs/2606.06228)|**[link](https://github.com/chwbob/Sam-Flow)**|
+|2026-06-04|SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing|Haowang Cui et.al.|[2606.06228](https://arxiv.org/abs/2606.06228)|[link](https://github.com/chwbob/Sam-Flow)|
 |2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng et.al.|[2606.06147](https://arxiv.org/abs/2606.06147)|null|
 |2026-06-04|Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing|Yuxiao Ye et.al.|[2606.05950](https://arxiv.org/abs/2606.05950)|null|
 |2026-06-04|UniVoice: A Unified Model for Speech and Singing Voice Generation|Junjie Zheng et.al.|[2606.05852](https://arxiv.org/abs/2606.05852)|null|

@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.08.06
+> Updated on 2026.08.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](https://arxiv.org/abs/2608.03423)|null|
-|**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](https://arxiv.org/abs/2607.28967)|null|
-|**2026-07-29**|**PanDent: Toward Comprehensive Tooth-Level Structure-Language Consistency in Dental Radiology**|Xiaohan Li et.al.|[2607.27378](https://arxiv.org/abs/2607.27378)|null|
-|**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](https://arxiv.org/abs/2607.24730)|null|
-|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](https://arxiv.org/abs/2607.24409)|null|
-|**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](https://arxiv.org/abs/2607.22147)|null|
-|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](https://arxiv.org/abs/2607.21138)|null|
-|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](https://arxiv.org/abs/2607.20116)|null|
-|**2026-07-21**|**TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering**|Zhong Ji et.al.|[2607.18917](https://arxiv.org/abs/2607.18917)|null|
-|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](https://arxiv.org/abs/2607.15563)|null|
+|2026-08-04|SGFormer: Structure-Guided Transformer for Robust Local Feature Matching|Runyu Zhu et.al.|[2608.03423](https://arxiv.org/abs/2608.03423)|null|
+|2026-07-31|Visual Distribution Anchoring for Efficient Prompt Tuning|Pouya Parsa et.al.|[2607.28967](https://arxiv.org/abs/2607.28967)|null|
+|2026-07-29|PanDent: Toward Comprehensive Tooth-Level Structure-Language Consistency in Dental Radiology|Xiaohan Li et.al.|[2607.27378](https://arxiv.org/abs/2607.27378)|null|
+|2026-07-27|KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability|Krithi Shailya et.al.|[2607.24730](https://arxiv.org/abs/2607.24730)|null|
+|2026-07-27|Accuracy potential of visual localization exploiting high-end street-level imagery|Jonas Meyer et.al.|[2607.24409](https://arxiv.org/abs/2607.24409)|null|
+|2026-07-24|Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis|Maria Peribañez et.al.|[2607.22147](https://arxiv.org/abs/2607.22147)|null|
+|2026-07-23|DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests|Xin Zhao et.al.|[2607.21138](https://arxiv.org/abs/2607.21138)|null|
+|2026-07-22|RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs|Xin Li et.al.|[2607.20116](https://arxiv.org/abs/2607.20116)|null|
+|2026-07-21|TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering|Zhong Ji et.al.|[2607.18917](https://arxiv.org/abs/2607.18917)|null|
+|2026-07-17|Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference|Tong Jin et.al.|[2607.15563](https://arxiv.org/abs/2607.15563)|null|
 |2026-07-16|VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation|Yuhao Zhou et.al.|[2607.15448](https://arxiv.org/abs/2607.15448)|null|
 |2026-07-16|SceneBind: Binding What and Where Across Vision, Audio and Language|Mingfei Chen et.al.|[2607.15265](https://arxiv.org/abs/2607.15265)|null|
 |2026-07-16|Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition|Tong Jin et.al.|[2607.14897](https://arxiv.org/abs/2607.14897)|null|
@@ -129,7 +129,7 @@
 |2026-03-18|VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents|Zhengbo Zhang et.al.|[2603.16289](https://arxiv.org/abs/2603.16289)|[link](https://github.com/ZhengboZhang/VisBrowse-Bench)|
 |2026-03-14|Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics|Dennis Haitz et.al.|[2603.13917](https://arxiv.org/abs/2603.13917)|null|
 |2026-03-14|Sky2Ground: A Benchmark for Site Modeling under Varying Altitude|Zengyan Wang et.al.|[2603.13740](https://arxiv.org/abs/2603.13740)|[link](https://github.com/zhyw86/Sky2Ground)|
-|2026-03-13|A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks|Tangzheng Lian et.al.|[2603.12998](https://arxiv.org/abs/2603.12998)|null|
+|2026-03-13|A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks|Tangzheng Lian et.al.|[2603.12998](https://arxiv.org/abs/2603.12998)|**[link](https://github.com/Supltz/Debias_VLM)**|
 |2026-03-13|Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval|Jing Yang et.al.|[2603.12711](https://arxiv.org/abs/2603.12711)|null|
 |2026-03-13|CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images|Liangzheng Sun et.al.|[2603.12690](https://arxiv.org/abs/2603.12690)|null|
 |2026-03-12|FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval|Chenchen Zhao et.al.|[2603.11520](https://arxiv.org/abs/2603.11520)|null|
@@ -434,7 +434,7 @@
 |2025-05-20|Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |2025-05-18|MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |2025-05-16|Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
-|2025-05-16|Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|**[link](https://github.com/mathis98/redundacy-aware-rs-vlm)**|
+|2025-05-16|Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|[link](https://github.com/mathis98/redundacy-aware-rs-vlm)|
 |2025-05-04|OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|[link](https://github.com/cszhanglmu/obd-finder)|
 |2025-05-06|Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |2025-05-06|LiftFeat: 3D Geometry-Aware Local Feature Matching|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|[link](https://github.com/lyp-deeplearning/liftfeat)|

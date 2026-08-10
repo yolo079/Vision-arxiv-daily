@@ -1,6 +1,6 @@
 # SLAM
 
-> Updated on 2026.08.06
+> Updated on 2026.08.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -319,7 +319,7 @@
 |2025-03-30|AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos|Felix Wimbauer et.al.|[2503.23282](http://arxiv.org/abs/2503.23282)|[link](https://github.com/Brummi/anycam)|
 |2025-03-27|HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
 |2025-03-27|STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM|Yongxu Wang et.al.|[2503.21425](http://arxiv.org/abs/2503.21425)|null|
-|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
+|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|**[link](https://github.com/JunweiZheng93/SPR)**|
 |2025-03-25|First Results on UAV-aided User Localization Using ToA and OpenAirInterface in 5G NR|Omid Esrafilian et.al.|[2503.19529](http://arxiv.org/abs/2503.19529)|null|
 |2025-03-25|MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|[link](https://github.com/lian-yue0515/MM-LINS)|
 |2025-03-24|Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
