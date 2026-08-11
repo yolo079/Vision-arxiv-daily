@@ -24,7 +24,7 @@ title: World Model
     <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">500</span></a>
     <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">29</span></a>
     <a class="sidebar-link active" href="world-model.html">World Model <span class="sidebar-count">210</span></a>
-    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">232</span></a>
+    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">242</span></a>
   </nav>
   <section class="reader-list">
     <div class="list-header"><h2>World Model</h2><span>210 papers</span></div>

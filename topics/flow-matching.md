@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.08.10
+> Updated on 2026.08.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-09**|**SDDBMs: Soft Denoising Diffusion Bridge Models**|Shiyi Qi et.al.|[2608.08594](https://arxiv.org/abs/2608.08594)|null|
+|**2026-08-09**|**RenderMatte: Exact-Alpha Rendering and Group-Relative Alignment for Image Matting**|Zecheng Ren et.al.|[2608.08487](https://arxiv.org/abs/2608.08487)|null|
+|**2026-08-09**|**Population-Level Generative Modeling for Ranking Data**|Zhaoyang Shi et.al.|[2608.08422](https://arxiv.org/abs/2608.08422)|null|
+|**2026-08-08**|**Tropical Cyclone Forecasting via Latent Rectified Flow using Satellite Imagery and Atmospheric Fields**|Meheru Zannat et.al.|[2608.08354](https://arxiv.org/abs/2608.08354)|null|
+|**2026-08-08**|**Compositional Cross-Modality Translation via Whole-Volume Multitask Latent Flow Matching**|Daniele Molino et.al.|[2608.08135](https://arxiv.org/abs/2608.08135)|null|
+|**2026-08-08**|**VIOLET: High-Fidelity Violin Synthesis with Techniques and Dynamics**|Baotong Tian et.al.|[2608.07944](https://arxiv.org/abs/2608.07944)|null|
+|**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](https://arxiv.org/abs/2608.07468)|null|
+|**2026-08-07**|**FUSE: Feature-Wise Unified Specialization with Cross-Column Exchange for Mixed-Type Tabular Flow Matching**|Suman Cha et.al.|[2608.07294](https://arxiv.org/abs/2608.07294)|null|
+|**2026-08-07**|**Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models**|Emilien Seiler et.al.|[2608.07199](https://arxiv.org/abs/2608.07199)|null|
+|**2026-08-07**|**Limit Points of Reflow with Minibatch Optimal Transport**|Antonin Chambolle et.al.|[2608.07042](https://arxiv.org/abs/2608.07042)|null|
 |2026-07-30|APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems|Shentong Mo et.al.|[2607.28553](https://arxiv.org/abs/2607.28553)|null|
 |2026-07-30|Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework|Tianen Shen et.al.|[2607.28035](https://arxiv.org/abs/2607.28035)|null|
 |2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|null|
