@@ -1,6 +1,6 @@
 # Image Matching
 
-> Updated on 2026.08.16
+> Updated on 2026.08.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -52,10 +52,10 @@
 |2026-02-27|No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency|Cho-Ying Wu et.al.|[2602.23559](https://arxiv.org/abs/2602.23559)|null|
 |2026-02-26|FlowFixer: Towards Detail-Preserving Subject-Driven Generation|Jinyoung Jun et.al.|[2602.21402](https://arxiv.org/abs/2602.21402)|null|
 |2026-02-23|Generative 6D Pose Estimation via Conditional Flow Matching|Amir Hamza et.al.|[2602.19719](https://arxiv.org/abs/2602.19719)|null|
-|2026-02-13|Matching of SAR and optical images based on transformation to shared modality|Alexey Borisov et.al.|[2602.12515](https://arxiv.org/abs/2602.12515)|null|
+|2026-02-13|Matching of SAR and optical images based on transformation to shared modality|Alexey Borisov et.al.|[2602.12515](https://arxiv.org/abs/2602.12515)|**[link](https://github.com/BorisovAN/shmod)**|
 |2026-03-12|Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features|Qiang Wang et.al.|[2602.08430](https://arxiv.org/abs/2602.08430)|null|
 |2026-01-31|Gaussian-Constrained LeJEPA Representations for Unsupervised Scene Discovery and Pose Consistency|Mohsen Mostafa et.al.|[2602.07016](https://arxiv.org/abs/2602.07016)|null|
-|2026-02-05|SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing|Peihao Wu et.al.|[2602.05480](https://arxiv.org/abs/2602.05480)|null|
+|2026-02-05|SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing|Peihao Wu et.al.|[2602.05480](https://arxiv.org/abs/2602.05480)|**[link](https://github.com/PeihaoWu/SOMA-1M)**|
 |2026-02-04|Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition|Dhyey Manish Rajani et.al.|[2602.04401](https://arxiv.org/abs/2602.04401)|null|
 |2026-01-19|A Streamlined Attention-Based Network for Descriptor Extraction|Mattia D'Urso et.al.|[2601.13126](https://arxiv.org/abs/2601.13126)|null|
 |2026-01-18|XRefine: Attention-Guided Keypoint Match Refinement|Jan Fabian Schmid et.al.|[2601.12530](https://arxiv.org/abs/2601.12530)|null|
@@ -77,7 +77,7 @@
 |2025-12-04|Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
 |2025-12-04|Improving Posterior Inference of Galaxy Properties with Image-Based Conditional Flow Matching|Mikaeel Yunus et.al.|[2512.05078](http://arxiv.org/abs/2512.05078)|null|
 |2025-12-04|Generative Neural Video Compression via Video Diffusion Prior|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
-|2025-12-04|Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|2025-12-04|Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|**[link](https://github.com/GM-Leung/Environment-Aware-Channel-Inference)**|
 |2025-12-04|LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|
 |2025-12-04|Unveiling gravitational waves from core-collapse supernovae with MUSE|Alessandro Veutro et.al.|[2512.04804](http://arxiv.org/abs/2512.04804)|null|
 |2025-12-04|Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|[link](https://github.com/Alibaba-Quark/LiveAvatar)|

@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.08.16
+> Updated on 2026.08.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -100,8 +100,8 @@
 |2026-05-22|Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca $_2$CoNbO$_6$ |Svetlana A. Artiukova et.al.|[2605.23558](https://arxiv.org/abs/2605.23558)|null|
 |2026-05-22|OptiQU: Coordinated Multi-Level Voltage and Reactive Power Control for Enhanced Voltage Quality and Secure Grid Operation|Irene Hammermeister et.al.|[2605.23505](https://arxiv.org/abs/2605.23505)|null|
 |2026-05-22|Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences|Simon Bultmann et.al.|[2605.23397](https://arxiv.org/abs/2605.23397)|null|
-|2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|null|
-|2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|null|
+|2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|**[link](https://github.com/JakeSwin/Droneulator)**|
+|2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|**[link](https://github.com/liylo/LangFlash)**|
 |2026-05-21|Scene Reconstruction as Mapping Priors for 3D Detection|Yang Fu et.al.|[2605.22997](https://arxiv.org/abs/2605.22997)|null|
 |2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|[link](https://github.com/recuriosity/recuriosity)|
 |2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
@@ -259,9 +259,9 @@
 |2026-02-26|SwiftNDC: Fast Neural Depth Correction for High-Fidelity 3D Reconstruction|Kang Han et.al.|[2602.22565](https://arxiv.org/abs/2602.22565)|null|
 |2026-02-25|Global-Aware Edge Prioritization for Pose Graph Initialization|Tong Wei et.al.|[2602.21963](https://arxiv.org/abs/2602.21963)|null|
 |2026-02-25|Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context|JiaKui Hu et.al.|[2602.21929](https://arxiv.org/abs/2602.21929)|null|
-|2026-02-24|Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones|Rong Zou et.al.|[2602.21101](https://arxiv.org/abs/2602.21101)|**[link](https://github.com/uzh-rpg/event-sharp-nerf-drones)**|
-|2026-02-24|UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling|Kaiyuan Tan et.al.|[2602.20943](https://arxiv.org/abs/2602.20943)|**[link](https://github.com/wm-research/UFO)**|
-|2026-02-24|RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction|Yangfan Zhao et.al.|[2602.20807](https://arxiv.org/abs/2602.20807)|**[link](https://github.com/CNU-Bot-Group/ru4dslam)**|
+|2026-02-24|Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones|Rong Zou et.al.|[2602.21101](https://arxiv.org/abs/2602.21101)|[link](https://github.com/uzh-rpg/event-sharp-nerf-drones)|
+|2026-02-24|UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling|Kaiyuan Tan et.al.|[2602.20943](https://arxiv.org/abs/2602.20943)|[link](https://github.com/wm-research/UFO)|
+|2026-02-24|RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction|Yangfan Zhao et.al.|[2602.20807](https://arxiv.org/abs/2602.20807)|[link](https://github.com/CNU-Bot-Group/ru4dslam)|
 |2026-02-24|Monocular Endoscopic Tissue 3D Reconstruction with Multi-Level Geometry Regularization|Yangsen Chen et.al.|[2602.20718](https://arxiv.org/abs/2602.20718)|null|
 |2026-02-24|From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection|Yepeng Liu et.al.|[2602.20630](https://arxiv.org/abs/2602.20630)|null|
 |2026-02-24|Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change|Beverley Gorry et.al.|[2602.20584](https://arxiv.org/abs/2602.20584)|null|
@@ -284,8 +284,8 @@
 |2026-02-07|Perspective-aware fusion of incomplete depth maps and surface normals for accurate 3D reconstruction|Ondrej Hlinka et.al.|[2602.07444](https://arxiv.org/abs/2602.07444)|null|
 |2026-02-05|MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation|Luoxi Zhang et.al.|[2602.06163](https://arxiv.org/abs/2602.06163)|null|
 |2026-02-05|MGP-KAD: Multimodal Geometric Priors and Kolmogorov-Arnold Decoder for Single-View 3D Reconstruction in Complex Scenes|Luoxi Zhang et.al.|[2602.06158](https://arxiv.org/abs/2602.06158)|null|
-|2026-02-05|From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors|Ding-Jiun Huang et.al.|[2602.06122](https://arxiv.org/abs/2602.06122)|**[link](https://github.com/humansensinglab/super-head)**|
-|2026-02-05|Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|**[link](https://github.com/davidshavin4/Splat-and-Distill)**|
+|2026-02-05|From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors|Ding-Jiun Huang et.al.|[2602.06122](https://arxiv.org/abs/2602.06122)|[link](https://github.com/humansensinglab/super-head)|
+|2026-02-05|Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|[link](https://github.com/davidshavin4/Splat-and-Distill)|
 |2026-02-04|AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation|Jin-Chuan Shi et.al.|[2602.04672](https://arxiv.org/abs/2602.04672)|null|
 |2026-02-04|S-MUSt3R: Sliding Multi-view 3D Reconstruction|Leonid Antsfeld et.al.|[2602.04517](https://arxiv.org/abs/2602.04517)|null|
 |2026-02-04|TrajVG: 3D Trajectory-Coupled Visual Geometry Learning|Xingyu Miao et.al.|[2602.04439](https://arxiv.org/abs/2602.04439)|null|
@@ -481,7 +481,7 @@
 |2025-04-21|Traversing the Star-Forming Main Sequence with Molecular Gas Stacks of z~1.6 Cluster Galaxies|Alex Pigarelli et.al.|[2504.15381](http://arxiv.org/abs/2504.15381)|null|
 |2025-04-21|Towards Understanding Camera Motions in Any Video|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|[link](https://github.com/sy77777en/CameraBench)|
 |2025-04-21|StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
-|2025-04-17|Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|**[link](https://github.com/ldyken53/VEG)**|
+|2025-04-17|Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|[link](https://github.com/ldyken53/VEG)|
 |2025-04-15|EDGS: Eliminating Densification for Efficient Convergence of 3DGS|Dmytro Kotovenko et.al.|[2504.13204](http://arxiv.org/abs/2504.13204)|[link](https://github.com/CompVis/EDGS)|
 |2025-04-15|Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|[link](https://github.com/pagraf/swin-bathyunet)|
 |2025-04-12|A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|[link](https://github.com/eldentse/contrained-optimization-3dgs)|

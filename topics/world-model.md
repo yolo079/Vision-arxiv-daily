@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.08.16
+> Updated on 2026.08.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](https://arxiv.org/abs/2608.13552)|null|
-|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](https://arxiv.org/abs/2608.13546)|null|
-|**2026-08-13**|**Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology**|Yunsung Chung et.al.|[2608.13518](https://arxiv.org/abs/2608.13518)|null|
-|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**| AlayaWorld Team et.al.|[2608.13492](https://arxiv.org/abs/2608.13492)|null|
-|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**| DreamX Team et.al.|[2608.13489](https://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
-|**2026-08-13**|**A Unifying Perspective on Causal World Models: From Observations to Representations to Structure**|Avinash Kori et.al.|[2608.13456](https://arxiv.org/abs/2608.13456)|null|
-|**2026-08-13**|**ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models**|Gehan Zheng et.al.|[2608.13438](https://arxiv.org/abs/2608.13438)|null|
-|**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Shuzhe Zhang et.al.|[2608.13103](https://arxiv.org/abs/2608.13103)|null|
-|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Dingyi Rong et.al.|[2608.13049](https://arxiv.org/abs/2608.13049)|null|
-|**2026-08-13**|**The Objective Is the Bottleneck: Latent World Models Encode What Their Planners Cannot Use**|Joyjeet Singh et.al.|[2608.12959](https://arxiv.org/abs/2608.12959)|null|
+|2026-08-13|PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives|Kaixin Ding et.al.|[2608.13552](https://arxiv.org/abs/2608.13552)|null|
+|2026-08-13|Alaya-EVOKE: From Linear-Scaling Supervision to Endless World|Yuanyang Yin et.al.|[2608.13546](https://arxiv.org/abs/2608.13546)|null|
+|2026-08-13|Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology|Yunsung Chung et.al.|[2608.13518](https://arxiv.org/abs/2608.13518)|null|
+|2026-08-13|AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)|AlayaWorld Team et.al.|[2608.13492](https://arxiv.org/abs/2608.13492)|null|
+|2026-08-13|DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation|DreamX Team et.al.|[2608.13489](https://arxiv.org/abs/2608.13489)|[link](https://github.com/AMAP-ML/DreamX-Phi)|
+|2026-08-13|A Unifying Perspective on Causal World Models: From Observations to Representations to Structure|Avinash Kori et.al.|[2608.13456](https://arxiv.org/abs/2608.13456)|null|
+|2026-08-13|ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models|Gehan Zheng et.al.|[2608.13438](https://arxiv.org/abs/2608.13438)|null|
+|2026-08-13|S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation|Shuzhe Zhang et.al.|[2608.13103](https://arxiv.org/abs/2608.13103)|null|
+|2026-08-13|H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models|Dingyi Rong et.al.|[2608.13049](https://arxiv.org/abs/2608.13049)|null|
+|2026-08-13|The Objective Is the Bottleneck: Latent World Models Encode What Their Planners Cannot Use|Joyjeet Singh et.al.|[2608.12959](https://arxiv.org/abs/2608.12959)|null|
 |2026-07-30|ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine|Yukang Cao et.al.|[2607.28625](https://arxiv.org/abs/2607.28625)|null|
 |2026-07-30|PhiZero: A World Model Built Around Physical Language|Shuyao Shang et.al.|[2607.28624](https://arxiv.org/abs/2607.28624)|[link](https://github.com/yaoyao-jpg/PhiZero)|
 |2026-07-30|AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans|Jingwen Yang et.al.|[2607.28487](https://arxiv.org/abs/2607.28487)|null|
@@ -49,7 +49,7 @@
 |2026-07-02|ACID: Action Consistency via Inverse Dynamics for Planning with World Models|Gawon Seo et.al.|[2607.02403](https://arxiv.org/abs/2607.02403)|null|
 |2026-07-02|DecompRL: Solving Harder Problems by Learning Modular Code Generation|Juliette Decugis et.al.|[2607.02390](https://arxiv.org/abs/2607.02390)|null|
 |2026-07-02|Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems|Uwe M. Borghoff et.al.|[2607.02376](https://arxiv.org/abs/2607.02376)|null|
-|2026-07-02|Bridge-WA: Predicting Where and How the World Changes for Robotic Action|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|**[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)**|
+|2026-07-02|Bridge-WA: Predicting Where and How the World Changes for Robotic Action|Yongjie Bai et.al.|[2607.02195](https://arxiv.org/abs/2607.02195)|[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)|
 |2026-07-02|Path-Measure Dynamics of Attention-Driven World Models: A Nonlocal Onsager--Machlup Approach|Gunn Kim et.al.|[2607.02154](https://arxiv.org/abs/2607.02154)|null|
 |2026-07-02|PWM-ArtGen: Part World Model for Articulated Object Generation|Wentao Zheng et.al.|[2607.02045](https://arxiv.org/abs/2607.02045)|null|
 |2026-07-02|Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling|Weizhi Nie et.al.|[2607.01986](https://arxiv.org/abs/2607.01986)|null|
@@ -86,7 +86,7 @@
 |2026-06-17|Can In-Context Learning Support Intrinsic Curiosity?|Eric Elmoznino et.al.|[2606.19476](https://arxiv.org/abs/2606.19476)|null|
 |2026-06-12|SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|Xiaoxin Lu et.al.|[2606.14574](https://arxiv.org/abs/2606.14574)|null|
 |2026-06-12|Causal Object-Centric Models for Planning with Monte Carlo Tree Search|Rodion Vakhitov et.al.|[2606.14418](https://arxiv.org/abs/2606.14418)|null|
-|2026-06-12|ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|null|
+|2026-06-12|ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|**[link](https://github.com/Thinklab-SJTU/ReactSim-Bench)**|
 |2026-06-11|ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation|Zhiyuan Zhang et.al.|[2606.13877](https://arxiv.org/abs/2606.13877)|null|
 |2026-06-11|Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models|Senkang Hu et.al.|[2606.13840](https://arxiv.org/abs/2606.13840)|null|
 |2026-06-11|FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift|Yitao Jiang et.al.|[2606.13817](https://arxiv.org/abs/2606.13817)|null|

@@ -1,6 +1,6 @@
 # SLAM
 
-> Updated on 2026.08.16
+> Updated on 2026.08.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -58,7 +58,7 @@
 |2026-06-04|Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM|Davide Ceriola et.al.|[2606.06250](https://arxiv.org/abs/2606.06250)|null|
 |2026-06-04|Towards Realistic 3D Sonar Simulation|Youssef Attia et.al.|[2606.06130](https://arxiv.org/abs/2606.06130)|null|
 |2026-06-03|Teaching Robots to Say 'I Don't Know' : SENTINEL for Uncertainty-Aware SLAM|Abhishek S et.al.|[2606.04853](https://arxiv.org/abs/2606.04853)|null|
-|2026-06-03|BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|null|
+|2026-06-03|BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|**[link](https://github.com/sw-packages/6c4b20cfc83b2247a04618134fb93b0a6eb50fa765fd45317505d04eeb2606b6)**|
 |2026-06-02|PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation|Shinjeong Kim et.al.|[2606.03989](https://arxiv.org/abs/2606.03989)|null|
 |2026-06-02|Autonomous Navigation System for Library Service Robot Based on Unitree Go2 Edu|Aoduo Li et.al.|[2606.03340](https://arxiv.org/abs/2606.03340)|null|
 |2026-06-01|Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control|Dawei Zhang et.al.|[2606.01605](https://arxiv.org/abs/2606.01605)|null|
@@ -319,7 +319,7 @@
 |2025-03-30|AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos|Felix Wimbauer et.al.|[2503.23282](http://arxiv.org/abs/2503.23282)|[link](https://github.com/Brummi/anycam)|
 |2025-03-27|HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
 |2025-03-27|STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM|Yongxu Wang et.al.|[2503.21425](http://arxiv.org/abs/2503.21425)|null|
-|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|**[link](https://github.com/JunweiZheng93/SPR)**|
+|2025-03-25|Scene-agnostic Pose Regression for Visual Localization|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|[link](https://github.com/JunweiZheng93/SPR)|
 |2025-03-25|First Results on UAV-aided User Localization Using ToA and OpenAirInterface in 5G NR|Omid Esrafilian et.al.|[2503.19529](http://arxiv.org/abs/2503.19529)|null|
 |2025-03-25|MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|[link](https://github.com/lian-yue0515/MM-LINS)|
 |2025-03-24|Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|

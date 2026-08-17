@@ -1,19 +1,19 @@
 # Point Cloud Registration
 
-> Updated on 2026.08.16
+> Updated on 2026.08.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883](https://arxiv.org/abs/2608.02883)|**[link](https://github.com/ninaa-git/survey_pc_registration_tta)**|
-|**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045](https://arxiv.org/abs/2607.28045)|null|
-|**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583](https://arxiv.org/abs/2607.26583)|null|
-|**2026-07-25**|**Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration**|Minheng Chen et.al.|[2607.23343](https://arxiv.org/abs/2607.23343)|null|
-|**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096](https://arxiv.org/abs/2607.23096)|null|
-|**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200](https://arxiv.org/abs/2607.17200)|null|
-|**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946](https://arxiv.org/abs/2607.14946)|null|
-|**2026-07-16**|**Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling**|Reon Tabata et.al.|[2607.14639](https://arxiv.org/abs/2607.14639)|null|
-|**2026-07-12**|**Projection-Domain Sensitivity Analysis of Vertebral DRRs Under Intrinsic Calibration Perturbation**|Lin Li et.al.|[2607.10551](https://arxiv.org/abs/2607.10551)|null|
-|**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169](https://arxiv.org/abs/2607.04169)|null|
+|2026-08-03|Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery|Nina Bodelot et.al.|[2608.02883](https://arxiv.org/abs/2608.02883)|[link](https://github.com/ninaa-git/survey_pc_registration_tta)|
+|2026-07-30|RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty|Sangwoo Jung et.al.|[2607.28045](https://arxiv.org/abs/2607.28045)|null|
+|2026-07-29|R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning|Yusen Wan et.al.|[2607.26583](https://arxiv.org/abs/2607.26583)|null|
+|2026-07-25|Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration|Minheng Chen et.al.|[2607.23343](https://arxiv.org/abs/2607.23343)|null|
+|2026-07-25|SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics|Chongjian Wang et.al.|[2607.23096](https://arxiv.org/abs/2607.23096)|null|
+|2026-07-19|Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration|Xin Liu et.al.|[2607.17200](https://arxiv.org/abs/2607.17200)|null|
+|2026-07-16|DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration|Sara Monji-Azad et.al.|[2607.14946](https://arxiv.org/abs/2607.14946)|null|
+|2026-07-16|Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling|Reon Tabata et.al.|[2607.14639](https://arxiv.org/abs/2607.14639)|null|
+|2026-07-12|Projection-Domain Sensitivity Analysis of Vertebral DRRs Under Intrinsic Calibration Perturbation|Lin Li et.al.|[2607.10551](https://arxiv.org/abs/2607.10551)|null|
+|2026-07-05|Neural LiDAR Bundle Adjustment|Chin Yung Anson Hon et.al.|[2607.04169](https://arxiv.org/abs/2607.04169)|null|
 |2026-06-30|PiLoT v2: Pixel-to-Orthogonal Map Alignment for Free-view UAV Geo-localization|Xinyi Liu et.al.|[2606.31098](https://arxiv.org/abs/2606.31098)|null|
 |2026-06-26|PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM|Yanlong Ma et.al.|[2606.28637](https://arxiv.org/abs/2606.28637)|null|
 |2026-06-26|Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy|Rixon Crane et.al.|[2606.27818](https://arxiv.org/abs/2606.27818)|null|
@@ -76,7 +76,7 @@
 |2025-11-24|Efficient Transferable Optimal Transport via Min-Sliced Transport Plans|Xinran Liu et.al.|[2511.19741](http://arxiv.org/abs/2511.19741)|null|
 |2025-11-24|Structured Matching via Cost-Regularized Unbalanced Optimal Transport|Emanuele Pardini et.al.|[2511.19075](http://arxiv.org/abs/2511.19075)|null|
 |2025-11-24|Inverse Rendering for High-Genus Surface Meshes from Multi-View Images|Xiang Gao et.al.|[2511.18680](http://arxiv.org/abs/2511.18680)|null|
-|2025-11-23|Matching correlated VAR time series|Ernesto Araya et.al.|[2511.18553](http://arxiv.org/abs/2511.18553)|null|
+|2025-11-23|Matching correlated VAR time series|Ernesto Araya et.al.|[2511.18553](http://arxiv.org/abs/2511.18553)|**[link](https://github.com/ErnestoArayaV/Matching-VAR-time-series)**|
 |2025-11-22|ArticFlow: Generative Simulation of Articulated Mechanisms|Jiong Lin et.al.|[2511.17883](http://arxiv.org/abs/2511.17883)|null|
 |2025-11-21|MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration|Runxun Zhang et.al.|[2511.17392](http://arxiv.org/abs/2511.17392)|null|
 |2025-11-21|SlsReuse: LLM-Powered Serverless Function Reuse|Jinfeng Wen et.al.|[2511.17262](http://arxiv.org/abs/2511.17262)|null|
@@ -142,7 +142,7 @@
 |2025-05-23|A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|[link](https://github.com/miriammaximo/mcl-dlf)|
 |2025-05-22|D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping|Lucia Coto-Elena et.al.|[2505.16726](http://arxiv.org/abs/2505.16726)|[link](https://github.com/robotics-upo/D-LIO)|
 |2025-05-19|Cross-modal feature fusion for robust point cloud registration with ambiguous geometry|Zhaoyi Wang et.al.|[2505.13088](http://arxiv.org/abs/2505.13088)|[link](https://github.com/zhaoyiww/coff)|
-|2025-05-17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|null|
+|2025-05-17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|**[link](https://github.com/Rso0902/MonoMobility)**|
 |2025-05-15|VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
 |2025-05-08|An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects|Utsav Rai et.al.|[2505.04962](http://arxiv.org/abs/2505.04962)|null|
 |2025-05-07|Registration of 3D Point Sets Using Exponential-based Similarity Matrix|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|[link](https://github.com/aralab-unr/esm_icp)|
