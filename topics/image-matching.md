@@ -1,9 +1,19 @@
 # Image Matching
 
-> Updated on 2026.08.17
+> Updated on 2026.08.21
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](https://arxiv.org/abs/2608.18624)|null|
+|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691](https://arxiv.org/abs/2608.17691)|null|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785](https://arxiv.org/abs/2608.16785)|null|
+|**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](https://arxiv.org/abs/2608.11037)|null|
+|**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](https://arxiv.org/abs/2608.09519)|null|
+|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](https://arxiv.org/abs/2608.06439)|null|
+|**2026-08-04**|**LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching**|Siwei Yu et.al.|[2608.04106](https://arxiv.org/abs/2608.04106)|null|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](https://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](https://arxiv.org/abs/2608.03101)|null|
+|**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](https://arxiv.org/abs/2607.28796)|null|
 |2026-07-07|MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices|Parsa Hassani Shariat Panahi et.al.|[2607.06600](https://arxiv.org/abs/2607.06600)|null|
 |2026-07-06|Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles|Soren Antebi et.al.|[2607.04811](https://arxiv.org/abs/2607.04811)|null|
 |2026-07-03|A Vision Based System for Guided and Collaborative Reconstruction of Fragmented Documents|Oliver Krumpek et.al.|[2607.03621](https://arxiv.org/abs/2607.03621)|null|
