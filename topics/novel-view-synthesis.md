@@ -1,6 +1,6 @@
 # Novel View Synthesis
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -73,10 +73,10 @@
 |2026-05-28|Supercharging Thermal Gaussian Splatting with Depth Estimation|Manoj Biswanath et.al.|[2605.30328](https://arxiv.org/abs/2605.30328)|null|
 |2026-05-28|DVSM: Decoder-only View Synthesis Model Done Right|Cheng Sun et.al.|[2605.29891](https://arxiv.org/abs/2605.29891)|null|
 |2026-05-28|Learning Representations from 3D Gaussian Splats|Julia Farganus et.al.|[2605.29549](https://arxiv.org/abs/2605.29549)|null|
-|2026-05-26|GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting|Pedro Martin et.al.|[2605.26880](https://arxiv.org/abs/2605.26880)|**[link](https://github.com/pedrogcmartin/GScomp-QA)**|
+|2026-05-26|GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting|Pedro Martin et.al.|[2605.26880](https://arxiv.org/abs/2605.26880)|[link](https://github.com/pedrogcmartin/GScomp-QA)|
 |2026-05-26|DelowlightSplat: Feed-Forward Gaussian Splatting for Lowlight 3D Scene Reconstruction|Fuzhen Jiang et.al.|[2605.26629](https://arxiv.org/abs/2605.26629)|null|
 |2026-05-26|Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction|Zhenhua Du et.al.|[2605.26616](https://arxiv.org/abs/2605.26616)|null|
-|2026-05-26|Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting|Jiangbei Hu et.al.|[2605.26447](https://arxiv.org/abs/2605.26447)|**[link](https://github.com/SwcK423/Underwater360)**|
+|2026-05-26|Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting|Jiangbei Hu et.al.|[2605.26447](https://arxiv.org/abs/2605.26447)|[link](https://github.com/SwcK423/Underwater360)|
 |2026-05-25|RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields|Chuhan Chen et.al.|[2605.26328](https://arxiv.org/abs/2605.26328)|null|
 |2026-05-28|F-RNG: Feed-Forward Relightable Neural Gaussians|Guangming Fu et.al.|[2605.25975](https://arxiv.org/abs/2605.25975)|null|
 |2026-05-25|Learning View-Dependent Splatting Kernels|Huakeng Ding et.al.|[2605.25426](https://arxiv.org/abs/2605.25426)|null|

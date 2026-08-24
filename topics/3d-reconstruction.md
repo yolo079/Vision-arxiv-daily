@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -100,8 +100,8 @@
 |2026-05-22|Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca $_2$CoNbO$_6$ |Svetlana A. Artiukova et.al.|[2605.23558](https://arxiv.org/abs/2605.23558)|null|
 |2026-05-22|OptiQU: Coordinated Multi-Level Voltage and Reactive Power Control for Enhanced Voltage Quality and Secure Grid Operation|Irene Hammermeister et.al.|[2605.23505](https://arxiv.org/abs/2605.23505)|null|
 |2026-05-22|Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences|Simon Bultmann et.al.|[2605.23397](https://arxiv.org/abs/2605.23397)|null|
-|2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|**[link](https://github.com/JakeSwin/Droneulator)**|
-|2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|**[link](https://github.com/liylo/LangFlash)**|
+|2026-05-22|Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|Jacob Swindell et.al.|[2605.23386](https://arxiv.org/abs/2605.23386)|[link](https://github.com/JakeSwin/Droneulator)|
+|2026-05-22|LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images|Yilong Liu et.al.|[2605.23287](https://arxiv.org/abs/2605.23287)|[link](https://github.com/liylo/LangFlash)|
 |2026-05-21|Scene Reconstruction as Mapping Priors for 3D Detection|Yang Fu et.al.|[2605.22997](https://arxiv.org/abs/2605.22997)|null|
 |2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli et.al.|[2605.22814](https://arxiv.org/abs/2605.22814)|[link](https://github.com/recuriosity/recuriosity)|
 |2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu et.al.|[2605.15186](https://arxiv.org/abs/2605.15186)|null|
@@ -233,7 +233,7 @@
 |2026-03-13|3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting|Jun Liu et.al.|[2603.13049](https://arxiv.org/abs/2603.13049)|null|
 |2026-03-13|CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration|Dongxu Zhang et.al.|[2603.12721](https://arxiv.org/abs/2603.12721)|null|
 |2026-03-13|Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies|Haohang Huang et.al.|[2603.12667](https://arxiv.org/abs/2603.12667)|null|
-|2026-03-12|Single-View Rolling-Shutter SfM|Sofía Errázuriz Muñoz et.al.|[2603.11888](https://arxiv.org/abs/2603.11888)|null|
+|2026-03-12|Single-View Rolling-Shutter SfM|Sofía Errázuriz Muñoz et.al.|[2603.11888](https://arxiv.org/abs/2603.11888)|**[link](https://github.com/sofiaemd/Single-View-Rolling-Shutter-SfM)**|
 |2026-03-12|CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction for Realistic and Fine-Grained Object Editing|Yue Shi et.al.|[2603.11810](https://arxiv.org/abs/2603.11810)|null|
 |2026-03-12|High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping|Sehoon Tak et.al.|[2603.11389](https://arxiv.org/abs/2603.11389)|null|
 |2026-03-11|InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction|Dingqiang Ye et.al.|[2603.11298](https://arxiv.org/abs/2603.11298)|null|
@@ -279,7 +279,7 @@
 |2026-02-09|RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications|Chiara Lena et.al.|[2602.08397](https://arxiv.org/abs/2602.08397)|null|
 |2026-02-08|Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields|Berthy T. Feng et.al.|[2602.08029](https://arxiv.org/abs/2602.08029)|null|
 |2026-02-08|Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video|Zihui Gao et.al.|[2602.07891](https://arxiv.org/abs/2602.07891)|null|
-|2026-02-08|Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images|Fei Yu et.al.|[2602.07860](https://arxiv.org/abs/2602.07860)|null|
+|2026-02-08|Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images|Fei Yu et.al.|[2602.07860](https://arxiv.org/abs/2602.07860)|**[link](https://github.com/Maxmilite/rec-from-ultrafast-blur)**|
 |2026-02-08|Compressed Sensing Methods for Memory Reduction in Monte Carlo Simulations|Ethan Lame et.al.|[2602.07771](https://arxiv.org/abs/2602.07771)|null|
 |2026-02-07|Perspective-aware fusion of incomplete depth maps and surface normals for accurate 3D reconstruction|Ondrej Hlinka et.al.|[2602.07444](https://arxiv.org/abs/2602.07444)|null|
 |2026-02-05|MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation|Luoxi Zhang et.al.|[2602.06163](https://arxiv.org/abs/2602.06163)|null|
@@ -289,12 +289,12 @@
 |2026-02-04|AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation|Jin-Chuan Shi et.al.|[2602.04672](https://arxiv.org/abs/2602.04672)|null|
 |2026-02-04|S-MUSt3R: Sliding Multi-view 3D Reconstruction|Leonid Antsfeld et.al.|[2602.04517](https://arxiv.org/abs/2602.04517)|null|
 |2026-02-04|TrajVG: 3D Trajectory-Coupled Visual Geometry Learning|Xingyu Miao et.al.|[2602.04439](https://arxiv.org/abs/2602.04439)|null|
-|2026-02-04|Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity|Chenhe Du et.al.|[2602.04162](https://arxiv.org/abs/2602.04162)|null|
+|2026-02-04|Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity|Chenhe Du et.al.|[2602.04162](https://arxiv.org/abs/2602.04162)|**[link](https://github.com/duchenhe/ISCS)**|
 |2026-02-04|SuperPoint-E: local features for 3D reconstruction via tracking adaptation in endoscopy|O. Leon Barbed et.al.|[2602.04108](https://arxiv.org/abs/2602.04108)|null|
 |2026-02-03|AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting|Joanna Kaleta et.al.|[2602.04043](https://arxiv.org/abs/2602.04043)|null|
-|2026-02-03|EventNeuS: 3D Mesh Reconstruction from a Single Event Camera|Shreyas Sachan et.al.|[2602.03847](https://arxiv.org/abs/2602.03847)|null|
+|2026-02-03|EventNeuS: 3D Mesh Reconstruction from a Single Event Camera|Shreyas Sachan et.al.|[2602.03847](https://arxiv.org/abs/2602.03847)|**[link](https://github.com/shreyas-sachan/Event-NeuS)**|
 |2026-02-03|Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization|Manuel Hofer et.al.|[2602.03327](https://arxiv.org/abs/2602.03327)|null|
-|2026-02-03|Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements|Marco Job et.al.|[2602.03209](https://arxiv.org/abs/2602.03209)|null|
+|2026-02-03|Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements|Marco Job et.al.|[2602.03209](https://arxiv.org/abs/2602.03209)|**[link](https://github.com/ntnu-frl/depth-completion)**|
 |2026-02-02|3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM|Pierre-Yves Lajoie et.al.|[2602.02430](https://arxiv.org/abs/2602.02430)|null|
 |2026-01-29|MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources|Baorui Ma et.al.|[2601.22054](https://arxiv.org/abs/2601.22054)|null|
 |2026-01-29|PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction|Changjian Jiang et.al.|[2601.22046](https://arxiv.org/abs/2601.22046)|null|

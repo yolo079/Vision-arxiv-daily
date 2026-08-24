@@ -1,6 +1,6 @@
 # SLAM
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -58,7 +58,7 @@
 |2026-06-04|Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM|Davide Ceriola et.al.|[2606.06250](https://arxiv.org/abs/2606.06250)|null|
 |2026-06-04|Towards Realistic 3D Sonar Simulation|Youssef Attia et.al.|[2606.06130](https://arxiv.org/abs/2606.06130)|null|
 |2026-06-03|Teaching Robots to Say 'I Don't Know' : SENTINEL for Uncertainty-Aware SLAM|Abhishek S et.al.|[2606.04853](https://arxiv.org/abs/2606.04853)|null|
-|2026-06-03|BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|**[link](https://github.com/sw-packages/6c4b20cfc83b2247a04618134fb93b0a6eb50fa765fd45317505d04eeb2606b6)**|
+|2026-06-03|BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM|Thanh Nguyen Canh et.al.|[2606.04618](https://arxiv.org/abs/2606.04618)|[link](https://github.com/sw-packages/6c4b20cfc83b2247a04618134fb93b0a6eb50fa765fd45317505d04eeb2606b6)|
 |2026-06-02|PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation|Shinjeong Kim et.al.|[2606.03989](https://arxiv.org/abs/2606.03989)|null|
 |2026-06-02|Autonomous Navigation System for Library Service Robot Based on Unitree Go2 Edu|Aoduo Li et.al.|[2606.03340](https://arxiv.org/abs/2606.03340)|null|
 |2026-06-01|Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control|Dawei Zhang et.al.|[2606.01605](https://arxiv.org/abs/2606.01605)|null|
@@ -230,7 +230,7 @@
 |2025-06-04|Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |2025-06-03|LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |2025-06-03|Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
-|2025-06-03|VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|null|
+|2025-06-03|VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|**[link](https://github.com/MachinePerceptionLab/VTGaussian-SLAM)**|
 |2025-06-03|GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|[link](https://github.com/qingshufan/GeneA-SLAM2)|
 |2025-06-03|Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent|Kordel K. France et.al.|[2506.02373](http://arxiv.org/abs/2506.02373)|null|
 |2025-06-01|Globally Consistent RGB-D SLAM with 2D Gaussian Splatting|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|[link](https://github.com/PRBonn/2DGS-SLAM)|

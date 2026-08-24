@@ -1,6 +1,6 @@
 # Flow Matching
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -183,7 +183,7 @@
 |2026-05-04|Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection|Fuyun Wang et.al.|[2605.02438](https://arxiv.org/abs/2605.02438)|null|
 |2026-05-04|DriftDecode: One-Step Wireless Image Decoding via Drifting-Inspired Detail Recovery|Jingwen Fu et.al.|[2605.02325](https://arxiv.org/abs/2605.02325)|null|
 |2026-05-04|Generative Modeling with Orbit-Space Particle Flow Matching|Sinan Wang et.al.|[2605.02222](https://arxiv.org/abs/2605.02222)|null|
-|2026-05-03|Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching|Qiang Ma et.al.|[2605.01884](https://arxiv.org/abs/2605.01884)|null|
+|2026-05-03|Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching|Qiang Ma et.al.|[2605.01884](https://arxiv.org/abs/2605.01884)|**[link](https://github.com/m-qiang/CardiacMeshFlow)**|
 |2026-05-02|Unifying Deep Stochastic Processes for Image Enhancement|Wojciech Kozłowski et.al.|[2605.01568](https://arxiv.org/abs/2605.01568)|null|
 |2026-05-02|SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids|Xingzhou Chen et.al.|[2605.01427](https://arxiv.org/abs/2605.01427)|null|
 |2026-05-02|Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events|Keyan Chen et.al.|[2605.01226](https://arxiv.org/abs/2605.01226)|null|
@@ -234,7 +234,7 @@
 |2026-04-09|Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation|Rongjian Xu et.al.|[2604.08189](https://arxiv.org/abs/2604.08189)|null|
 |2026-04-09|Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning|Teng Pang et.al.|[2604.08174](https://arxiv.org/abs/2604.08174)|null|
 |2026-04-09|FlowEqProp: Training Flow Matching Generative Models with Gradient Equilibrium Propagation|Alex Gower et.al.|[2604.08150](https://arxiv.org/abs/2604.08150)|null|
-|2026-04-09|Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator|Luozheng Qin et.al.|[2604.08121](https://arxiv.org/abs/2604.08121)|**[link](https://github.com/Fr0zenCrane/Uni-ViGU)**|
+|2026-04-09|Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator|Luozheng Qin et.al.|[2604.08121](https://arxiv.org/abs/2604.08121)|[link](https://github.com/Fr0zenCrane/Uni-ViGU)|
 |2026-04-09|HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation|Shuanghao Bai et.al.|[2604.07993](https://arxiv.org/abs/2604.07993)|null|
 |2026-04-08|Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models|Davood Soleymanzadeh et.al.|[2604.07084](https://arxiv.org/abs/2604.07084)|null|
 |2026-04-08|FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching|Junchao Yi et.al.|[2604.06757](https://arxiv.org/abs/2604.06757)|[link](https://github.com/CSU-JPG/FlowInOne)|

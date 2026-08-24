@@ -1,6 +1,6 @@
 # Point Cloud Registration
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -76,7 +76,7 @@
 |2025-11-24|Efficient Transferable Optimal Transport via Min-Sliced Transport Plans|Xinran Liu et.al.|[2511.19741](http://arxiv.org/abs/2511.19741)|null|
 |2025-11-24|Structured Matching via Cost-Regularized Unbalanced Optimal Transport|Emanuele Pardini et.al.|[2511.19075](http://arxiv.org/abs/2511.19075)|null|
 |2025-11-24|Inverse Rendering for High-Genus Surface Meshes from Multi-View Images|Xiang Gao et.al.|[2511.18680](http://arxiv.org/abs/2511.18680)|null|
-|2025-11-23|Matching correlated VAR time series|Ernesto Araya et.al.|[2511.18553](http://arxiv.org/abs/2511.18553)|**[link](https://github.com/ErnestoArayaV/Matching-VAR-time-series)**|
+|2025-11-23|Matching correlated VAR time series|Ernesto Araya et.al.|[2511.18553](http://arxiv.org/abs/2511.18553)|[link](https://github.com/ErnestoArayaV/Matching-VAR-time-series)|
 |2025-11-22|ArticFlow: Generative Simulation of Articulated Mechanisms|Jiong Lin et.al.|[2511.17883](http://arxiv.org/abs/2511.17883)|null|
 |2025-11-21|MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration|Runxun Zhang et.al.|[2511.17392](http://arxiv.org/abs/2511.17392)|null|
 |2025-11-21|SlsReuse: LLM-Powered Serverless Function Reuse|Jinfeng Wen et.al.|[2511.17262](http://arxiv.org/abs/2511.17262)|null|
@@ -142,7 +142,7 @@
 |2025-05-23|A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|[link](https://github.com/miriammaximo/mcl-dlf)|
 |2025-05-22|D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping|Lucia Coto-Elena et.al.|[2505.16726](http://arxiv.org/abs/2505.16726)|[link](https://github.com/robotics-upo/D-LIO)|
 |2025-05-19|Cross-modal feature fusion for robust point cloud registration with ambiguous geometry|Zhaoyi Wang et.al.|[2505.13088](http://arxiv.org/abs/2505.13088)|[link](https://github.com/zhaoyiww/coff)|
-|2025-05-17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|**[link](https://github.com/Rso0902/MonoMobility)**|
+|2025-05-17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|[link](https://github.com/Rso0902/MonoMobility)|
 |2025-05-15|VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
 |2025-05-08|An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects|Utsav Rai et.al.|[2505.04962](http://arxiv.org/abs/2505.04962)|null|
 |2025-05-07|Registration of 3D Point Sets Using Exponential-based Similarity Matrix|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|[link](https://github.com/aralab-unr/esm_icp)|

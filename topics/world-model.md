@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.08.21
+> Updated on 2026.08.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-20**|**RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control**|Xiucheng Wang et.al.|[2608.20126](https://arxiv.org/abs/2608.20126)|null|
-|**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan et.al.|[2608.20111](https://arxiv.org/abs/2608.20111)|null|
-|**2026-08-20**|**Orthogonal JEPA: Factorized Predictive States for Latent World Models**|Taoyong Cui et.al.|[2608.20065](https://arxiv.org/abs/2608.20065)|null|
-|**2026-08-20**|**ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control**|Xu Yang et.al.|[2608.19804](https://arxiv.org/abs/2608.19804)|null|
-|**2026-08-20**|**An Irreducible Quantum Advantage in Aligning World Models with Reality**|Josep Lumbreras et.al.|[2608.19779](https://arxiv.org/abs/2608.19779)|null|
-|**2026-08-20**|**RFWM: Physics-Guided World Model for Dynamic Wireless Radiance Field Generation**|Zijiu Yang et.al.|[2608.19709](https://arxiv.org/abs/2608.19709)|null|
-|**2026-08-20**|**World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms**|Markus Buchholz et.al.|[2608.19661](https://arxiv.org/abs/2608.19661)|null|
-|**2026-08-20**|**VGI-BENCH: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](https://arxiv.org/abs/2608.19583)|null|
-|**2026-08-19**|**Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution**|Kaizhen Tan et.al.|[2608.19492](https://arxiv.org/abs/2608.19492)|null|
-|**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](https://arxiv.org/abs/2608.19085)|null|
+|2026-08-20|RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control|Xiucheng Wang et.al.|[2608.20126](https://arxiv.org/abs/2608.20126)|null|
+|2026-08-20|Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms|Yanchen Guan et.al.|[2608.20111](https://arxiv.org/abs/2608.20111)|null|
+|2026-08-20|Orthogonal JEPA: Factorized Predictive States for Latent World Models|Taoyong Cui et.al.|[2608.20065](https://arxiv.org/abs/2608.20065)|null|
+|2026-08-20|ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control|Xu Yang et.al.|[2608.19804](https://arxiv.org/abs/2608.19804)|null|
+|2026-08-20|An Irreducible Quantum Advantage in Aligning World Models with Reality|Josep Lumbreras et.al.|[2608.19779](https://arxiv.org/abs/2608.19779)|null|
+|2026-08-20|RFWM: Physics-Guided World Model for Dynamic Wireless Radiance Field Generation|Zijiu Yang et.al.|[2608.19709](https://arxiv.org/abs/2608.19709)|null|
+|2026-08-20|World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms|Markus Buchholz et.al.|[2608.19661](https://arxiv.org/abs/2608.19661)|null|
+|2026-08-20|VGI-BENCH: Probing Visual Intelligence in Video Generation Models|Xuan He et.al.|[2608.19583](https://arxiv.org/abs/2608.19583)|null|
+|2026-08-19|Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution|Kaizhen Tan et.al.|[2608.19492](https://arxiv.org/abs/2608.19492)|null|
+|2026-08-20|DA-WAM: Decision-Aligned Future Latents for Driving World Models|Ruiguo Zhong et.al.|[2608.19085](https://arxiv.org/abs/2608.19085)|null|
 |2026-08-13|PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives|Kaixin Ding et.al.|[2608.13552](https://arxiv.org/abs/2608.13552)|null|
 |2026-08-13|Alaya-EVOKE: From Linear-Scaling Supervision to Endless World|Yuanyang Yin et.al.|[2608.13546](https://arxiv.org/abs/2608.13546)|null|
 |2026-08-13|Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology|Yunsung Chung et.al.|[2608.13518](https://arxiv.org/abs/2608.13518)|null|
@@ -72,8 +72,8 @@
 |2026-06-29|Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation|Hong Chen et.al.|[2606.29908](https://arxiv.org/abs/2606.29908)|null|
 |2026-06-29|LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving|Chen Yang et.al.|[2606.29879](https://arxiv.org/abs/2606.29879)|null|
 |2026-06-29|The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models|Rafael Kaufmann et.al.|[2606.29799](https://arxiv.org/abs/2606.29799)|null|
-|2026-06-29|HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|null|
-|2026-06-28|Learning Transferable Dynamics Priors from Action to World Modeling|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|null|
+|2026-06-29|HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|**[link](https://github.com/EXFTB/AutofarmGliderSim)**|
+|2026-06-28|Learning Transferable Dynamics Priors from Action to World Modeling|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|**[link](https://github.com/LogosRoboticsGroup/A2World)**|
 |2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
 |2026-06-24|In-Context World Modeling for Robotic Control|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
 |2026-06-24|USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|
@@ -96,7 +96,7 @@
 |2026-06-17|Can In-Context Learning Support Intrinsic Curiosity?|Eric Elmoznino et.al.|[2606.19476](https://arxiv.org/abs/2606.19476)|null|
 |2026-06-12|SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|Xiaoxin Lu et.al.|[2606.14574](https://arxiv.org/abs/2606.14574)|null|
 |2026-06-12|Causal Object-Centric Models for Planning with Monte Carlo Tree Search|Rodion Vakhitov et.al.|[2606.14418](https://arxiv.org/abs/2606.14418)|null|
-|2026-06-12|ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|**[link](https://github.com/Thinklab-SJTU/ReactSim-Bench)**|
+|2026-06-12|ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving|Zhiyuan Zhang et.al.|[2606.14058](https://arxiv.org/abs/2606.14058)|[link](https://github.com/Thinklab-SJTU/ReactSim-Bench)|
 |2026-06-11|ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation|Zhiyuan Zhang et.al.|[2606.13877](https://arxiv.org/abs/2606.13877)|null|
 |2026-06-11|Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models|Senkang Hu et.al.|[2606.13840](https://arxiv.org/abs/2606.13840)|null|
 |2026-06-11|FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift|Yitao Jiang et.al.|[2606.13817](https://arxiv.org/abs/2606.13817)|null|
