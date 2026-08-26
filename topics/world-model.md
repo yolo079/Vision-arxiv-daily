@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.08.24
+> Updated on 2026.08.26
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](https://arxiv.org/abs/2608.24534)|null|
+|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](https://arxiv.org/abs/2608.24329)|null|
+|**2026-08-25**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](https://arxiv.org/abs/2608.24199)|null|
+|**2026-08-25**|**TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks**|Zhi Cao et.al.|[2608.24101](https://arxiv.org/abs/2608.24101)|**[link](https://github.com/LOL-png/tract)**|
+|**2026-08-25**|**XP-JEPA: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics**|Kehan Wen et.al.|[2608.24044](https://arxiv.org/abs/2608.24044)|null|
+|**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927](https://arxiv.org/abs/2608.23927)|null|
+|**2026-08-24**|**DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops**|Xianyao Li et.al.|[2608.23863](https://arxiv.org/abs/2608.23863)|null|
+|**2026-08-24**|**Primate vision reveals a missing principle for robust dynamic AI**|Matteo Dunnhofer et.al.|[2608.23790](https://arxiv.org/abs/2608.23790)|null|
+|**2026-08-24**|**Platonic Representation Hypothesis on World Models**|Wenhow Li et.al.|[2608.23720](https://arxiv.org/abs/2608.23720)|null|
+|**2026-08-24**|**Do LLMs Understand Limit Order Book Dynamics?**|Junxiao Chen et.al.|[2608.23706](https://arxiv.org/abs/2608.23706)|null|
 |2026-08-20|RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control|Xiucheng Wang et.al.|[2608.20126](https://arxiv.org/abs/2608.20126)|null|
 |2026-08-20|Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms|Yanchen Guan et.al.|[2608.20111](https://arxiv.org/abs/2608.20111)|null|
 |2026-08-20|Orthogonal JEPA: Factorized Predictive States for Latent World Models|Taoyong Cui et.al.|[2608.20065](https://arxiv.org/abs/2608.20065)|null|
