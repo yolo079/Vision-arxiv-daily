@@ -36,7 +36,7 @@
 |2026-06-13|FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
 |2026-06-11|Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
 |2026-06-11|Visual Place Recognition in Forests with Depth-Aware Distillation|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
-|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|null|
+|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|**[link](https://github.com/DmblnNicole/sg2loc)**|
 |2026-06-06|Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
 |2026-06-04|Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
 |2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
@@ -203,7 +203,7 @@
 |2026-01-07|ImLoc: Revisiting Visual Localization with Image-based Representation|Xudong Jiang et.al.|[2601.04185](https://arxiv.org/abs/2601.04185)|null|
 |2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|[link](https://github.com/qzp2018/CSMCIR)|
 |2026-01-07|BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion|Qingyao Tian et.al.|[2601.03713](https://arxiv.org/abs/2601.03713)|null|
-|2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|null|
+|2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|**[link](https://github.com/Quartararo0714/HOLO)**|
 |2026-01-06|Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM|Wenzheng Zhang et.al.|[2601.02723](https://arxiv.org/abs/2601.02723)|null|
 |2026-01-07|Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset|Nedim Muzoglu et.al.|[2601.02564](https://arxiv.org/abs/2601.02564)|null|
 |2026-01-05|Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach|Biao Wu et.al.|[2601.00388](https://arxiv.org/abs/2601.00388)|null|
@@ -346,7 +346,7 @@
 |2025-09-17|Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models|Ilyass Moummad et.al.|[2509.14427](http://arxiv.org/abs/2509.14427)|[link](https://github.com/ilyassmoummad/hashing-baseline)|
 |2025-09-17|CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |2025-09-16|Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
-|2025-09-16|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
+|2025-09-16|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|**[link](https://github.com/facebookresearch/map-anything)**|
 |2025-09-17|DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |2025-09-15|Bridging Vision Language Models and Symbolic Grounding for Video Question Answering|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |2025-09-11|Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|

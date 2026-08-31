@@ -29,7 +29,7 @@
 |2026-06-04|Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation|Ariel Herrera et.al.|[2606.06292](https://arxiv.org/abs/2606.06292)|null|
 |2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|null|
 |2026-05-30|BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation|Mohit Singh et.al.|[2606.00709](https://arxiv.org/abs/2606.00709)|null|
-|2026-06-01|SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models|Olaf Dünkel et.al.|[2605.31597](https://arxiv.org/abs/2605.31597)|null|
+|2026-06-01|SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models|Olaf Dünkel et.al.|[2605.31597](https://arxiv.org/abs/2605.31597)|**[link](https://github.com/GenIntel/SOCO)**|
 |2026-05-28|Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball|Li Yin et.al.|[2605.29953](https://arxiv.org/abs/2605.29953)|null|
 |2026-05-22|MASt3R-Nav: WayPixel Navigation in Relative 3D Maps|Vansh Garg et.al.|[2605.24111](https://arxiv.org/abs/2605.24111)|null|
 |2026-05-16|Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants|Divya Joshi et.al.|[2605.17120](https://arxiv.org/abs/2605.17120)|null|

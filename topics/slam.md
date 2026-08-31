@@ -4,23 +4,23 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](https://arxiv.org/abs/2608.28288)|null|
-|**2026-08-27**|**One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments**|Matěj Boxan et.al.|[2608.27628](https://arxiv.org/abs/2608.27628)|null|
-|**2026-08-27**|**How exceptional was the Big Three era? Extremes and persistence in men's professional tennis**|Manuele Leonelli et.al.|[2608.27362](https://arxiv.org/abs/2608.27362)|null|
-|**2026-08-27**|**Contact-Aided Factor-Graph Localization for Underwater Sampling**|Michele Grimaldi et.al.|[2608.26932](https://arxiv.org/abs/2608.26932)|null|
-|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](https://arxiv.org/abs/2608.26868)|null|
-|**2026-08-26**|**Praxist: From Experimental Artifacts to Solution Lineages**|Jin Li et.al.|[2608.25955](https://arxiv.org/abs/2608.25955)|null|
-|**2026-08-26**|**AGRO-Nav: Autonomous Graph-based Orchard Navigation**|Ho Young Yun et.al.|[2608.25799](https://arxiv.org/abs/2608.25799)|null|
-|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
-|**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](https://arxiv.org/abs/2608.23055)|null|
-|**2026-08-24**|**RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim**|Mihaela-Larisa Clement et.al.|[2608.23040](https://arxiv.org/abs/2608.23040)|null|
-|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
-|**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](https://arxiv.org/abs/2608.22906)|null|
-|**2026-08-24**|**SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation**|Shibo Zhao et.al.|[2608.22896](https://arxiv.org/abs/2608.22896)|null|
-|**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](https://arxiv.org/abs/2608.19693)|null|
-|**2026-08-19**|**LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding**|Yumin Lee et.al.|[2608.19059](https://arxiv.org/abs/2608.19059)|null|
-|**2026-08-24**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](https://arxiv.org/abs/2608.18632)|null|
-|**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](https://arxiv.org/abs/2608.18624)|null|
+|2026-08-28|GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping|Xiang Yang et.al.|[2608.28288](https://arxiv.org/abs/2608.28288)|null|
+|2026-08-27|One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments|Matěj Boxan et.al.|[2608.27628](https://arxiv.org/abs/2608.27628)|null|
+|2026-08-27|How exceptional was the Big Three era? Extremes and persistence in men's professional tennis|Manuele Leonelli et.al.|[2608.27362](https://arxiv.org/abs/2608.27362)|null|
+|2026-08-27|Contact-Aided Factor-Graph Localization for Underwater Sampling|Michele Grimaldi et.al.|[2608.26932](https://arxiv.org/abs/2608.26932)|null|
+|2026-08-27|CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction|Jean-Daniel de Ambrogi et.al.|[2608.26868](https://arxiv.org/abs/2608.26868)|null|
+|2026-08-26|Praxist: From Experimental Artifacts to Solution Lineages|Jin Li et.al.|[2608.25955](https://arxiv.org/abs/2608.25955)|null|
+|2026-08-26|AGRO-Nav: Autonomous Graph-based Orchard Navigation|Ho Young Yun et.al.|[2608.25799](https://arxiv.org/abs/2608.25799)|null|
+|2026-08-24|Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
+|2026-08-24|Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning|Simon Hakenes et.al.|[2608.23055](https://arxiv.org/abs/2608.23055)|null|
+|2026-08-24|RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim|Mihaela-Larisa Clement et.al.|[2608.23040](https://arxiv.org/abs/2608.23040)|null|
+|2026-08-24|Misanthrope: A Privacy-Preserving Keypoint Detector|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
+|2026-08-24|AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction|Yingxiang Xu et.al.|[2608.22906](https://arxiv.org/abs/2608.22906)|null|
+|2026-08-24|SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation|Shibo Zhao et.al.|[2608.22896](https://arxiv.org/abs/2608.22896)|null|
+|2026-08-20|RIPE++: Reinforced Keypoint Learning from Positive Pairs Only|Johannes Künzel et.al.|[2608.19693](https://arxiv.org/abs/2608.19693)|null|
+|2026-08-19|LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding|Yumin Lee et.al.|[2608.19059](https://arxiv.org/abs/2608.19059)|null|
+|2026-08-24|Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage|Gašper Spagnolo et.al.|[2608.18632](https://arxiv.org/abs/2608.18632)|null|
+|2026-08-19|Evaluation of Image Matching Methods for Visual Odometry on UAVs|Gašper Spagnolo et.al.|[2608.18624](https://arxiv.org/abs/2608.18624)|null|
 |2026-07-09|Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery|Tianyi Song et.al.|[2607.08408](https://arxiv.org/abs/2607.08408)|[link](https://github.com/styufo/Track2Map)|
 |2026-07-09|RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios|Hogyun Kim et.al.|[2607.08115](https://arxiv.org/abs/2607.08115)|null|
 |2026-07-08|STEMbot: A Compliant Robot for Under-Canopy Plant Navigation|Zachary Charlick et.al.|[2607.07873](https://arxiv.org/abs/2607.07873)|null|
@@ -247,7 +247,7 @@
 |2025-06-04|Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |2025-06-03|LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |2025-06-03|Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
-|2025-06-03|VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|**[link](https://github.com/MachinePerceptionLab/VTGaussian-SLAM)**|
+|2025-06-03|VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|[link](https://github.com/MachinePerceptionLab/VTGaussian-SLAM)|
 |2025-06-03|GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|[link](https://github.com/qingshufan/GeneA-SLAM2)|
 |2025-06-03|Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent|Kordel K. France et.al.|[2506.02373](http://arxiv.org/abs/2506.02373)|null|
 |2025-06-01|Globally Consistent RGB-D SLAM with 2D Gaussian Splatting|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|[link](https://github.com/PRBonn/2DGS-SLAM)|

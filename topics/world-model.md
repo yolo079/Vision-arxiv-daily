@@ -4,26 +4,26 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](https://arxiv.org/abs/2608.28549)|null|
-|**2026-08-28**|**An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models**|Javier Aguilar Martín et.al.|[2608.28541](https://arxiv.org/abs/2608.28541)|null|
-|**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Yafei Zhang et.al.|[2608.28491](https://arxiv.org/abs/2608.28491)|null|
-|**2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Kishor Datta Gupta et.al.|[2608.28216](https://arxiv.org/abs/2608.28216)|null|
-|**2026-08-28**|**Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning**|Zilin Zhao et.al.|[2608.28065](https://arxiv.org/abs/2608.28065)|null|
-|**2026-08-28**|**Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data**|Zhenyu Tao et.al.|[2608.27996](https://arxiv.org/abs/2608.27996)|null|
-|**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Kechen Liu et.al.|[2608.27406](https://arxiv.org/abs/2608.27406)|null|
-|**2026-08-27**|**Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models**|Frederik Berenz et.al.|[2608.27367](https://arxiv.org/abs/2608.27367)|null|
-|**2026-08-28**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](https://arxiv.org/abs/2608.27345)|null|
-|**2026-08-27**|**R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models**|Qiwen Gu et.al.|[2608.27328](https://arxiv.org/abs/2608.27328)|null|
-|**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](https://arxiv.org/abs/2608.24534)|null|
-|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](https://arxiv.org/abs/2608.24329)|null|
-|**2026-08-25**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](https://arxiv.org/abs/2608.24199)|null|
-|**2026-08-25**|**TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks**|Zhi Cao et.al.|[2608.24101](https://arxiv.org/abs/2608.24101)|**[link](https://github.com/LOL-png/tract)**|
-|**2026-08-25**|**XP-JEPA: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics**|Kehan Wen et.al.|[2608.24044](https://arxiv.org/abs/2608.24044)|null|
-|**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927](https://arxiv.org/abs/2608.23927)|null|
-|**2026-08-24**|**DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops**|Xianyao Li et.al.|[2608.23863](https://arxiv.org/abs/2608.23863)|null|
-|**2026-08-24**|**Primate vision reveals a missing principle for robust dynamic AI**|Matteo Dunnhofer et.al.|[2608.23790](https://arxiv.org/abs/2608.23790)|null|
-|**2026-08-24**|**Platonic Representation Hypothesis on World Models**|Wenhow Li et.al.|[2608.23720](https://arxiv.org/abs/2608.23720)|null|
-|**2026-08-24**|**Do LLMs Understand Limit Order Book Dynamics?**|Junxiao Chen et.al.|[2608.23706](https://arxiv.org/abs/2608.23706)|null|
+|2026-08-28|Video Generative Models as Geometry Learner|Haosen Yang et.al.|[2608.28549](https://arxiv.org/abs/2608.28549)|null|
+|2026-08-28|An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models|Javier Aguilar Martín et.al.|[2608.28541](https://arxiv.org/abs/2608.28541)|null|
+|2026-08-28|AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction|Yafei Zhang et.al.|[2608.28491](https://arxiv.org/abs/2608.28491)|null|
+|2026-08-28|WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes|Kishor Datta Gupta et.al.|[2608.28216](https://arxiv.org/abs/2608.28216)|null|
+|2026-08-28|Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning|Zilin Zhao et.al.|[2608.28065](https://arxiv.org/abs/2608.28065)|null|
+|2026-08-28|Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data|Zhenyu Tao et.al.|[2608.27996](https://arxiv.org/abs/2608.27996)|null|
+|2026-08-27|CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators|Kechen Liu et.al.|[2608.27406](https://arxiv.org/abs/2608.27406)|null|
+|2026-08-27|Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models|Frederik Berenz et.al.|[2608.27367](https://arxiv.org/abs/2608.27367)|null|
+|2026-08-28|PAWBench: How Far Are We from Probabilistically Aligned World Modeling?|Yuandong Pu et.al.|[2608.27345](https://arxiv.org/abs/2608.27345)|null|
+|2026-08-27|R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models|Qiwen Gu et.al.|[2608.27328](https://arxiv.org/abs/2608.27328)|null|
+|2026-08-25|Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models|Abdulhady Abas Abdullah et.al.|[2608.24534](https://arxiv.org/abs/2608.24534)|null|
+|2026-08-25|How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?|Po-Ming Law et.al.|[2608.24329](https://arxiv.org/abs/2608.24329)|null|
+|2026-08-25|NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics|Javier Gamazo Tejero et.al.|[2608.24199](https://arxiv.org/abs/2608.24199)|null|
+|2026-08-25|TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks|Zhi Cao et.al.|[2608.24101](https://arxiv.org/abs/2608.24101)|[link](https://github.com/LOL-png/tract)|
+|2026-08-25|XP-JEPA: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics|Kehan Wen et.al.|[2608.24044](https://arxiv.org/abs/2608.24044)|null|
+|2026-08-25|GlanceWAM: Sparse Test-Time Imagination for World-Action Models|Linhan Wang et.al.|[2608.23927](https://arxiv.org/abs/2608.23927)|null|
+|2026-08-24|DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops|Xianyao Li et.al.|[2608.23863](https://arxiv.org/abs/2608.23863)|null|
+|2026-08-24|Primate vision reveals a missing principle for robust dynamic AI|Matteo Dunnhofer et.al.|[2608.23790](https://arxiv.org/abs/2608.23790)|null|
+|2026-08-24|Platonic Representation Hypothesis on World Models|Wenhow Li et.al.|[2608.23720](https://arxiv.org/abs/2608.23720)|null|
+|2026-08-24|Do LLMs Understand Limit Order Book Dynamics?|Junxiao Chen et.al.|[2608.23706](https://arxiv.org/abs/2608.23706)|null|
 |2026-08-20|RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control|Xiucheng Wang et.al.|[2608.20126](https://arxiv.org/abs/2608.20126)|null|
 |2026-08-20|Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms|Yanchen Guan et.al.|[2608.20111](https://arxiv.org/abs/2608.20111)|null|
 |2026-08-20|Orthogonal JEPA: Factorized Predictive States for Latent World Models|Taoyong Cui et.al.|[2608.20065](https://arxiv.org/abs/2608.20065)|null|
@@ -92,8 +92,8 @@
 |2026-06-29|Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation|Hong Chen et.al.|[2606.29908](https://arxiv.org/abs/2606.29908)|null|
 |2026-06-29|LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving|Chen Yang et.al.|[2606.29879](https://arxiv.org/abs/2606.29879)|null|
 |2026-06-29|The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models|Rafael Kaufmann et.al.|[2606.29799](https://arxiv.org/abs/2606.29799)|null|
-|2026-06-29|HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|**[link](https://github.com/EXFTB/AutofarmGliderSim)**|
-|2026-06-28|Learning Transferable Dynamics Priors from Action to World Modeling|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|**[link](https://github.com/LogosRoboticsGroup/A2World)**|
+|2026-06-29|HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data|Xinrui Ruan et.al.|[2606.29784](https://arxiv.org/abs/2606.29784)|[link](https://github.com/EXFTB/AutofarmGliderSim)|
+|2026-06-28|Learning Transferable Dynamics Priors from Action to World Modeling|Ze Huang et.al.|[2606.29501](https://arxiv.org/abs/2606.29501)|[link](https://github.com/LogosRoboticsGroup/A2World)|
 |2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin et.al.|[2606.26057](https://arxiv.org/abs/2606.26057)|null|
 |2026-06-24|In-Context World Modeling for Robotic Control|Siyin Wang et.al.|[2606.26025](https://arxiv.org/abs/2606.26025)|null|
 |2026-06-24|USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning|Yuchen Xie et.al.|[2606.25880](https://arxiv.org/abs/2606.25880)|null|

@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos**|Seungyeon Kim et.al.|[2608.28570](https://arxiv.org/abs/2608.28570)|null|
-|**2026-08-28**|**Development of a high-granularity, high-precision timing readout electronics system for large-area MRPC detectors**|J. N. Tang et.al.|[2608.28356](https://arxiv.org/abs/2608.28356)|null|
-|**2026-08-28**|**Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction**|Mrudul Mittal et.al.|[2608.28343](https://arxiv.org/abs/2608.28343)|null|
-|**2026-08-28**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](https://arxiv.org/abs/2608.28288)|null|
-|**2026-08-28**|**WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild**|Yuhao Bai et.al.|[2608.28240](https://arxiv.org/abs/2608.28240)|null|
-|**2026-08-28**|**ZipMVS: Multi-View Stereo with Compressed Cost Volumes**|Guanglin Jin et.al.|[2608.28033](https://arxiv.org/abs/2608.28033)|null|
-|**2026-08-28**|**3D-USE: From Image-Level to Scene-Level Underwater Enhancement**|Jieyu Yuan et.al.|[2608.28020](https://arxiv.org/abs/2608.28020)|null|
-|**2026-08-27**|**Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction**|Jiarong Han et.al.|[2608.27529](https://arxiv.org/abs/2608.27529)|null|
-|**2026-08-27**|**Exact branch-transfer criterion for common-mode Thomson heat cancellation in thermoelectric couples**|Peng Kang et.al.|[2608.27519](https://arxiv.org/abs/2608.27519)|null|
-|**2026-08-27**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz et.al.|[2608.27301](https://arxiv.org/abs/2608.27301)|null|
+|2026-08-28|ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos|Seungyeon Kim et.al.|[2608.28570](https://arxiv.org/abs/2608.28570)|null|
+|2026-08-28|Development of a high-granularity, high-precision timing readout electronics system for large-area MRPC detectors|J. N. Tang et.al.|[2608.28356](https://arxiv.org/abs/2608.28356)|null|
+|2026-08-28|Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction|Mrudul Mittal et.al.|[2608.28343](https://arxiv.org/abs/2608.28343)|null|
+|2026-08-28|GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping|Xiang Yang et.al.|[2608.28288](https://arxiv.org/abs/2608.28288)|null|
+|2026-08-28|WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild|Yuhao Bai et.al.|[2608.28240](https://arxiv.org/abs/2608.28240)|null|
+|2026-08-28|ZipMVS: Multi-View Stereo with Compressed Cost Volumes|Guanglin Jin et.al.|[2608.28033](https://arxiv.org/abs/2608.28033)|null|
+|2026-08-28|3D-USE: From Image-Level to Scene-Level Underwater Enhancement|Jieyu Yuan et.al.|[2608.28020](https://arxiv.org/abs/2608.28020)|null|
+|2026-08-27|Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction|Jiarong Han et.al.|[2608.27529](https://arxiv.org/abs/2608.27529)|null|
+|2026-08-27|Exact branch-transfer criterion for common-mode Thomson heat cancellation in thermoelectric couples|Peng Kang et.al.|[2608.27519](https://arxiv.org/abs/2608.27519)|null|
+|2026-08-27|Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects|Brian De La Cruz et.al.|[2608.27301](https://arxiv.org/abs/2608.27301)|null|
 |2026-07-09|Wat3R: Underwater 3D Geometry Learning without Annotations|Jiangwei Ren et.al.|[2607.08772](https://arxiv.org/abs/2607.08772)|[link](https://github.com/LSXI7/Wat3R)|
 |2026-07-09|Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction|Weijian Chen et.al.|[2607.08769](https://arxiv.org/abs/2607.08769)|null|
 |2026-07-09|Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe|Rebecca L. Larson et.al.|[2607.08749](https://arxiv.org/abs/2607.08749)|null|
@@ -243,7 +243,7 @@
 |2026-03-13|3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting|Jun Liu et.al.|[2603.13049](https://arxiv.org/abs/2603.13049)|null|
 |2026-03-13|CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration|Dongxu Zhang et.al.|[2603.12721](https://arxiv.org/abs/2603.12721)|null|
 |2026-03-13|Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies|Haohang Huang et.al.|[2603.12667](https://arxiv.org/abs/2603.12667)|null|
-|2026-03-12|Single-View Rolling-Shutter SfM|Sofía Errázuriz Muñoz et.al.|[2603.11888](https://arxiv.org/abs/2603.11888)|**[link](https://github.com/sofiaemd/Single-View-Rolling-Shutter-SfM)**|
+|2026-03-12|Single-View Rolling-Shutter SfM|Sofía Errázuriz Muñoz et.al.|[2603.11888](https://arxiv.org/abs/2603.11888)|[link](https://github.com/sofiaemd/Single-View-Rolling-Shutter-SfM)|
 |2026-03-12|CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction for Realistic and Fine-Grained Object Editing|Yue Shi et.al.|[2603.11810](https://arxiv.org/abs/2603.11810)|null|
 |2026-03-12|High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping|Sehoon Tak et.al.|[2603.11389](https://arxiv.org/abs/2603.11389)|null|
 |2026-03-11|InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction|Dingqiang Ye et.al.|[2603.11298](https://arxiv.org/abs/2603.11298)|null|
@@ -289,7 +289,7 @@
 |2026-02-09|RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications|Chiara Lena et.al.|[2602.08397](https://arxiv.org/abs/2602.08397)|null|
 |2026-02-08|Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields|Berthy T. Feng et.al.|[2602.08029](https://arxiv.org/abs/2602.08029)|null|
 |2026-02-08|Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video|Zihui Gao et.al.|[2602.07891](https://arxiv.org/abs/2602.07891)|null|
-|2026-02-08|Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images|Fei Yu et.al.|[2602.07860](https://arxiv.org/abs/2602.07860)|**[link](https://github.com/Maxmilite/rec-from-ultrafast-blur)**|
+|2026-02-08|Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images|Fei Yu et.al.|[2602.07860](https://arxiv.org/abs/2602.07860)|[link](https://github.com/Maxmilite/rec-from-ultrafast-blur)|
 |2026-02-08|Compressed Sensing Methods for Memory Reduction in Monte Carlo Simulations|Ethan Lame et.al.|[2602.07771](https://arxiv.org/abs/2602.07771)|null|
 |2026-02-07|Perspective-aware fusion of incomplete depth maps and surface normals for accurate 3D reconstruction|Ondrej Hlinka et.al.|[2602.07444](https://arxiv.org/abs/2602.07444)|null|
 |2026-02-05|MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation|Luoxi Zhang et.al.|[2602.06163](https://arxiv.org/abs/2602.06163)|null|
@@ -299,12 +299,12 @@
 |2026-02-04|AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation|Jin-Chuan Shi et.al.|[2602.04672](https://arxiv.org/abs/2602.04672)|null|
 |2026-02-04|S-MUSt3R: Sliding Multi-view 3D Reconstruction|Leonid Antsfeld et.al.|[2602.04517](https://arxiv.org/abs/2602.04517)|null|
 |2026-02-04|TrajVG: 3D Trajectory-Coupled Visual Geometry Learning|Xingyu Miao et.al.|[2602.04439](https://arxiv.org/abs/2602.04439)|null|
-|2026-02-04|Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity|Chenhe Du et.al.|[2602.04162](https://arxiv.org/abs/2602.04162)|**[link](https://github.com/duchenhe/ISCS)**|
+|2026-02-04|Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity|Chenhe Du et.al.|[2602.04162](https://arxiv.org/abs/2602.04162)|[link](https://github.com/duchenhe/ISCS)|
 |2026-02-04|SuperPoint-E: local features for 3D reconstruction via tracking adaptation in endoscopy|O. Leon Barbed et.al.|[2602.04108](https://arxiv.org/abs/2602.04108)|null|
 |2026-02-03|AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting|Joanna Kaleta et.al.|[2602.04043](https://arxiv.org/abs/2602.04043)|null|
-|2026-02-03|EventNeuS: 3D Mesh Reconstruction from a Single Event Camera|Shreyas Sachan et.al.|[2602.03847](https://arxiv.org/abs/2602.03847)|**[link](https://github.com/shreyas-sachan/Event-NeuS)**|
+|2026-02-03|EventNeuS: 3D Mesh Reconstruction from a Single Event Camera|Shreyas Sachan et.al.|[2602.03847](https://arxiv.org/abs/2602.03847)|[link](https://github.com/shreyas-sachan/Event-NeuS)|
 |2026-02-03|Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization|Manuel Hofer et.al.|[2602.03327](https://arxiv.org/abs/2602.03327)|null|
-|2026-02-03|Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements|Marco Job et.al.|[2602.03209](https://arxiv.org/abs/2602.03209)|**[link](https://github.com/ntnu-frl/depth-completion)**|
+|2026-02-03|Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements|Marco Job et.al.|[2602.03209](https://arxiv.org/abs/2602.03209)|[link](https://github.com/ntnu-frl/depth-completion)|
 |2026-02-02|3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM|Pierre-Yves Lajoie et.al.|[2602.02430](https://arxiv.org/abs/2602.02430)|null|
 |2026-01-29|MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources|Baorui Ma et.al.|[2601.22054](https://arxiv.org/abs/2601.22054)|null|
 |2026-01-29|PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction|Changjian Jiang et.al.|[2601.22046](https://arxiv.org/abs/2601.22046)|null|
@@ -418,7 +418,7 @@
 |2025-09-24|Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|null|
 |2025-09-23|DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|
 |2025-09-26|MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild|Deming Li et.al.|[2509.15548](http://arxiv.org/abs/2509.15548)|null|
-|2025-09-18|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
+|2025-09-18|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|**[link](https://github.com/facebookresearch/map-anything)**|
 |2025-09-15|Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles|Àlmos Veres-Vitàlyos et.al.|[2509.12458](http://arxiv.org/abs/2509.12458)|null|
 |2025-09-15|Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|null|
 |2025-09-14|3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment|Nhut Le et.al.|[2509.11097](http://arxiv.org/abs/2509.11097)|null|

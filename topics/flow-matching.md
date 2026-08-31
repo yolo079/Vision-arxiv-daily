@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
-|**2026-08-28**|**Manifold4D: Denoising on Point Cloud Rendered Manifolds for Video Re-shooting**|Yongqi Mao et.al.|[2608.28174](https://arxiv.org/abs/2608.28174)|null|
-|**2026-08-28**|**When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?**|Yansen Han et.al.|[2608.28010](https://arxiv.org/abs/2608.28010)|null|
-|**2026-08-28**|**There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation**|Gabe Guo et.al.|[2608.27885](https://arxiv.org/abs/2608.27885)|null|
-|**2026-08-28**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[2608.27429](https://arxiv.org/abs/2608.27429)|null|
-|**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384](https://arxiv.org/abs/2608.27384)|null|
-|**2026-08-27**|**Packora: Systematic Design for Generative Molecular Crystal Structure Prediction**|Nayoung Kim et.al.|[2608.26962](https://arxiv.org/abs/2608.26962)|null|
-|**2026-08-27**|**Gromov-Monge Flow Matching for Equivariant Graph Generation**|Moritz Piening et.al.|[2608.26961](https://arxiv.org/abs/2608.26961)|null|
-|**2026-08-27**|**Climate Physics Dynamic Matching**|Gurjeet Sangra Singh et.al.|[2608.26907](https://arxiv.org/abs/2608.26907)|null|
-|**2026-08-27**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](https://arxiv.org/abs/2608.26872)|null|
+|2026-08-28|Physics-Guided Flow Matching for CT Image Reconstruction|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
+|2026-08-28|Manifold4D: Denoising on Point Cloud Rendered Manifolds for Video Re-shooting|Yongqi Mao et.al.|[2608.28174](https://arxiv.org/abs/2608.28174)|null|
+|2026-08-28|When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?|Yansen Han et.al.|[2608.28010](https://arxiv.org/abs/2608.28010)|null|
+|2026-08-28|There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation|Gabe Guo et.al.|[2608.27885](https://arxiv.org/abs/2608.27885)|null|
+|2026-08-28|Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation|Nguyen Xuan-Vu et.al.|[2608.27429](https://arxiv.org/abs/2608.27429)|null|
+|2026-08-27|FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference|Zekai Li et.al.|[2608.27384](https://arxiv.org/abs/2608.27384)|null|
+|2026-08-27|Packora: Systematic Design for Generative Molecular Crystal Structure Prediction|Nayoung Kim et.al.|[2608.26962](https://arxiv.org/abs/2608.26962)|null|
+|2026-08-27|Gromov-Monge Flow Matching for Equivariant Graph Generation|Moritz Piening et.al.|[2608.26961](https://arxiv.org/abs/2608.26961)|null|
+|2026-08-27|Climate Physics Dynamic Matching|Gurjeet Sangra Singh et.al.|[2608.26907](https://arxiv.org/abs/2608.26907)|null|
+|2026-08-27|Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher|Shiyi Zhang et.al.|[2608.26872](https://arxiv.org/abs/2608.26872)|null|
 |2026-08-09|SDDBMs: Soft Denoising Diffusion Bridge Models|Shiyi Qi et.al.|[2608.08594](https://arxiv.org/abs/2608.08594)|null|
 |2026-08-09|RenderMatte: Exact-Alpha Rendering and Group-Relative Alignment for Image Matting|Zecheng Ren et.al.|[2608.08487](https://arxiv.org/abs/2608.08487)|null|
 |2026-08-09|Population-Level Generative Modeling for Ranking Data|Zhaoyang Shi et.al.|[2608.08422](https://arxiv.org/abs/2608.08422)|null|
@@ -87,7 +87,7 @@
 |2026-06-29|MeloDISinger: Melody-Aware & Duration-Preserving Singing Voice Editing with Audio Infilling|Yoonjeong Park et.al.|[2606.30580](https://arxiv.org/abs/2606.30580)|null|
 |2026-06-29|The Fundamental Limits of Valid Transport Map Estimation|Sivaraman Balakrishnan et.al.|[2606.30574](https://arxiv.org/abs/2606.30574)|null|
 |2026-06-29|Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision|Haoyang Li et.al.|[2606.30552](https://arxiv.org/abs/2606.30552)|null|
-|2026-06-29|FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars|Habin Lim et.al.|[2606.30145](https://arxiv.org/abs/2606.30145)|null|
+|2026-06-29|FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars|Habin Lim et.al.|[2606.30145](https://arxiv.org/abs/2606.30145)|**[link](https://github.com/hahminlew/faceplex)**|
 |2026-06-29|Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge|Titouan Vayer et.al.|[2606.30053](https://arxiv.org/abs/2606.30053)|null|
 |2026-06-29|OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model|Iok Tong Lei et.al.|[2606.29936](https://arxiv.org/abs/2606.29936)|null|
 |2026-06-29|Dual-Flow Reinforcement Learning with State-Aware Exploration|Qijun Li et.al.|[2606.29820](https://arxiv.org/abs/2606.29820)|null|
@@ -193,7 +193,7 @@
 |2026-05-04|Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection|Fuyun Wang et.al.|[2605.02438](https://arxiv.org/abs/2605.02438)|null|
 |2026-05-04|DriftDecode: One-Step Wireless Image Decoding via Drifting-Inspired Detail Recovery|Jingwen Fu et.al.|[2605.02325](https://arxiv.org/abs/2605.02325)|null|
 |2026-05-04|Generative Modeling with Orbit-Space Particle Flow Matching|Sinan Wang et.al.|[2605.02222](https://arxiv.org/abs/2605.02222)|null|
-|2026-05-03|Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching|Qiang Ma et.al.|[2605.01884](https://arxiv.org/abs/2605.01884)|**[link](https://github.com/m-qiang/CardiacMeshFlow)**|
+|2026-05-03|Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching|Qiang Ma et.al.|[2605.01884](https://arxiv.org/abs/2605.01884)|[link](https://github.com/m-qiang/CardiacMeshFlow)|
 |2026-05-02|Unifying Deep Stochastic Processes for Image Enhancement|Wojciech Kozłowski et.al.|[2605.01568](https://arxiv.org/abs/2605.01568)|null|
 |2026-05-02|SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids|Xingzhou Chen et.al.|[2605.01427](https://arxiv.org/abs/2605.01427)|null|
 |2026-05-02|Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events|Keyan Chen et.al.|[2605.01226](https://arxiv.org/abs/2605.01226)|null|

@@ -24,9 +24,9 @@
 |2026-07-01|World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video|Liyuan Zhu et.al.|[2607.01202](https://arxiv.org/abs/2607.01202)|null|
 |2026-07-01|Efficient Compression of Structured and Unstructured Volumes via Learned 3D Gaussian Representation|Landon Dyken et.al.|[2607.01164](https://arxiv.org/abs/2607.01164)|null|
 |2026-07-01|Improving Sparse-View 3DGS Generalization via Flat Minima Optimization|Kangmin Seo et.al.|[2607.00885](https://arxiv.org/abs/2607.00885)|null|
-|2026-06-29|StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors|Wenhao Yuan et.al.|[2606.30545](https://arxiv.org/abs/2606.30545)|null|
+|2026-06-29|StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors|Wenhao Yuan et.al.|[2606.30545](https://arxiv.org/abs/2606.30545)|**[link](https://github.com/StringerYwh00/StereoGS)**|
 |2026-06-29|RenderFormer++: Scalable and Physically Grounded Feed-Forward Neural Rendering|Huangsheng Du et.al.|[2606.30380](https://arxiv.org/abs/2606.30380)|null|
-|2026-06-29|Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting|Xiaobiao Du et.al.|[2606.30017](https://arxiv.org/abs/2606.30017)|null|
+|2026-06-29|Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting|Xiaobiao Du et.al.|[2606.30017](https://arxiv.org/abs/2606.30017)|**[link](https://github.com/xiaobiaodu/Flux-GS)**|
 |2026-06-29|Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction|Yuan Yang et.al.|[2606.30014](https://arxiv.org/abs/2606.30014)|null|
 |2026-06-29|Learning Efficient 4D Gaussian Representations from Monocular Videos with Flow Splatting|Shengjun Zhang et.al.|[2606.29976](https://arxiv.org/abs/2606.29976)|null|
 |2026-06-28|Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views|Mijin Yoo et.al.|[2606.29513](https://arxiv.org/abs/2606.29513)|null|
