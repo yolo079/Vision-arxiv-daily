@@ -1,14 +1,15 @@
 # Point Cloud Registration
 
-> Updated on 2026.08.26
+> Updated on 2026.08.31
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589](https://arxiv.org/abs/2608.26589)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804](https://arxiv.org/abs/2608.21804)|**[link](https://github.com/SuperShrimp/FlashReg)**|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536](https://arxiv.org/abs/2608.19536)|null|
 |**2026-08-16**|**Degenerate in Whose Frame? An Equivariance Condition for Degeneracy Detection in LiDAR Registration**|Yujie Zhang et.al.|[2608.15532](https://arxiv.org/abs/2608.15532)|null|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260](https://arxiv.org/abs/2608.15260)|null|
-|**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883](https://arxiv.org/abs/2608.02883)|null|
+|**2026-08-26**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883](https://arxiv.org/abs/2608.02883)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045](https://arxiv.org/abs/2607.28045)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583](https://arxiv.org/abs/2607.26583)|null|
 |**2026-07-25**|**Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration**|Minheng Chen et.al.|[2607.23343](https://arxiv.org/abs/2607.23343)|null|
