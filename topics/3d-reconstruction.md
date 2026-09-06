@@ -1,9 +1,19 @@
 # 3D Reconstruction
 
-> Updated on 2026.09.01
+> Updated on 2026.09.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](https://arxiv.org/abs/2609.04201)|null|
+|**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174](https://arxiv.org/abs/2609.04174)|null|
+|**2026-09-03**|**ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation**|Javier del Pino et.al.|[2609.03756](https://arxiv.org/abs/2609.03756)|null|
+|**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](https://arxiv.org/abs/2609.03657)|null|
+|**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](https://arxiv.org/abs/2609.03639)|null|
+|**2026-09-03**|**TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates**|Theo Morales et.al.|[2609.03534](https://arxiv.org/abs/2609.03534)|null|
+|**2026-09-03**|**STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction**|Bocheng Li et.al.|[2609.03447](https://arxiv.org/abs/2609.03447)|null|
+|**2026-09-03**|**AnyGS2Mesh: Feed-Forward Mesh Reconstruction from 3D Gaussian Splatting with Arbitrary-Resolution Views**|Yuxuan Song et.al.|[2609.03304](https://arxiv.org/abs/2609.03304)|null|
+|**2026-09-02**|**Benchmarking RAW and RGB Restoration in Image Signal Processors**|Zihao Lu et.al.|[2609.02831](https://arxiv.org/abs/2609.02831)|null|
+|**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
 |2026-08-28|ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos|Seungyeon Kim et.al.|[2608.28570](https://arxiv.org/abs/2608.28570)|null|
 |2026-08-28|Development of a high-granularity, high-precision timing readout electronics system for large-area MRPC detectors|J. N. Tang et.al.|[2608.28356](https://arxiv.org/abs/2608.28356)|null|
 |2026-08-28|Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction|Mrudul Mittal et.al.|[2608.28343](https://arxiv.org/abs/2608.28343)|null|

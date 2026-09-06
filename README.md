@@ -1,8 +1,8 @@
 # 3D Vision arXiv Daily 🚀
 
 > 🌐 Start here: **[GitHub Pages](https://yolo079.github.io/Vision-arxiv-daily/)**
-> Updated on 2026.09.01
-> Topics: 9 | Total papers: 2422
+> Updated on 2026.09.06
+> Topics: 9 | Total papers: 2442
 > Usage instructions: [here](./docs/README.md#usage)
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
 
@@ -19,9 +19,9 @@
 | 🧭 | Point Cloud Registration | 2026-08-27 | 174 | [Point Cloud Registration](topics/point-cloud-registration.md) |
 | 🧩 | Image Matching | 2026-08-19 | 203 | [Image Matching](topics/image-matching.md) |
 | 🛰️ | SLAM | 2026-08-31 | 366 | [SLAM](topics/slam.md) |
-| 🧱 | 3D Reconstruction | 2026-08-28 | 522 | [3D Reconstruction](topics/3d-reconstruction.md) |
+| 🧱 | 3D Reconstruction | 2026-09-03 | 532 | [3D Reconstruction](topics/3d-reconstruction.md) |
 | 🎥 | Novel View Synthesis | 2026-07-09 | 116 | [Novel View Synthesis](topics/novel-view-synthesis.md) |
-| 🗺️ | Visual Localization | 2026-08-04 | 500 | [Visual Localization](topics/visual-localization.md) |
+| 🗺️ | Visual Localization | 2026-09-02 | 510 | [Visual Localization](topics/visual-localization.md) |
 | 📍 | 3D Localization | 2026-08-27 | 39 | [3D Localization](topics/3d-localization.md) |
 | 🌍 | World Model | 2026-08-28 | 250 | [World Model](topics/world-model.md) |
 | 🌊 | Flow Matching | 2026-08-28 | 252 | [Flow Matching](topics/flow-matching.md) |
