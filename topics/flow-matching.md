@@ -1,6 +1,6 @@
 # Flow Matching
 
-> Updated on 2026.09.06
+> Updated on 2026.09.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -87,7 +87,7 @@
 |2026-06-29|MeloDISinger: Melody-Aware & Duration-Preserving Singing Voice Editing with Audio Infilling|Yoonjeong Park et.al.|[2606.30580](https://arxiv.org/abs/2606.30580)|null|
 |2026-06-29|The Fundamental Limits of Valid Transport Map Estimation|Sivaraman Balakrishnan et.al.|[2606.30574](https://arxiv.org/abs/2606.30574)|null|
 |2026-06-29|Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision|Haoyang Li et.al.|[2606.30552](https://arxiv.org/abs/2606.30552)|null|
-|2026-06-29|FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars|Habin Lim et.al.|[2606.30145](https://arxiv.org/abs/2606.30145)|**[link](https://github.com/hahminlew/faceplex)**|
+|2026-06-29|FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars|Habin Lim et.al.|[2606.30145](https://arxiv.org/abs/2606.30145)|[link](https://github.com/hahminlew/faceplex)|
 |2026-06-29|Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge|Titouan Vayer et.al.|[2606.30053](https://arxiv.org/abs/2606.30053)|null|
 |2026-06-29|OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model|Iok Tong Lei et.al.|[2606.29936](https://arxiv.org/abs/2606.29936)|null|
 |2026-06-29|Dual-Flow Reinforcement Learning with State-Aware Exploration|Qijun Li et.al.|[2606.29820](https://arxiv.org/abs/2606.29820)|null|

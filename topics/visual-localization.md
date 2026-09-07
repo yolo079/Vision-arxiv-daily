@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.09.06
+> Updated on 2026.09.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
-|**2026-09-02**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
-|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
-|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
-|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
-|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
-|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
-|**2026-08-24**|**DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation**|Yujie Qi et.al.|[2608.22885](https://arxiv.org/abs/2608.22885)|null|
-|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289](https://arxiv.org/abs/2608.22289)|null|
-|**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](https://arxiv.org/abs/2608.17033)|null|
+|2026-09-02|AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
+|2026-09-02|From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
+|2026-09-02|GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
+|2026-09-01|From Visual Cues to Spoken Narration: Rethinking Audio Description|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
+|2026-08-27|SSMB: Self-Supervised Local Feature Detection under Motion Blur|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
+|2026-08-24|Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
+|2026-08-24|Misanthrope: A Privacy-Preserving Keypoint Detector|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
+|2026-08-24|DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation|Yujie Qi et.al.|[2608.22885](https://arxiv.org/abs/2608.22885)|null|
+|2026-08-23|DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization|Yibin Ye et.al.|[2608.22289](https://arxiv.org/abs/2608.22289)|null|
+|2026-08-17|YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition|Serdar Yildiz et.al.|[2608.17033](https://arxiv.org/abs/2608.17033)|null|
 |2026-08-04|SGFormer: Structure-Guided Transformer for Robust Local Feature Matching|Runyu Zhu et.al.|[2608.03423](https://arxiv.org/abs/2608.03423)|null|
 |2026-07-31|Visual Distribution Anchoring for Efficient Prompt Tuning|Pouya Parsa et.al.|[2607.28967](https://arxiv.org/abs/2607.28967)|null|
 |2026-07-29|PanDent: Toward Comprehensive Tooth-Level Structure-Language Consistency in Dental Radiology|Xiaohan Li et.al.|[2607.27378](https://arxiv.org/abs/2607.27378)|null|
@@ -37,7 +37,7 @@
 |2026-07-06|DIVO: Continuous-time DVL-Inertial-Visual Odometry for Unmanned Underwater Vehicles|Kyungmin Jung et.al.|[2607.04615](https://arxiv.org/abs/2607.04615)|null|
 |2026-07-02|GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training|Yejun Zhang et.al.|[2607.02486](https://arxiv.org/abs/2607.02486)|null|
 |2026-06-30|Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition|Zhiyao Shu et.al.|[2607.00090](https://arxiv.org/abs/2607.00090)|null|
-|2026-06-30|Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|null|
+|2026-06-30|Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression|Oleksii Nasypanyi et.al.|[2606.31164](https://arxiv.org/abs/2606.31164)|**[link](https://github.com/LexaNagiBator228/Seeing-Through-the-Weights)**|
 |2026-07-01|AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images|Meng Yang et.al.|[2606.31077](https://arxiv.org/abs/2606.31077)|null|
 |2026-07-02|PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM|Yanlong Ma et.al.|[2606.28637](https://arxiv.org/abs/2606.28637)|null|
 |2026-06-23|From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection|Zexi Chena et.al.|[2606.24234](https://arxiv.org/abs/2606.24234)|null|
@@ -46,7 +46,7 @@
 |2026-06-13|FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization|Nader J. Abu-Alrub et.al.|[2606.15491](https://arxiv.org/abs/2606.15491)|null|
 |2026-06-11|Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization|Mateo Toro Diz et.al.|[2606.13509](https://arxiv.org/abs/2606.13509)|null|
 |2026-06-11|Visual Place Recognition in Forests with Depth-Aware Distillation|Walter Nedov et.al.|[2606.13206](https://arxiv.org/abs/2606.13206)|null|
-|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|**[link](https://github.com/DmblnNicole/sg2loc)**|
+|2026-06-10|SG2Loc: Sequential Visual Localization on 3D Scene Graphs|Nicole Damblon et.al.|[2606.11880](https://arxiv.org/abs/2606.11880)|[link](https://github.com/DmblnNicole/sg2loc)|
 |2026-06-06|Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
 |2026-06-04|Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
 |2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
@@ -213,7 +213,7 @@
 |2026-01-07|ImLoc: Revisiting Visual Localization with Image-based Representation|Xudong Jiang et.al.|[2601.04185](https://arxiv.org/abs/2601.04185)|null|
 |2026-01-07|CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval|Zhipeng Qian et.al.|[2601.03728](https://arxiv.org/abs/2601.03728)|[link](https://github.com/qzp2018/CSMCIR)|
 |2026-01-07|BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion|Qingyao Tian et.al.|[2601.03713](https://arxiv.org/abs/2601.03713)|null|
-|2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|**[link](https://github.com/Quartararo0714/HOLO)**|
+|2026-01-07|HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|[link](https://github.com/Quartararo0714/HOLO)|
 |2026-01-06|Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM|Wenzheng Zhang et.al.|[2601.02723](https://arxiv.org/abs/2601.02723)|null|
 |2026-01-07|Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset|Nedim Muzoglu et.al.|[2601.02564](https://arxiv.org/abs/2601.02564)|null|
 |2026-01-05|Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach|Biao Wu et.al.|[2601.00388](https://arxiv.org/abs/2601.00388)|null|
@@ -356,7 +356,7 @@
 |2025-09-17|Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models|Ilyass Moummad et.al.|[2509.14427](http://arxiv.org/abs/2509.14427)|[link](https://github.com/ilyassmoummad/hashing-baseline)|
 |2025-09-17|CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |2025-09-16|Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
-|2025-09-16|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|**[link](https://github.com/facebookresearch/map-anything)**|
+|2025-09-16|MapAnything: Universal Feed-Forward Metric 3D Reconstruction|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|[link](https://github.com/facebookresearch/map-anything)|
 |2025-09-17|DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |2025-09-15|Bridging Vision Language Models and Symbolic Grounding for Video Question Answering|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |2025-09-11|Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
