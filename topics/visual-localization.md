@@ -1,17 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.09.07
+> Updated on 2026.09.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|2026-09-02|AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
-|2026-09-02|From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
-|2026-09-02|GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
-|2026-09-01|From Visual Cues to Spoken Narration: Rethinking Audio Description|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
-|2026-08-27|SSMB: Self-Supervised Local Feature Detection under Motion Blur|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
-|2026-08-24|Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
-|2026-08-24|Misanthrope: A Privacy-Preserving Keypoint Detector|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
-|2026-08-24|DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation|Yujie Qi et.al.|[2608.22885](https://arxiv.org/abs/2608.22885)|null|
+|**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373](https://arxiv.org/abs/2609.07373)|null|
+|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](https://arxiv.org/abs/2609.04369)|**[link](https://github.com/chenshunpeng/AdaptVPR)**|
+|**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
+|**2026-09-05**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
+|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
+|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
+|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
+|**2026-08-24**|**DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation**|Yujie Qi et.al.|[2608.22885](https://arxiv.org/abs/2608.22885)|null|
 |2026-08-23|DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization|Yibin Ye et.al.|[2608.22289](https://arxiv.org/abs/2608.22289)|null|
 |2026-08-17|YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition|Serdar Yildiz et.al.|[2608.17033](https://arxiv.org/abs/2608.17033)|null|
 |2026-08-04|SGFormer: Structure-Guided Transformer for Robust Local Feature Matching|Runyu Zhu et.al.|[2608.03423](https://arxiv.org/abs/2608.03423)|null|

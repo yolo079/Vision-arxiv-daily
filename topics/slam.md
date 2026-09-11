@@ -1,9 +1,19 @@
 # SLAM
 
-> Updated on 2026.09.07
+> Updated on 2026.09.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting**|Fernando Cañadas-Aránega et.al.|[2609.11766](https://arxiv.org/abs/2609.11766)|null|
+|**2026-09-09**|**Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry**|Joaquin Caballero et.al.|[2609.10336](https://arxiv.org/abs/2609.10336)|null|
+|**2026-09-08**|**Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration**|Yiran Qiao et.al.|[2609.09418](https://arxiv.org/abs/2609.09418)|null|
+|**2026-09-08**|**MFVINS: Multiple Fisheye Camera-Based Visual Inertial System**|Eunseong Jang et.al.|[2609.08626](https://arxiv.org/abs/2609.08626)|null|
+|**2026-09-07**|**Forecasting the Winner of a Live Tennis Match**|Charles Xie et.al.|[2609.07617](https://arxiv.org/abs/2609.07617)|null|
+|**2026-09-07**|**Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs**|Xinggang Hu et.al.|[2609.07497](https://arxiv.org/abs/2609.07497)|null|
+|**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](https://arxiv.org/abs/2609.07274)|null|
+|**2026-09-05**|**NSFlow: End-to-End Differentiable Neuro-Symbolic Optical Flow for Visual Odometry**|Yicheng Lin et.al.|[2609.06074](https://arxiv.org/abs/2609.06074)|null|
+|**2026-09-05**|**Moment-Matching Probabilistic Data Association for Optimization-Based SLAM**|Khoa Nguyen et.al.|[2609.05941](https://arxiv.org/abs/2609.05941)|null|
+|**2026-09-04**|**FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement**|Kun Hu et.al.|[2609.05325](https://arxiv.org/abs/2609.05325)|null|
 |2026-08-31|Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions|Abhay Skaria Thomas et.al.|[2608.30690](https://arxiv.org/abs/2608.30690)|null|
 |2026-08-30|Everybody Tracking Every Body|Daeyun Shin et.al.|[2608.29927](https://arxiv.org/abs/2608.29927)|[link](https://github.com/danderfer/Comp_Sci_Sem_2)|
 |2026-08-29|RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos|Wenting Wang et.al.|[2608.29003](https://arxiv.org/abs/2608.29003)|null|
