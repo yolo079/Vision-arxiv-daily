@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.09.11
+> Updated on 2026.09.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-10**|**Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport**|Luyi Jia et.al.|[2609.11842](https://arxiv.org/abs/2609.11842)|null|
-|**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](https://arxiv.org/abs/2609.11697)|null|
-|**2026-09-10**|**UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound**|Weiying Chen et.al.|[2609.11506](https://arxiv.org/abs/2609.11506)|null|
-|**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](https://arxiv.org/abs/2609.11472)|null|
-|**2026-09-10**|**Preference Optimization with LALM Feedback for Continuous Autoregressive Non-Verbal Vocalization Generation**|Jingbin Hu et.al.|[2609.11260](https://arxiv.org/abs/2609.11260)|null|
-|**2026-09-10**|**IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies**|Kian Hosseinkhani et.al.|[2609.10915](https://arxiv.org/abs/2609.10915)|null|
-|**2026-09-09**|**Flow Duality and Source Geometry for Categorical Generation**|Etrit Haxholli et.al.|[2609.10863](https://arxiv.org/abs/2609.10863)|null|
-|**2026-09-09**|**BINDing the lightcone: A suite of astrophysical ray-traced weak lensing and SZ maps**|Max E. Lee et.al.|[2609.10710](https://arxiv.org/abs/2609.10710)|null|
-|**2026-09-09**|**BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters**|Max E. Lee et.al.|[2609.10709](https://arxiv.org/abs/2609.10709)|null|
-|**2026-09-10**|**MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues**|Zeyu Ling et.al.|[2609.10457](https://arxiv.org/abs/2609.10457)|null|
+|2026-09-10|Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport|Luyi Jia et.al.|[2609.11842](https://arxiv.org/abs/2609.11842)|null|
+|2026-09-10|ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies|Jianming Ma et.al.|[2609.11697](https://arxiv.org/abs/2609.11697)|null|
+|2026-09-10|UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound|Weiying Chen et.al.|[2609.11506](https://arxiv.org/abs/2609.11506)|null|
+|2026-09-10|BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration|Qianliang Wu et.al.|[2609.11472](https://arxiv.org/abs/2609.11472)|null|
+|2026-09-10|Preference Optimization with LALM Feedback for Continuous Autoregressive Non-Verbal Vocalization Generation|Jingbin Hu et.al.|[2609.11260](https://arxiv.org/abs/2609.11260)|null|
+|2026-09-10|IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies|Kian Hosseinkhani et.al.|[2609.10915](https://arxiv.org/abs/2609.10915)|null|
+|2026-09-09|Flow Duality and Source Geometry for Categorical Generation|Etrit Haxholli et.al.|[2609.10863](https://arxiv.org/abs/2609.10863)|null|
+|2026-09-09|BINDing the lightcone: A suite of astrophysical ray-traced weak lensing and SZ maps|Max E. Lee et.al.|[2609.10710](https://arxiv.org/abs/2609.10710)|null|
+|2026-09-09|BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters|Max E. Lee et.al.|[2609.10709](https://arxiv.org/abs/2609.10709)|null|
+|2026-09-10|MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues|Zeyu Ling et.al.|[2609.10457](https://arxiv.org/abs/2609.10457)|null|
 |2026-08-28|Physics-Guided Flow Matching for CT Image Reconstruction|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
 |2026-08-28|Manifold4D: Denoising on Point Cloud Rendered Manifolds for Video Re-shooting|Yongqi Mao et.al.|[2608.28174](https://arxiv.org/abs/2608.28174)|null|
 |2026-08-28|When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?|Yansen Han et.al.|[2608.28010](https://arxiv.org/abs/2608.28010)|null|
@@ -36,11 +36,11 @@
 |2026-08-07|Limit Points of Reflow with Minibatch Optimal Transport|Antonin Chambolle et.al.|[2608.07042](https://arxiv.org/abs/2608.07042)|null|
 |2026-07-30|APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems|Shentong Mo et.al.|[2607.28553](https://arxiv.org/abs/2607.28553)|null|
 |2026-07-30|Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework|Tianen Shen et.al.|[2607.28035](https://arxiv.org/abs/2607.28035)|null|
-|2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|null|
+|2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|**[link](https://github.com/rrrrrrzy/fm-geometry)**|
 |2026-07-30|RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy|Zhengyang Yan et.al.|[2607.27782](https://arxiv.org/abs/2607.27782)|null|
 |2026-07-30|RIPPLE: Generating Multi-Channel Phase, Not Recovering It|Jaehyuk Lee et.al.|[2607.27775](https://arxiv.org/abs/2607.27775)|null|
 |2026-07-30|ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction|Dexuan Ding et.al.|[2607.27537](https://arxiv.org/abs/2607.27537)|null|
-|2026-07-29|Latent-Kernel Discrete Flow Maps for Few-Step Generation|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|null|
+|2026-07-29|Latent-Kernel Discrete Flow Maps for Few-Step Generation|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|**[link](https://github.com/mansoor181/lkf)**|
 |2026-07-29|Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling|Zhefeng Huang et.al.|[2607.27511](https://arxiv.org/abs/2607.27511)|null|
 |2026-07-29|SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups|Yikun Bai et.al.|[2607.27431](https://arxiv.org/abs/2607.27431)|null|
 |2026-07-29|DLAM: Distributional Latent Actions with Temporal Constraints|Zuojin Tang et.al.|[2607.27138](https://arxiv.org/abs/2607.27138)|null|
@@ -234,7 +234,7 @@
 |2026-04-20|OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation|Kuanning Wang et.al.|[2604.17876](https://arxiv.org/abs/2604.17876)|null|
 |2026-04-20|OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL|Haoxiang Jie et.al.|[2604.17706](https://arxiv.org/abs/2604.17706)|null|
 |2026-04-20|Grokking of Diffusion Models: Case Study on Modular Addition|Joon Hyeok Kim et.al.|[2604.17673](https://arxiv.org/abs/2604.17673)|null|
-|2026-04-19|Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models|Jeongjae Lee et.al.|[2604.17415](https://arxiv.org/abs/2604.17415)|null|
+|2026-04-19|Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models|Jeongjae Lee et.al.|[2604.17415](https://arxiv.org/abs/2604.17415)|**[link](https://github.com/jaylee2000/rsm)**|
 |2026-04-19|EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents|Yu Zhang et.al.|[2604.17211](https://arxiv.org/abs/2604.17211)|null|
 |2026-04-18|FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation|Yilong Dai et.al.|[2604.17149](https://arxiv.org/abs/2604.17149)|null|
 |2026-04-18|Anonymization, Not Elimination: Utility-Preserved Speech Anonymization|Yunchong Xiao et.al.|[2604.17000](https://arxiv.org/abs/2604.17000)|null|

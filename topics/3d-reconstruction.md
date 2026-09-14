@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.09.11
+> Updated on 2026.09.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -167,7 +167,7 @@
 |2026-04-30|Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering|Davide Di Nucci et.al.|[2604.27590](https://arxiv.org/abs/2604.27590)|null|
 |2026-04-29|VBr >10 kV E-Beam/Sputtered Vertical NiOx/(011) β-Ga2O3 HJDs with PFOM >2.3 GW/cm2|Yizheng Liu et.al.|[2604.27262](https://arxiv.org/abs/2604.27262)|null|
 |2026-04-29|Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction|Tofayel Ahammad Ovee et.al.|[2604.27240](https://arxiv.org/abs/2604.27240)|null|
-|2026-04-29|Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations|Andrii Zadaianchuk et.al.|[2604.27106](https://arxiv.org/abs/2604.27106)|null|
+|2026-04-29|Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations|Andrii Zadaianchuk et.al.|[2604.27106](https://arxiv.org/abs/2604.27106)|**[link](https://github.com/TRI-ML/recgen)**|
 |2026-04-29|Validating the Clinical Utility of CineECG 3D Reconstructions through Cross-Modal Feature Attribution|Karol Dobiczek et.al.|[2604.27017](https://arxiv.org/abs/2604.27017)|null|
 |2026-04-29|Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction|David Novikov et.al.|[2604.26920](https://arxiv.org/abs/2604.26920)|null|
 |2026-04-29|Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising|Jun Guo et.al.|[2604.26694](https://arxiv.org/abs/2604.26694)|null|
