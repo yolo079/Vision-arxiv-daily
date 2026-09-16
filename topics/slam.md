@@ -1,9 +1,19 @@
 # SLAM
 
-> Updated on 2026.09.14
+> Updated on 2026.09.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](https://arxiv.org/abs/2609.17387)|null|
+|**2026-09-15**|**Online Geometric Change Detection via Scene Decomposition**|David Thorne et.al.|[2609.17302](https://arxiv.org/abs/2609.17302)|null|
+|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
+|**2026-09-14**|**SURE-Map: Self-Correcting Streaming Geometric Foundation Model**|Mingkai Liu et.al.|[2609.15795](https://arxiv.org/abs/2609.15795)|null|
+|**2026-09-14**|**P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites**|Ha Sier et.al.|[2609.15475](https://arxiv.org/abs/2609.15475)|null|
+|**2026-09-14**|**Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric**|Effie Daum et.al.|[2609.14936](https://arxiv.org/abs/2609.14936)|null|
+|**2026-09-13**|**SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild**|Kumaran Karthik et.al.|[2609.14634](https://arxiv.org/abs/2609.14634)|null|
+|**2026-09-12**|**FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry**|Meng-Li Shih et.al.|[2609.13733](https://arxiv.org/abs/2609.13733)|null|
+|**2026-09-12**|**MomentBA: Second-order Spatial Moments for Anisotropic Correspondence Uncertainty in Differentiable Bundle Adjustment**|Yuqing Wang et.al.|[2609.13691](https://arxiv.org/abs/2609.13691)|null|
+|**2026-09-11**|**Parameter Sensitivity Analysis for Aerial LiDAR-Inertial Odometries in low-altitude flights**|Robert Milijas et.al.|[2609.12837](https://arxiv.org/abs/2609.12837)|null|
 |2026-09-10|Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting|Fernando Cañadas-Aránega et.al.|[2609.11766](https://arxiv.org/abs/2609.11766)|null|
 |2026-09-09|Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry|Joaquin Caballero et.al.|[2609.10336](https://arxiv.org/abs/2609.10336)|null|
 |2026-09-08|Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration|Yiran Qiao et.al.|[2609.09418](https://arxiv.org/abs/2609.09418)|null|

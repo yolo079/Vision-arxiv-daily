@@ -1,10 +1,19 @@
 # Image Matching
 
-> Updated on 2026.09.14
+> Updated on 2026.09.16
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|2026-08-19|Evaluation of Image Matching Methods for Visual Odometry on UAVs|Gašper Spagnolo et.al.|[2608.18624](https://arxiv.org/abs/2608.18624)|null|
+|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](https://arxiv.org/abs/2609.09507)|**[link](https://github.com/davnords/RoMa-Omega)**|
+|**2026-09-06**|**Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features**|Ali Rafiaei et.al.|[2609.06726](https://arxiv.org/abs/2609.06726)|**[link](https://github.com/ghabbinlic/d322fcd06726b4357b30529404d7925c5b442caa72ddd830c9a3341bb352934cbb0e26096e864502454f2f494e6c9036012c)**|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](https://arxiv.org/abs/2609.06343)|null|
+|**2026-09-04**|**ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization**|Hyeongsik Kim et.al.|[2609.04965](https://arxiv.org/abs/2609.04965)|null|
+|**2026-09-02**|**Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization**|Dasol Yoon et.al.|[2609.02126](https://arxiv.org/abs/2609.02126)|null|
+|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
+|**2026-09-04**|**XDG: Accelerated Visual Disambiguation**|Gonglin Chen et.al.|[2608.29733](https://arxiv.org/abs/2608.29733)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
+|**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](https://arxiv.org/abs/2608.18624)|null|
 |2026-08-18|Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression|Chandra Yuvesh Aubeeluck et.al.|[2608.17691](https://arxiv.org/abs/2608.17691)|null|
 |2026-08-17|Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach|Gaofeng Su et.al.|[2608.16785](https://arxiv.org/abs/2608.16785)|null|
 |2026-08-11|Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization|Alexander Hustinx et.al.|[2608.11037](https://arxiv.org/abs/2608.11037)|null|
