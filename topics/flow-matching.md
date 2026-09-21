@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.09.16
+> Updated on 2026.09.21
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](https://arxiv.org/abs/2609.22041)|null|
+|**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Camilo Carvajal Reyes et.al.|[2609.21989](https://arxiv.org/abs/2609.21989)|null|
+|**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[2609.21982](https://arxiv.org/abs/2609.21982)|null|
+|**2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Pinxin Liu et.al.|[2609.21576](https://arxiv.org/abs/2609.21576)|null|
+|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](https://arxiv.org/abs/2609.21449)|null|
+|**2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Yixuan Feng et.al.|[2609.21448](https://arxiv.org/abs/2609.21448)|null|
+|**2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Ayun Lee et.al.|[2609.21316](https://arxiv.org/abs/2609.21316)|null|
+|**2026-09-18**|**Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies**|Zhipeng Tang et.al.|[2609.21216](https://arxiv.org/abs/2609.21216)|null|
+|**2026-09-17**|**MarsFM: Shading-Regularized Flow Matching for Martian Relief Estimation**|Marius F. R. Juston et.al.|[2609.21095](https://arxiv.org/abs/2609.21095)|null|
+|**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Xin Chen et.al.|[2609.20776](https://arxiv.org/abs/2609.20776)|null|
 |2026-09-10|Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport|Luyi Jia et.al.|[2609.11842](https://arxiv.org/abs/2609.11842)|null|
 |2026-09-10|ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies|Jianming Ma et.al.|[2609.11697](https://arxiv.org/abs/2609.11697)|null|
 |2026-09-10|UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound|Weiying Chen et.al.|[2609.11506](https://arxiv.org/abs/2609.11506)|null|
