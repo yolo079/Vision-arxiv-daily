@@ -155,9 +155,9 @@
 |2026-06-04|PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation|Chong Ma et.al.|[2606.05773](https://arxiv.org/abs/2606.05773)|null|
 |2026-06-04|DexFuture: Hierarchical Future-State Visuomotor Targeting for Bimanual Dexterous Tool Use|Runfa Blark Li et.al.|[2606.05699](https://arxiv.org/abs/2606.05699)|null|
 |2026-05-28|NeuROK: Generative 4D Neural Object Kinematics|Chen Geng et.al.|[2605.30347](https://arxiv.org/abs/2605.30347)|null|
-|2026-05-28|YoCausal: How Far is Video Generation from World Model? A Causality Perspective|You-Zhe Xie et.al.|[2605.30346](https://arxiv.org/abs/2605.30346)|**[link](https://github.com/youzhe0305/YoCausal)**|
+|2026-05-28|YoCausal: How Far is Video Generation from World Model? A Causality Perspective|You-Zhe Xie et.al.|[2605.30346](https://arxiv.org/abs/2605.30346)|[link](https://github.com/youzhe0305/YoCausal)|
 |2026-05-28|minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models|Min Zhao et.al.|[2605.30263](https://arxiv.org/abs/2605.30263)|null|
-|2026-05-28|Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences|Benjamin Walker et.al.|[2605.30100](https://arxiv.org/abs/2605.30100)|**[link](https://github.com/Benjamin-Walker/Chess-World-Model)**|
+|2026-05-28|Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences|Benjamin Walker et.al.|[2605.30100](https://arxiv.org/abs/2605.30100)|[link](https://github.com/Benjamin-Walker/Chess-World-Model)|
 |2026-05-28|Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment|Toru Takahashi et.al.|[2605.29930](https://arxiv.org/abs/2605.29930)|null|
 |2026-05-28|World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models|Emmanuelle Bourigault et.al.|[2605.29585](https://arxiv.org/abs/2605.29585)|null|
 |2026-05-28|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models|Tianzhuo Yang et.al.|[2605.29360](https://arxiv.org/abs/2605.29360)|null|

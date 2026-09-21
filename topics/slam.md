@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](https://arxiv.org/abs/2609.17387)|null|
-|**2026-09-15**|**Online Geometric Change Detection via Scene Decomposition**|David Thorne et.al.|[2609.17302](https://arxiv.org/abs/2609.17302)|null|
-|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
-|**2026-09-14**|**SURE-Map: Self-Correcting Streaming Geometric Foundation Model**|Mingkai Liu et.al.|[2609.15795](https://arxiv.org/abs/2609.15795)|null|
-|**2026-09-14**|**P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites**|Ha Sier et.al.|[2609.15475](https://arxiv.org/abs/2609.15475)|null|
-|**2026-09-14**|**Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric**|Effie Daum et.al.|[2609.14936](https://arxiv.org/abs/2609.14936)|null|
-|**2026-09-13**|**SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild**|Kumaran Karthik et.al.|[2609.14634](https://arxiv.org/abs/2609.14634)|null|
-|**2026-09-12**|**FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry**|Meng-Li Shih et.al.|[2609.13733](https://arxiv.org/abs/2609.13733)|null|
-|**2026-09-12**|**MomentBA: Second-order Spatial Moments for Anisotropic Correspondence Uncertainty in Differentiable Bundle Adjustment**|Yuqing Wang et.al.|[2609.13691](https://arxiv.org/abs/2609.13691)|null|
-|**2026-09-11**|**Parameter Sensitivity Analysis for Aerial LiDAR-Inertial Odometries in low-altitude flights**|Robert Milijas et.al.|[2609.12837](https://arxiv.org/abs/2609.12837)|null|
+|2026-09-15|PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM|Yongqi Mao et.al.|[2609.17387](https://arxiv.org/abs/2609.17387)|null|
+|2026-09-15|Online Geometric Change Detection via Scene Decomposition|David Thorne et.al.|[2609.17302](https://arxiv.org/abs/2609.17302)|null|
+|2026-09-15|HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
+|2026-09-14|SURE-Map: Self-Correcting Streaming Geometric Foundation Model|Mingkai Liu et.al.|[2609.15795](https://arxiv.org/abs/2609.15795)|null|
+|2026-09-14|P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites|Ha Sier et.al.|[2609.15475](https://arxiv.org/abs/2609.15475)|null|
+|2026-09-14|Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric|Effie Daum et.al.|[2609.14936](https://arxiv.org/abs/2609.14936)|null|
+|2026-09-13|SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild|Kumaran Karthik et.al.|[2609.14634](https://arxiv.org/abs/2609.14634)|null|
+|2026-09-12|FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry|Meng-Li Shih et.al.|[2609.13733](https://arxiv.org/abs/2609.13733)|null|
+|2026-09-12|MomentBA: Second-order Spatial Moments for Anisotropic Correspondence Uncertainty in Differentiable Bundle Adjustment|Yuqing Wang et.al.|[2609.13691](https://arxiv.org/abs/2609.13691)|null|
+|2026-09-11|Parameter Sensitivity Analysis for Aerial LiDAR-Inertial Odometries in low-altitude flights|Robert Milijas et.al.|[2609.12837](https://arxiv.org/abs/2609.12837)|null|
 |2026-09-10|Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting|Fernando Cañadas-Aránega et.al.|[2609.11766](https://arxiv.org/abs/2609.11766)|null|
 |2026-09-09|Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry|Joaquin Caballero et.al.|[2609.10336](https://arxiv.org/abs/2609.10336)|null|
 |2026-09-08|Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration|Yiran Qiao et.al.|[2609.09418](https://arxiv.org/abs/2609.09418)|null|
@@ -65,7 +65,7 @@
 |2026-06-29|CSAR: Containerized System Architecture for Robotics|Ambrosio-Cestero et.al.|[2606.30293](https://arxiv.org/abs/2606.30293)|null|
 |2026-06-29|Self-supervised Geometry Reasoning for LiDAR Simultaneous Localization and Mapping|Jiwoo Kim et.al.|[2606.30166](https://arxiv.org/abs/2606.30166)|null|
 |2026-06-29|MSFA-Net: An Advanced Deep Learning Model for Identifying Blue Horizontal-Branch Stars from LAMOST DR12|Mingyuan Wang et.al.|[2606.29918](https://arxiv.org/abs/2606.29918)|null|
-|2026-06-29|TACO: A Test and Check Framework for Robust Pose Graph Optimization|Emilio Olivastri et.al.|[2606.29851](https://arxiv.org/abs/2606.29851)|**[link](https://github.com/EmilioOlivastri/TACO)**|
+|2026-06-29|TACO: A Test and Check Framework for Robust Pose Graph Optimization|Emilio Olivastri et.al.|[2606.29851](https://arxiv.org/abs/2606.29851)|[link](https://github.com/EmilioOlivastri/TACO)|
 |2026-06-29|MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM|Fan Zhu et.al.|[2606.29738](https://arxiv.org/abs/2606.29738)|null|
 |2026-06-28|VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM|Raman Jha et.al.|[2606.29494](https://arxiv.org/abs/2606.29494)|null|
 |2026-06-28|PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping|Jiawei Xia et.al.|[2606.29259](https://arxiv.org/abs/2606.29259)|null|
@@ -73,7 +73,7 @@
 |2026-06-27|How to Leverage Synthetic Speech for LLM-Based ASR Systems?|Yanis Labrak et.al.|[2606.29031](https://arxiv.org/abs/2606.29031)|null|
 |2026-06-24|RoboAtlas: Contextual Active SLAM|Alexander Schperberg et.al.|[2606.26046](https://arxiv.org/abs/2606.26046)|null|
 |2026-06-24|DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild|Ahmad Kourani et.al.|[2606.25953](https://arxiv.org/abs/2606.25953)|null|
-|2026-06-24|SA-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Subspace-Aware Degeneracy Handling|Yinong Cao et.al.|[2606.25699](https://arxiv.org/abs/2606.25699)|**[link](https://github.com/Huashuijingying/SA-LIVO-Reimpl)**|
+|2026-06-24|SA-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Subspace-Aware Degeneracy Handling|Yinong Cao et.al.|[2606.25699](https://arxiv.org/abs/2606.25699)|[link](https://github.com/Huashuijingying/SA-LIVO-Reimpl)|
 |2026-06-24|OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos|Oussema Dhaouadi et.al.|[2606.25245](https://arxiv.org/abs/2606.25245)|null|
 |2026-06-23|Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics|Marvin Rüdt et.al.|[2606.24814](https://arxiv.org/abs/2606.24814)|null|
 |2026-06-23|Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM|Leshu Li et.al.|[2606.24796](https://arxiv.org/abs/2606.24796)|[link](https://github.com/UMN-ZhaoLab/Pocket-SLAM)|

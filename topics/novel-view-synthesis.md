@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-15**|**ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis**|Weronika Jakubowska et.al.|[2609.17450](https://arxiv.org/abs/2609.17450)|null|
-|**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106](https://arxiv.org/abs/2609.17106)|null|
-|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|null|
-|**2026-09-11**|**NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis**|Shaurya Pavan A et.al.|[2609.12682](https://arxiv.org/abs/2609.12682)|null|
-|**2026-09-10**|**3D Point Splatting for mmWave Radar Novel View Synthesis**|Adnan Armouti et.al.|[2609.11894](https://arxiv.org/abs/2609.11894)|null|
-|**2026-09-10**|**Gaussian Light Transport**|Patrick Attimont et.al.|[2609.11430](https://arxiv.org/abs/2609.11430)|null|
-|**2026-09-09**|**View-Structured Conformal Prediction for 3D Gaussian Splatting**|Junzheng Chu et.al.|[2609.10307](https://arxiv.org/abs/2609.10307)|null|
-|**2026-09-09**|**LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting**|Donghun Ryu et.al.|[2609.10095](https://arxiv.org/abs/2609.10095)|null|
-|**2026-09-14**|**RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback**|Zhihao Cen et.al.|[2609.09828](https://arxiv.org/abs/2609.09828)|null|
-|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491](https://arxiv.org/abs/2609.09491)|null|
+|2026-09-15|ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis|Weronika Jakubowska et.al.|[2609.17450](https://arxiv.org/abs/2609.17450)|null|
+|2026-09-15|BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation|Philipp Ausserlechner et.al.|[2609.17106](https://arxiv.org/abs/2609.17106)|null|
+|2026-09-15|G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|null|
+|2026-09-11|NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis|Shaurya Pavan A et.al.|[2609.12682](https://arxiv.org/abs/2609.12682)|null|
+|2026-09-10|3D Point Splatting for mmWave Radar Novel View Synthesis|Adnan Armouti et.al.|[2609.11894](https://arxiv.org/abs/2609.11894)|null|
+|2026-09-10|Gaussian Light Transport|Patrick Attimont et.al.|[2609.11430](https://arxiv.org/abs/2609.11430)|null|
+|2026-09-09|View-Structured Conformal Prediction for 3D Gaussian Splatting|Junzheng Chu et.al.|[2609.10307](https://arxiv.org/abs/2609.10307)|null|
+|2026-09-09|LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting|Donghun Ryu et.al.|[2609.10095](https://arxiv.org/abs/2609.10095)|null|
+|2026-09-14|RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback|Zhihao Cen et.al.|[2609.09828](https://arxiv.org/abs/2609.09828)|null|
+|2026-09-08|Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion|Fadi Khatib et.al.|[2609.09491](https://arxiv.org/abs/2609.09491)|null|
 |2026-07-09|On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting|In-Hwan Jin et.al.|[2607.08250](https://arxiv.org/abs/2607.08250)|[link](https://github.com/cvsp-lab/MoDE)|
 |2026-07-09|LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting|Zixin Guo et.al.|[2607.08016](https://arxiv.org/abs/2607.08016)|null|
 |2026-07-08|GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM|Lipu Zhou et.al.|[2607.07452](https://arxiv.org/abs/2607.07452)|null|
@@ -109,7 +109,7 @@
 |2026-05-13|GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting|Utae Jeong et.al.|[2605.12919](https://arxiv.org/abs/2605.12919)|null|
 |2026-05-12|3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark|Yunxiao Zhang et.al.|[2605.12437](https://arxiv.org/abs/2605.12437)|null|
 |2026-05-12|GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction|Xiao Cao et.al.|[2605.12399](https://arxiv.org/abs/2605.12399)|null|
-|2026-05-12|UniFixer: A Universal Reference-Guided Fixer for Diffusion-Based View Synthesis|Sihan Chen et.al.|[2605.12169](https://arxiv.org/abs/2605.12169)|**[link](https://github.com/sihan-chen-yes/UniFixer)**|
+|2026-05-12|UniFixer: A Universal Reference-Guided Fixer for Diffusion-Based View Synthesis|Sihan Chen et.al.|[2605.12169](https://arxiv.org/abs/2605.12169)|[link](https://github.com/sihan-chen-yes/UniFixer)|
 |2026-05-07|Relit-LiVE: Relight Video by Jointly Learning Environment Video|Weiqing Xiao et.al.|[2605.06658](https://arxiv.org/abs/2605.06658)|null|
 |2026-05-07|Scalable GPU Construction of 3D Voronoi and Power Diagrams|Bernardo Taveira et.al.|[2605.06408](https://arxiv.org/abs/2605.06408)|null|
 |2026-05-07|Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis|Yuhan Xia et.al.|[2605.05897](https://arxiv.org/abs/2605.05897)|null|
@@ -126,7 +126,7 @@
 |2026-04-30|Softmax-GS: Generalized Gaussians Learning When to Blend or Bound|Chen Ziwen et.al.|[2604.27437](https://arxiv.org/abs/2604.27437)|null|
 |2026-04-30|Sparse-View 3D Gaussian Splatting in the Wild|Wongi Park et.al.|[2604.27422](https://arxiv.org/abs/2604.27422)|[link](https://github.com/MabeNice/SparseGS-W)|
 |2026-04-29|MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching|Shuzhao Xie et.al.|[2604.26799](https://arxiv.org/abs/2604.26799)|null|
-|2026-04-29|3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification|William Grolleau et.al.|[2604.26520](https://arxiv.org/abs/2604.26520)|**[link](https://github.com/TurtleSmoke/3D-LENS)**|
+|2026-04-29|3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification|William Grolleau et.al.|[2604.26520](https://arxiv.org/abs/2604.26520)|[link](https://github.com/TurtleSmoke/3D-LENS)|
 |2026-04-29|Semantic Foam: Unifying Spatial and Semantic Scene Decomposition|Amr Sharafeldin et.al.|[2604.26262](https://arxiv.org/abs/2604.26262)|[link](https://github.com/AmrMSharafeldin/semanticfoam)|
 |2026-04-27|Light 'em Up: Enabling Few-Shot Low-Light 3D Gaussian Splatting with Multi-Scale Explicit Retinex Illumination Decoupling|YuHao Yin et.al.|[2604.24053](https://arxiv.org/abs/2604.24053)|[link](https://github.com/YhuoyuH/MERID-GS)|
 |2026-04-26|Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction|Jan Warchocki et.al.|[2604.23803](https://arxiv.org/abs/2604.23803)|null|

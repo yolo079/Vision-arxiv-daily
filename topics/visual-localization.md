@@ -4,19 +4,19 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](https://arxiv.org/abs/2609.21219)|**[link](https://github.com/AdamDHines/megaevent)**|
-|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](https://arxiv.org/abs/2609.19876)|null|
-|**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510](https://arxiv.org/abs/2609.19510)|null|
-|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
-|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|**[link](https://github.com/zhangshuoneu/G-ray)**|
-|**2026-09-10**|**Chain-SLAM: Globally Consistent Backend for Multi-Session LiDAR SLAM via Chained Loop Closure**|Zhiheng Li et.al.|[2609.12221](https://arxiv.org/abs/2609.12221)|null|
-|**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373](https://arxiv.org/abs/2609.07373)|null|
-|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](https://arxiv.org/abs/2609.04369)|null|
-|**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
-|**2026-09-05**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
-|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
-|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
-|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
+|2026-09-18|Multi-viewpoint Geo-localization with Event Cameras|Adam D. Hines et.al.|[2609.21219](https://arxiv.org/abs/2609.21219)|[link](https://github.com/AdamDHines/megaevent)|
+|2026-09-17|SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings|Yunqian Cheng et.al.|[2609.19876](https://arxiv.org/abs/2609.19876)|null|
+|2026-09-16|PIVOT: Perception-aware Independent Viewpoint Online Optimization|Yuyang Chen et.al.|[2609.19510](https://arxiv.org/abs/2609.19510)|null|
+|2026-09-15|HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
+|2026-09-15|G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|[link](https://github.com/zhangshuoneu/G-ray)|
+|2026-09-10|Chain-SLAM: Globally Consistent Backend for Multi-Session LiDAR SLAM via Chained Loop Closure|Zhiheng Li et.al.|[2609.12221](https://arxiv.org/abs/2609.12221)|null|
+|2026-09-07|TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases|Dominik A. Kloepfer et.al.|[2609.07373](https://arxiv.org/abs/2609.07373)|null|
+|2026-09-03|AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition|Shunpeng Chen et.al.|[2609.04369](https://arxiv.org/abs/2609.04369)|null|
+|2026-09-02|AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels|Javier Tirado-Garín et.al.|[2609.02798](https://arxiv.org/abs/2609.02798)|null|
+|2026-09-05|From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs|Dun Dai et.al.|[2609.02319](https://arxiv.org/abs/2609.02319)|null|
+|2026-09-02|GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching|Lu Han et.al.|[2609.02012](https://arxiv.org/abs/2609.02012)|null|
+|2026-09-01|From Visual Cues to Spoken Narration: Rethinking Audio Description|Akshita Gupta et.al.|[2609.01725](https://arxiv.org/abs/2609.01725)|null|
+|2026-08-27|SSMB: Self-Supervised Local Feature Detection under Motion Blur|Zhenjun Zhao et.al.|[2608.27181](https://arxiv.org/abs/2608.27181)|null|
 |2026-08-24|Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments|Antoni Valls et.al.|[2608.23290](https://arxiv.org/abs/2608.23290)|null|
 |2026-08-24|Misanthrope: A Privacy-Preserving Keypoint Detector|Francesco Vultaggio et.al.|[2608.23012](https://arxiv.org/abs/2608.23012)|null|
 |2026-08-24|DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation|Yujie Qi et.al.|[2608.22885](https://arxiv.org/abs/2608.22885)|null|
@@ -58,7 +58,7 @@
 |2026-06-06|Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images|Xianghui Ze et.al.|[2606.08205](https://arxiv.org/abs/2606.08205)|null|
 |2026-06-04|Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations|Kairi Masuda et.al.|[2606.06771](https://arxiv.org/abs/2606.06771)|null|
 |2026-06-03|Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives|Ayumi Umemura et.al.|[2606.04788](https://arxiv.org/abs/2606.04788)|null|
-|2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|**[link](https://github.com/TwSphinx54/SAMatcher)**|
+|2026-06-02|SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching|Xu Pan et.al.|[2606.03406](https://arxiv.org/abs/2606.03406)|[link](https://github.com/TwSphinx54/SAMatcher)|
 |2026-06-01|Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation|Zhenyu Li et.al.|[2606.01892](https://arxiv.org/abs/2606.01892)|null|
 |2026-06-01|FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds|Rai Hisada et.al.|[2606.01734](https://arxiv.org/abs/2606.01734)|null|
 |2026-05-31|One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition|Timur Ismagilov et.al.|[2606.00936](https://arxiv.org/abs/2606.00936)|null|
@@ -159,7 +159,7 @@
 |2026-03-06|EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition|Adam D. Hines et.al.|[2603.05807](https://arxiv.org/abs/2603.05807)|null|
 |2026-03-06|Visual Words Meet BM25: Sparse Auto-Encoder Visual Word Scoring for Image Retrieval|Donghoon Han et.al.|[2603.05781](https://arxiv.org/abs/2603.05781)|null|
 |2026-03-05|Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM|Javier Laserna et.al.|[2603.05397](https://arxiv.org/abs/2603.05397)|null|
-|2026-03-04|PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing|Rohan Mahadev et.al.|[2603.04598](https://arxiv.org/abs/2603.04598)|**[link](https://github.com/pinterest/pinpoint-dataset)**|
+|2026-03-04|PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing|Rohan Mahadev et.al.|[2603.04598](https://arxiv.org/abs/2603.04598)|[link](https://github.com/pinterest/pinpoint-dataset)|
 |2026-03-04|SSR: A Generic Framework for Text-Aided Map Compression for Localization|Mohammad Omama et.al.|[2603.04272](https://arxiv.org/abs/2603.04272)|null|
 |2026-03-04|Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark|Martin Kvisvik Larsen et.al.|[2603.04056](https://arxiv.org/abs/2603.04056)|null|
 |2026-02-26|VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale|Sven Elflein et.al.|[2602.23361](https://arxiv.org/abs/2602.23361)|null|

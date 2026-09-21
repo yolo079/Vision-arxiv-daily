@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](https://arxiv.org/abs/2609.22041)|null|
-|**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Camilo Carvajal Reyes et.al.|[2609.21989](https://arxiv.org/abs/2609.21989)|null|
-|**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[2609.21982](https://arxiv.org/abs/2609.21982)|null|
-|**2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Pinxin Liu et.al.|[2609.21576](https://arxiv.org/abs/2609.21576)|null|
-|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](https://arxiv.org/abs/2609.21449)|null|
-|**2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Yixuan Feng et.al.|[2609.21448](https://arxiv.org/abs/2609.21448)|null|
-|**2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Ayun Lee et.al.|[2609.21316](https://arxiv.org/abs/2609.21316)|null|
-|**2026-09-18**|**Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies**|Zhipeng Tang et.al.|[2609.21216](https://arxiv.org/abs/2609.21216)|null|
-|**2026-09-17**|**MarsFM: Shading-Regularized Flow Matching for Martian Relief Estimation**|Marius F. R. Juston et.al.|[2609.21095](https://arxiv.org/abs/2609.21095)|null|
-|**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Xin Chen et.al.|[2609.20776](https://arxiv.org/abs/2609.20776)|null|
+|2026-09-18| $λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource|Yufeng Wang et.al.|[2609.22041](https://arxiv.org/abs/2609.22041)|null|
+|2026-09-18|Time series generation with spectrally aligned latent flow matching|Camilo Carvajal Reyes et.al.|[2609.21989](https://arxiv.org/abs/2609.21989)|null|
+|2026-09-18|CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching|Shuqi Zhao et.al.|[2609.21982](https://arxiv.org/abs/2609.21982)|null|
+|2026-09-18|GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression|Pinxin Liu et.al.|[2609.21576](https://arxiv.org/abs/2609.21576)|null|
+|2026-09-18|ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling|Xuancheng Zhang et.al.|[2609.21449](https://arxiv.org/abs/2609.21449)|null|
+|2026-09-18|Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model|Yixuan Feng et.al.|[2609.21448](https://arxiv.org/abs/2609.21448)|null|
+|2026-09-18|NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route|Ayun Lee et.al.|[2609.21316](https://arxiv.org/abs/2609.21316)|null|
+|2026-09-18|Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies|Zhipeng Tang et.al.|[2609.21216](https://arxiv.org/abs/2609.21216)|null|
+|2026-09-17|MarsFM: Shading-Regularized Flow Matching for Martian Relief Estimation|Marius F. R. Juston et.al.|[2609.21095](https://arxiv.org/abs/2609.21095)|null|
+|2026-09-17|GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies|Xin Chen et.al.|[2609.20776](https://arxiv.org/abs/2609.20776)|null|
 |2026-09-10|Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport|Luyi Jia et.al.|[2609.11842](https://arxiv.org/abs/2609.11842)|null|
 |2026-09-10|ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies|Jianming Ma et.al.|[2609.11697](https://arxiv.org/abs/2609.11697)|null|
 |2026-09-10|UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound|Weiying Chen et.al.|[2609.11506](https://arxiv.org/abs/2609.11506)|null|
@@ -46,11 +46,11 @@
 |2026-08-07|Limit Points of Reflow with Minibatch Optimal Transport|Antonin Chambolle et.al.|[2608.07042](https://arxiv.org/abs/2608.07042)|null|
 |2026-07-30|APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems|Shentong Mo et.al.|[2607.28553](https://arxiv.org/abs/2607.28553)|null|
 |2026-07-30|Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework|Tianen Shen et.al.|[2607.28035](https://arxiv.org/abs/2607.28035)|null|
-|2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|**[link](https://github.com/rrrrrrzy/fm-geometry)**|
+|2026-07-30|The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty|Ziyang Rao et.al.|[2607.27933](https://arxiv.org/abs/2607.27933)|[link](https://github.com/rrrrrrzy/fm-geometry)|
 |2026-07-30|RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy|Zhengyang Yan et.al.|[2607.27782](https://arxiv.org/abs/2607.27782)|null|
 |2026-07-30|RIPPLE: Generating Multi-Channel Phase, Not Recovering It|Jaehyuk Lee et.al.|[2607.27775](https://arxiv.org/abs/2607.27775)|null|
 |2026-07-30|ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction|Dexuan Ding et.al.|[2607.27537](https://arxiv.org/abs/2607.27537)|null|
-|2026-07-29|Latent-Kernel Discrete Flow Maps for Few-Step Generation|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|**[link](https://github.com/mansoor181/lkf)**|
+|2026-07-29|Latent-Kernel Discrete Flow Maps for Few-Step Generation|Mansoor Ahmed et.al.|[2607.27529](https://arxiv.org/abs/2607.27529)|[link](https://github.com/mansoor181/lkf)|
 |2026-07-29|Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling|Zhefeng Huang et.al.|[2607.27511](https://arxiv.org/abs/2607.27511)|null|
 |2026-07-29|SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups|Yikun Bai et.al.|[2607.27431](https://arxiv.org/abs/2607.27431)|null|
 |2026-07-29|DLAM: Distributional Latent Actions with Temporal Constraints|Zuojin Tang et.al.|[2607.27138](https://arxiv.org/abs/2607.27138)|null|
@@ -244,7 +244,7 @@
 |2026-04-20|OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation|Kuanning Wang et.al.|[2604.17876](https://arxiv.org/abs/2604.17876)|null|
 |2026-04-20|OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL|Haoxiang Jie et.al.|[2604.17706](https://arxiv.org/abs/2604.17706)|null|
 |2026-04-20|Grokking of Diffusion Models: Case Study on Modular Addition|Joon Hyeok Kim et.al.|[2604.17673](https://arxiv.org/abs/2604.17673)|null|
-|2026-04-19|Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models|Jeongjae Lee et.al.|[2604.17415](https://arxiv.org/abs/2604.17415)|**[link](https://github.com/jaylee2000/rsm)**|
+|2026-04-19|Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models|Jeongjae Lee et.al.|[2604.17415](https://arxiv.org/abs/2604.17415)|[link](https://github.com/jaylee2000/rsm)|
 |2026-04-19|EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents|Yu Zhang et.al.|[2604.17211](https://arxiv.org/abs/2604.17211)|null|
 |2026-04-18|FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation|Yilong Dai et.al.|[2604.17149](https://arxiv.org/abs/2604.17149)|null|
 |2026-04-18|Anonymization, Not Elimination: Utility-Preserved Speech Anonymization|Yunchong Xiao et.al.|[2604.17000](https://arxiv.org/abs/2604.17000)|null|
