@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.09.26
+> Updated on 2026.09.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](https://arxiv.org/abs/2609.30127)|null|
-|**2026-09-24**|**M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis**|Yang Zhou et.al.|[2609.30056](https://arxiv.org/abs/2609.30056)|null|
-|**2026-09-24**|**Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation**|Haojin Li et.al.|[2609.29912](https://arxiv.org/abs/2609.29912)|null|
-|**2026-09-24**|**MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots**|Lennart Clasmeier et.al.|[2609.29908](https://arxiv.org/abs/2609.29908)|null|
-|**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](https://arxiv.org/abs/2609.29768)|null|
-|**2026-09-24**|**Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection**|Anbai Jiang et.al.|[2609.29746](https://arxiv.org/abs/2609.29746)|null|
-|**2026-09-24**|**Neural Transport Nested Sampling**|David Yallup et.al.|[2609.29413](https://arxiv.org/abs/2609.29413)|null|
-|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Riccardo Andrea Izzo et.al.|[2609.29382](https://arxiv.org/abs/2609.29382)|null|
-|**2026-09-24**|**Off-manifold robustness in synthesizer inversion with joint distribution flow matching**|Ben Hayes et.al.|[2609.29320](https://arxiv.org/abs/2609.29320)|null|
-|**2026-09-24**|**X-Rec Technical Report**|Chenglei Shen et.al.|[2609.29180](https://arxiv.org/abs/2609.29180)|null|
+|2026-09-24|Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow|S. Talha Bukhari et.al.|[2609.30127](https://arxiv.org/abs/2609.30127)|null|
+|2026-09-24|M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis|Yang Zhou et.al.|[2609.30056](https://arxiv.org/abs/2609.30056)|null|
+|2026-09-24|Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation|Haojin Li et.al.|[2609.29912](https://arxiv.org/abs/2609.29912)|null|
+|2026-09-24|MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots|Lennart Clasmeier et.al.|[2609.29908](https://arxiv.org/abs/2609.29908)|null|
+|2026-09-24|Depth through recurrence: Looped transformers for flow-matching TTS|Jiabao Ai et.al.|[2609.29768](https://arxiv.org/abs/2609.29768)|null|
+|2026-09-24|Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection|Anbai Jiang et.al.|[2609.29746](https://arxiv.org/abs/2609.29746)|null|
+|2026-09-24|Neural Transport Nested Sampling|David Yallup et.al.|[2609.29413](https://arxiv.org/abs/2609.29413)|null|
+|2026-09-24|Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs|Riccardo Andrea Izzo et.al.|[2609.29382](https://arxiv.org/abs/2609.29382)|null|
+|2026-09-24|Off-manifold robustness in synthesizer inversion with joint distribution flow matching|Ben Hayes et.al.|[2609.29320](https://arxiv.org/abs/2609.29320)|null|
+|2026-09-24|X-Rec Technical Report|Chenglei Shen et.al.|[2609.29180](https://arxiv.org/abs/2609.29180)|null|
 |2026-09-18| $λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource|Yufeng Wang et.al.|[2609.22041](https://arxiv.org/abs/2609.22041)|null|
 |2026-09-18|Time series generation with spectrally aligned latent flow matching|Camilo Carvajal Reyes et.al.|[2609.21989](https://arxiv.org/abs/2609.21989)|null|
 |2026-09-18|CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching|Shuqi Zhao et.al.|[2609.21982](https://arxiv.org/abs/2609.21982)|null|
