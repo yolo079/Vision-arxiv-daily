@@ -1,9 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.09.28
+> Updated on 2026.10.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](https://arxiv.org/abs/2609.40362)|null|
+|**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zikai Liao et.al.|[2609.40317](https://arxiv.org/abs/2609.40317)|null|
+|**2026-09-30**|**PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors**|Seungeun Rho et.al.|[2609.40165](https://arxiv.org/abs/2609.40165)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](https://arxiv.org/abs/2609.40153)|null|
+|**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087](https://arxiv.org/abs/2609.40087)|null|
+|**2026-09-30**|**Fenchel Tilting: Weighted Correction for Efficient Finetuning of Generative Models**|Maksim Bobrin et.al.|[2609.40030](https://arxiv.org/abs/2609.40030)|null|
+|**2026-09-30**|**Multi-Link Safety Filtering for VLA Policies Around Moving Hazards**|Yatharth Agarwal et.al.|[2609.40007](https://arxiv.org/abs/2609.40007)|null|
+|**2026-09-30**|**Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation**|Di Wu et.al.|[2609.39822](https://arxiv.org/abs/2609.39822)|null|
+|**2026-09-30**|**Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction**|Thomas Egg et.al.|[2609.39773](https://arxiv.org/abs/2609.39773)|null|
+|**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Yizhao Li et.al.|[2609.39575](https://arxiv.org/abs/2609.39575)|null|
 |2026-09-24|Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow|S. Talha Bukhari et.al.|[2609.30127](https://arxiv.org/abs/2609.30127)|null|
 |2026-09-24|M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis|Yang Zhou et.al.|[2609.30056](https://arxiv.org/abs/2609.30056)|null|
 |2026-09-24|Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation|Haojin Li et.al.|[2609.29912](https://arxiv.org/abs/2609.29912)|null|

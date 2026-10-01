@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.09.28
+> Updated on 2026.10.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](https://arxiv.org/abs/2609.40358)|null|
+|**2026-09-30**|**LOCI: Spatial Linear Memory for Streaming World Models**|Ji Xia et.al.|[2609.40222](https://arxiv.org/abs/2609.40222)|**[link](https://github.com/xiaji2021/LOCI)**|
+|**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177](https://arxiv.org/abs/2609.40177)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](https://arxiv.org/abs/2609.40153)|null|
+|**2026-09-30**|**VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning**|Zehua Ma et.al.|[2609.40129](https://arxiv.org/abs/2609.40129)|null|
+|**2026-09-30**|**DashVMC: Real-Time Discrete World Model Control in Geometry Dash**|Florent Tariolle et.al.|[2609.40003](https://arxiv.org/abs/2609.40003)|null|
+|**2026-09-30**|**Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models**|Kowndinya Boyalakuntla et.al.|[2609.39751](https://arxiv.org/abs/2609.39751)|null|
+|**2026-09-30**|**OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation**|Oana Madalina Fron et.al.|[2609.39727](https://arxiv.org/abs/2609.39727)|null|
+|**2026-09-30**|**RoboCoach: World Models as Active Coaches for Compositional Robot Skills**|Jiajun Liu et.al.|[2609.39685](https://arxiv.org/abs/2609.39685)|null|
+|**2026-09-30**|**Why Do Conventional World Models Fail to Learn Cellular Automata?**|Shaoyang Guo et.al.|[2609.39604](https://arxiv.org/abs/2609.39604)|null|
 |2026-09-24|AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control|Jiabin Qiu et.al.|[2609.30264](https://arxiv.org/abs/2609.30264)|null|
 |2026-09-24|Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage|Yuncong Yang et.al.|[2609.30214](https://arxiv.org/abs/2609.30214)|null|
 |2026-09-24|Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think|Xvyuan Liu et.al.|[2609.30036](https://arxiv.org/abs/2609.30036)|null|
