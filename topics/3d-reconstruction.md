@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.10.01
+> Updated on 2026.10.05
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -10,7 +10,7 @@
 |2026-09-24|Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI|Xiaohan Yuan et.al.|[2609.29825](https://arxiv.org/abs/2609.29825)|null|
 |2026-09-24|Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures|Juan De Dios Alfaro et.al.|[2609.29644](https://arxiv.org/abs/2609.29644)|null|
 |2026-09-24|WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model|Jerrin Bright et.al.|[2609.29106](https://arxiv.org/abs/2609.29106)|null|
-|2026-09-23|PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting|Sungjae Choi et.al.|[2609.28645](https://arxiv.org/abs/2609.28645)|**[link](https://github.com/BeCow5X5/PePESeg3D)**|
+|2026-09-23|PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting|Sungjae Choi et.al.|[2609.28645](https://arxiv.org/abs/2609.28645)|[link](https://github.com/BeCow5X5/PePESeg3D)|
 |2026-09-23|Formal weakly enriched category theory|Giuseppe Leoncini et.al.|[2609.28435](https://arxiv.org/abs/2609.28435)|null|
 |2026-09-23|Event-driven signal reconstruction through neuromorphic compressive sensing|Zeru Fang et.al.|[2609.28063](https://arxiv.org/abs/2609.28063)|null|
 |2026-09-23|AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models|Bryan G. Pantoja-Rosero et.al.|[2609.28061](https://arxiv.org/abs/2609.28061)|null|
@@ -181,7 +181,7 @@
 |2026-05-03|DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity|Lilika Makabe et.al.|[2605.01852](https://arxiv.org/abs/2605.01852)|null|
 |2026-05-03|Profile-Specific 3DMM Regression from a Single Lateral Face Image|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
 |2026-05-02|CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
-|2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|null|
+|2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|**[link](https://github.com/Vinayak-VG/GenWildSplat)**|
 |2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|[link](https://github.com/phyco-video/phyco-video.github.io)|
 |2026-04-30|3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases|Chialoon Cheng et.al.|[2604.28064](https://arxiv.org/abs/2604.28064)|null|
 |2026-04-30|Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering|Davide Di Nucci et.al.|[2604.27590](https://arxiv.org/abs/2604.27590)|null|
