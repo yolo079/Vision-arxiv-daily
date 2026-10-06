@@ -23,8 +23,8 @@ title: 3D Localization
     <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">136</span></a>
     <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">526</span></a>
     <a class="sidebar-link active" href="3d-localization.html">3D Localization <span class="sidebar-count">53</span></a>
-    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">280</span></a>
-    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">292</span></a>
+    <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">290</span></a>
+    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">302</span></a>
   </nav>
   <section class="reader-list">
     <div class="list-header"><h2>3D Localization</h2><span>53 papers</span></div>

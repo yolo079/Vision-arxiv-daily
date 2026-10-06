@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.10.05
+> Updated on 2026.10.06
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**TAPDreamer: Transferable Adversarial Patches for World Action Models**|Xuanyu Lu et.al.|[2610.06814](https://arxiv.org/abs/2610.06814)|null|
+|**2026-10-05**|**H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning**|Wancong Zhang et.al.|[2610.06805](https://arxiv.org/abs/2610.06805)|null|
+|**2026-10-05**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](https://arxiv.org/abs/2610.06687)|null|
+|**2026-10-05**|**Considering Context: When World Models Need Context Encoders**|Oleg Smirnov et.al.|[2610.06651](https://arxiv.org/abs/2610.06651)|null|
+|**2026-10-05**|**Long-Horizon Textual World Modeling through Structured Reasoning**|Fangxin Wang et.al.|[2610.06637](https://arxiv.org/abs/2610.06637)|null|
+|**2026-10-05**|**SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models**|Xiaodong Wang et.al.|[2610.06598](https://arxiv.org/abs/2610.06598)|null|
+|**2026-10-05**|**Mind the Execution Gap: Action-Semantic Mismatch in World-Model Control**|Shengtao Wen et.al.|[2610.06582](https://arxiv.org/abs/2610.06582)|null|
+|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|null|
+|**2026-10-05**|**Generative World Models Enable Predictive Control of Laser Melt Pool Dynamics**|Yiyang Yan et.al.|[2610.06250](https://arxiv.org/abs/2610.06250)|null|
+|**2026-10-05**|**From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation**|Quanyu Long et.al.|[2610.06100](https://arxiv.org/abs/2610.06100)|null|
 |2026-09-30|Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model|Liming Lu et.al.|[2609.40358](https://arxiv.org/abs/2609.40358)|null|
 |2026-09-30|LOCI: Spatial Linear Memory for Streaming World Models|Ji Xia et.al.|[2609.40222](https://arxiv.org/abs/2609.40222)|[link](https://github.com/xiaji2021/LOCI)|
 |2026-09-30|Social-WM: Safety-Aware Latent World Models for Robot Social Navigation|Zhihao Zheng et.al.|[2609.40177](https://arxiv.org/abs/2609.40177)|null|
