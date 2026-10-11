@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.10.06
+> Updated on 2026.10.11
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](https://arxiv.org/abs/2610.12468)|null|
+|**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464](https://arxiv.org/abs/2610.12464)|null|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](https://arxiv.org/abs/2610.12461)|null|
+|**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](https://arxiv.org/abs/2610.12459)|null|
+|**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](https://arxiv.org/abs/2610.12417)|null|
+|**2026-10-08**|**WorldCast: Distributed Multiplayer World Models**|Ziyang Ye et.al.|[2610.12412](https://arxiv.org/abs/2610.12412)|null|
+|**2026-10-08**|**LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC**|Shashank Hegde et.al.|[2610.12407](https://arxiv.org/abs/2610.12407)|null|
+|**2026-10-08**|**WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation**|Jing He et.al.|[2610.12382](https://arxiv.org/abs/2610.12382)|null|
+|**2026-10-08**|**LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild**|Linkai Liu et.al.|[2610.12368](https://arxiv.org/abs/2610.12368)|null|
+|**2026-10-08**|**RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning**|Ruixiang Ouyang et.al.|[2610.12333](https://arxiv.org/abs/2610.12333)|null|
 |**2026-10-05**|**TAPDreamer: Transferable Adversarial Patches for World Action Models**|Xuanyu Lu et.al.|[2610.06814](https://arxiv.org/abs/2610.06814)|null|
 |**2026-10-05**|**H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning**|Wancong Zhang et.al.|[2610.06805](https://arxiv.org/abs/2610.06805)|null|
 |**2026-10-05**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](https://arxiv.org/abs/2610.06687)|null|
