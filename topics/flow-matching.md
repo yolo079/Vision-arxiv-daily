@@ -1,29 +1,29 @@
 # Flow Matching
 
-> Updated on 2026.10.11
+> Updated on 2026.10.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](https://arxiv.org/abs/2610.12449)|null|
-|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](https://arxiv.org/abs/2610.12440)|null|
-|**2026-10-08**|**LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC**|Shashank Hegde et.al.|[2610.12407](https://arxiv.org/abs/2610.12407)|null|
-|**2026-10-08**|**Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance**|Amirhossein Zamani et.al.|[2610.12316](https://arxiv.org/abs/2610.12316)|**[link](https://github.com/AHHHZ975/Controllable-Motion-Exaggeration)**|
-|**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
-|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Yuchen Zhou et.al.|[2610.12231](https://arxiv.org/abs/2610.12231)|null|
-|**2026-10-08**|**Few-Step Generation via Data-Space Iteration**|Shanchuan Lin et.al.|[2610.12102](https://arxiv.org/abs/2610.12102)|null|
-|**2026-10-08**|**Dino Forcing Flow Models: Do not denoise what you can predict**|Arijit Ghosh et.al.|[2610.11751](https://arxiv.org/abs/2610.11751)|null|
-|**2026-10-08**|**Learning Language-Conditioned Traversability Representations for Adaptive Visual Navigation**|Senda Chen et.al.|[2610.11622](https://arxiv.org/abs/2610.11622)|null|
-|**2026-10-08**|**$C_4$ -Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation**|Dawid Lipinski et.al.|[2610.11549](https://arxiv.org/abs/2610.11549)|null|
-|**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Yassine Ouali et.al.|[2610.06666](https://arxiv.org/abs/2610.06666)|null|
-|**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Baiqin Wang et.al.|[2610.06658](https://arxiv.org/abs/2610.06658)|null|
-|**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](https://arxiv.org/abs/2610.06632)|null|
-|**2026-10-05**|**Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli**|Cameron Schofield et.al.|[2610.06520](https://arxiv.org/abs/2610.06520)|null|
-|**2026-10-05**|**Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior**|Eliot Walt et.al.|[2610.06509](https://arxiv.org/abs/2610.06509)|null|
-|**2026-10-05**|**Latent Flow Matching for Molecular Graph Generation**|Mathis Goupillon et.al.|[2610.06468](https://arxiv.org/abs/2610.06468)|null|
-|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|null|
-|**2026-10-05**|**OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents**|Ding Yang et.al.|[2610.06259](https://arxiv.org/abs/2610.06259)|null|
-|**2026-10-05**|**AnchorGen: Anchored Optimization for Customizable Generative 3D Design**|Hantao Zhang et.al.|[2610.06135](https://arxiv.org/abs/2610.06135)|null|
-|**2026-10-05**|**Adaptive Mean Flow for Responsive Closed-Loop Robot Control**|Aksel Vaaler et.al.|[2610.06089](https://arxiv.org/abs/2610.06089)|null|
+|2026-10-08|Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems|Anna Zimmel et.al.|[2610.12449](https://arxiv.org/abs/2610.12449)|null|
+|2026-10-08|Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation|Dechen Gao et.al.|[2610.12440](https://arxiv.org/abs/2610.12440)|null|
+|2026-10-08|LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC|Shashank Hegde et.al.|[2610.12407](https://arxiv.org/abs/2610.12407)|null|
+|2026-10-08|Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance|Amirhossein Zamani et.al.|[2610.12316](https://arxiv.org/abs/2610.12316)|[link](https://github.com/AHHHZ975/Controllable-Motion-Exaggeration)|
+|2026-10-08|La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
+|2026-10-08|Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning|Yuchen Zhou et.al.|[2610.12231](https://arxiv.org/abs/2610.12231)|null|
+|2026-10-08|Few-Step Generation via Data-Space Iteration|Shanchuan Lin et.al.|[2610.12102](https://arxiv.org/abs/2610.12102)|null|
+|2026-10-08|Dino Forcing Flow Models: Do not denoise what you can predict|Arijit Ghosh et.al.|[2610.11751](https://arxiv.org/abs/2610.11751)|null|
+|2026-10-08|Learning Language-Conditioned Traversability Representations for Adaptive Visual Navigation|Senda Chen et.al.|[2610.11622](https://arxiv.org/abs/2610.11622)|null|
+|2026-10-08| $C_4$ -Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation|Dawid Lipinski et.al.|[2610.11549](https://arxiv.org/abs/2610.11549)|null|
+|2026-10-05|What Matters for Latent Reasoning with Flow Matching|Yassine Ouali et.al.|[2610.06666](https://arxiv.org/abs/2610.06666)|null|
+|2026-10-05|Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation|Baiqin Wang et.al.|[2610.06658](https://arxiv.org/abs/2610.06658)|null|
+|2026-10-05|AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization|Yingda Shen et.al.|[2610.06632](https://arxiv.org/abs/2610.06632)|null|
+|2026-10-05|Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli|Cameron Schofield et.al.|[2610.06520](https://arxiv.org/abs/2610.06520)|null|
+|2026-10-05|Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior|Eliot Walt et.al.|[2610.06509](https://arxiv.org/abs/2610.06509)|null|
+|2026-10-05|Latent Flow Matching for Molecular Graph Generation|Mathis Goupillon et.al.|[2610.06468](https://arxiv.org/abs/2610.06468)|null|
+|2026-10-05|KineWorld: Action-Induced Transport Fields for Embodied World Modeling|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|null|
+|2026-10-05|OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents|Ding Yang et.al.|[2610.06259](https://arxiv.org/abs/2610.06259)|null|
+|2026-10-05|AnchorGen: Anchored Optimization for Customizable Generative 3D Design|Hantao Zhang et.al.|[2610.06135](https://arxiv.org/abs/2610.06135)|null|
+|2026-10-05|Adaptive Mean Flow for Responsive Closed-Loop Robot Control|Aksel Vaaler et.al.|[2610.06089](https://arxiv.org/abs/2610.06089)|null|
 |2026-09-30|Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces|Hongyuan Tao et.al.|[2609.40362](https://arxiv.org/abs/2609.40362)|null|
 |2026-09-30|GLARE: Generating Listening Heads with Appropriate Reactions|Zikai Liao et.al.|[2609.40317](https://arxiv.org/abs/2609.40317)|null|
 |2026-09-30|PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors|Seungeun Rho et.al.|[2609.40165](https://arxiv.org/abs/2609.40165)|null|

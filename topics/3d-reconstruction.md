@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.10.11
+> Updated on 2026.10.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -181,7 +181,7 @@
 |2026-05-03|DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity|Lilika Makabe et.al.|[2605.01852](https://arxiv.org/abs/2605.01852)|null|
 |2026-05-03|Profile-Specific 3DMM Regression from a Single Lateral Face Image|Taiki Kanaya et.al.|[2605.01746](https://arxiv.org/abs/2605.01746)|null|
 |2026-05-02|CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization|Ghadi Nehme et.al.|[2605.01171](https://arxiv.org/abs/2605.01171)|null|
-|2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|**[link](https://github.com/Vinayak-VG/GenWildSplat)**|
+|2026-04-30|Generalizable Sparse-View 3D Reconstruction from Unconstrained Images|Vinayak Gupta et.al.|[2604.28193](https://arxiv.org/abs/2604.28193)|[link](https://github.com/Vinayak-VG/GenWildSplat)|
 |2026-04-30|PhyCo: Learning Controllable Physical Priors for Generative Motion|Sriram Narayanan et.al.|[2604.28169](https://arxiv.org/abs/2604.28169)|[link](https://github.com/phyco-video/phyco-video.github.io)|
 |2026-04-30|3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases|Chialoon Cheng et.al.|[2604.28064](https://arxiv.org/abs/2604.28064)|null|
 |2026-04-30|Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering|Davide Di Nucci et.al.|[2604.27590](https://arxiv.org/abs/2604.27590)|null|
@@ -211,8 +211,8 @@
 |2026-04-20|Score-Based Matching with Target Guidance for Cryo-EM Denoising|Xiaoqi Wu et.al.|[2604.17734](https://arxiv.org/abs/2604.17734)|null|
 |2026-04-19|HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery|Alexander Saikia et.al.|[2604.17446](https://arxiv.org/abs/2604.17446)|null|
 |2026-04-19|A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models|Yifei Yan et.al.|[2604.17258](https://arxiv.org/abs/2604.17258)|null|
-|2026-04-17|PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems|Weijie Wang et.al.|[2604.16540](https://arxiv.org/abs/2604.16540)|null|
-|2026-04-17|Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction|Haato Watanabe et.al.|[2604.15941](https://arxiv.org/abs/2604.15941)|null|
+|2026-04-17|PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems|Weijie Wang et.al.|[2604.16540](https://arxiv.org/abs/2604.16540)|**[link](https://github.com/twowwj/PoInit-of-View)**|
+|2026-04-17|Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction|Haato Watanabe et.al.|[2604.15941](https://arxiv.org/abs/2604.15941)|**[link](https://github.com/haato-w/neural-gabor-splatting)**|
 |2026-04-17|Splats in Splats++: Robust and Generalizable 3D Gaussian Splatting Steganography|Yijia Guo et.al.|[2604.15862](https://arxiv.org/abs/2604.15862)|null|
 |2026-04-16|CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture|Giacomo Franchini et.al.|[2604.15052](https://arxiv.org/abs/2604.15052)|null|
 |2026-04-16|M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection|Haotian Wu et.al.|[2604.14574](https://arxiv.org/abs/2604.14574)|null|
@@ -229,8 +229,8 @@
 |2026-04-09|Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction|Tao Xie et.al.|[2604.08542](https://arxiv.org/abs/2604.08542)|null|
 |2026-04-09|Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning|Emanuele Balloni et.al.|[2604.08068](https://arxiv.org/abs/2604.08068)|null|
 |2026-04-09|Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging|Ido Harlev et.al.|[2604.07890](https://arxiv.org/abs/2604.07890)|null|
-|2026-04-08|Fast Spatial Memory with Elastic Test-Time Training|Ziqiao Ma et.al.|[2604.07350](https://arxiv.org/abs/2604.07350)|null|
-|2026-04-08|Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training|Changkun Liu et.al.|[2604.07279](https://arxiv.org/abs/2604.07279)|null|
+|2026-04-08|Fast Spatial Memory with Elastic Test-Time Training|Ziqiao Ma et.al.|[2604.07350](https://arxiv.org/abs/2604.07350)|**[link](https://github.com/Mars-tin/fast-spatial-mem)**|
+|2026-04-08|Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training|Changkun Liu et.al.|[2604.07279](https://arxiv.org/abs/2604.07279)|**[link](https://github.com/lck666666/Mem3R)**|
 |2026-04-08|Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning|Jiahua Chen et.al.|[2604.06725](https://arxiv.org/abs/2604.06725)|null|
 |2026-04-07|Human Interaction-Aware 3D Reconstruction from a Single Image|Gwanghyun Kim et.al.|[2604.05436](https://arxiv.org/abs/2604.05436)|null|
 |2026-04-07|3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models|Jae Joong Lee et.al.|[2604.05366](https://arxiv.org/abs/2604.05366)|null|

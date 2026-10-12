@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.10.11
+> Updated on 2026.10.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](https://arxiv.org/abs/2610.11967)|null|
-|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](https://arxiv.org/abs/2610.11049)|null|
-|**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](https://arxiv.org/abs/2610.09631)|null|
-|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](https://arxiv.org/abs/2610.03717)|null|
-|**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](https://arxiv.org/abs/2610.01098)|null|
-|**2026-09-28**|**Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge**|Ziqi Zhang et.al.|[2609.35904](https://arxiv.org/abs/2609.35904)|null|
-|**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](https://arxiv.org/abs/2609.34702)|null|
-|**2026-09-23**|**Geometry-Conditioned Visual Place Recognition in Natural Environments**|Walter Nedov et.al.|[2609.27370](https://arxiv.org/abs/2609.27370)|null|
-|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363](https://arxiv.org/abs/2609.27363)|null|
-|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](https://arxiv.org/abs/2609.26766)|null|
+|2026-10-08|Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps|Panagiotis Kiousis et.al.|[2610.11967](https://arxiv.org/abs/2610.11967)|null|
+|2026-10-08|SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image|Jiarui Zeng et.al.|[2610.11049](https://arxiv.org/abs/2610.11049)|null|
+|2026-10-07|Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition*|Václav Truhlařík et.al.|[2610.09631](https://arxiv.org/abs/2610.09631)|null|
+|2026-10-02|Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis|Keerthi Kaashyap et.al.|[2610.03717](https://arxiv.org/abs/2610.03717)|null|
+|2026-10-01|MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images|Hanyuan Xiao et.al.|[2610.01098](https://arxiv.org/abs/2610.01098)|null|
+|2026-09-28|Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge|Ziqi Zhang et.al.|[2609.35904](https://arxiv.org/abs/2609.35904)|null|
+|2026-09-28|MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation|Hoyun Kim et.al.|[2609.34702](https://arxiv.org/abs/2609.34702)|null|
+|2026-09-23|Geometry-Conditioned Visual Place Recognition in Natural Environments|Walter Nedov et.al.|[2609.27370](https://arxiv.org/abs/2609.27370)|null|
+|2026-09-23|From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation|Wentao Zhao et.al.|[2609.27363](https://arxiv.org/abs/2609.27363)|null|
+|2026-09-22|TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation|Yanshuo Bai et.al.|[2609.26766](https://arxiv.org/abs/2609.26766)|null|
 |2026-09-22|Calibrating Retrieval Geometry: Reliability-Guided Training-Free Aggregation for Visual Place Recognition|Xin Li et.al.|[2609.25937](https://arxiv.org/abs/2609.25937)|null|
 |2026-09-22|NaCR: Visual Localization via NeRF-aided Camera Ray Regression|Yesheng Zhang et.al.|[2609.25907](https://arxiv.org/abs/2609.25907)|null|
 |2026-09-21|DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding|Xiaoqiang Lu et.al.|[2609.24409](https://arxiv.org/abs/2609.24409)|null|
@@ -368,8 +368,8 @@
 |2025-09-23|Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|
 |2025-09-22|OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
 |2025-09-21|Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|null|
-|2025-09-25|Efficient Multimodal Dataset Distillation via Generative Models|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
-|2025-09-18|SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models|Thong Nguyen et.al.|[2509.15432](http://arxiv.org/abs/2509.15432)|null|
+|2025-09-25|Efficient Multimodal Dataset Distillation via Generative Models|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|**[link](https://github.com/ichbill/EDGE)**|
+|2025-09-18|SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models|Thong Nguyen et.al.|[2509.15432](http://arxiv.org/abs/2509.15432)|**[link](https://github.com/thongnt99/serval)**|
 |2025-09-18|PRISM: Product Retrieval In Shopping Carts using Hybrid Matching|Arda Kabadayi et.al.|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
 |2025-09-18|Chain-of-Thought Re-ranking for Image Retrieval Tasks|Shangrong Wu et.al.|[2509.14746](http://arxiv.org/abs/2509.14746)|null|
 |2025-09-18|DiffVL: Diffusion-Based Visual Localization on 2D Maps via BEV-Conditioned GPS Denoising|Li Gao et.al.|[2509.14565](http://arxiv.org/abs/2509.14565)|null|
