@@ -1,18 +1,18 @@
 # World Model
 
-> Updated on 2026.10.16
+> Updated on 2026.10.19
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |2026-10-08|DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training|Junyan Li et.al.|[2610.12468](https://arxiv.org/abs/2610.12468)|null|
-|2026-10-08|What 30,000 Hours of Ego-centric Video Does Not Teach|Jiahua Dong et.al.|[2610.12464](https://arxiv.org/abs/2610.12464)|null|
-|2026-10-08|OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs|You-Zhe Xie et.al.|[2610.12461](https://arxiv.org/abs/2610.12461)|null|
-|2026-10-08|WorldGuide: Goal-Directed Video World Model for Procedural Task Execution|Ankan Deria et.al.|[2610.12459](https://arxiv.org/abs/2610.12459)|null|
+|2026-10-08|What 30,000 Hours of Ego-centric Video Does Not Teach|Jiahua Dong et.al.|[2610.12464](https://arxiv.org/abs/2610.12464)|**[link](https://github.com/fidelity-gap/fidelity-gap.github.io)**|
+|2026-10-08|OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs|You-Zhe Xie et.al.|[2610.12461](https://arxiv.org/abs/2610.12461)|**[link](https://github.com/youzhe0305/OuroWorld)**|
+|2026-10-08|WorldGuide: Goal-Directed Video World Model for Procedural Task Execution|Ankan Deria et.al.|[2610.12459](https://arxiv.org/abs/2610.12459)|**[link](https://github.com/mbzuai-oryx/WorldGuide)**|
 |2026-10-08|WOVEN: Weaving Visual World Modeling into Multimodal LLMs|Zheyu Fan et.al.|[2610.12417](https://arxiv.org/abs/2610.12417)|null|
 |2026-10-08|WorldCast: Distributed Multiplayer World Models|Ziyang Ye et.al.|[2610.12412](https://arxiv.org/abs/2610.12412)|null|
 |2026-10-08|LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC|Shashank Hegde et.al.|[2610.12407](https://arxiv.org/abs/2610.12407)|null|
 |2026-10-08|WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation|Jing He et.al.|[2610.12382](https://arxiv.org/abs/2610.12382)|null|
-|2026-10-08|LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild|Linkai Liu et.al.|[2610.12368](https://arxiv.org/abs/2610.12368)|null|
+|2026-10-08|LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild|Linkai Liu et.al.|[2610.12368](https://arxiv.org/abs/2610.12368)|**[link](https://github.com/litenwm/LiteNWM)**|
 |2026-10-08|RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning|Ruixiang Ouyang et.al.|[2610.12333](https://arxiv.org/abs/2610.12333)|null|
 |2026-10-05|TAPDreamer: Transferable Adversarial Patches for World Action Models|Xuanyu Lu et.al.|[2610.06814](https://arxiv.org/abs/2610.06814)|null|
 |2026-10-05|H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning|Wancong Zhang et.al.|[2610.06805](https://arxiv.org/abs/2610.06805)|null|
@@ -21,7 +21,7 @@
 |2026-10-05|Long-Horizon Textual World Modeling through Structured Reasoning|Fangxin Wang et.al.|[2610.06637](https://arxiv.org/abs/2610.06637)|null|
 |2026-10-05|SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models|Xiaodong Wang et.al.|[2610.06598](https://arxiv.org/abs/2610.06598)|null|
 |2026-10-05|Mind the Execution Gap: Action-Semantic Mismatch in World-Model Control|Shengtao Wen et.al.|[2610.06582](https://arxiv.org/abs/2610.06582)|null|
-|2026-10-05|KineWorld: Action-Induced Transport Fields for Embodied World Modeling|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|null|
+|2026-10-05|KineWorld: Action-Induced Transport Fields for Embodied World Modeling|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|**[link](https://github.com/modaxiansheng/KineWorld)**|
 |2026-10-05|Generative World Models Enable Predictive Control of Laser Melt Pool Dynamics|Yiyang Yan et.al.|[2610.06250](https://arxiv.org/abs/2610.06250)|null|
 |2026-10-05|From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation|Quanyu Long et.al.|[2610.06100](https://arxiv.org/abs/2610.06100)|null|
 |2026-09-30|Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model|Liming Lu et.al.|[2609.40358](https://arxiv.org/abs/2609.40358)|null|
@@ -39,7 +39,7 @@
 |2026-09-24|Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think|Xvyuan Liu et.al.|[2609.30036](https://arxiv.org/abs/2609.30036)|null|
 |2026-09-24|Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving|Sheng Liu et.al.|[2609.29178](https://arxiv.org/abs/2609.29178)|null|
 |2026-09-24|Representation World Model: Learning States, Transition and Executable Plans in Representation|Yijun Yuan et.al.|[2609.29171](https://arxiv.org/abs/2609.29171)|null|
-|2026-09-24|DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models|Yohan Choi et.al.|[2609.29092](https://arxiv.org/abs/2609.29092)|null|
+|2026-09-24|DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models|Yohan Choi et.al.|[2609.29092](https://arxiv.org/abs/2609.29092)|**[link](https://github.com/DocyNoah/dawn-parkour)**|
 |2026-09-24|Sim-to-Real Aware End-to-End Learning Environment for Micromobility|Shouma Amano et.al.|[2609.28969](https://arxiv.org/abs/2609.28969)|null|
 |2026-09-24|HelloWorld: Towards Practical Applications of Generative Driving World Models|Fan Lu et.al.|[2609.28931](https://arxiv.org/abs/2609.28931)|null|
 |2026-09-24|Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation|Xuyao Huang et.al.|[2609.28927](https://arxiv.org/abs/2609.28927)|null|
@@ -52,7 +52,7 @@
 |2026-09-10|FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model|Haoran Pei et.al.|[2609.11445](https://arxiv.org/abs/2609.11445)|null|
 |2026-09-10|From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models|Meng Luo et.al.|[2609.11242](https://arxiv.org/abs/2609.11242)|null|
 |2026-09-10|Measuring the Value of World-Model Updates: A Counterfactual Utility Protocol for Continual Adaptation|Anqi Peter Li et.al.|[2609.10954](https://arxiv.org/abs/2609.10954)|null|
-|2026-09-09|Programmable World Model|Zheng-Hui Huang et.al.|[2609.10540](https://arxiv.org/abs/2609.10540)|null|
+|2026-09-09|Programmable World Model|Zheng-Hui Huang et.al.|[2609.10540](https://arxiv.org/abs/2609.10540)|**[link](https://github.com/Sfedfcv/redesigned-pancake)**|
 |2026-09-09|DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation|Nisarga Nilavadi et.al.|[2609.10506](https://arxiv.org/abs/2609.10506)|null|
 |2026-08-28|Video Generative Models as Geometry Learner|Haosen Yang et.al.|[2608.28549](https://arxiv.org/abs/2608.28549)|null|
 |2026-08-28|An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models|Javier Aguilar Martín et.al.|[2608.28541](https://arxiv.org/abs/2608.28541)|null|

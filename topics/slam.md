@@ -1,6 +1,6 @@
 # SLAM
 
-> Updated on 2026.10.16
+> Updated on 2026.10.19
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -15,9 +15,9 @@
 |2026-09-21|Range-Aided SLAM Initialization Exploiting Accurate Heading Information|Isabel Lougheed et.al.|[2609.24846](https://arxiv.org/abs/2609.24846)|null|
 |2026-09-21|SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception|Nikolas R. Sanderson et.al.|[2609.24708](https://arxiv.org/abs/2609.24708)|null|
 |2026-09-15|PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM|Yongqi Mao et.al.|[2609.17387](https://arxiv.org/abs/2609.17387)|null|
-|2026-09-15|Online Geometric Change Detection via Scene Decomposition|David Thorne et.al.|[2609.17302](https://arxiv.org/abs/2609.17302)|**[link](https://github.com/vectr-ucla/geometric_change_detection)**|
+|2026-09-15|Online Geometric Change Detection via Scene Decomposition|David Thorne et.al.|[2609.17302](https://arxiv.org/abs/2609.17302)|[link](https://github.com/vectr-ucla/geometric_change_detection)|
 |2026-09-15|HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM|Mayowa Adebambo et.al.|[2609.17168](https://arxiv.org/abs/2609.17168)|null|
-|2026-09-14|SURE-Map: Self-Correcting Streaming Geometric Foundation Model|Mingkai Liu et.al.|[2609.15795](https://arxiv.org/abs/2609.15795)|**[link](https://github.com/RCL-Robotics/SURE-map)**|
+|2026-09-14|SURE-Map: Self-Correcting Streaming Geometric Foundation Model|Mingkai Liu et.al.|[2609.15795](https://arxiv.org/abs/2609.15795)|[link](https://github.com/RCL-Robotics/SURE-map)|
 |2026-09-14|P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites|Ha Sier et.al.|[2609.15475](https://arxiv.org/abs/2609.15475)|null|
 |2026-09-14|Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric|Effie Daum et.al.|[2609.14936](https://arxiv.org/abs/2609.14936)|null|
 |2026-09-13|SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild|Kumaran Karthik et.al.|[2609.14634](https://arxiv.org/abs/2609.14634)|null|
@@ -33,7 +33,7 @@
 |2026-09-07|LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure|Junze Bao et.al.|[2609.07274](https://arxiv.org/abs/2609.07274)|null|
 |2026-09-05|NSFlow: End-to-End Differentiable Neuro-Symbolic Optical Flow for Visual Odometry|Yicheng Lin et.al.|[2609.06074](https://arxiv.org/abs/2609.06074)|null|
 |2026-09-05|Moment-Matching Probabilistic Data Association for Optimization-Based SLAM|Khoa Nguyen et.al.|[2609.05941](https://arxiv.org/abs/2609.05941)|null|
-|2026-09-04|FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement|Kun Hu et.al.|[2609.05325](https://arxiv.org/abs/2609.05325)|**[link](https://github.com/KJ-Falloutlast/FIRE-LIVWO)**|
+|2026-09-04|FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement|Kun Hu et.al.|[2609.05325](https://arxiv.org/abs/2609.05325)|[link](https://github.com/KJ-Falloutlast/FIRE-LIVWO)|
 |2026-08-31|Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions|Abhay Skaria Thomas et.al.|[2608.30690](https://arxiv.org/abs/2608.30690)|null|
 |2026-08-30|Everybody Tracking Every Body|Daeyun Shin et.al.|[2608.29927](https://arxiv.org/abs/2608.29927)|[link](https://github.com/danderfer/Comp_Sci_Sem_2)|
 |2026-08-29|RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos|Wenting Wang et.al.|[2608.29003](https://arxiv.org/abs/2608.29003)|null|
@@ -99,7 +99,7 @@
 |2026-06-18|A High-accuracy Event-based Underwater SLAM System|Yifan Peng et.al.|[2606.18951](https://arxiv.org/abs/2606.18951)|null|
 |2026-06-17|C-ARC: Continuous-Adaptive Range Clustering for Non-Repetitive LiDAR Sensors|Nick B. Schroeder et.al.|[2606.18948](https://arxiv.org/abs/2606.18948)|null|
 |2026-06-16|RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping|Bingbing Zhang et.al.|[2606.17534](https://arxiv.org/abs/2606.17534)|null|
-|2026-06-15|CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation|Jan-Niklas Klein et.al.|[2606.16935](https://arxiv.org/abs/2606.16935)|null|
+|2026-06-15|CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation|Jan-Niklas Klein et.al.|[2606.16935](https://arxiv.org/abs/2606.16935)|**[link](https://github.com/jniklasklein/crossmaps)**|
 |2026-06-15|SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM|Yewei Huang et.al.|[2606.16881](https://arxiv.org/abs/2606.16881)|null|
 |2026-06-09|Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining|Zhuhua Bai et.al.|[2606.10442](https://arxiv.org/abs/2606.10442)|null|
 |2026-06-08|Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems|Tao Li et.al.|[2606.09477](https://arxiv.org/abs/2606.09477)|null|

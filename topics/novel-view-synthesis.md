@@ -1,6 +1,6 @@
 # Novel View Synthesis
 
-> Updated on 2026.10.16
+> Updated on 2026.10.19
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -16,10 +16,10 @@
 |2026-09-20|LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting|Zhiwei Li et.al.|[2609.23380](https://arxiv.org/abs/2609.23380)|null|
 |2026-09-15|ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis|Weronika Jakubowska et.al.|[2609.17450](https://arxiv.org/abs/2609.17450)|null|
 |2026-09-15|BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation|Philipp Ausserlechner et.al.|[2609.17106](https://arxiv.org/abs/2609.17106)|null|
-|2026-09-15|G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|null|
+|2026-09-15|G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity|Shuo Zhang et.al.|[2609.15018](https://arxiv.org/abs/2609.15018)|**[link](https://github.com/zhangshuoneu/G-ray)**|
 |2026-09-11|NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis|Shaurya Pavan A et.al.|[2609.12682](https://arxiv.org/abs/2609.12682)|null|
-|2026-09-10|3D Point Splatting for mmWave Radar Novel View Synthesis|Adnan Armouti et.al.|[2609.11894](https://arxiv.org/abs/2609.11894)|null|
-|2026-09-10|Gaussian Light Transport|Patrick Attimont et.al.|[2609.11430](https://arxiv.org/abs/2609.11430)|null|
+|2026-09-10|3D Point Splatting for mmWave Radar Novel View Synthesis|Adnan Armouti et.al.|[2609.11894](https://arxiv.org/abs/2609.11894)|**[link](https://github.com/3D-Point-Splatting/3d-point-splatting.github.io)**|
+|2026-09-10|Gaussian Light Transport|Patrick Attimont et.al.|[2609.11430](https://arxiv.org/abs/2609.11430)|**[link](https://github.com/RaymondJiangkw/RadiosityGS)**|
 |2026-09-09|View-Structured Conformal Prediction for 3D Gaussian Splatting|Junzheng Chu et.al.|[2609.10307](https://arxiv.org/abs/2609.10307)|null|
 |2026-09-09|LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting|Donghun Ryu et.al.|[2609.10095](https://arxiv.org/abs/2609.10095)|null|
 |2026-09-14|RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback|Zhihao Cen et.al.|[2609.09828](https://arxiv.org/abs/2609.09828)|null|

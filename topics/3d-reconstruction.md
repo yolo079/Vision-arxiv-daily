@@ -1,6 +1,6 @@
 # 3D Reconstruction
 
-> Updated on 2026.10.16
+> Updated on 2026.10.19
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -211,8 +211,8 @@
 |2026-04-20|Score-Based Matching with Target Guidance for Cryo-EM Denoising|Xiaoqi Wu et.al.|[2604.17734](https://arxiv.org/abs/2604.17734)|null|
 |2026-04-19|HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery|Alexander Saikia et.al.|[2604.17446](https://arxiv.org/abs/2604.17446)|null|
 |2026-04-19|A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models|Yifei Yan et.al.|[2604.17258](https://arxiv.org/abs/2604.17258)|null|
-|2026-04-17|PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems|Weijie Wang et.al.|[2604.16540](https://arxiv.org/abs/2604.16540)|**[link](https://github.com/twowwj/PoInit-of-View)**|
-|2026-04-17|Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction|Haato Watanabe et.al.|[2604.15941](https://arxiv.org/abs/2604.15941)|**[link](https://github.com/haato-w/neural-gabor-splatting)**|
+|2026-04-17|PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems|Weijie Wang et.al.|[2604.16540](https://arxiv.org/abs/2604.16540)|[link](https://github.com/twowwj/PoInit-of-View)|
+|2026-04-17|Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction|Haato Watanabe et.al.|[2604.15941](https://arxiv.org/abs/2604.15941)|[link](https://github.com/haato-w/neural-gabor-splatting)|
 |2026-04-17|Splats in Splats++: Robust and Generalizable 3D Gaussian Splatting Steganography|Yijia Guo et.al.|[2604.15862](https://arxiv.org/abs/2604.15862)|null|
 |2026-04-16|CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture|Giacomo Franchini et.al.|[2604.15052](https://arxiv.org/abs/2604.15052)|null|
 |2026-04-16|M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection|Haotian Wu et.al.|[2604.14574](https://arxiv.org/abs/2604.14574)|null|
@@ -229,8 +229,8 @@
 |2026-04-09|Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction|Tao Xie et.al.|[2604.08542](https://arxiv.org/abs/2604.08542)|null|
 |2026-04-09|Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning|Emanuele Balloni et.al.|[2604.08068](https://arxiv.org/abs/2604.08068)|null|
 |2026-04-09|Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging|Ido Harlev et.al.|[2604.07890](https://arxiv.org/abs/2604.07890)|null|
-|2026-04-08|Fast Spatial Memory with Elastic Test-Time Training|Ziqiao Ma et.al.|[2604.07350](https://arxiv.org/abs/2604.07350)|**[link](https://github.com/Mars-tin/fast-spatial-mem)**|
-|2026-04-08|Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training|Changkun Liu et.al.|[2604.07279](https://arxiv.org/abs/2604.07279)|**[link](https://github.com/lck666666/Mem3R)**|
+|2026-04-08|Fast Spatial Memory with Elastic Test-Time Training|Ziqiao Ma et.al.|[2604.07350](https://arxiv.org/abs/2604.07350)|[link](https://github.com/Mars-tin/fast-spatial-mem)|
+|2026-04-08|Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training|Changkun Liu et.al.|[2604.07279](https://arxiv.org/abs/2604.07279)|[link](https://github.com/lck666666/Mem3R)|
 |2026-04-08|Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning|Jiahua Chen et.al.|[2604.06725](https://arxiv.org/abs/2604.06725)|null|
 |2026-04-07|Human Interaction-Aware 3D Reconstruction from a Single Image|Gwanghyun Kim et.al.|[2604.05436](https://arxiv.org/abs/2604.05436)|null|
 |2026-04-07|3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models|Jae Joong Lee et.al.|[2604.05366](https://arxiv.org/abs/2604.05366)|null|
@@ -262,13 +262,13 @@
 |2026-03-19|MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction|Haitian Li et.al.|[2603.19231](https://arxiv.org/abs/2603.19231)|null|
 |2026-03-19|Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting|Yiren Lu et.al.|[2603.19193](https://arxiv.org/abs/2603.19193)|null|
 |2026-03-19|VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation|Jiayi Yuan et.al.|[2603.18943](https://arxiv.org/abs/2603.18943)|null|
-|2026-03-19|GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting|Ahmed Tawfik Aboukhadra et.al.|[2603.18912](https://arxiv.org/abs/2603.18912)|null|
+|2026-03-19|GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting|Ahmed Tawfik Aboukhadra et.al.|[2603.18912](https://arxiv.org/abs/2603.18912)|**[link](https://github.com/ATAboukhadra/GHOST)**|
 |2026-03-19|SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction|Vsevolod Skorokhodov et.al.|[2603.18774](https://arxiv.org/abs/2603.18774)|null|
 |2026-03-19|SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery|Rong Fu et.al.|[2603.18634](https://arxiv.org/abs/2603.18634)|null|
-|2026-03-19|FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction|Seonghyun Jin et.al.|[2603.18493](https://arxiv.org/abs/2603.18493)|null|
+|2026-03-19|FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction|Seonghyun Jin et.al.|[2603.18493](https://arxiv.org/abs/2603.18493)|**[link](https://github.com/jinotter3/FILT3R)**|
 |2026-03-18|Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction|Devjyoti Chakraborty et.al.|[2603.18306](https://arxiv.org/abs/2603.18306)|null|
 |2026-03-18|TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos|Yan Zeng et.al.|[2603.17735](https://arxiv.org/abs/2603.17735)|null|
-|2026-03-18|PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery|Yijing Guo et.al.|[2603.17571](https://arxiv.org/abs/2603.17571)|null|
+|2026-03-18|PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery|Yijing Guo et.al.|[2603.17571](https://arxiv.org/abs/2603.17571)|**[link](https://github.com/YijingGuo-June/PanoVGGT)**|
 |2026-03-13|Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos|Rohith Peddi et.al.|[2603.13185](https://arxiv.org/abs/2603.13185)|null|
 |2026-03-13|3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting|Jun Liu et.al.|[2603.13049](https://arxiv.org/abs/2603.13049)|null|
 |2026-03-13|CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration|Dongxu Zhang et.al.|[2603.12721](https://arxiv.org/abs/2603.12721)|null|
