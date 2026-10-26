@@ -11,7 +11,7 @@
 |2026-10-15|Rethinking Classifier-Free Guidance for TI2I Flow Matching|Andreas Floros et.al.|[2610.21550](https://arxiv.org/abs/2610.21550)|null|
 |2026-10-15|Semantic Latent Alignment for Flow Matching with Invertible Bi-Lipschitz Adapters|Felix Nützel et.al.|[2610.21332](https://arxiv.org/abs/2610.21332)|null|
 |2026-10-15|FocusOPD: Structure-Guided On-Policy Distillation for Diffusion Models|Xinrui Lin et.al.|[2610.21250](https://arxiv.org/abs/2610.21250)|null|
-|2026-10-15|ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling|Yuang Liu et.al.|[2610.21190](https://arxiv.org/abs/2610.21190)|**[link](https://github.com/I2-Multimedia-Lab/ControlFlow3D)**|
+|2026-10-15|ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling|Yuang Liu et.al.|[2610.21190](https://arxiv.org/abs/2610.21190)|[link](https://github.com/I2-Multimedia-Lab/ControlFlow3D)|
 |2026-10-15|RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching|Liangjing Shao et.al.|[2610.21086](https://arxiv.org/abs/2610.21086)|null|
 |2026-10-14|MIDI-REPA: Improving Text-to-Music Generation with Symbolic Representation Alignment|Song-Ze Yu et.al.|[2610.20967](https://arxiv.org/abs/2610.20967)|null|
 |2026-10-08|Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems|Anna Zimmel et.al.|[2610.12449](https://arxiv.org/abs/2610.12449)|null|
@@ -51,7 +51,7 @@
 |2026-09-24|Depth through recurrence: Looped transformers for flow-matching TTS|Jiabao Ai et.al.|[2609.29768](https://arxiv.org/abs/2609.29768)|null|
 |2026-09-24|Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection|Anbai Jiang et.al.|[2609.29746](https://arxiv.org/abs/2609.29746)|null|
 |2026-09-24|Neural Transport Nested Sampling|David Yallup et.al.|[2609.29413](https://arxiv.org/abs/2609.29413)|null|
-|2026-09-24|Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs|Riccardo Andrea Izzo et.al.|[2609.29382](https://arxiv.org/abs/2609.29382)|**[link](https://github.com/esgi-research-group/ee-vla)**|
+|2026-09-24|Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs|Riccardo Andrea Izzo et.al.|[2609.29382](https://arxiv.org/abs/2609.29382)|[link](https://github.com/esgi-research-group/ee-vla)|
 |2026-09-24|Off-manifold robustness in synthesizer inversion with joint distribution flow matching|Ben Hayes et.al.|[2609.29320](https://arxiv.org/abs/2609.29320)|null|
 |2026-09-24|X-Rec Technical Report|Chenglei Shen et.al.|[2609.29180](https://arxiv.org/abs/2609.29180)|null|
 |2026-09-18| $λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource|Yufeng Wang et.al.|[2609.22041](https://arxiv.org/abs/2609.22041)|null|
@@ -90,7 +90,7 @@
 |2026-08-08|Tropical Cyclone Forecasting via Latent Rectified Flow using Satellite Imagery and Atmospheric Fields|Meheru Zannat et.al.|[2608.08354](https://arxiv.org/abs/2608.08354)|null|
 |2026-08-08|Compositional Cross-Modality Translation via Whole-Volume Multitask Latent Flow Matching|Daniele Molino et.al.|[2608.08135](https://arxiv.org/abs/2608.08135)|null|
 |2026-08-08|VIOLET: High-Fidelity Violin Synthesis with Techniques and Dynamics|Baotong Tian et.al.|[2608.07944](https://arxiv.org/abs/2608.07944)|null|
-|2026-08-07|SimWAM: A Simple World Action Model for End-to-End Autonomous Driving|Zongchuang Zhao et.al.|[2608.07468](https://arxiv.org/abs/2608.07468)|**[link](https://github.com/H-EmbodVis/SimWAM)**|
+|2026-08-07|SimWAM: A Simple World Action Model for End-to-End Autonomous Driving|Zongchuang Zhao et.al.|[2608.07468](https://arxiv.org/abs/2608.07468)|[link](https://github.com/H-EmbodVis/SimWAM)|
 |2026-08-07|FUSE: Feature-Wise Unified Specialization with Cross-Column Exchange for Mixed-Type Tabular Flow Matching|Suman Cha et.al.|[2608.07294](https://arxiv.org/abs/2608.07294)|null|
 |2026-08-07|Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models|Emilien Seiler et.al.|[2608.07199](https://arxiv.org/abs/2608.07199)|null|
 |2026-08-07|Limit Points of Reflow with Minibatch Optimal Transport|Antonin Chambolle et.al.|[2608.07042](https://arxiv.org/abs/2608.07042)|null|

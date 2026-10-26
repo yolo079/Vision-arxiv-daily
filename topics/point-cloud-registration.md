@@ -74,11 +74,11 @@
 |2025-12-29|MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration|Shuyuan Lin et.al.|[2512.23472](https://arxiv.org/abs/2512.23472)|null|
 |2026-01-14|A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection|Qinghan Hu et.al.|[2512.11354](https://arxiv.org/abs/2512.11354)|null|
 |2026-02-14|Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration|Haobo Jiang et.al.|[2512.09407](https://arxiv.org/abs/2512.09407)|null|
-|2025-12-10|FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3) $^N$ Diffusion Refinement|Haobo Jiang et.al.|[2512.09373](https://arxiv.org/abs/2512.09373)|**[link](https://github.com/Jiang-HB/FUSER)**|
+|2025-12-10|FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3) $^N$ Diffusion Refinement|Haobo Jiang et.al.|[2512.09373](https://arxiv.org/abs/2512.09373)|[link](https://github.com/Jiang-HB/FUSER)|
 |2025-12-04|A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs|Qiong Chang et.al.|[2512.04996](https://arxiv.org/abs/2512.04996)|null|
 |2025-12-04|Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
 |2025-12-02|TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction|Fengyi Zhang et.al.|[2512.02341](http://arxiv.org/abs/2512.02341)|null|
-|2025-12-01|Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching|Yue Pan et.al.|[2512.01850](https://arxiv.org/abs/2512.01850)|**[link](https://github.com/PRBonn/RAP)**|
+|2025-12-01|Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching|Yue Pan et.al.|[2512.01850](https://arxiv.org/abs/2512.01850)|[link](https://github.com/PRBonn/RAP)|
 |2025-11-30|LAHNet: Local Attentive Hashing Network for Point Cloud Registration|Wentao Qu et.al.|[2512.00927](https://arxiv.org/abs/2512.00927)|null|
 |2025-12-02|PointCNN++: Performant Convolution on Native Points|Lihan Li et.al.|[2511.23227](https://arxiv.org/abs/2511.23227)|[link](https://github.com/Lihhan/PointCNNpp)|
 |2025-11-28|ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance|Congjia Chen et.al.|[2511.22908](https://arxiv.org/abs/2511.22908)|[link](https://github.com/ccjccjccj/ViGG)|
