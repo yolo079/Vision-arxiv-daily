@@ -18,9 +18,9 @@ title: Flow Matching
     <div class="sidebar-title">Topics</div>
     <a class="sidebar-link" href="point-cloud-registration.html">Point Cloud Registration <span class="sidebar-count">183</span></a>
     <a class="sidebar-link" href="image-matching.html">Image Matching <span class="sidebar-count">212</span></a>
-    <a class="sidebar-link" href="slam.html">SLAM <span class="sidebar-count">406</span></a>
+    <a class="sidebar-link" href="slam.html">SLAM <span class="sidebar-count">409</span></a>
     <a class="sidebar-link" href="3d-reconstruction.html">3D Reconstruction <span class="sidebar-count">552</span></a>
-    <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">136</span></a>
+    <a class="sidebar-link" href="novel-view-synthesis.html">Novel View Synthesis <span class="sidebar-count">146</span></a>
     <a class="sidebar-link" href="visual-localization.html">Visual Localization <span class="sidebar-count">531</span></a>
     <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">58</span></a>
     <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">300</span></a>
