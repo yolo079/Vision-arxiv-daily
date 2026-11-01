@@ -1,9 +1,19 @@
 # World Model
 
-> Updated on 2026.10.31
+> Updated on 2026.11.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637](https://arxiv.org/abs/2610.40637)|null|
+|**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](https://arxiv.org/abs/2610.40614)|null|
+|**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607](https://arxiv.org/abs/2610.40607)|null|
+|**2026-10-29**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[2610.40503](https://arxiv.org/abs/2610.40503)|null|
+|**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401](https://arxiv.org/abs/2610.40401)|null|
+|**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](https://arxiv.org/abs/2610.40373)|null|
+|**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339](https://arxiv.org/abs/2610.40339)|null|
+|**2026-10-29**|**Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement**|Liaoyuan Fan et.al.|[2610.40191](https://arxiv.org/abs/2610.40191)|null|
+|**2026-10-29**|**Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information**|Daniel Strauss et.al.|[2610.40030](https://arxiv.org/abs/2610.40030)|null|
+|**2026-10-29**|**GROME: GROunding Factorized MEmory into Video World Models**|Fang Yu et.al.|[2610.39812](https://arxiv.org/abs/2610.39812)|null|
 |2026-10-08|DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training|Junyan Li et.al.|[2610.12468](https://arxiv.org/abs/2610.12468)|null|
 |2026-10-08|What 30,000 Hours of Ego-centric Video Does Not Teach|Jiahua Dong et.al.|[2610.12464](https://arxiv.org/abs/2610.12464)|[link](https://github.com/fidelity-gap/fidelity-gap.github.io)|
 |2026-10-08|OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs|You-Zhe Xie et.al.|[2610.12461](https://arxiv.org/abs/2610.12461)|[link](https://github.com/youzhe0305/OuroWorld)|

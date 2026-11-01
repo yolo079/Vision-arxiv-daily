@@ -1,9 +1,19 @@
 # Image Matching
 
-> Updated on 2026.10.31
+> Updated on 2026.11.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](https://arxiv.org/abs/2610.40643)|null|
+|**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](https://arxiv.org/abs/2610.40467)|null|
+|**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551](https://arxiv.org/abs/2610.39551)|null|
+|**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](https://arxiv.org/abs/2610.38349)|null|
+|**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058](https://arxiv.org/abs/2610.32058)|null|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](https://arxiv.org/abs/2610.31321)|null|
+|**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875](https://arxiv.org/abs/2610.30875)|null|
+|**2026-10-28**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](https://arxiv.org/abs/2610.30799)|null|
+|**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358](https://arxiv.org/abs/2610.25358)|null|
+|**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020](https://arxiv.org/abs/2610.24020)|null|
 |2026-09-08|RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching|David Nordström et.al.|[2609.09507](https://arxiv.org/abs/2609.09507)|[link](https://github.com/davnords/RoMa-Omega)|
 |2026-09-06|Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features|Ali Rafiaei et.al.|[2609.06726](https://arxiv.org/abs/2609.06726)|[link](https://github.com/ghabbinlic/d322fcd06726b4357b30529404d7925c5b442caa72ddd830c9a3341bb352934cbb0e26096e864502454f2f494e6c9036012c)|
 |2026-09-06|Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching|Yuanxin Ye et.al.|[2609.06343](https://arxiv.org/abs/2609.06343)|null|
