@@ -1,19 +1,19 @@
 # World Model
 
-> Updated on 2026.11.01
+> Updated on 2026.11.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637](https://arxiv.org/abs/2610.40637)|null|
-|**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](https://arxiv.org/abs/2610.40614)|null|
-|**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607](https://arxiv.org/abs/2610.40607)|null|
-|**2026-10-29**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[2610.40503](https://arxiv.org/abs/2610.40503)|null|
-|**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401](https://arxiv.org/abs/2610.40401)|null|
-|**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](https://arxiv.org/abs/2610.40373)|null|
-|**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339](https://arxiv.org/abs/2610.40339)|null|
-|**2026-10-29**|**Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement**|Liaoyuan Fan et.al.|[2610.40191](https://arxiv.org/abs/2610.40191)|null|
-|**2026-10-29**|**Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information**|Daniel Strauss et.al.|[2610.40030](https://arxiv.org/abs/2610.40030)|null|
-|**2026-10-29**|**GROME: GROunding Factorized MEmory into Video World Models**|Fang Yu et.al.|[2610.39812](https://arxiv.org/abs/2610.39812)|null|
+|2026-10-29|world2vec: Mechanistic world models through latent dynamics learning|Tobias Schmidt et.al.|[2610.40637](https://arxiv.org/abs/2610.40637)|null|
+|2026-10-29|L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory|Jinhyeok Choi et.al.|[2610.40614](https://arxiv.org/abs/2610.40614)|null|
+|2026-10-29|Fight World Model: Customizable Combat through Visual Interaction Proxies|Jiahua Li et.al.|[2610.40607](https://arxiv.org/abs/2610.40607)|null|
+|2026-10-29|Algebraic World Model: From Exploration to Proofs|Guancheng Pan et.al.|[2610.40503](https://arxiv.org/abs/2610.40503)|null|
+|2026-10-29|Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors|Liangyu Li et.al.|[2610.40401](https://arxiv.org/abs/2610.40401)|null|
+|2026-10-29|HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model|Rongxing Ding et.al.|[2610.40373](https://arxiv.org/abs/2610.40373)|null|
+|2026-10-29|Wizard: Manipulate Any World in Real Time via Agentic Control|Yuzhe Wu et.al.|[2610.40339](https://arxiv.org/abs/2610.40339)|null|
+|2026-10-29|Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement|Liaoyuan Fan et.al.|[2610.40191](https://arxiv.org/abs/2610.40191)|null|
+|2026-10-29|Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information|Daniel Strauss et.al.|[2610.40030](https://arxiv.org/abs/2610.40030)|null|
+|2026-10-29|GROME: GROunding Factorized MEmory into Video World Models|Fang Yu et.al.|[2610.39812](https://arxiv.org/abs/2610.39812)|null|
 |2026-10-08|DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training|Junyan Li et.al.|[2610.12468](https://arxiv.org/abs/2610.12468)|null|
 |2026-10-08|What 30,000 Hours of Ego-centric Video Does Not Teach|Jiahua Dong et.al.|[2610.12464](https://arxiv.org/abs/2610.12464)|[link](https://github.com/fidelity-gap/fidelity-gap.github.io)|
 |2026-10-08|OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs|You-Zhe Xie et.al.|[2610.12461](https://arxiv.org/abs/2610.12461)|[link](https://github.com/youzhe0305/OuroWorld)|
@@ -254,9 +254,9 @@
 |2026-05-04|Existence, Asymptotic Behavior, and Numerical Analysis of a Generalized Abel Differential Equation with Applications in Financial Modeling|Dragos-Patru Covei et.al.|[2605.02831](https://arxiv.org/abs/2605.02831)|null|
 |2026-05-04|DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation|Danil Tokhchukov et.al.|[2605.02759](https://arxiv.org/abs/2605.02759)|null|
 |2026-05-04|Shadow-Loom: Causal Reasoning over Graphical World Model of Narratives|David Wilmot et.al.|[2605.02475](https://arxiv.org/abs/2605.02475)|null|
-|2026-04-30|HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation|Xin Zhou et.al.|[2604.28196](https://arxiv.org/abs/2604.28196)|null|
+|2026-04-30|HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation|Xin Zhou et.al.|[2604.28196](https://arxiv.org/abs/2604.28196)|**[link](https://github.com/H-EmbodVis/HERMESV2)**|
 |2026-04-30|LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models|Hao Chen et.al.|[2604.28192](https://arxiv.org/abs/2604.28192)|null|
-|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|null|
+|2026-04-30|Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling|Keming Wu et.al.|[2604.28185](https://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
 |2026-04-30|Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces|Andrew Bond et.al.|[2604.28122](https://arxiv.org/abs/2604.28122)|null|
 |2026-04-30|Dreaming Across Towns: Semantic Rollout and Town-Adversarial Regularization for Zero-Shot Held-Out-Town Fixed-Route Driving in CARLA|Feeza Khan Khanzada et.al.|[2604.27994](https://arxiv.org/abs/2604.27994)|null|
 |2026-04-30|GUI Agents with Reinforcement Learning: Toward Digital Inhabitants|Junan Hu et.al.|[2604.27955](https://arxiv.org/abs/2604.27955)|null|
@@ -267,12 +267,12 @@
 |2026-04-23|Seeing Fast and Slow: Learning the Flow of Time in Videos|Yen-Siang Wu et.al.|[2604.21931](https://arxiv.org/abs/2604.21931)|[link](https://github.com/regerah/Seeing-Fast-And-Slow-Learning)|
 |2026-04-23|Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions|Jiseon Kim et.al.|[2604.21871](https://arxiv.org/abs/2604.21871)|null|
 |2026-04-23|Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training|Yaxuan Li et.al.|[2604.21741](https://arxiv.org/abs/2604.21741)|null|
-|2026-04-22|Building a Precise Video Language with Human-AI Oversight|Zhiqiu Lin et.al.|[2604.21718](https://arxiv.org/abs/2604.21718)|null|
+|2026-04-22|Building a Precise Video Language with Human-AI Oversight|Zhiqiu Lin et.al.|[2604.21718](https://arxiv.org/abs/2604.21718)|**[link](https://github.com/chancharikmitra/CHAI)**|
 |2026-04-23|WorldMark: A Unified Benchmark Suite for Interactive Video World Models|Xiaojie Xu et.al.|[2604.21686](https://arxiv.org/abs/2604.21686)|[link](https://github.com/alaya-studio/WorldMark)|
 |2026-04-22|Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction|Abhishek Dharmaratnakar et.al.|[2604.21154](https://arxiv.org/abs/2604.21154)|null|
 |2026-04-22|Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics|Open-H-Embodiment Consortium et.al.|[2604.21017](https://arxiv.org/abs/2604.21017)|null|
-|2026-04-22|DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation|Hyeonwoo Kim et.al.|[2604.20841](https://arxiv.org/abs/2604.20841)|null|
-|2026-04-22|Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning|Aravind Venugopal et.al.|[2604.20627](https://arxiv.org/abs/2604.20627)|null|
+|2026-04-22|DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation|Hyeonwoo Kim et.al.|[2604.20841](https://arxiv.org/abs/2604.20841)|**[link](https://github.com/snuvclab/devi)**|
+|2026-04-22|Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning|Aravind Venugopal et.al.|[2604.20627](https://arxiv.org/abs/2604.20627)|**[link](https://github.com/aravindvenu7/occupancy_reward_shaping)**|
 |2026-04-22|CCTVBench: Contrastive Consistency Traffic VideoQA Benchmark for Multimodal LLMs|Xingcheng Zhou et.al.|[2604.20460](https://arxiv.org/abs/2604.20460)|null|
 |2026-04-20|Sonata: A Hybrid World Model for Inertial Kinematics under Clinical Data Scarcity|Blaise Delaney et.al.|[2604.18058](https://arxiv.org/abs/2604.18058)|null|
 |2026-04-20|The Umwelt Representation Hypothesis: Rethinking Universality|Victoria Bosch et.al.|[2604.17960](https://arxiv.org/abs/2604.17960)|null|

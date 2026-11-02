@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.11.01
+> Updated on 2026.11.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](https://arxiv.org/abs/2610.37111)|null|
-|**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642](https://arxiv.org/abs/2610.35642)|null|
-|**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](https://arxiv.org/abs/2610.33413)|null|
-|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](https://arxiv.org/abs/2610.32976)|**[link](https://github.com/cvg/FlexGlue)**|
-|**2026-10-23**|**Guided Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring: Context, Categorization, and Spatial Localization**|Mulugeta Weldezgina Asres et.al.|[2610.32073](https://arxiv.org/abs/2610.32073)|**[link](https://github.com/muleina/XAVAD)**|
-|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](https://arxiv.org/abs/2610.31321)|null|
-|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](https://arxiv.org/abs/2610.27522)|null|
-|**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110](https://arxiv.org/abs/2610.27110)|null|
-|**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[2610.26729](https://arxiv.org/abs/2610.26729)|null|
-|**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358](https://arxiv.org/abs/2610.25358)|null|
+|2026-10-27|RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty|Xinyi Chen et.al.|[2610.37111](https://arxiv.org/abs/2610.37111)|null|
+|2026-10-26|VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains|Richard Fechner et.al.|[2610.35642](https://arxiv.org/abs/2610.35642)|null|
+|2026-10-24|AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos|Yuesheng Huang et.al.|[2610.33413](https://arxiv.org/abs/2610.33413)|null|
+|2026-10-23|FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation|Philipp Lindenberger et.al.|[2610.32976](https://arxiv.org/abs/2610.32976)|[link](https://github.com/cvg/FlexGlue)|
+|2026-10-23|Guided Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring: Context, Categorization, and Spatial Localization|Mulugeta Weldezgina Asres et.al.|[2610.32073](https://arxiv.org/abs/2610.32073)|[link](https://github.com/muleina/XAVAD)|
+|2026-10-22|MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model|Xinyang Lu et.al.|[2610.31321](https://arxiv.org/abs/2610.31321)|null|
+|2026-10-20|OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras|Zhuo Yu et.al.|[2610.27522](https://arxiv.org/abs/2610.27522)|null|
+|2026-10-19|MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching|Oussema Dhaouadi et.al.|[2610.27110](https://arxiv.org/abs/2610.27110)|null|
+|2026-10-19|PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes|Oussema Dhaouadi et.al.|[2610.26729](https://arxiv.org/abs/2610.26729)|null|
+|2026-10-18|LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization|Mohammad Omama et.al.|[2610.25358](https://arxiv.org/abs/2610.25358)|null|
 |2026-10-08|Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps|Panagiotis Kiousis et.al.|[2610.11967](https://arxiv.org/abs/2610.11967)|null|
 |2026-10-08|SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image|Jiarui Zeng et.al.|[2610.11049](https://arxiv.org/abs/2610.11049)|null|
 |2026-10-07|Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition*|Václav Truhlařík et.al.|[2610.09631](https://arxiv.org/abs/2610.09631)|null|
@@ -320,8 +320,8 @@
 |2025-11-19|HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation|Linyin Luo et.al.|[2511.15435](http://arxiv.org/abs/2511.15435)|null|
 |2025-11-19|The Empowerment of Science of Science by Large Language Models: New Tools and Methods|Guoqiang Liang et.al.|[2511.15370](http://arxiv.org/abs/2511.15370)|null|
 |2025-11-19|C2F-Space: Coarse-to-Fine Space Grounding for Spatial Instructions using Vision-Language Models|Nayoung Oh et.al.|[2511.15333](http://arxiv.org/abs/2511.15333)|null|
-|2025-11-19|Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval|Qing Wang et.al.|[2511.15201](http://arxiv.org/abs/2511.15201)|null|
-|2025-11-19|Unbiased Semantic Decoding with Vision Foundation Models for Few-shot Segmentation|Jin Wang et.al.|[2511.15118](http://arxiv.org/abs/2511.15118)|null|
+|2025-11-19|Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval|Qing Wang et.al.|[2511.15201](http://arxiv.org/abs/2511.15201)|**[link](https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval)**|
+|2025-11-19|Unbiased Semantic Decoding with Vision Foundation Models for Few-shot Segmentation|Jin Wang et.al.|[2511.15118](http://arxiv.org/abs/2511.15118)|**[link](https://github.com/vangjin/USD)**|
 |2025-11-07|Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments|Laura Alejandra Encinar Gonzalez et.al.|[2511.05404](http://arxiv.org/abs/2511.05404)|null|
 |2025-11-07|DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval|Yawei Cai et.al.|[2511.05020](http://arxiv.org/abs/2511.05020)|null|
 |2025-11-06|Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA|Itbaan Safwan et.al.|[2511.04384](http://arxiv.org/abs/2511.04384)|null|

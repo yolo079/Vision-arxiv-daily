@@ -1,19 +1,19 @@
 # Point Cloud Registration
 
-> Updated on 2026.11.01
+> Updated on 2026.11.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161](https://arxiv.org/abs/2610.39161)|null|
-|**2026-10-27**|**An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery**|Emmanuel Ajaero et.al.|[2610.37271](https://arxiv.org/abs/2610.37271)|null|
-|**2026-10-27**|**SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration**|Tomoyasu Shimada et.al.|[2610.36658](https://arxiv.org/abs/2610.36658)|null|
-|**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271](https://arxiv.org/abs/2610.34271)|**[link](https://github.com/sunghoon031/TLP)**|
-|**2026-10-20**|**Register Anything Model for Generalizable and Robust Point Cloud Registration**|Zheng Qin et.al.|[2610.28821](https://arxiv.org/abs/2610.28821)|**[link](https://github.com/qinzheng93/RegisterAnything)**|
-|**2026-10-19**|**On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration**|Abolfazl Babanazari et.al.|[2610.27275](https://arxiv.org/abs/2610.27275)|null|
-|**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552](https://arxiv.org/abs/2610.22552)|null|
-|**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086](https://arxiv.org/abs/2610.21086)|null|
-|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](https://arxiv.org/abs/2610.12624)|null|
-|**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612](https://arxiv.org/abs/2610.11612)|null|
+|2026-10-29|Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans|Eli A. Underwood et.al.|[2610.39161](https://arxiv.org/abs/2610.39161)|null|
+|2026-10-27|An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery|Emmanuel Ajaero et.al.|[2610.37271](https://arxiv.org/abs/2610.37271)|null|
+|2026-10-27|SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration|Tomoyasu Shimada et.al.|[2610.36658](https://arxiv.org/abs/2610.36658)|null|
+|2026-10-25|Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions|Seong Hun Lee et.al.|[2610.34271](https://arxiv.org/abs/2610.34271)|[link](https://github.com/sunghoon031/TLP)|
+|2026-10-20|Register Anything Model for Generalizable and Robust Point Cloud Registration|Zheng Qin et.al.|[2610.28821](https://arxiv.org/abs/2610.28821)|[link](https://github.com/qinzheng93/RegisterAnything)|
+|2026-10-19|On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration|Abolfazl Babanazari et.al.|[2610.27275](https://arxiv.org/abs/2610.27275)|null|
+|2026-10-15|RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar|Jan Steckel et.al.|[2610.22552](https://arxiv.org/abs/2610.22552)|null|
+|2026-10-15|RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching|Liangjing Shao et.al.|[2610.21086](https://arxiv.org/abs/2610.21086)|null|
+|2026-10-08|MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers|Jiuming Liu et.al.|[2610.12624](https://arxiv.org/abs/2610.12624)|null|
+|2026-10-08|PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors|Haobo Jiang et.al.|[2610.11612](https://arxiv.org/abs/2610.11612)|null|
 |2026-09-16|Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration|Zhixin Cheng et.al.|[2609.18088](https://arxiv.org/abs/2609.18088)|null|
 |2026-09-16|PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap|Valen Yamamoto et.al.|[2609.18082](https://arxiv.org/abs/2609.18082)|null|
 |2026-09-14|Unsupervised Point Cloud Registration via Training-Time Semantic Guidance|Kezheng Xiong et.al.|[2609.15228](https://arxiv.org/abs/2609.15228)|null|
@@ -139,7 +139,7 @@
 |2025-09-16|DisorientLiDAR: Physical Attacks on LiDAR-based Localization|Yizhen Lao et.al.|[2509.12595](http://arxiv.org/abs/2509.12595)|null|
 |2025-09-10|iMatcher: Improve matching in point cloud registration via local-to-global geometric consistency learning|Karim Slimani et.al.|[2509.08982](http://arxiv.org/abs/2509.08982)|null|
 |2025-09-10|Unidimensional semi-discrete partial optimal transport|Adrien Cances et.al.|[2509.08799](http://arxiv.org/abs/2509.08799)|null|
-|2025-09-08|A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling|Meher V. R. Malladi et.al.|[2509.06593](http://arxiv.org/abs/2509.06593)|null|
+|2025-09-08|A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling|Meher V. R. Malladi et.al.|[2509.06593](http://arxiv.org/abs/2509.06593)|**[link](https://github.com/PRBonn/rko_lio)**|
 |2025-09-08|Cross3DReg: Towards a Large-scale Real-world Cross-source Point Cloud Registration Benchmark|Zongyi Xu et.al.|[2509.06456](http://arxiv.org/abs/2509.06456)|null|
 |2025-09-08|DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration|Xiangcheng Hu et.al.|[2509.06285](http://arxiv.org/abs/2509.06285)|null|
 |2025-09-02|Doctoral Thesis: Geometric Deep Learning For Camera Pose Prediction, Registration, Depth Estimation, and 3D Reconstruction|Xueyang Kang et.al.|[2509.01873](http://arxiv.org/abs/2509.01873)|null|
