@@ -1,19 +1,19 @@
 # Visual Localization
 
-> Updated on 2026.11.06
+> Updated on 2026.11.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](https://arxiv.org/abs/2611.08136)|null|
-|**2026-11-04**|**UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation**|Jingwen Yu et.al.|[2611.06378](https://arxiv.org/abs/2611.06378)|null|
-|**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](https://arxiv.org/abs/2611.05286)|null|
-|**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](https://arxiv.org/abs/2611.05084)|null|
-|**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932](https://arxiv.org/abs/2611.03932)|null|
-|**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098](https://arxiv.org/abs/2611.03098)|null|
-|**2026-11-01**|**Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport**|Lan Chen et.al.|[2611.01558](https://arxiv.org/abs/2611.01558)|null|
-|**2026-10-31**|**LoD-Loc v4: Towards Generalized Aerial Visual Localization via Panoptic LoD 3D Map Registration**|Shuaibang Peng et.al.|[2611.00704](https://arxiv.org/abs/2611.00704)|null|
-|**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833](https://arxiv.org/abs/2610.41833)|null|
-|**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373](https://arxiv.org/abs/2610.41373)|null|
+|2026-11-05|How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels|Hyojun Yi et.al.|[2611.08136](https://arxiv.org/abs/2611.08136)|null|
+|2026-11-04|UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation|Jingwen Yu et.al.|[2611.06378](https://arxiv.org/abs/2611.06378)|null|
+|2026-11-03|Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models|Mostafa Kira et.al.|[2611.05286](https://arxiv.org/abs/2611.05286)|null|
+|2026-11-03|Sparse Anchors for Visual Multi-Session Registration in Changing Environments|Yunus Talha Erzurumlu et.al.|[2611.05084](https://arxiv.org/abs/2611.05084)|null|
+|2026-11-02|CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching|Robert J. Wang et.al.|[2611.03932](https://arxiv.org/abs/2611.03932)|null|
+|2026-11-02|Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models|Jaemin Cho et.al.|[2611.03098](https://arxiv.org/abs/2611.03098)|null|
+|2026-11-01|Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport|Lan Chen et.al.|[2611.01558](https://arxiv.org/abs/2611.01558)|null|
+|2026-10-31|LoD-Loc v4: Towards Generalized Aerial Visual Localization via Panoptic LoD 3D Map Registration|Shuaibang Peng et.al.|[2611.00704](https://arxiv.org/abs/2611.00704)|null|
+|2026-10-30|PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization|Hanqiao Ye et.al.|[2610.41833](https://arxiv.org/abs/2610.41833)|null|
+|2026-10-30|Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization|Tianyu Xiong et.al.|[2610.41373](https://arxiv.org/abs/2610.41373)|null|
 |2026-10-27|RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty|Xinyi Chen et.al.|[2610.37111](https://arxiv.org/abs/2610.37111)|null|
 |2026-10-26|VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains|Richard Fechner et.al.|[2610.35642](https://arxiv.org/abs/2610.35642)|null|
 |2026-10-24|AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos|Yuesheng Huang et.al.|[2610.33413](https://arxiv.org/abs/2610.33413)|null|
@@ -330,8 +330,8 @@
 |2025-11-19|HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation|Linyin Luo et.al.|[2511.15435](http://arxiv.org/abs/2511.15435)|null|
 |2025-11-19|The Empowerment of Science of Science by Large Language Models: New Tools and Methods|Guoqiang Liang et.al.|[2511.15370](http://arxiv.org/abs/2511.15370)|null|
 |2025-11-19|C2F-Space: Coarse-to-Fine Space Grounding for Spatial Instructions using Vision-Language Models|Nayoung Oh et.al.|[2511.15333](http://arxiv.org/abs/2511.15333)|null|
-|2025-11-19|Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval|Qing Wang et.al.|[2511.15201](http://arxiv.org/abs/2511.15201)|**[link](https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval)**|
-|2025-11-19|Unbiased Semantic Decoding with Vision Foundation Models for Few-shot Segmentation|Jin Wang et.al.|[2511.15118](http://arxiv.org/abs/2511.15118)|**[link](https://github.com/vangjin/USD)**|
+|2025-11-19|Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval|Qing Wang et.al.|[2511.15201](http://arxiv.org/abs/2511.15201)|[link](https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval)|
+|2025-11-19|Unbiased Semantic Decoding with Vision Foundation Models for Few-shot Segmentation|Jin Wang et.al.|[2511.15118](http://arxiv.org/abs/2511.15118)|[link](https://github.com/vangjin/USD)|
 |2025-11-07|Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments|Laura Alejandra Encinar Gonzalez et.al.|[2511.05404](http://arxiv.org/abs/2511.05404)|null|
 |2025-11-07|DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval|Yawei Cai et.al.|[2511.05020](http://arxiv.org/abs/2511.05020)|null|
 |2025-11-06|Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA|Itbaan Safwan et.al.|[2511.04384](http://arxiv.org/abs/2511.04384)|null|
@@ -465,7 +465,7 @@
 |2025-06-06|GenIR: Generative Visual Feedback for Mental Image Retrieval|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |2025-06-06|Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
 |2025-06-05|HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
-|2025-06-05|Deep Learning Reforms Image Matching: A Survey and Outlook|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
+|2025-06-05|Deep Learning Reforms Image Matching: A Survey and Outlook|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|**[link](https://github.com/ZizhuoLi/awesome-image-matching-survey)**|
 |2025-06-02|Entity Image and Mixed-Modal Image Retrieval Datasets|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
 |2025-06-01|Quantization-based Bounds on the Wasserstein Metric|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |2025-05-30|SORCE: Small Object Retrieval in Complex Environments|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|[link](https://github.com/mcg-nju/sorce)|

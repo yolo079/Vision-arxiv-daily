@@ -1,19 +1,19 @@
 # Flow Matching
 
-> Updated on 2026.11.06
+> Updated on 2026.11.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](https://arxiv.org/abs/2611.08458)|null|
-|**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[2611.08338](https://arxiv.org/abs/2611.08338)|null|
-|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295](https://arxiv.org/abs/2611.08295)|null|
-|**2026-11-05**|**FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching**|Zeping Zhang et.al.|[2611.08128](https://arxiv.org/abs/2611.08128)|null|
-|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111](https://arxiv.org/abs/2611.08111)|null|
-|**2026-11-05**|**Route-DMD: Distribution Matching Distillation with Task-Routed Mechanism for Speech Foundation Models**|Yanru Huo et.al.|[2611.08011](https://arxiv.org/abs/2611.08011)|null|
-|**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Jiahao Cui et.al.|[2611.07939](https://arxiv.org/abs/2611.07939)|null|
-|**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Chaitanya Dumbre et.al.|[2611.07826](https://arxiv.org/abs/2611.07826)|null|
-|**2026-11-05**|**Physics-informed latent conditional flow matching for generative modeling of granular flows on inclined planes**|Ziqi Han et.al.|[2611.07458](https://arxiv.org/abs/2611.07458)|null|
-|**2026-11-04**|**A Night at the LLM Zoo: Data Conditioned Flow Matching for Generating Pretrained LLM Weights**|Scott Biggs et.al.|[2611.07103](https://arxiv.org/abs/2611.07103)|null|
+|2026-11-05|Latent RL Priors for Data-Efficient Dexterous Manipulation|Yixiao Wang et.al.|[2611.08458](https://arxiv.org/abs/2611.08458)|null|
+|2026-11-05|GPWM: Modeling the World as 3D Particle Motion|Robert Ren et.al.|[2611.08338](https://arxiv.org/abs/2611.08338)|null|
+|2026-11-05|Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation|Gabriel Parra et.al.|[2611.08295](https://arxiv.org/abs/2611.08295)|null|
+|2026-11-05|FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching|Zeping Zhang et.al.|[2611.08128](https://arxiv.org/abs/2611.08128)|null|
+|2026-11-05|Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model|Zihao Zhang et.al.|[2611.08111](https://arxiv.org/abs/2611.08111)|null|
+|2026-11-05|Route-DMD: Distribution Matching Distillation with Task-Routed Mechanism for Speech Foundation Models|Yanru Huo et.al.|[2611.08011](https://arxiv.org/abs/2611.08011)|null|
+|2026-11-05|WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation|Jiahao Cui et.al.|[2611.07939](https://arxiv.org/abs/2611.07939)|null|
+|2026-11-05|Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse|Chaitanya Dumbre et.al.|[2611.07826](https://arxiv.org/abs/2611.07826)|null|
+|2026-11-05|Physics-informed latent conditional flow matching for generative modeling of granular flows on inclined planes|Ziqi Han et.al.|[2611.07458](https://arxiv.org/abs/2611.07458)|null|
+|2026-11-04|A Night at the LLM Zoo: Data Conditioned Flow Matching for Generating Pretrained LLM Weights|Scott Biggs et.al.|[2611.07103](https://arxiv.org/abs/2611.07103)|null|
 |2026-10-29|Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers|Jiongfan Yang et.al.|[2610.40647](https://arxiv.org/abs/2610.40647)|null|
 |2026-10-29|Learning developmental dynamics from lineage context|Gokul Gowri et.al.|[2610.40447](https://arxiv.org/abs/2610.40447)|null|
 |2026-10-29|Framework-Conditional Open Materials Generation|Maya M. Martirossyan et.al.|[2610.40443](https://arxiv.org/abs/2610.40443)|null|
@@ -203,7 +203,7 @@
 |2026-06-18|Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow|Liting Gao et.al.|[2606.20101](https://arxiv.org/abs/2606.20101)|null|
 |2026-06-18|Site-Specific MIMO Channel Generation via Diffusion and Flow Matching: Fidelity, Efficiency, and Downstream Utility|Sina Beyraghi et.al.|[2606.20098](https://arxiv.org/abs/2606.20098)|[link](https://github.com/Telefonica-Scientific-Research/GenAI_Channel_Modeling)|
 |2026-06-18|Residual-Space Evolutionary Optimization via Flow-based Generative Models|Zhuo Cao et.al.|[2606.20084](https://arxiv.org/abs/2606.20084)|null|
-|2026-06-18|Time-Unconditional Generative Speech Enhancement via Autonomous Rectified Flow|Wen Zhang et.al.|[2606.20001](https://arxiv.org/abs/2606.20001)|**[link](https://github.com/SpeechLab-HDU/ARFSE)**|
+|2026-06-18|Time-Unconditional Generative Speech Enhancement via Autonomous Rectified Flow|Wen Zhang et.al.|[2606.20001](https://arxiv.org/abs/2606.20001)|[link](https://github.com/SpeechLab-HDU/ARFSE)|
 |2026-06-12|Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech|Alef Iury Siqueira Ferreira et.al.|[2606.13989](https://arxiv.org/abs/2606.13989)|null|
 |2026-06-11|Avatar V: Scaling Video-Reference Avatar Video Generation|Benjamin Liang et.al.|[2606.13872](https://arxiv.org/abs/2606.13872)|null|
 |2026-06-12|Improving Robotic Generalist Policies via Flow Reversal Steering|Andy Tang et.al.|[2606.13675](https://arxiv.org/abs/2606.13675)|null|

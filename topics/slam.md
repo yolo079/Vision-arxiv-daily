@@ -1,19 +1,19 @@
 # SLAM
 
-> Updated on 2026.11.06
+> Updated on 2026.11.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100](https://arxiv.org/abs/2611.08100)|null|
-|**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](https://arxiv.org/abs/2611.07463)|null|
-|**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](https://arxiv.org/abs/2611.06308)|null|
-|**2026-11-03**|**Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use**|Bo Ma et.al.|[2611.04397](https://arxiv.org/abs/2611.04397)|null|
-|**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](https://arxiv.org/abs/2611.04358)|null|
-|**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932](https://arxiv.org/abs/2611.03932)|null|
-|**2026-11-02**|**A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots**|Chuan Huang et.al.|[2611.03106](https://arxiv.org/abs/2611.03106)|null|
-|**2026-11-01**|**UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics**|Xingyuan Ding et.al.|[2611.02051](https://arxiv.org/abs/2611.02051)|null|
-|**2026-11-01**|**Spade-SLAM: Sparse Correspondence Anchors for Dense Self-Supervised Visual SLAM**|Julian Philipp Schmitt et.al.|[2611.01937](https://arxiv.org/abs/2611.01937)|null|
-|**2026-11-01**|**GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State**|Sicheng Yu et.al.|[2611.01543](https://arxiv.org/abs/2611.01543)|null|
+|2026-11-05|An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers|Iaroslav Kolomiets et.al.|[2611.08100](https://arxiv.org/abs/2611.08100)|null|
+|2026-11-05|FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry|Reon Tabata et.al.|[2611.07463](https://arxiv.org/abs/2611.07463)|null|
+|2026-11-04|Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM|Ziyi Jin et.al.|[2611.06308](https://arxiv.org/abs/2611.06308)|null|
+|2026-11-03|Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use|Bo Ma et.al.|[2611.04397](https://arxiv.org/abs/2611.04397)|null|
+|2026-11-03|EndoS3:Endoscopic Semantic Splatting SLAM|Mona Sheikh Zeinoddin et.al.|[2611.04358](https://arxiv.org/abs/2611.04358)|null|
+|2026-11-02|CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching|Robert J. Wang et.al.|[2611.03932](https://arxiv.org/abs/2611.03932)|null|
+|2026-11-02|A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots|Chuan Huang et.al.|[2611.03106](https://arxiv.org/abs/2611.03106)|null|
+|2026-11-01|UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics|Xingyuan Ding et.al.|[2611.02051](https://arxiv.org/abs/2611.02051)|null|
+|2026-11-01|Spade-SLAM: Sparse Correspondence Anchors for Dense Self-Supervised Visual SLAM|Julian Philipp Schmitt et.al.|[2611.01937](https://arxiv.org/abs/2611.01937)|null|
+|2026-11-01|GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State|Sicheng Yu et.al.|[2611.01543](https://arxiv.org/abs/2611.01543)|null|
 |2026-10-29|Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition|Wenhui Feng et.al.|[2610.39691](https://arxiv.org/abs/2610.39691)|null|
 |2026-10-29|UMI-Live for In-The-Wild Bimanual Robotics Data Collection|Govind Velamoor et.al.|[2610.39385](https://arxiv.org/abs/2610.39385)|null|
 |2026-10-28|SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites|Hogyun Kim et.al.|[2610.38141](https://arxiv.org/abs/2610.38141)|null|
@@ -410,7 +410,7 @@
 |2025-03-24|GI-SLAM: Gaussian-Inertial SLAM|Xulang Liu et.al.|[2503.18275](http://arxiv.org/abs/2503.18275)|null|
 |2025-03-22|LightLoc: Learning Outdoor LiDAR Localization at Light Speed|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|[link](https://github.com/liw95/lightloc)|
 |2025-03-21|Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
-|2025-03-20|4D Gaussian Splatting SLAM|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|null|
+|2025-03-20|4D Gaussian Splatting SLAM|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|**[link](https://github.com/wangys16/Flow4DGS-SLAM)**|
 |2025-03-20|Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education|Giovanni Adorni et.al.|[2503.16307](http://arxiv.org/abs/2503.16307)|null|
 |2025-03-20|Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |2025-03-19|A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems|Anna Masiero et.al.|[2503.15286](http://arxiv.org/abs/2503.15286)|null|
