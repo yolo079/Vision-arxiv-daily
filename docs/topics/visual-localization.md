@@ -24,7 +24,7 @@ title: Visual Localization
     <a class="sidebar-link active" href="visual-localization.html">Visual Localization <span class="sidebar-count">551</span></a>
     <a class="sidebar-link" href="3d-localization.html">3D Localization <span class="sidebar-count">63</span></a>
     <a class="sidebar-link" href="world-model.html">World Model <span class="sidebar-count">320</span></a>
-    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">342</span></a>
+    <a class="sidebar-link" href="flow-matching.html">Flow Matching <span class="sidebar-count">352</span></a>
   </nav>
   <section class="reader-list">
     <div class="list-header"><h2>Visual Localization</h2><span>551 papers</span></div>
