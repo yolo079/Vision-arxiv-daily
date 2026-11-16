@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](https://arxiv.org/abs/2611.10241)|null|
-|**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717](https://arxiv.org/abs/2611.09717)|null|
-|**2026-11-05**|**Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis**|Abhijith Shaji et.al.|[2611.08771](https://arxiv.org/abs/2611.08771)|null|
-|**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352](https://arxiv.org/abs/2611.08352)|**[link](https://github.com/tohnperfect/USBGym)**|
-|**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](https://arxiv.org/abs/2611.07677)|**[link](https://github.com/Pierreoo/GEKey)**|
-|**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](https://arxiv.org/abs/2611.05084)|null|
-|**2026-11-03**|**Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps**|Nafie El Amrani et.al.|[2611.05083](https://arxiv.org/abs/2611.05083)|null|
-|**2026-11-01**|**Accurate automated photo-identification of Near Eastern and European fire salamanders**|Maayan Yesharim et.al.|[2611.01601](https://arxiv.org/abs/2611.01601)|null|
-|**2026-10-30**|**A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability**|George Stamatelis et.al.|[2611.00159](https://arxiv.org/abs/2611.00159)|null|
-|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](https://arxiv.org/abs/2610.40643)|null|
+|2026-11-06|OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception|Quanyun Wu et.al.|[2611.10241](https://arxiv.org/abs/2611.10241)|null|
+|2026-11-06|Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation|Pruthvi Nandan Janga et.al.|[2611.09717](https://arxiv.org/abs/2611.09717)|null|
+|2026-11-05|Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis|Abhijith Shaji et.al.|[2611.08771](https://arxiv.org/abs/2611.08771)|null|
+|2026-11-05|USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching|Thanapong Intharah et.al.|[2611.08352](https://arxiv.org/abs/2611.08352)|[link](https://github.com/tohnperfect/USBGym)|
+|2026-11-05|GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision|Pierre Onghena et.al.|[2611.07677](https://arxiv.org/abs/2611.07677)|[link](https://github.com/Pierreoo/GEKey)|
+|2026-11-03|Sparse Anchors for Visual Multi-Session Registration in Changing Environments|Yunus Talha Erzurumlu et.al.|[2611.05084](https://arxiv.org/abs/2611.05084)|null|
+|2026-11-03|Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps|Nafie El Amrani et.al.|[2611.05083](https://arxiv.org/abs/2611.05083)|null|
+|2026-11-01|Accurate automated photo-identification of Near Eastern and European fire salamanders|Maayan Yesharim et.al.|[2611.01601](https://arxiv.org/abs/2611.01601)|null|
+|2026-10-30|A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability|George Stamatelis et.al.|[2611.00159](https://arxiv.org/abs/2611.00159)|null|
+|2026-10-29|Luggage re-identification: A study of strategies towards a real-world application|Quentin Dhôte et.al.|[2610.40643](https://arxiv.org/abs/2610.40643)|null|
 |2026-10-29|InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation|Zhipeng Hui et.al.|[2610.40467](https://arxiv.org/abs/2610.40467)|null|
 |2026-10-29|Comprehensive empirical evaluation of feature extractors in computer vision|Murat Isik et.al.|[2610.39551](https://arxiv.org/abs/2610.39551)|null|
 |2026-10-28|Aligning Misaligned Benchmarks for Single-View Novel View Synthesis|Yang-Che Tseng et.al.|[2610.38349](https://arxiv.org/abs/2610.38349)|null|
@@ -215,7 +215,7 @@
 |2025-04-22|To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)|
 |2025-04-10|Learning Affine Correspondences by Integrating Geometric Constraints|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|[link](https://github.com/stilcrad/denseaffine)|
 |2025-04-01|Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
-|2025-03-31|CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|**[link](https://github.com/ZizhuoLi/CoMatch)**|
+|2025-03-31|CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|[link](https://github.com/ZizhuoLi/CoMatch)|
 |2025-03-28|Pairwise Matching of Intermediate Representations for Fine-grained Explainability|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|[link](https://github.com/pairx-explains/pairx)|
 |2025-03-26|Multimodal Image Matching based on Frequency-domain Information of Local Energy Response|Meng Yang et.al.|[2503.20827](http://arxiv.org/abs/2503.20827)|null|
 |2025-03-22|Normalized Matching Transformer|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|[link](https://github.com/apollos1301/normmatchtrans)|

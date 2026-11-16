@@ -465,7 +465,7 @@
 |2025-06-06|GenIR: Generative Visual Feedback for Mental Image Retrieval|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |2025-06-06|Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
 |2025-06-05|HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
-|2025-06-05|Deep Learning Reforms Image Matching: A Survey and Outlook|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|**[link](https://github.com/ZizhuoLi/awesome-image-matching-survey)**|
+|2025-06-05|Deep Learning Reforms Image Matching: A Survey and Outlook|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|[link](https://github.com/ZizhuoLi/awesome-image-matching-survey)|
 |2025-06-02|Entity Image and Mixed-Modal Image Retrieval Datasets|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
 |2025-06-01|Quantization-based Bounds on the Wasserstein Metric|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |2025-05-30|SORCE: Small Object Retrieval in Complex Environments|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|[link](https://github.com/mcg-nju/sorce)|

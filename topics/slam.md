@@ -410,7 +410,7 @@
 |2025-03-24|GI-SLAM: Gaussian-Inertial SLAM|Xulang Liu et.al.|[2503.18275](http://arxiv.org/abs/2503.18275)|null|
 |2025-03-22|LightLoc: Learning Outdoor LiDAR Localization at Light Speed|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|[link](https://github.com/liw95/lightloc)|
 |2025-03-21|Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
-|2025-03-20|4D Gaussian Splatting SLAM|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|**[link](https://github.com/wangys16/Flow4DGS-SLAM)**|
+|2025-03-20|4D Gaussian Splatting SLAM|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|[link](https://github.com/wangys16/Flow4DGS-SLAM)|
 |2025-03-20|Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education|Giovanni Adorni et.al.|[2503.16307](http://arxiv.org/abs/2503.16307)|null|
 |2025-03-20|Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |2025-03-19|A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems|Anna Masiero et.al.|[2503.15286](http://arxiv.org/abs/2503.15286)|null|

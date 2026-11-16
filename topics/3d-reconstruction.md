@@ -48,8 +48,8 @@
 |2026-09-03|Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations|Denis M. Akola et.al.|[2609.04174](https://arxiv.org/abs/2609.04174)|null|
 |2026-09-03|ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation|Javier del Pino et.al.|[2609.03756](https://arxiv.org/abs/2609.03756)|null|
 |2026-09-03|Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations|Onat Şahin et.al.|[2609.03657](https://arxiv.org/abs/2609.03657)|null|
-|2026-09-03|Stabilizing Camera-Controlled Novel View Synthesis at Inference Time|Prajwal Singh et.al.|[2609.03639](https://arxiv.org/abs/2609.03639)|**[link](https://github.com/prajwalsingh/CamTrolpp)**|
-|2026-09-03|TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates|Theo Morales et.al.|[2609.03534](https://arxiv.org/abs/2609.03534)|**[link](https://github.com/DubiousCactus/trunc-grad-gs)**|
+|2026-09-03|Stabilizing Camera-Controlled Novel View Synthesis at Inference Time|Prajwal Singh et.al.|[2609.03639](https://arxiv.org/abs/2609.03639)|[link](https://github.com/prajwalsingh/CamTrolpp)|
+|2026-09-03|TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates|Theo Morales et.al.|[2609.03534](https://arxiv.org/abs/2609.03534)|[link](https://github.com/DubiousCactus/trunc-grad-gs)|
 |2026-09-03|STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction|Bocheng Li et.al.|[2609.03447](https://arxiv.org/abs/2609.03447)|null|
 |2026-09-03|AnyGS2Mesh: Feed-Forward Mesh Reconstruction from 3D Gaussian Splatting with Arbitrary-Resolution Views|Yuxuan Song et.al.|[2609.03304](https://arxiv.org/abs/2609.03304)|null|
 |2026-09-02|Benchmarking RAW and RGB Restoration in Image Signal Processors|Zihao Lu et.al.|[2609.02831](https://arxiv.org/abs/2609.02831)|null|
@@ -102,7 +102,7 @@
 |2026-06-23|OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis|Chenrui Fan et.al.|[2606.24799](https://arxiv.org/abs/2606.24799)|null|
 |2026-06-23|Design criteria for a beam-driven resonant passive transverse deflector for longitudinal beam diagnostics|D. Bazyl et.al.|[2606.24594](https://arxiv.org/abs/2606.24594)|null|
 |2026-06-23|UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance|Yinuo Zhang et.al.|[2606.24282](https://arxiv.org/abs/2606.24282)|null|
-|2026-06-23|3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis|Hongli Xiao et.al.|[2606.24257](https://arxiv.org/abs/2606.24257)|**[link](https://github.com/HongliXiao/3dcargen.github.io)**|
+|2026-06-23|3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis|Hongli Xiao et.al.|[2606.24257](https://arxiv.org/abs/2606.24257)|[link](https://github.com/HongliXiao/3dcargen.github.io)|
 |2026-06-23|FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image|Kim Youwang et.al.|[2606.24232](https://arxiv.org/abs/2606.24232)|null|
 |2026-06-18|Towards 3D karst underwater scene reconstruction from rotating sonar data|Georgios Evangelos Margaritis et.al.|[2606.20322](https://arxiv.org/abs/2606.20322)|null|
 |2026-06-18|SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision|Jiayu Tang et.al.|[2606.19915](https://arxiv.org/abs/2606.19915)|null|
@@ -217,7 +217,7 @@
 |2026-04-27|Large-Scale Photogrammetric Documentation of St. John's Co-Cathedral: A Workflow for Cultural Heritage Preservation|Matthew Kenely et.al.|[2604.24316](https://arxiv.org/abs/2604.24316)|null|
 |2026-04-26|Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction|Jan Warchocki et.al.|[2604.23803](https://arxiv.org/abs/2604.23803)|null|
 |2026-04-23|CuRast: Cuda-Based Software Rasterization for Billions of Triangles|Markus Schütz et.al.|[2604.21749](https://arxiv.org/abs/2604.21749)|null|
-|2026-04-22|GeoRect4D: Geometry-Compatible Generative Rectification for Dynamic Sparse-View 3D Reconstruction|Zhenlong Wu et.al.|[2604.20784](https://arxiv.org/abs/2604.20784)|**[link](https://github.com/MediaX-SJTU/GeoRect4D)**|
+|2026-04-22|GeoRect4D: Geometry-Compatible Generative Rectification for Dynamic Sparse-View 3D Reconstruction|Zhenlong Wu et.al.|[2604.20784](https://arxiv.org/abs/2604.20784)|[link](https://github.com/MediaX-SJTU/GeoRect4D)|
 |2026-04-21|FluSplat: Sparse-View 3D Editing without Test-Time Optimization|Haitao Huang et.al.|[2604.20038](https://arxiv.org/abs/2604.20038)|null|
 |2026-04-21|UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video|Tanuj Sur et.al.|[2604.19923](https://arxiv.org/abs/2604.19923)|null|
 |2026-04-21|AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model|Yutian Chen et.al.|[2604.19747](https://arxiv.org/abs/2604.19747)|[link](https://github.com/OpenImagingLab/AnyRecon)|

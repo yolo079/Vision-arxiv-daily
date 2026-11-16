@@ -4,16 +4,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Yifan Jin et.al.|[2611.18458](https://arxiv.org/abs/2611.18458)|null|
-|**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Kate Duffy et.al.|[2611.18393](https://arxiv.org/abs/2611.18393)|null|
-|**2026-11-13**|**Toward Universal Translatability: On the Statistical Ontology of Generative AI**|Katia Schwerzmann et.al.|[2611.17963](https://arxiv.org/abs/2611.17963)|null|
-|**2026-11-13**|**V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations**|Keuntae Kim et.al.|[2611.17831](https://arxiv.org/abs/2611.17831)|null|
-|**2026-11-13**|**CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation**|Md Omar Faruque et.al.|[2611.17785](https://arxiv.org/abs/2611.17785)|null|
-|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yu Zhou et.al.|[2611.17775](https://arxiv.org/abs/2611.17775)|null|
-|**2026-11-13**|**Joint World Action Models through Differentiable Trajectory Optimization**|Mintae Kim et.al.|[2611.17626](https://arxiv.org/abs/2611.17626)|null|
-|**2026-11-12**|**Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum**|Konstantinos Mylonas et.al.|[2611.17529](https://arxiv.org/abs/2611.17529)|null|
-|**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](https://arxiv.org/abs/2611.17336)|null|
-|**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](https://arxiv.org/abs/2611.17324)|null|
+|2026-11-13|When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support|Yifan Jin et.al.|[2611.18458](https://arxiv.org/abs/2611.18458)|null|
+|2026-11-13|WeatherDreamer: Learning a World Model from Multimodal Earth Observations|Kate Duffy et.al.|[2611.18393](https://arxiv.org/abs/2611.18393)|null|
+|2026-11-13|Toward Universal Translatability: On the Statistical Ontology of Generative AI|Katia Schwerzmann et.al.|[2611.17963](https://arxiv.org/abs/2611.17963)|null|
+|2026-11-13|V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations|Keuntae Kim et.al.|[2611.17831](https://arxiv.org/abs/2611.17831)|null|
+|2026-11-13|CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation|Md Omar Faruque et.al.|[2611.17785](https://arxiv.org/abs/2611.17785)|null|
+|2026-11-13|Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models|Yu Zhou et.al.|[2611.17775](https://arxiv.org/abs/2611.17775)|null|
+|2026-11-13|Joint World Action Models through Differentiable Trajectory Optimization|Mintae Kim et.al.|[2611.17626](https://arxiv.org/abs/2611.17626)|null|
+|2026-11-12|Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum|Konstantinos Mylonas et.al.|[2611.17529](https://arxiv.org/abs/2611.17529)|null|
+|2026-11-12|Back to Pixels: Lifting Latent Video Diffusion into Pixel Space|Yanke Song et.al.|[2611.17336](https://arxiv.org/abs/2611.17336)|null|
+|2026-11-12|K2V: Generative Keyframing For Physically Plausible Video Generation|Felix O'Mahony et.al.|[2611.17324](https://arxiv.org/abs/2611.17324)|null|
 |2026-11-05|Learning a patient world model for health system simulation in intensive care|Yingtai Li et.al.|[2611.08392](https://arxiv.org/abs/2611.08392)|null|
 |2026-11-05|GPWM: Modeling the World as 3D Particle Motion|Robert Ren et.al.|[2611.08338](https://arxiv.org/abs/2611.08338)|null|
 |2026-11-05|La-JEPA: Compact Robot Policies with Latent World Modeling|Mateo Clémente et.al.|[2611.08156](https://arxiv.org/abs/2611.08156)|null|
@@ -45,11 +45,11 @@
 |2026-10-08|LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild|Linkai Liu et.al.|[2610.12368](https://arxiv.org/abs/2610.12368)|[link](https://github.com/litenwm/LiteNWM)|
 |2026-10-08|RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning|Ruixiang Ouyang et.al.|[2610.12333](https://arxiv.org/abs/2610.12333)|null|
 |2026-10-05|TAPDreamer: Transferable Adversarial Patches for World Action Models|Xuanyu Lu et.al.|[2610.06814](https://arxiv.org/abs/2610.06814)|null|
-|2026-10-05|H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning|Wancong Zhang et.al.|[2610.06805](https://arxiv.org/abs/2610.06805)|**[link](https://github.com/slcnvly/hjepa-reproduction)**|
+|2026-10-05|H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning|Wancong Zhang et.al.|[2610.06805](https://arxiv.org/abs/2610.06805)|[link](https://github.com/slcnvly/hjepa-reproduction)|
 |2026-10-05|ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections|Xiaoyu Zhou et.al.|[2610.06687](https://arxiv.org/abs/2610.06687)|null|
 |2026-10-05|Considering Context: When World Models Need Context Encoders|Oleg Smirnov et.al.|[2610.06651](https://arxiv.org/abs/2610.06651)|null|
 |2026-10-05|Long-Horizon Textual World Modeling through Structured Reasoning|Fangxin Wang et.al.|[2610.06637](https://arxiv.org/abs/2610.06637)|null|
-|2026-10-05|SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models|Xiaodong Wang et.al.|[2610.06598](https://arxiv.org/abs/2610.06598)|**[link](https://github.com/Wang-Xiaodong1899/SimForcing)**|
+|2026-10-05|SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models|Xiaodong Wang et.al.|[2610.06598](https://arxiv.org/abs/2610.06598)|[link](https://github.com/Wang-Xiaodong1899/SimForcing)|
 |2026-10-05|Mind the Execution Gap: Action-Semantic Mismatch in World-Model Control|Shengtao Wen et.al.|[2610.06582](https://arxiv.org/abs/2610.06582)|null|
 |2026-10-05|KineWorld: Action-Induced Transport Fields for Embodied World Modeling|Ziying Song et.al.|[2610.06349](https://arxiv.org/abs/2610.06349)|[link](https://github.com/modaxiansheng/KineWorld)|
 |2026-10-05|Generative World Models Enable Predictive Control of Laser Melt Pool Dynamics|Yiyang Yan et.al.|[2610.06250](https://arxiv.org/abs/2610.06250)|null|
@@ -136,9 +136,9 @@
 |2026-07-30|World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models|Xiangcheng Zhang et.al.|[2607.27599](https://arxiv.org/abs/2607.27599)|null|
 |2026-07-20|FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications|Krish Agarwal et.al.|[2607.18171](https://arxiv.org/abs/2607.18171)|null|
 |2026-07-20|SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning|Letian Cheng et.al.|[2607.17973](https://arxiv.org/abs/2607.17973)|null|
-|2026-07-20|Mobile Network Control with a World Model|Maxime Bouton et.al.|[2607.17747](https://arxiv.org/abs/2607.17747)|null|
+|2026-07-20|Mobile Network Control with a World Model|Maxime Bouton et.al.|[2607.17747](https://arxiv.org/abs/2607.17747)|**[link](https://github.com/jettbrains/-L-)**|
 |2026-07-20|Planning with Transformers: Chain of Computation and Structured Context Windows|Ehsan Futuhi et.al.|[2607.17710](https://arxiv.org/abs/2607.17710)|null|
-|2026-07-20|ShotPlan: Cinematic Video Generation with Learnable Planning Token|Su Guo et.al.|[2607.17675](https://arxiv.org/abs/2607.17675)|null|
+|2026-07-20|ShotPlan: Cinematic Video Generation with Learnable Planning Token|Su Guo et.al.|[2607.17675](https://arxiv.org/abs/2607.17675)|**[link](https://github.com/Pensioner-11/ShotPlan)**|
 |2026-07-20|Attention from Above: A Multimodal Model for Drone-Based Object Localization|Hyun-Ki Jung et.al.|[2607.17669](https://arxiv.org/abs/2607.17669)|null|
 |2026-07-20|Reinforcement Learning: From Algorithms To Foundation Models|Zihan Ding et.al.|[2607.17560](https://arxiv.org/abs/2607.17560)|null|
 |2026-07-20|Thinking in Video: Can Video Generators Really Reason About the Real World?|Yongheng Zhang et.al.|[2607.17523](https://arxiv.org/abs/2607.17523)|null|
